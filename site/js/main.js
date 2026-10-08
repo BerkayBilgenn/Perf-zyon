@@ -41,7 +41,9 @@ function persistSeen() {
   const f = filter;
   const current = feed;
   persistTimer = setTimeout(() => {
-    if (current) store.set(`seen:${f}`, current.seenIds);
+    if (!current) return;
+    store.set(`seen:${f}`, current.seenIds);
+    store.set(`carry:${f}`, current.carryIds);
   }, 500);
 }
 
@@ -72,6 +74,7 @@ const handlers = {
 };
 
 function onActive(record) {
+  feed?.markShown(record.card.id);
   store.set(`current:${filter}`, record.card.id);
   persistSeen();
 }
@@ -97,7 +100,11 @@ function startFeed() {
     return;
   }
   ui.hideEmpty();
-  feed = new Feed(cards, { seen: asArray(store.get(`seen:${filter}`)), startWith: store.get(`current:${filter}`) });
+  feed = new Feed(cards, {
+    seen: asArray(store.get(`seen:${filter}`)),
+    carry: asArray(store.get(`carry:${filter}`)),
+    startWith: store.get(`current:${filter}`),
+  });
   viewer = createViewer({ root: ui.feedEl, feed, handlers, onActive, onComplete });
   viewer.start();
 }
@@ -132,10 +139,10 @@ function copyFlags(items) {
   const text = ['“Hatalı olabilir” dediğim kartlar:', ...items.map((f) => `- ${f.label} [${f.id}]`)].join('\n');
   const fallback = () => {
     ui.showCopyFallback(text);
-    ui.toast('Metni seçtim, kopyalayıp gönderebilirsin.');
+    ui.copyFeedback('Metni seçtim, kopyalayabilirsin');
   };
   try {
-    navigator.clipboard.writeText(text).then(() => ui.toast('Liste kopyalandı 📋'), fallback);
+    navigator.clipboard.writeText(text).then(() => ui.copyFeedback('Kopyalandı ✓'), fallback);
   } catch {
     fallback();
   }
@@ -152,6 +159,7 @@ function resetProgress() {
   saveProgress();
   for (const f of ['all', 'saved', ...COURSES.map((c) => c.code)]) {
     store.remove(`seen:${f}`);
+    store.remove(`carry:${f}`);
     store.remove(`current:${f}`);
   }
   ui.setProgress(progress);
@@ -197,8 +205,7 @@ async function load() {
   if (filter !== 'all' && filter !== 'saved' && !allCards.some((c) => c.course === filter)) filter = 'all';
   startFeed();
   if (!store.get('hintSeen', false)) {
-    ui.showHint();
-    ui.toast('Her kart +1, doğru cevap +2, yanlış −1 puan. 50 puanda bir Gofrikli latte! ☕');
+    ui.showHint(() => ui.toast('Her kart +1, doğru cevap +2, yanlış −1 puan. 50 puanda bir Gofrikli latte! ☕'));
     store.set('hintSeen', true);
   }
 }

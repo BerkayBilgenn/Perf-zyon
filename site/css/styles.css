@@ -604,6 +604,7 @@ button { font: inherit; color: inherit; }
   font-weight: 700;
   text-align: center;
   transform: translateX(-50%);
+  pointer-events: none; /* bildirim kaydırmayı yutmasın */
 }
 .toast.is-in { animation: toast-in 0.25s ease; }
 @keyframes toast-in { from { transform: translate(-50%, 12px); opacity: 0; } }

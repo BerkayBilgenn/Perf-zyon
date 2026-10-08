@@ -51,34 +51,51 @@ export function spreadOut(list, history = []) {
 export class Feed {
   #rng;
   #byId;
-  #seen;
+  #shown; // bu turda ekranda gösterilen kartlar; önden yüklenip görülmeyenler sayılmaz
+  #servedIds = new Set(); // bu turda sunulan (ekrana gelmiş ya da önden yüklenmiş) kartlar
+  #carry; // önceki turdan gösterilmeden kalan kartlar; sonraki oturumda ilk sırada gelir
   #queue;
   #pending = [];
   #reshown = new Map();
   #history = [];
   #served = 0;
 
-  constructor(cards, { rng = Math.random, seen = [], startWith = null } = {}) {
+  constructor(cards, { rng = Math.random, seen = [], carry = [], startWith = null } = {}) {
     this.cards = cards;
     this.#rng = rng;
     this.#byId = new Map(cards.map((c) => [c.id, c]));
-    this.#seen = new Set(seen.filter((id) => this.#byId.has(id)));
-    this.#queue = this.#order(cards.filter((c) => !this.#seen.has(c.id)));
+    this.#shown = new Set(seen.filter((id) => this.#byId.has(id)));
+    this.#carry = new Set(carry.filter((id) => this.#byId.has(id) && !this.#shown.has(id)));
+    const rest = cards.filter((c) => !this.#shown.has(c.id) && !this.#carry.has(c.id));
+    this.#queue = [...[...this.#carry].map((id) => this.#byId.get(id)), ...this.#order(rest)];
     if (startWith && this.#byId.has(startWith)) {
       this.#queue = [this.#byId.get(startWith), ...this.#queue.filter((c) => c.id !== startWith)];
     }
   }
 
   get size() { return this.cards.length; }
-  get seenIds() { return [...this.#seen]; }
+  get seenIds() { return [...this.#shown]; }
+  get carryIds() { return [...this.#carry]; }
+
+  // Görüntüleyici kart ekrana gelince çağırır. Kaydedilen "görülenler" listesi yalnızca bunlardan oluşur.
+  markShown(id) {
+    if (!this.#byId.has(id)) return;
+    this.#shown.add(id);
+    this.#carry.delete(id);
+  }
 
   #order(list) {
     return spreadOut(weightedShuffle(list, this.#rng), this.#history);
   }
 
+  // Önden yükleme yüzünden tur, son kartlar ekrana gelmeden biter. Gösterilmeden kalanlar devreder:
+  // yeni turun sırasına girmez (zaten ekranın hemen altındadır), oturum kapanırsa sonraki oturumda ilk gelir.
   #newCycle() {
-    this.#seen.clear();
-    const queue = this.#order(this.cards);
+    this.#carry = new Set([...this.#servedIds].filter((id) => !this.#shown.has(id)));
+    this.#shown.clear();
+    this.#servedIds.clear();
+    const fresh = this.cards.filter((c) => !this.#carry.has(c.id));
+    const queue = this.#order(fresh.length ? fresh : this.cards);
     const last = this.#history[this.#history.length - 1];
     if (queue.length > 1 && last && queue[0].id === last.id) [queue[0], queue[1]] = [queue[1], queue[0]];
     this.#queue = queue;
@@ -95,7 +112,7 @@ export class Feed {
     } else {
       if (!this.#queue.length) this.#newCycle();
       card = this.#queue.shift();
-      this.#seen.add(card.id);
+      this.#servedIds.add(card.id);
     }
     this.#served += 1;
     this.#history.push(card);

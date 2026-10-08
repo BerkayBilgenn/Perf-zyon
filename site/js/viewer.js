@@ -7,12 +7,14 @@ import { renderCard } from './render.js';
 export const DWELL_MS = 2000;
 export const AHEAD = 4;
 export const KEEP = 12;
+export const IDLE_MS = 150;
 
 export function createViewer({ root, feed, handlers, onActive, onComplete, dwellMs = DWELL_MS }) {
   const records = [];
   const slides = [];
   let active = -1;
   let timer = 0;
+  let idleTimer = 0;
 
   // Puan: okunan kart +1, doğru cevap +2, yanlış cevap −1. Akıştaki bir kart yalnızca bir kez puan verir.
   function complete(record, points = POINTS.view) {
@@ -58,25 +60,49 @@ export function createViewer({ root, feed, handlers, onActive, onComplete, dwell
     if (slide && !slide.firstChild) slide.append(renderCard(records[i], wrapped));
   }
 
+  // Kaydırma sürerken DOM değişirse WebKit (iPhone Safari) yeniden hizalanıp bir kart atlıyor.
+  // Bu yüzden görünür kart değişince yalnızca sayaç ve kayıt güncellenir; slayt ekleme, kart çizme ve
+  // uzaktakileri boşaltma işi kaydırma durunca (scrollend ya da son kaydırmadan 150 ms sonra) yapılır.
+  function settle() {
+    idleTimer = 0;
+    if (active < 0) return;
+    if (slides.length - 1 - active < AHEAD) append(AHEAD);
+    for (let j = active - 2; j <= active + 3; j++) ensure(j);
+    slides.forEach((s, j) => {
+      if (Math.abs(j - active) > KEEP && s.firstChild) s.replaceChildren();
+    });
+  }
+
+  function scheduleSettle() {
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(settle, IDLE_MS);
+  }
+
+  const onScroll = () => {
+    if (idleTimer) scheduleSettle();
+  };
+  const onScrollEnd = () => {
+    if (!idleTimer) return;
+    clearTimeout(idleTimer);
+    settle();
+  };
+  root.addEventListener('scroll', onScroll, { passive: true });
+  root.addEventListener('scrollend', onScrollEnd);
+
   function setActive(i) {
     if (i === active || !records[i]) return;
     active = i;
     clearTimeout(timer);
-    if (slides.length - 1 - i < AHEAD) append(AHEAD);
-    for (let j = i - 2; j <= i + 2; j++) ensure(j);
-    slides.forEach((s, j) => {
-      if (Math.abs(j - i) > KEEP && s.firstChild) s.replaceChildren();
-    });
     const record = records[i];
     if (!record.completed && completesByDwell(record)) timer = setTimeout(() => complete(record), dwellMs);
     onActive?.(record, i);
+    scheduleSettle();
   }
 
   return {
     start() {
       append(AHEAD + 1);
-      ensure(0);
-      ensure(1);
+      for (let j = 0; j <= 3; j++) ensure(j);
       root.scrollTop = 0;
     },
     step(dir) {
@@ -87,6 +113,9 @@ export function createViewer({ root, feed, handlers, onActive, onComplete, dwell
     },
     destroy() {
       clearTimeout(timer);
+      clearTimeout(idleTimer);
+      root.removeEventListener('scroll', onScroll);
+      root.removeEventListener('scrollend', onScrollEnd);
       observer.disconnect();
       root.replaceChildren();
       root.scrollTop = 0;

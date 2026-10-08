@@ -460,13 +460,27 @@ Derleme çıktısı örneği:
 | PER247 | tamam (190 KB) | 0 | başlanmadı |
 
 **Hazır olanlar:**
-- Site kodu tamam ve test edildi (53 test). Kapsadığı özellikler:
+- Site kodu tamam ve test edildi (57 test). Kapsadığı özellikler:
   - kaydırmalı akış ve 7 kart türü
   - puan sistemi ve Gofrikli latte kutlaması
   - ders filtresi ve kaydedilenler
   - "Hatalı olabilir" listesi
   - açık ve koyu tema
 - Altı dersin araştırma dosyaları tamam. Hepsi İGÜ'nün resmî ders sayfalarındaki haftalık konulara dayanıyor.
+
+**Site kodunda bilinen küçük sorunlar** (bağımsız kod incelemesinden; içerik işini etkilemez, ama derleme kuralı için 9. maddeye dikkat):
+
+1. Kaldığın kart, uygulama her açıldığında yeniden puan veriyor (aynı test tekrar cevaplanırsa +2).
+2. 320 px genişlikte bir ders seçiliyken üst barda "27/50" ile latte rozeti çakışıyor.
+3. Uzun bir kartta "Cevabı gör" sonrası cevap görünür alanın altında kalabiliyor.
+4. Bir ders dosyası hiç cevap vermezse yükleme ekranı takılı kalıyor (zaman aşımı yok).
+5. Elle bozulmuş kart verisi slaytları boş bırakabiliyor (yüklemede türe göre doğrulama yok).
+6. Artifact sürümünde `lang="tr"` düşüyor.
+7. Hap bilgi ya da doğru/yanlış kartının metni düzeltilince kartın kimliği değişiyor; öğrencinin kaydettikleri ve işaretleri o kart için kaybolur.
+8. Koyu temada telefonun tarayıcı çubuğu pembe kalıyor.
+9. Bir dersin derlemesi hata verirse eski `site/data/<DERS>.json` dosyası sessizce kalır. **Yayından önce bütün derslerin hatasız derlendiğini kontrol et.**
+
+Kaydırma WebKit'te (iPhone Safari'nin motoru) masaüstünde doğrulandı. Gerçek bir iPhone'da 20 kart kaydırarak ayrıca denenmesi önerilir.
 
 **İlgili belgeler:**
 - Tasarım: `docs/superpowers/specs/2026-10-08-perfuzyon-reels-design.md`
