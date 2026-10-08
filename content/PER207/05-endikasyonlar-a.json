@@ -1,0 +1,165 @@
+{
+  "topic": "Endikasyonlar, skorlar ve ECPR",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "ECPR",
+      "en": "Extracorporeal cardiopulmonary resuscitation",
+      "definition": "Konvansiyonel KPR başarısız olduğunda, KPR sürerken ECMO başlatılması; ECMO akımı resüsitasyonun parçası olur.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mekanik dolaşım desteği",
+      "en": "Mechanical circulatory support",
+      "definition": "Dolaşımı destekleyen cihazların genel adı (İABP, Impella, TandemHeart, ECMO, VAD, TAH).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İyileşmeye köprü",
+      "en": "Bridge to recovery (BTR)",
+      "definition": "Organ fonksiyonu düzelene kadar geçici destek.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Karara köprü",
+      "en": "Bridge to decision (BTD)",
+      "definition": "Prognoz veya nakil adaylığı netleşene kadar destek.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Transplantasyona köprü",
+      "en": "Bridge to transplant (BTT)",
+      "definition": "Uygun organ bulunana kadar destek.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Adaylığa köprü",
+      "en": "Bridge to candidacy (BTC)",
+      "definition": "Hastayı nakil adayı olabilecek duruma getirmek için destek.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kalıcı cihaza köprü",
+      "en": "Bridge to destination / bridge to bridge",
+      "definition": "Kısa süreli destekten uzun süreli cihaza geçişe kadar destek.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Destinasyon tedavisi",
+      "en": "Destination therapy (DT)",
+      "definition": "Kalp nakli adayı olmayan hastada uzun süreli mekanik dolaşım desteğinin kalıcı tedavi olarak kullanılması.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Futilite",
+      "en": "Futility",
+      "definition": "Anlamlı iyileşme ya da organ replasmanına ulaşma beklentisinin kalmaması. ECMO desteğinin amacı ve sürdürülmesi ekip tarafından yeniden değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Postkardiyotomi şoku",
+      "en": "Postcardiotomy cardiogenic shock",
+      "definition": "Kalp cerrahisi sonrası KPB'den ayrılamama veya ağır düşük debi.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyojenik şok",
+      "en": "Cardiogenic shock",
+      "definition": "Kalbin yeterli sistemik akım sağlayamamasına bağlı uç organ hipoperfüzyonu ve dolaşım yetersizliği.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ARDS",
+      "en": "Acute respiratory distress syndrome",
+      "definition": "Akut, yaygın inflamatuvar akciğer hasarı ve hipoksemi; ağır formunda VV ECMO düşünülür.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hiperkapni",
+      "en": "Hypercapnia",
+      "definition": "Arteriyel kandaki karbondioksit parsiyel basıncının yükselmesi.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hipoksemi",
+      "en": "Hypoxemia",
+      "definition": "Arteriyel kanda oksijenin düşük olması.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PaO2/FiO2 oranı",
+      "en": "P/F ratio",
+      "definition": "Arteriyel oksijen parsiyel basıncının solunan oksijen fraksiyonuna bölünmesiyle elde edilen oksijenasyon göstergesi.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Murray skoru",
+      "en": "Lung Injury Score",
+      "definition": "Akciğer grafisi, oksijenasyon, PEEP ve statik kompliyansı birlikte değerlendiren akciğer hasarı skoru.",
+      "source": "Murray 1988"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "RESP skoru",
+      "en": "RESP score",
+      "definition": "VV ECMO başlanan hastada sağkalımı öngören skor.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "SAVE skoru",
+      "en": "SAVE score",
+      "definition": "Kardiyojenik şokta VA ECMO sağkalımını öngören ELSO kayıt kaynaklı skor (postkardiyotomide geçersiz).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "No-flow süresi",
+      "en": "No-flow interval",
+      "definition": "Kardiyak arrestin başlaması ile göğüs kompresyonlarının başlaması arasında dolaşım desteğinin olmadığı süre.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Low-flow süresi",
+      "en": "Low-flow interval",
+      "definition": "KPR’nin başlaması ile etkin ECMO dolaşımının kurulması arasında düşük akımlı resüsitasyon dönemi.",
+      "source": "ELSO ECPR 2021"
+    }
+  ]
+}

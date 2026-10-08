@@ -9,17 +9,17 @@ Bu belge, ilk içerik dalgasından sonra kalan kart üretiminin kapsamını ve t
 | Ders | Hazır kart | Konu | Sonraki hedef |
 | --- | ---: | ---: | ---: |
 | PER141 | 510 | 18 | Bakım ve yeni doğrulama turu |
-| PER207 | 102 | 7 | En az 450, hedef yaklaşık 500 |
+| PER207 | 309 | 17 | En az 450, hedef yaklaşık 500 |
 | PER241 | 524 | 16 | Bakım ve yeni doğrulama turu |
 | PER243 | 562 | 16 | Bakım ve yeni doğrulama turu |
 | PER245 | 0 | 0 | En az 450, hedef yaklaşık 500 |
 | PER247 | 0 | 0 | En az 450, hedef yaklaşık 500 |
 
-Bu push ile 1.698 kartlık mevcut derlenmiş içerik korunur. Tüm dersler hedefe geldiğinde toplamın 3.000 kartı geçmesi beklenir.
+Bu ara yayında toplam 1.905 kart bulunur. PER207 terimlerinin yazar kaynak kontrolü kaydedilmiştir; dersin tür dağılımı ve bağımsız son incelemesi henüz tamamlanmamıştır. Tüm dersler hedefe geldiğinde toplamın 3.000 kartı geçmesi beklenir.
 
 ## Kalan kapsam
 
-1. PER207’nin 8–17 numaralı konularını tamamla; mevcut 102 karta en az 348 kart ekleyerek ders alt sınırını aş, yaklaşık 500 karta ulaş.
+1. PER207’nin 17 konusundaki 209 terim kartını koruyarak bilgi, açık uçlu soru, test, doğru/yanlış ve karşılaştırma dağılımını tamamla; mevcut 309 karta en az 141 kart ekleyerek alt sınırı aş, yaklaşık 500 karta ulaş.
 2. PER245 Yetişkin Perfüzyon I için araştırma başlıklarını konu dosyalarına dönüştür; her konuya terim, bilgi, flip, çoktan seçmeli, doğru/yanlış, unutma ve karşılaştırma kartları ekle.
 3. PER247 Sterilizasyon ve Cerrahi Asepsi için aynı kart dağılımını ve kaynak izini uygula.
 4. Her ders için `content/<DERS>/_dogrulama-a.md`, `-b.md`, `-c.md` kayıtlarını güncelle; kart numarası, kaynak, doğrulama notu ve yapılan düzeltme izlenebilir olsun.

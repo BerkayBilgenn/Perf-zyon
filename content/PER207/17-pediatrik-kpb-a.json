@@ -1,0 +1,69 @@
+{
+  "topic": "Pediatrik kalp cerrahisinde KPB",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DHCA",
+      "en": "Deep hypothermic circulatory arrest",
+      "definition": "Derin hipotermiyle metabolik gereksinim azaltıldıktan sonra dolaşımın cerrahi amaçla geçici olarak tamamen durdurulması.",
+      "source": "Frontiers in Pediatrics 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "SACP",
+      "en": "Selective antegrade cerebral perfusion",
+      "definition": "Dolaşım arresti sırasında beynin innominat/karotis yoluyla antegrad perfüzyonu.",
+      "source": "Frontiers in Pediatrics 2016"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "pH-stat",
+      "en": "pH-stat",
+      "definition": "Hipotermide sıcaklığa göre düzeltilmiş PaCO2'yi normal tutmak için CO2 ekleme stratejisi; serebral akımı artırır.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Alfa-stat",
+      "en": "Alpha-stat",
+      "definition": "Kan gazlarının 37 °C'de ölçülen (düzeltilmemiş) değerlerine göre yönetimi; CO2 eklenmez.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "MUF",
+      "en": "Modified ultrafiltration",
+      "definition": "KPB bitince aortik kanülden alınan kanın hemofiltreden geçirilip hastaya verilmesi; Hct ve proteinleri artırır.",
+      "source": "Naik–Elliott, MUF 1995"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Konvansiyonel ultrafiltrasyon",
+      "en": "Conventional ultrafiltration",
+      "definition": "KPB sırasında devredeki fazla sıvının hemofiltreyle uzaklaştırılması.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "del Nido kardiyoplejisi",
+      "en": "del Nido cardioplegia",
+      "definition": "Kan ve kristalloid bileşenleri birleştiren, pediatrik kalp cerrahisi için geliştirilmiş kardiyopleji solüsyonu; sık kullanılan formülünde kristalloid ağırlığı fazladır.",
+      "source": "Boston del Nido protokolü 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kan prime hacmi oranı",
+      "en": "Prime-to-blood-volume ratio",
+      "definition": "Devreyi dolduran sıvı hacminin hastanın kan hacmine oranı; küçük hastada hemodilüsyonun boyutunu belirlemeye yardım eder.",
+      "source": "Pediatrik devre çalışması 2018"
+    }
+  ]
+}

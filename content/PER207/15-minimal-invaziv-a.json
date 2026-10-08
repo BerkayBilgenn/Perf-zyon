@@ -1,0 +1,61 @@
+{
+  "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Minimal invaziv kalp cerrahisi",
+      "en": "Minimally invasive cardiac surgery",
+      "definition": "Tam sternotomi yerine küçük insizyonlarla (ör. mini-torakotomi) yapılan kalp cerrahisi.",
+      "source": "Modi, retrograd perfüzyon 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "VAVD",
+      "en": "Vacuum-assisted venous drainage",
+      "definition": "Kapalı venöz rezervuara kontrollü vakum uygulayarak venöz dönüşü artırma.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd arteriyel perfüzyon",
+      "en": "Retrograde arterial perfusion",
+      "definition": "Femoral arterden aorta boyunca ters yönde perfüzyon.",
+      "source": "Modi, retrograd perfüzyon 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Endoaortik balon oklüzyonu",
+      "en": "Endoaortic balloon occlusion",
+      "definition": "Çıkan aortun içten balonla tıkanması; kardiyopleji, kök venti ve basınç ölçümü aynı kateterden.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Transtorasik aort klempi",
+      "en": "Transthoracic aortic clamp",
+      "definition": "Ayrı küçük göğüs girişinden yerleştirilen aort kros-klempi (ör. Chitwood).",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "MiECC",
+      "en": "Minimal invasive extracorporeal circulation",
+      "definition": "Kapalı, kaplı, düşük prime hacimli, santrifüj pompalı ve venöz hava tuzaklı KPB stratejisi.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz kabarcık tuzağı",
+      "en": "Venous bubble trap",
+      "definition": "Kapalı devrede venöz hattaki havayı ayıran ve MiECC Tip II'nin asgari şartı olan bileşen.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    }
+  ]
+}

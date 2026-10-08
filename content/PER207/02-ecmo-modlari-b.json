@@ -1,16 +1,105 @@
 {
   "topic": "ECMO modları ve adlandırma",
   "cards": [
-    { "type": "fact", "importance": 2, "title": "VV seri, VA paralel çalışır", "body": "VV ECMO devresi hastanın kalp-akciğeriyle **seri (in series)**, VA ECMO devresi ise **paralel (in parallel)** çalışır. VV'de kan yine venöz sisteme döndüğü için devre doğrudan hemodinamik destek sağlamaz.", "source": "ELSO VV 2021" },
-    { "type": "fact", "importance": 3, "title": "Maastricht adlandırmasında sıra", "body": "ELSO Maastricht adlandırmasında kısa çizgi (-) membran akciğeri temsil eder: **drenaj kanülü çizginin solunda, dönüş kanülü sağında** yazılır. Bu yüzden V-A'da V drenaj, A dönüş kanülüdür.", "source": "ELSO Maastricht 2019" },
-    { "type": "fact", "importance": 1, "title": "V-P konfigürasyonu ve OxyRVAD", "body": "V-P konfigürasyonunda kan sağ atriyumdan alınıp **pulmoner artere** verilir; böylece sağ ventrikül desteklenir. Devreye oksijenatör eklenirse destek OxyRVAD adını alır.", "source": "ELSO VA 2021; ELSO Maastricht 2019" },
-    { "type": "mcq", "importance": 3, "question": "Kardiyojenik şokta hem kalbi hem akciğeri desteklemesi gereken hastada kullanılan ECMO modu hangisidir?", "options": ["Venövenöz (VV) ECMO", "Venoarteriyel (VA) ECMO", "Pompasız arteriyovenöz (AV) destek", "Düşük akımlı ECCO2R"], "correct": 1, "explanation": "VA ECMO kanı venden alıp arteriyel sisteme verir; kalp ve akciğeri birlikte destekler ve kardiyak destek için zorunlu moddur. VV yalnız akciğeri destekler.", "source": "ELSO 2017" },
-    { "type": "mcq", "importance": 2, "question": "ELSO Maastricht adlandırmasında \"V-Ad\" ifadesindeki küçük \"d\" harfi neyi gösterir?", "options": ["Çift lümenli kanülü", "Sol ventrikül ventini", "Sefalik (juguler bulb) kanülü", "Distal perfüzyon kanülünü"], "correct": 3, "explanation": "Küçük harf minör akım kateterini gösterir; \"d\" bacağı besleyen distal perfüzyon kanülüdür. Çift lümenli kanül \"(dl)\", vent \"vnt\", sefalik kanül \"cep\" ile yazılır.", "source": "ELSO Maastricht 2019" },
-    { "type": "mcq", "importance": 2, "question": "Femoral VA ECMO'da diferansiyel hipoksemiyi gidermek için devreye ek bir venöz dönüş kanülü eklenince oluşan konfigürasyon hangisidir?", "options": ["V-VA", "VV-A", "V-AV", "V=V"], "correct": 2, "explanation": "V-AV'de oksijenli kan hem artere hem vene verilir. V-VA, VV devresine arteriyel kanül eklenmesidir; VV-A iki drenaj ve bir arteriyel dönüş kanülü içerir.", "source": "ELSO VA 2021; ELSO Maastricht 2019" },
-    { "type": "flip", "importance": 2, "question": "ECMO'da \"mod\" ile \"konfigürasyon\" arasındaki fark nedir?", "answer": "Mod, sağlanan organ desteğinin türüdür (VV, VA). Konfigürasyon ise kanüllerin hangi damarlara yerleştirildiğini ve uçlarının nerede durduğunu anlatır.", "source": "ELSO Maastricht 2019" },
-    { "type": "flip", "importance": 1, "question": "V-VA ile V-AV konfigürasyonları fizyolojik olarak farklı mıdır? Harflerin sırası neyi gösterir?", "answer": "Fizyolojik olarak aynıdır. Sıra, üçüncü kanülün eklenme kronolojisini gösterir: V-AV'de VA devresine venöz dönüş, V-VA'da VV devresine arteriyel kanül sonradan eklenmiştir.", "source": "ELSO Maastricht 2019" },
-    { "type": "tf", "importance": 2, "statement": "VV ECMO'da devre akımını artırmak, hastanın arteriyel kan basıncını doğrudan yükseltir.", "isTrue": false, "explanation": "VV devre seri çalışır ve hemodinamik destek sağlamaz; akımı artırmak kan basıncını yükseltmez. Resirkülasyon yoksa toplam oksijen içeriğini artırır.", "source": "ELSO VV 2021" },
-    { "type": "tf", "importance": 1, "statement": "Çift lümenli tek kanülle yapılan VV ECMO, Maastricht adlandırmasında \"(dl)V-V\" olarak yazılır.", "isTrue": true, "explanation": "\"(dl)\" çift lümeni gösterir. Bikaval kanül \"(bc)\", kavo-atriyal kanül \"(ca)\" ile belirtilir.", "source": "ELSO Maastricht 2019" },
-    { "type": "remember", "importance": 3, "title": "Sweep'i kapatmak: VV'de mümkün, VA'da tehlikeli", "body": "VV ECMO'da sweep gaz tamamen kapatılabilir; ayırma denemesi (trial-off) böyle yapılır. **VA ECMO'da sweep kapatılamaz**: oksijenlenmemiş kan doğrudan arteriyel sisteme pompalanır (sağdan sola şant).", "source": "ELSO VV 2021; ELSO VA 2021" }
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "VV seri, VA paralel çalışır",
+      "body": "VV ECMO devresi hastanın kalp-akciğeriyle **seri (in series)**, VA ECMO devresi ise **paralel (in parallel)** çalışır. VV'de kan yine venöz sisteme döndüğü için devre doğrudan hemodinamik destek sağlamaz.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Maastricht adlandırmasında sıra",
+      "body": "ELSO Maastricht adlandırmasında kısa çizgi (-) membran akciğeri temsil eder: **drenaj kanülü çizginin solunda, dönüş kanülü sağında** yazılır. Bu yüzden V-A'da V drenaj, A dönüş kanülüdür.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "V-P konfigürasyonu ve OxyRVAD",
+      "body": "V-P konfigürasyonunda kan sağ atriyumdan alınıp **pulmoner artere** verilir; böylece sağ ventrikül desteklenir. Devreye oksijenatör eklenirse destek OxyRVAD adını alır.",
+      "source": "ELSO VA 2021; ELSO Maastricht 2019"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Kardiyojenik şokta hem kalbi hem akciğeri desteklemesi gereken hastada kullanılan ECMO modu hangisidir?",
+      "options": [
+        "Venövenöz (VV) ECMO",
+        "Venoarteriyel (VA) ECMO",
+        "Pompasız arteriyovenöz (AV) destek",
+        "Düşük akımlı ECCO2R"
+      ],
+      "correct": 1,
+      "explanation": "VA ECMO kanı venden alıp arteriyel sisteme verir; kalp ve akciğeri birlikte destekler ve kardiyak destek için zorunlu moddur. VV yalnız akciğeri destekler.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO Maastricht adlandırmasında \"V-Ad\" ifadesindeki küçük \"d\" harfi neyi gösterir?",
+      "options": [
+        "Çift lümenli kanülü",
+        "Sol ventrikül ventini",
+        "Sefalik (juguler bulb) kanülü",
+        "Distal perfüzyon kanülünü"
+      ],
+      "correct": 3,
+      "explanation": "Küçük harf minör akım kateterini gösterir; \"d\" bacağı besleyen distal perfüzyon kanülüdür. Çift lümenli kanül \"(dl)\", vent \"vnt\", sefalik kanül \"cep\" ile yazılır.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Femoral VA ECMO'da diferansiyel hipoksemiyi gidermek için devreye ek bir venöz dönüş kanülü eklenince oluşan konfigürasyon hangisidir?",
+      "options": [
+        "V-VA",
+        "VV-A",
+        "V-AV",
+        "V=V"
+      ],
+      "correct": 2,
+      "explanation": "V-AV'de oksijenli kan hem artere hem vene verilir. V-VA, VV devresine arteriyel kanül eklenmesidir; VV-A iki drenaj ve bir arteriyel dönüş kanülü içerir.",
+      "source": "ELSO VA 2021; ELSO Maastricht 2019"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO'da \"mod\" ile \"konfigürasyon\" arasındaki fark nedir?",
+      "answer": "Mod, sağlanan organ desteğinin türüdür (VV, VA). Konfigürasyon ise kanüllerin hangi damarlara yerleştirildiğini ve uçlarının nerede durduğunu anlatır.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "V-VA ile V-AV konfigürasyonları fizyolojik olarak farklı mıdır? Harflerin sırası neyi gösterir?",
+      "answer": "Fizyolojik olarak aynıdır. Sıra, üçüncü kanülün eklenme kronolojisini gösterir: V-AV'de VA devresine venöz dönüş, V-VA'da VV devresine arteriyel kanül sonradan eklenmiştir.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "VV ECMO'da devre akımını artırmak, hastanın arteriyel kan basıncını doğrudan yükseltir.",
+      "isTrue": false,
+      "explanation": "VV devre seri çalışır ve hemodinamik destek sağlamaz; akımı artırmak kan basıncını yükseltmez. Resirkülasyon yoksa toplam oksijen içeriğini artırır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Çift lümenli tek kanülle yapılan VV ECMO, Maastricht adlandırmasında \"(dl)V-V\" olarak yazılır.",
+      "isTrue": true,
+      "explanation": "\"(dl)\" çift lümeni gösterir. Bikaval kanül \"(bc)\", kavo-atriyal kanül \"(ca)\" ile belirtilir.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Sweep'i kapatmak: VV'de mümkün, VA'da tehlikeli",
+      "body": "VV ECMO'da sweep gaz tamamen kapatılabilir; ayırma denemesi (trial-off) böyle yapılır. **VA ECMO'da sweep kapatılamaz**: oksijenlenmemiş kan doğrudan arteriyel sisteme pompalanır (sağdan sola şant).",
+      "source": "ELSO VV 2021; ELSO VA 2021"
+    }
   ]
 }

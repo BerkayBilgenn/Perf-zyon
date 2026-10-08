@@ -1,0 +1,93 @@
+{
+  "topic": "ECMO yönetimi, ayırma ve transport",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Akciğer dinlendirme",
+      "en": "Lung rest",
+      "definition": "ECMO sırasında ventilatör basınç, hacim, hız ve FiO2'nin akciğer hasarını önlemek için düşük tutulması.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "VILI",
+      "en": "Ventilator-induced lung injury",
+      "definition": "Yüksek basınç/hacimle mekanik ventilasyonun yaptığı akciğer hasarı.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Prone pozisyon",
+      "en": "Prone positioning",
+      "definition": "Yüzüstü yatırma; ARDS'de mortalite yararı kanıtlı, ECMO'dan önce denenmeli.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Weaning",
+      "en": "Weaning",
+      "definition": "Nativ organ işlevi düzelirken ekstrakorporeal desteğin kademeli olarak azaltılması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trial-off",
+      "en": "Trial off",
+      "definition": "Nativ organın yeterliliğini değerlendirmek için ekstrakorporeal desteğin geçici olarak azaltıldığı veya kaldırıldığı ayırma denemesi; yöntem ECMO moduna bağlıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "PCRTO",
+      "en": "Pump-controlled retrograde trial off",
+      "definition": "VA ECMO’dan ayırmada pompa hızıyla kontrollü retrograd akım oluşturularak nativ kalp işlevinin değerlendirildiği deneme.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "LVOT VTI",
+      "en": "LV outflow tract velocity-time integral",
+      "definition": "Ekokardiyografide sol ventrikül çıkış yolu akım hızının zamana göre integrali; atım hacmini değerlendirmeye yardım eden uzunluk ölçüsü.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Dekanülasyon",
+      "en": "Decannulation",
+      "definition": "Ekstrakorporeal destek sonlandırılırken damar içindeki kanüllerin çıkarılması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Hub-and-spoke ağı",
+      "en": "Hub-and-spoke network",
+      "definition": "Deneyimli merkez (hub) ile çevre hastaneler (spoke) arasında bölgesel ECMO ağı.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Time-out ve debriefing",
+      "en": "Time-out / debriefing",
+      "definition": "İşlem öncesi doğrulama duraklaması / işlem sonrası ekip değerlendirmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Uyanık ECMO",
+      "en": "Awake ECMO",
+      "definition": "Ekstübe, uyanık ve mobilize hastanın ECMO ile desteklenmesi (ör. akciğer nakline köprü).",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

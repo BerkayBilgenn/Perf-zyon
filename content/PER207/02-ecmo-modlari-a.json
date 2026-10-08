@@ -1,0 +1,69 @@
+{
+  "topic": "ECMO modları ve adlandırma",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Venövenöz ECMO",
+      "en": "Venovenous ECMO",
+      "definition": "Venden alınan kanın oksijenlenip yine venöz sisteme verildiği, yalnız akciğeri destekleyen mod; doğrudan hemodinamik destek sağlamaz.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Venoarteriyel ECMO",
+      "en": "Venoarterial ECMO",
+      "definition": "Venden alınan kanın oksijenatörden geçirilip arteriyel sisteme verildiği ECMO modu; dolaşım ve gaz değişimi desteği sağlar.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hibrit ECMO",
+      "en": "Hybrid ECMO",
+      "definition": "Üç (veya daha fazla) kanüllü, VA ve VV özelliklerini birleştiren konfigürasyonlar; ör. diferansiyel hipoksemide VA'ya venöz dönüş eklenmesi (V-AV).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mod",
+      "en": "Mode",
+      "definition": "Sağlanan organ desteğinin türü (VV, VA, VVA).",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Konfigürasyon",
+      "en": "Configuration",
+      "definition": "Kanüllerin yerleştirildiği damarlar ve uç pozisyonları.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "V-AV",
+      "en": "Veno-arteriovenous configuration",
+      "definition": "VA ECMO’ya venöz dönüş eklenerek oksijenli kanın arteriyel ve venöz sisteme birlikte verildiği konfigürasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "VV-A",
+      "en": "Double venous drainage, arterial return",
+      "definition": "İki venöz drenaj kanülü ve bir arteriyel dönüş kanülü kullanılan konfigürasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "V-P",
+      "en": "Venopulmonary configuration",
+      "definition": "Venöz sistemden alınan kanın pulmoner artere döndürüldüğü, sağ ventrikülü destekleyen konfigürasyon.",
+      "source": "ELSO Maastricht 2019"
+    }
+  ]
+}

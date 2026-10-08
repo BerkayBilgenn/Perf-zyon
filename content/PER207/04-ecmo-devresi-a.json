@@ -1,0 +1,237 @@
+{
+  "topic": "ECMO devresi ve basınçlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Santrifüj pompa",
+      "en": "Centrifugal pump",
+      "definition": "Dönen rotorla basınç farkı yaratan, oklüzif olmayan, ön yüke bağımlı ve art yüke duyarlı pompa; devre patlaması nadir.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Roller pompa",
+      "en": "Roller pump",
+      "definition": "Tüpü silindirlerle sıkıştırarak akım sağlayan yarı-oklüzif pompa; giriş servo-haznesi gerekir, çıkış tıkanırsa patlama riski.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Membran oksijenatör",
+      "en": "Membrane oxygenator / membrane lung",
+      "definition": "Kan ile gaz arasında membran bulunan, O2 ekleyip CO2 uzaklaştıran yapay akciğer.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PMP",
+      "en": "Polymethylpentene",
+      "definition": "Plazma sızıntısı minimal, düşük dirençli, uzun ömürlü, katı (non-mikroporöz) içi boş lif membran materyali.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mikroporöz membran",
+      "en": "Microporous membrane",
+      "definition": "Gözenekli içi boş lif (ör. polipropilen); hızlı prime, ama plazma sızıntısı ve hava geçişi riski.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Silikon membran",
+      "en": "Silicone membrane",
+      "definition": "Katı difüzyon membranı (Kolobow tipi); yüksek direnç, uzun ve zor prime.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Rated flow",
+      "en": "Rated flow",
+      "definition": "Tanımlanmış giriş koşullarında venöz kanı hedef çıkış satürasyonuna oksijenleyebilen en yüksek kan akımı; oksijenatör kapasitesini ifade eder.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sweep gaz",
+      "en": "Sweep gas",
+      "definition": "Oksijenatörün gaz fazından geçirilen gaz; akımı CO2 eliminasyonunu belirler.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "FDO2",
+      "en": "Fraction of delivered oxygen",
+      "definition": "Sweep gazdaki O2 fraksiyonu; blender ile ayarlanır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Gaz blenderi",
+      "en": "Gas blender",
+      "definition": "O2 ve havayı karıştırarak FDO2'yi ayarlayan cihaz.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Karbojen",
+      "en": "Carbogen",
+      "definition": "Oksijen ve karbondioksitten oluşan gaz karışımı; ECMO gaz yönetiminde karbondioksit düzeyini düzenlemek için kullanılabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Isı değiştirici",
+      "en": "Heat exchanger",
+      "definition": "Harici su sistemiyle kan arasında ısı aktararak kan sıcaklığını düzenleyen devre bileşeni.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Köprü",
+      "en": "Bridge",
+      "definition": "Hasta yakınında arteriyel ve venöz hatları birleştiren hat; trial-off ve acillerde kullanılır, kapalıyken staz alanıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Servo-hazne",
+      "en": "Bladder",
+      "definition": "Roller pompa girişinde venöz dönüş azalınca pompayı yavaşlatan/durduran kollabe olabilen hazne.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Servo-regülasyon",
+      "en": "Servo-regulation",
+      "definition": "Basınç sensörüne göre pompa hızının otomatik ayarlanması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kabarcık dedektörü",
+      "en": "Bubble detector",
+      "definition": "Dönüş hattında hava algılayıp alarm veya klemp tetikleyen sensör.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "El krankı",
+      "en": "Hand crank",
+      "definition": "Elektrik ve batarya kesildiğinde pompayı elle döndürme düzeneği.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Drenaj basıncı",
+      "en": "Drainage / inlet pressure",
+      "definition": "Pompa öncesindeki venöz drenaj hattında ölçülen, genellikle negatif olan basınç; aşırı negatiflik drenaj sorununu düşündürür.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pre-oksijenatör basıncı",
+      "en": "Pre-oxygenator pressure",
+      "definition": "Pompadan sonra, oksijenatöre girmeden önce ölçülen kan basıncı; pompanın karşılaştığı devre direncini değerlendirmeye yardım eder.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Post-oksijenatör basıncı",
+      "en": "Post-oxygenator pressure",
+      "definition": "Oksijenatörden sonra dönüş hattında ölçülen basınç; dönüş hattı ve kanül direncinden etkilenir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Transmembran basınç gradyanı",
+      "en": "Transmembrane pressure gradient",
+      "definition": "Oksijenatör giriş ve çıkış kan basınçları arasındaki fark; aynı akımda artması membran direncinin yükseldiğini düşündürür.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Priming",
+      "en": "Priming",
+      "definition": "Devrenin kullanım öncesi kristalloid (± kan) ile doldurulup havasının alınması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kan prime",
+      "en": "Blood prime",
+      "definition": "Özellikle küçük hastada aşırı hemodilüsyonu sınırlamak için devre doldurma sıvısına kan ürünü eklenmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hemodilüsyon",
+      "en": "Hemodilution",
+      "definition": "Devre doldurma sıvısının hastanın kanıyla karışmasıyla hemoglobin ve hücresel bileşenlerin konsantrasyonunun azalması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin kaplı yüzey",
+      "en": "Heparin-bonded surface",
+      "definition": "Kan-yüzey etkileşimini azaltan kaplama; sistemik antikoagülasyon ihtiyacını kaldırmaz.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma sızıntısı",
+      "en": "Plasma leakage",
+      "definition": "Mikroporöz liflerde plazmanın gaz fazına geçerek gaz transferini bozması.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Su yoğuşması",
+      "en": "Water condensation",
+      "definition": "Gaz fazında biriken su buharı; CO2 temizliğini azaltır, aralıklı yüksek sweep ile giderilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hemofiltre / CRRT",
+      "en": "Hemofilter / continuous renal replacement therapy",
+      "definition": "Devreye eklenerek sıvı ve elektrolit dengesini sağlayan ultrafiltrasyon/sürekli böbrek replasmanı.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Acil devre",
+      "en": "Emergency (primed) circuit",
+      "definition": "Kristalloidle prime edilmiş, dakikalar içinde bağlanabilecek yedek devre.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

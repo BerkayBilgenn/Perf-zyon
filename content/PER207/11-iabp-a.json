@@ -1,0 +1,141 @@
+{
+  "topic": "İABP, Impella ve TandemHeart",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Endokardiyal canlılık oranı",
+      "en": "Endocardial viability ratio",
+      "definition": "Diyastolik basınç-zaman indeksi ile sistolik gerilim-zaman indeksinin oranı; miyokardın oksijen sunumu–talep dengesini yansıtır.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Windkessel etkisi",
+      "en": "Windkessel effect",
+      "definition": "Aortun elastik genişleyip geri yaylanarak akımı sürdürmesi; İABP bu etkiyi artırır.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İntraaortik balon pompası",
+      "en": "Intra-aortic balloon pump",
+      "definition": "İnen aorttaki helyumlu balonun diyastolde şişip sistolden hemen önce söndüğü karşı-atım cihazı.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Karşı-atım",
+      "en": "Counterpulsation",
+      "definition": "Kalp döngüsüne ters fazda basınç değişikliği yaratma ilkesi.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Diyastolik augmentasyon",
+      "en": "Diastolic augmentation",
+      "definition": "Balonun şişmesiyle diyastolik basıncın ve koroner perfüzyonun artması.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sistolik unloading",
+      "en": "Systolic unloading",
+      "definition": "Balonun sistol öncesi sönmesiyle aort basıncının ve LV iş yükünün azalması.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Dikrotik çentik",
+      "en": "Dicrotic notch",
+      "definition": "Aort kapağı kapanmasını gösteren arteriyel dalga çentiği; İABP şişme noktası.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Tetik",
+      "en": "Trigger",
+      "definition": "İABP zamanlama sinyalinin kaynağı (EKG, basınç, pacemaker, iç/asenkron).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Destek oranı",
+      "en": "Assist ratio (1:1, 1:2, 1:3)",
+      "definition": "Kaç kalp atımından birinin desteklendiği; düşük oranlar ayırmada kullanılır.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Helyum",
+      "en": "Helium",
+      "definition": "İABP'de kullanılan düşük viskoziteli, hızlı taşınabilen gaz.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Erken / geç şişme",
+      "en": "Early / late inflation",
+      "definition": "Balonun dikrotik çentikten önce (tehlikeli) veya sonra (etkisiz) şişmesi.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Erken / geç sönme",
+      "en": "Early / late deflation",
+      "definition": "Balonun diyastolün ortasında (yetersiz unloading) veya sistol başlangıcında hâlâ şişik (art yük artar) sönmesi.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Balon rüptürü",
+      "en": "Balloon rupture",
+      "definition": "İABP balonunun bütünlüğünün bozulması; helyum hattında kan görülmesi önemli bir uyarı bulgusudur.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Impella",
+      "en": "Impella",
+      "definition": "Aort kapağından geçen, LV'den çıkan aorta kan pompalayan mikroaksiyel pompa.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Purge solüsyonu",
+      "en": "Purge solution",
+      "definition": "Impella motoruna kanın girmesini engellemek için basınç altında verilen yıkama sıvısı. Bileşimi cihaz talimatı ve klinik duruma göre seçilir.",
+      "source": "FDA Impella kullanım talimatı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ECPELLA",
+      "en": "ECPELLA",
+      "definition": "LV'yi boşaltmak için VA ECMO'ya Impella eklenmesi.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "TandemHeart",
+      "en": "TandemHeart",
+      "definition": "Transseptal sol atriyum – femoral arter perkütan santrifüj destek (oksijenatörsüz).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    }
+  ]
+}

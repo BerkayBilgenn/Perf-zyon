@@ -1,0 +1,61 @@
+{
+  "topic": "Kriz yönetimi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PRONTO",
+      "en": "Parallel replacement of non-functioning oxygenator",
+      "definition": "Yetersiz oksijenatöre paralel ikinci oksijenatör ekleyerek akımı kesmeden değişim.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Venöz piggyback",
+      "en": "Venous piggyback",
+      "definition": "Venöz hattan alınan kanı ikinci bir oksijenatörden geçirip rezervuara veren kurtarma tekniği.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Masif hava embolisi",
+      "en": "Massive air embolism",
+      "definition": "KPB sırasında arteriyel dolaşıma büyük hacimde hava girmesi.",
+      "source": "TGKDC hava embolisi olgusu"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd serebral perfüzyon",
+      "en": "Retrograde cerebral perfusion",
+      "definition": "SVC yoluyla beyne ters yönde soğuk kan verilmesi; hava embolisinde havanın yıkanması.",
+      "source": "TGKDC hava embolisi olgusu"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trendelenburg pozisyonu",
+      "en": "Trendelenburg position",
+      "definition": "Baş aşağı eğim; hava embolisinde ve juguler kanül çıkarılırken kullanılır.",
+      "source": "TGKDC hava embolisi olgusu"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kriz kaynak yönetimi",
+      "en": "Crisis management drills",
+      "definition": "Düşük sıklıklı-yüksek riskli olaylar için yazılı protokol ve düzenli simülasyon uygulaması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Anafilaktik reaksiyon",
+      "en": "Anaphylactic reaction",
+      "definition": "İlaç veya kan ürünü gibi bir maruziyet sonrası gelişebilen, dolaşım ve solunumu tehdit eden sistemik aşırı duyarlılık reaksiyonu.",
+      "source": "Hollanda perfüzyon olay araştırması"
+    }
+  ]
+}

@@ -323,3 +323,8 @@ Konu: KPB'de anestezi, ayrılma ve aciller — ana araştırma bölümü 2.16.
 - Kaplamasız devrede ACT >480 sn, heparin doz aralığı, KPB akımı, Hb/Hct eşikleri ve hazır devre süreleri kaynak/yıl/klinik bağlamla ifade edildi; kaynaklara göre değişen hedefler puanlanan test yapılmadı.
 - MCQ çeldiricileri root incelemesine göre klinik kategori içinde yeniden yazıldı; cevap konumları 19/19/19/18, doğru/yanlış ifadeleri 20/20.
 
+
+
+## 2026-10-08 devam turu: Türkçe ek denetimi
+- 09-cerrahi-turleri-a.json #4 `definition`: Diyastolde aorttan sol ventrikül'ye geri kaçış; sol ventrikül'de hacim yüklenmesi ve eksantrik hipertrofi. → Diyastolde aorttan sol ventriküle geri kaçış; sol ventrikülde hacim yüklenmesi ve eksantrik hipertrofi.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
+- 09-cerrahi-turleri-a.json #6 `definition`: Sistolde sol ventrikül'den sol atriyuma geri akım; ardyük azaltma ileri akımı artırır. → Sistolde sol ventrikülden sol atriyuma geri akım; ardyük azaltma ileri akımı artırır.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.

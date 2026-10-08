@@ -1,0 +1,85 @@
+{
+  "topic": "ECMO fizyolojisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijen sunumu",
+      "en": "Oxygen delivery",
+      "definition": "Birim zamanda dokulara taşınan oksijen miktarı; kan akımı ile arteriyel oksijen içeriğinin çarpımına bağlıdır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijen tüketimi",
+      "en": "Oxygen consumption",
+      "definition": "Dokuların birim zamanda metabolizma için kullandığı oksijen miktarı.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel O2 içeriği",
+      "en": "Arterial oxygen content",
+      "definition": "Arteriyel kandaki toplam oksijen miktarı; hemoglobine bağlı ve plazmada çözünmüş oksijenin toplamıdır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Resirkülasyon",
+      "en": "Recirculation",
+      "definition": "VV ECMO'da oksijenatörden dönen kanın sisteme geçmeden drenaj kanülüne geri emilmesi; etkin O2 sunumunu azaltır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Diferansiyel hipoksemi",
+      "en": "Differential hypoxemia",
+      "definition": "Femoral VA ECMO'da üst vücudun (koroner, beyin, sağ kol) LV'nin pompaladığı desatüre kanla, alt vücudun ECMO'nun oksijenli kanıyla perfüze olması.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Karışım bölgesi",
+      "en": "Mixing zone (watershed)",
+      "definition": "Nativ ejeksiyonla retrograd ECMO akımının aortta karşılaştığı bölge; ECMO akımı arttıkça proksimale kayar.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Art yük",
+      "en": "Afterload",
+      "definition": "Ventrikülün ejeksiyon sırasında karşılaştığı yük; retrograd VA akımı LV art yükünü artırır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ön yük",
+      "en": "Preload",
+      "definition": "Ventrikülün diyastol sonu dolum yükü; santrifüj pompa akımı da ön yüke bağımlıdır.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Nabız basıncı",
+      "en": "Pulse pressure",
+      "definition": "Sistolik ve diyastolik arter basınçları arasındaki fark. VA ECMO sırasında nativ kalbin ejeksiyonunu değerlendirmede kullanılır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Karışık venöz satürasyon",
+      "en": "Mixed venous oxygen saturation",
+      "definition": "Pulmoner arter kanının O2 satürasyonu; doku O2 sunum yeterliliğinin göstergesi.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

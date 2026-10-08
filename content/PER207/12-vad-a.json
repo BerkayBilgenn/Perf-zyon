@@ -1,0 +1,125 @@
+{
+  "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "INTERMACS profili",
+      "en": "INTERMACS profile",
+      "definition": "İleri kalp yetmezliğini 1 (kritik şok, \"crash and burn\") ile 7 (ileri NYHA III) arasında sınıflama.",
+      "source": "INTERMACS sınıflaması 2010"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Edinsel von Willebrand sendromu",
+      "en": "Acquired von Willebrand syndrome",
+      "definition": "Yüksek shear stresle büyük vWF multimerlerinin yıkılması; LVAD'de GİS kanamasına zemin hazırlar.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "LVAD",
+      "en": "Left ventricular assist device",
+      "definition": "LV apeksinden kanı alıp çıkan aorta pompalayan implante edilebilir cihaz.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "RVAD",
+      "en": "Right ventricular assist device",
+      "definition": "RA/RV'den pulmoner artere kan pompalayarak sağ ventrikülü destekleyen cihaz.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "BiVAD",
+      "en": "Biventricular assist device",
+      "definition": "Her iki ventrikülü ayrı pompalarla destekleme.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "OxyRVAD",
+      "en": "Oxygenator-RVAD",
+      "definition": "Oksijenatör eklenmiş RA–PA sağ ventrikül desteği (solunum desteği de sağlar).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pulsatil VAD",
+      "en": "Pulsatile VAD",
+      "definition": "Hacim yer değiştirmeli, kapaklı, pnömatik/elektrik membran pompalar (HeartMate XVE, Berlin Heart EXCOR).",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sürekli akımlı LVAD",
+      "en": "Continuous-flow LVAD",
+      "definition": "Dönen aksiyel veya santrifüj rotorla sürekli kan akımı sağlayan sol ventrikül destek cihazı.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Manyetik levitasyon",
+      "en": "Magnetic levitation (maglev)",
+      "definition": "Rotorun mekanik yatak olmadan manyetik alanla askıda tutulması; HeartMate 3 gibi destek cihazlarında kullanılır.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Driveline",
+      "en": "Driveline",
+      "definition": "Pompayı dış kontrolör/bataryaya bağlayan, deriden çıkan güç kablosu; enfeksiyon kapısı.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pulsatilite indeksi",
+      "en": "Pulsatility index",
+      "definition": "LVAD akımındaki kalp döngüsüyle ilişkili dalgalanmayı gösteren parametre; dolum ve nativ ventrikül işlevinden etkilenir.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Emme olayı",
+      "en": "Suction event",
+      "definition": "Yeterince dolmayan ventrikülün pompa tarafından aşırı emilmesiyle akımın bozulması; LVAD’de dolum yetersizliğini düşündürür.",
+      "source": "LVAD pulsatilite derlemesi 2023"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pompa trombozu",
+      "en": "Pump thrombosis",
+      "definition": "Pompa içinde trombüs; LDH, plazma serbest Hb ve güç (W) artışı ile kendini gösterir.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Giriş kanülü",
+      "en": "Inflow cannula",
+      "definition": "LVAD’de sol ventrikülden kanı pompanın girişine taşıyan bileşen; sıklıkla apeks üzerinden yerleştirilir.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Çıkış grefti",
+      "en": "Outflow graft",
+      "definition": "LVAD pompasından çıkan kanı aorta taşıyan vasküler bağlantı.",
+      "source": "Prinzing, LVAD 2016"
+    }
+  ]
+}

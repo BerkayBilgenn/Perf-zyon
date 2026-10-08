@@ -1,0 +1,45 @@
+{
+  "topic": "ECMO: tanım, tarihçe ve ELSO",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ekstrakorporeal yaşam desteği",
+      "en": "Extracorporeal life support",
+      "definition": "Kalp ve/veya akciğeri geçici olarak destekleyerek iyileşmeye veya organ replasmanına köprü sağlayan mekanik destek. Cerrahi amaçlı KPB bu terminolojik kapsamın dışındadır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "ECMO",
+      "en": "Extracorporeal membrane oxygenation",
+      "definition": "Kanın vücut dışında membran oksijenatörde oksijenlenip CO2'sinin uzaklaştırıldığı ECLS türü.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Maastricht Antlaşması",
+      "en": "ELSO Maastricht Treaty",
+      "definition": "ELSO'nun ECLS terim ve kısaltmalarını standartlaştıran uzlaşısı; drenaj kanülü tireden önce, dönüş kanülü sonra yazılır.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ELSO",
+      "en": "Extracorporeal Life Support Organization",
+      "definition": "Ekstrakorporeal yaşam desteğinde uluslararası kayıt, eğitim ve kılavuz çalışmaları yürüten kuruluş.",
+      "source": "ECMO tarihçesi 2022"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Red Book",
+      "en": "ELSO Red Book",
+      "definition": "ELSO tarafından yayımlanan ekstrakorporeal yaşam desteği ders kitabı.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "topic": "Koagülasyon ve antikoagülasyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Tam kan örneğinin bir aktivatör sonrası pıhtılaşmasına kadar geçen süreyi ölçen yatak başı test.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "aPTT",
+      "en": "Activated partial thromboplastin time",
+      "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren laboratuvar testi; anfraksiyone heparin ve direkt trombin inhibitörlerinin izleminde kullanılır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Anti-faktör Xa",
+      "en": "Anti-Xa assay",
+      "definition": "Heparinin antitrombin aracılığıyla faktör Xa üzerindeki inhibisyonunu ölçen kromojenik test.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "TEG / ROTEM",
+      "en": "Thromboelastography / thromboelastometry",
+      "definition": "Tam kanda pıhtı başlangıcı, gücü ve fibrinolizi gösteren viskoelastik yatak başı testler.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Antitrombin",
+      "en": "Antithrombin",
+      "definition": "Heparinin etki gösterdiği doğal antikoagülan; düşüklüğü heparin direncine yol açar.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Anfraksiyone heparin",
+      "en": "Unfractionated heparin",
+      "definition": "ECMO'da standart antikoagülan; AT üzerinden trombin ve Xa'yı inhibe eder; antidotu protamin.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Protamin",
+      "en": "Protamine",
+      "definition": "Heparinin antikoagülan etkisini nötralize eden ilaç. Aktif ECMO devresinde kullanımı devre trombozu riski nedeniyle ayrıca değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin direnci",
+      "en": "Heparin resistance",
+      "definition": "Yüksek heparin dozuna rağmen hedef antikoagülasyona ulaşılamaması (sık neden AT eksikliği).",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "HIT",
+      "en": "Heparin-induced thrombocytopenia",
+      "definition": "PF4–heparin kompleksine karşı IgG antikorlarıyla trombositopeni ve paradoks tromboz eğilimi.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PF4",
+      "en": "Platelet factor 4",
+      "definition": "Trombositten salınan, heparinle kompleks yapan protein; HIT antijeni.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "4T skoru",
+      "en": "4Ts score",
+      "definition": "HIT olasılığını trombosit düşüşü, zamanlama, tromboz ve diğer nedenler üzerinden değerlendiren klinik skor.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Serotonin salınım testi",
+      "en": "Serotonin release assay",
+      "definition": "Hasta antikorlarının trombositleri aktive edip etmediğini değerlendiren fonksiyonel HIT laboratuvar testi.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Direkt trombin inhibitörü",
+      "en": "Direct thrombin inhibitor",
+      "definition": "AT'den bağımsız trombin inhibitörleri (bivalirudin, argatroban); HIT'te alternatif.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bivalirudin",
+      "en": "Bivalirudin",
+      "definition": "Antitrombinden bağımsız etki gösteren direkt trombin inhibitörü; proteolitik yıkım ve böbrek yoluyla uzaklaştırılır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Argatroban",
+      "en": "Argatroban",
+      "definition": "Antitrombinden bağımsız etki gösteren, başlıca karaciğerde metabolize edilen direkt trombin inhibitörü.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fondaparinuks",
+      "en": "Fondaparinux",
+      "definition": "Antitrombin aracılığıyla faktör Xa’yı seçici biçimde inhibe eden sentetik pentasakkarit; dolaylı antikoagülan etki gösterir.",
+      "source": "DailyMed ARIXTRA"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Antifibrinolitik",
+      "en": "Antifibrinolytic",
+      "definition": "Fibrin pıhtısının parçalanmasını azaltan ilaç grubu; örnekleri traneksamik asit ve aminokaproik asittir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Tüketim koagülopatisi",
+      "en": "Consumptive coagulopathy",
+      "definition": "Pıhtılaşma aktivasyonu sırasında trombosit ve koagülasyon faktörlerinin tüketilmesiyle gelişen hemostaz bozukluğu.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trombositopeni",
+      "en": "Thrombocytopenia",
+      "definition": "Dolaşımdaki trombosit sayısının azalması; ECMO’da tüketim, yüzey etkileşimi ve hastalık gibi farklı nedenleri olabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hiperkoagülabilite",
+      "en": "Hypercoagulability",
+      "definition": "Kanın pıhtı oluşturma eğiliminin artması.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Heparinaz",
+      "en": "Heparinase",
+      "definition": "Heparini parçalayan enzim; viskoelastik testte heparin etkisini diğer pıhtılaşma bozukluklarından ayırmaya yardım eder.",
+      "source": "ELSO Antikoagülasyon 2021"
+    }
+  ]
+}

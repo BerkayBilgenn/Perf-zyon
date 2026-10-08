@@ -1,0 +1,77 @@
+{
+  "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ECCO2R",
+      "en": "Extracorporeal CO2 removal",
+      "definition": "Esas olarak karbondioksit uzaklaştırmayı amaçlayan ekstrakorporeal destek. Tam oksijenasyon desteğine göre daha düşük kan akımlarıyla çalışabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pompasız AV-ECCO2R",
+      "en": "Pumpless arteriovenous ECCO2R",
+      "definition": "Arter-ven basınç farkıyla pompasız düşük akımlı CO2 uzaklaştırma; adlandırması (pl)A-V.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijenasyon indeksi",
+      "en": "Oxygenation index (OI)",
+      "definition": "Ortalama hava yolu basıncı, solunan oksijen fraksiyonu ve arteriyel oksijen parsiyel basıncından hesaplanan solunum yetmezliği göstergesi.",
+      "source": "ELSO Neonatal 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "KDH",
+      "en": "Congenital diaphragmatic hernia",
+      "definition": "Diyaframdaki doğumsal açıklıkla karın organlarının göğüs boşluğuna geçmesi; akciğer hipoplazisi ve pulmoner hipertansiyona yol açabilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "MAS",
+      "en": "Meconium aspiration syndrome",
+      "definition": "Mekonyumun hava yollarına aspirasyonuyla oluşan; obstrüksiyon, sürfaktan bozukluğu ve pulmoner hipertansiyonla seyreden yenidoğan hastalığı.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PPHN",
+      "en": "Persistent pulmonary hypertension of the newborn",
+      "definition": "Doğumdan sonra pulmoner damar direncinin düşmemesi; sağdan sola şant ve ağır hipoksemi.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "HİE",
+      "en": "Hypoxic-ischemic encephalopathy",
+      "definition": "Perinatal dönemde yetersiz oksijenlenme ve kanlanmaya bağlı beyin hasarı.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İntraventriküler kanama",
+      "en": "Intraventricular hemorrhage",
+      "definition": "Beyin ventriküllerine kanama; neonatal ECMO değerlendirmesinde beyin ultrasonuyla araştırılır.",
+      "source": "ELSO Neonatal 2013"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "EXIT-to-ECMO",
+      "en": "Ex utero intrapartum treatment to ECMO",
+      "definition": "Kordon klemplenmeden, plasental destek sürerken kanülasyon ve ECMO başlatılması.",
+      "source": "ELSO Neonatal 2020"
+    }
+  ]
+}

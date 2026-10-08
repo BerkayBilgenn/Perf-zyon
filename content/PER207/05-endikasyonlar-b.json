@@ -1,23 +1,169 @@
 {
   "topic": "Endikasyonlar, skorlar ve ECPR",
   "cards": [
-    { "type": "fact", "importance": 3, "title": "ECLS'nin temel endikasyonu", "body": "Birincil endikasyon, optimal konvansiyonel tedaviye rağmen yüksek mortalite riski taşıyan **akut, ağır ve potansiyel olarak geri dönüşlü** kalp veya akciğer yetmezliğidir. ELSO'ya göre ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.", "source": "ELSO 2017" },
-    { "type": "fact", "importance": 2, "title": "Kardiyojenik şokta VA ECMO zamanlaması", "body": "Farmakolojik ve sıvı tedavisine dirençli kardiyojenik şokta VA ECMO, ideal olarak **şok başlangıcından itibaren 6 saat içinde** ve çoklu organ yetmezliği gelişmeden düşünülmelidir.", "source": "ELSO VA 2021" },
-    { "type": "fact", "importance": 2, "title": "VA ECMO kontrendikasyonları", "body": "İyileşme beklenmeyen ve VAD/transplant adayı olmayan hasta, **ağır aort yetmezliği**, dal tutulumlu akut aort diseksiyonu, ağır nörolojik hasar ve Child-Pugh B–C siroz başlıca kontrendikasyonlardır. Yaş tek başına mutlak kontrendikasyon değildir.", "source": "ELSO VA 2021" },
-    { "type": "fact", "importance": 2, "title": "CESAR çalışması (Lancet 2009)", "body": "Murray skoru > 3,0 veya pH < 7,20 olan 180 erişkinde **ECMO merkezine sevk** stratejisi test edildi. 6. ayda ağır engelsiz sağkalım %63 vs %47 idi (p = 0,03). Sevk kolundaki 90 hastanın 68'i fiilen ECMO aldı.", "source": "CESAR, Lancet 2009" },
-    { "type": "fact", "importance": 2, "title": "EOLIA çalışması (NEJM 2018)", "body": "Ağır ARDS'de erken VV ECMO sınandı (249 hasta). 60. gün mortalite %35 vs %46 idi (RR 0,76; **p = 0,09**, anlamlı değil); kontrol grubunun %28'i kurtarıcı ECMO'ya geçti. Çalışma futilite nedeniyle erken durduruldu.", "source": "EOLIA, NEJM 2018" },
-    { "type": "fact", "importance": 2, "title": "ECPR için örnek dahil etme kriterleri", "body": "Yaş < 70, tanıklı arrest, **no-flow < 5 dk**, başlangıç ritmi VF/nabızsız VT/nabızsız elektriksel aktivite, **low-flow < 60 dk**, KPR sırasında ETCO2 > 10 mmHg ve yaşamı sınırlayan komorbidite olmaması.", "source": "ELSO ECPR 2021" },
-    { "type": "mcq", "importance": 3, "question": "ELSO 2021 VV kılavuzuna göre optimal tedavi ve prone pozisyon denemesine rağmen süren hipoksemik yetmezlikte VV ECMO eşiği hangisidir?", "options": ["PaO2/FiO2 < 80 mmHg", "PaO2/FiO2 < 150 mmHg", "PaO2/FiO2 < 200 mmHg", "PaO2/FiO2 < 300 mmHg"], "correct": 0, "explanation": "Eşik EOLIA kriterlerine dayanır. Hiperkapnik yetmezlikte ise eşik pH < 7,25 ve PaCO2 ≥ 60 mmHg'dir.", "source": "ELSO VV 2021" },
-    { "type": "mcq", "importance": 3, "question": "ELSO 2021 VV ECMO kılavuzunda belirtilen tek mutlak kontrendikasyon hangisidir?", "options": ["SSS kanaması veya ciddi SSS hasarı", "Dekanülasyon planı olmadan iyileşme beklenmemesi", "Antikoagülasyonun kontrendike olması", "7 günden uzun, yüksek basınç ve FiO2 ile ventilasyon"], "correct": 1, "explanation": "Diğer üçü göreceli kontrendikasyondur (SSS: santral sinir sistemi). İleri yaş da görecelidir; kesin bir yaş eşiği yoktur.", "source": "ELSO VV 2021" },
-    { "type": "mcq", "importance": 2, "question": "ELSO'ya göre ECLS hangi mortalite riskinde düşünülür ve hangi riskte çoğu durumda endikedir?", "options": ["%30'da düşünülür, %50'de endike", "%40'ta düşünülür, %70'te endike", "%50'de düşünülür, %80'de endike", "%60'ta düşünülür, %90'da endike"], "correct": 2, "explanation": "Genel ilke: ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.", "source": "ELSO 2017" },
-    { "type": "mcq", "importance": 2, "question": "CESAR çalışmasında (2009) test edilen strateji ve birincil sonuç hangisidir?", "options": ["Erken VV ECMO; 60. gün mortalite %35 vs %46", "ECCO2R ile düşük Vt; 90. gün mortalite %41,5 vs %39,5", "Parsiyel VA ECMO; sağkalım %9,5 vs %8,3", "ECMO merkezine sevk; 6. ayda engelsiz sağkalım %63 vs %47"], "correct": 3, "explanation": "CESAR sevk stratejisini test etti. İlk şık EOLIA'ya, ikincisi REST'e, üçüncüsü Zapol (1979) çalışmasına aittir.", "source": "CESAR, Lancet 2009" },
-    { "type": "mcq", "importance": 2, "question": "ELSO ECPR kılavuzuna göre arrestten ECMO akımının başlamasına kadar geçen \"low-flow\" süresi için hedef hangisidir?", "options": ["< 20 dk", "< 30 dk", "< 90 dk", "< 60 dk"], "correct": 3, "explanation": "Low-flow süresinin 60 dakikanın altında olması hedeflenir. No-flow (KPR'siz arrest) süresi ise 5 dakikanın altında olmalıdır.", "source": "ELSO ECPR 2021" },
-    { "type": "flip", "importance": 3, "question": "ELSO 2021'e göre hiperkapnik solunum yetmezliğinde VV ECMO eşiği nedir?", "answer": "Optimal ventilasyona rağmen (solunum sayısı 35/dk, Pplat ≤ 30 cmH2O) **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.", "source": "ELSO VV 2021" },
-    { "type": "flip", "importance": 2, "question": "ECPR'de kanülasyona ne zaman başlanmalıdır? ELSO verisinde erişkin ECPR sağkalımı nedir?", "answer": "10–20 dakikalık başarısız resüsitasyondan sonra; 20 dakikayı aşan refrakter arrestte konvansiyonel KPR ile ROSC/sağkalım olasılığı %5'in altındadır. Erişkin ECPR'de taburculuğa kadar sağkalım **%29**'dur.", "source": "ELSO ECPR 2021" },
-    { "type": "flip", "importance": 2, "question": "VA ECMO'nun sık endikasyonu olan klinik durumlar nelerdir?", "answer": "Akut miyokard enfarktüsü, fulminan miyokardit, kardiyotoksik ilaç zehirlenmesi, masif pulmoner emboli, son evre kardiyomiyopati, KPB'den ayrılamama (postkardiyotomi şoku) ve refrakter VT/VF.", "source": "ELSO VA 2021" },
-    { "type": "tf", "importance": 3, "statement": "EOLIA çalışmasında erken VV ECMO, ağır ARDS'de 60. gün mortaliteyi istatistiksel olarak anlamlı biçimde azalttı.", "isTrue": false, "explanation": "Mortalite %35 vs %46 idi ama fark anlamlı değildi (p = 0,09). Kontrol grubunun %28'i kurtarıcı ECMO'ya geçti.", "source": "EOLIA, NEJM 2018" },
-    { "type": "tf", "importance": 2, "statement": "Akut solunum yetmezliğine bağlı pulmoner hipertansiyon ve sağ ventrikül disfonksiyonu genellikle VV ECMO ile düzelir.", "isTrue": true, "explanation": "Bu tablo önceden var olan kalp yetmezliği sanılıp gereksiz yere VA ECMO başlatılırsa hasta ek riske girer.", "source": "ELSO VV 2021" },
-    { "type": "tf", "importance": 1, "statement": "SAVE skoru, postkardiyotomi şokundaki hastalarda VA ECMO sağkalımını öngörmek için kullanılır.", "isTrue": false, "explanation": "SAVE, ELSO kayıt verisinden türetilen VA ECMO sağkalım skorudur ama postkardiyotomi hastalarına uygulanmaz. Sınıf I'de sağkalım %75, sınıf V'te %18'dir.", "source": "ELSO VA 2021" },
-    { "type": "remember", "importance": 3, "title": "VV ECMO başlama eşikleri (ELSO 2021)", "body": "Hipoksemik yetmezlik: optimal tedavi ve prone denemesinden sonra **PaO2/FiO2 < 80 mmHg**. Hiperkapnik yetmezlik: optimal ventilasyona rağmen **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.", "source": "ELSO VV 2021" }
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "ECLS'nin temel endikasyonu",
+      "body": "Birincil endikasyon, optimal konvansiyonel tedaviye rağmen yüksek mortalite riski taşıyan **akut, ağır ve potansiyel olarak geri dönüşlü** kalp veya akciğer yetmezliğidir. ELSO'ya göre ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kardiyojenik şokta VA ECMO zamanlaması",
+      "body": "Farmakolojik ve sıvı tedavisine dirençli kardiyojenik şokta VA ECMO, ideal olarak **şok başlangıcından itibaren 6 saat içinde** ve çoklu organ yetmezliği gelişmeden düşünülmelidir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "VA ECMO kontrendikasyonları",
+      "body": "İyileşme beklenmeyen ve VAD/transplant adayı olmayan hasta, **ağır aort yetmezliği**, dal tutulumlu akut aort diseksiyonu, ağır nörolojik hasar ve Child-Pugh B–C siroz başlıca kontrendikasyonlardır. Yaş tek başına mutlak kontrendikasyon değildir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "CESAR çalışması (Lancet 2009)",
+      "body": "Murray skoru > 3,0 veya pH < 7,20 olan 180 erişkinde **ECMO merkezine sevk** stratejisi test edildi. 6. ayda ağır engelsiz sağkalım %63 vs %47 idi (p = 0,03). Sevk kolundaki 90 hastanın 68'i fiilen ECMO aldı.",
+      "source": "CESAR, Lancet 2009"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "EOLIA çalışması (NEJM 2018)",
+      "body": "Ağır ARDS'de erken VV ECMO sınandı (249 hasta). 60. gün mortalite %35 vs %46 idi (RR 0,76; **p = 0,09**, anlamlı değil); kontrol grubunun %28'i kurtarıcı ECMO'ya geçti. Çalışma futilite nedeniyle erken durduruldu.",
+      "source": "EOLIA, NEJM 2018"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ECPR için örnek dahil etme kriterleri",
+      "body": "Yaş < 70, tanıklı arrest, **no-flow < 5 dk**, başlangıç ritmi VF/nabızsız VT/nabızsız elektriksel aktivite, **low-flow < 60 dk**, KPR sırasında ETCO2 > 10 mmHg ve yaşamı sınırlayan komorbidite olmaması.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021 VV kılavuzuna göre optimal tedavi ve prone pozisyon denemesine rağmen süren hipoksemik yetmezlikte VV ECMO eşiği hangisidir?",
+      "options": [
+        "PaO2/FiO2 < 80 mmHg",
+        "PaO2/FiO2 < 150 mmHg",
+        "PaO2/FiO2 < 200 mmHg",
+        "PaO2/FiO2 < 300 mmHg"
+      ],
+      "correct": 0,
+      "explanation": "Eşik EOLIA kriterlerine dayanır. Hiperkapnik yetmezlikte ise eşik pH < 7,25 ve PaCO2 ≥ 60 mmHg'dir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021 VV ECMO kılavuzunda belirtilen tek mutlak kontrendikasyon hangisidir?",
+      "options": [
+        "SSS kanaması veya ciddi SSS hasarı",
+        "Dekanülasyon planı olmadan iyileşme beklenmemesi",
+        "Antikoagülasyonun kontrendike olması",
+        "7 günden uzun, yüksek basınç ve FiO2 ile ventilasyon"
+      ],
+      "correct": 1,
+      "explanation": "Diğer üçü göreceli kontrendikasyondur (SSS: santral sinir sistemi). İleri yaş da görecelidir; kesin bir yaş eşiği yoktur.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO'ya göre ECLS hangi mortalite riskinde düşünülür ve hangi riskte çoğu durumda endikedir?",
+      "options": [
+        "%30'da düşünülür, %50'de endike",
+        "%40'ta düşünülür, %70'te endike",
+        "%50'de düşünülür, %80'de endike",
+        "%60'ta düşünülür, %90'da endike"
+      ],
+      "correct": 2,
+      "explanation": "Genel ilke: ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "CESAR çalışmasında (2009) test edilen strateji ve birincil sonuç hangisidir?",
+      "options": [
+        "Erken VV ECMO; 60. gün mortalite %35 vs %46",
+        "ECCO2R ile düşük Vt; 90. gün mortalite %41,5 vs %39,5",
+        "Parsiyel VA ECMO; sağkalım %9,5 vs %8,3",
+        "ECMO merkezine sevk; 6. ayda engelsiz sağkalım %63 vs %47"
+      ],
+      "correct": 3,
+      "explanation": "CESAR sevk stratejisini test etti. İlk şık EOLIA'ya, ikincisi REST'e, üçüncüsü Zapol (1979) çalışmasına aittir.",
+      "source": "CESAR, Lancet 2009"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO ECPR kılavuzuna göre arrestten ECMO akımının başlamasına kadar geçen \"low-flow\" süresi için hedef hangisidir?",
+      "options": [
+        "< 20 dk",
+        "< 30 dk",
+        "< 90 dk",
+        "< 60 dk"
+      ],
+      "correct": 3,
+      "explanation": "Low-flow süresinin 60 dakikanın altında olması hedeflenir. No-flow (KPR'siz arrest) süresi ise 5 dakikanın altında olmalıdır.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "ELSO 2021'e göre hiperkapnik solunum yetmezliğinde VV ECMO eşiği nedir?",
+      "answer": "Optimal ventilasyona rağmen (solunum sayısı 35/dk, Pplat ≤ 30 cmH2O) **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ECPR'de kanülasyona ne zaman başlanmalıdır? ELSO verisinde erişkin ECPR sağkalımı nedir?",
+      "answer": "10–20 dakikalık başarısız resüsitasyondan sonra; 20 dakikayı aşan refrakter arrestte konvansiyonel KPR ile ROSC/sağkalım olasılığı %5'in altındadır. Erişkin ECPR'de taburculuğa kadar sağkalım **%29**'dur.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "VA ECMO'nun sık endikasyonu olan klinik durumlar nelerdir?",
+      "answer": "Akut miyokard enfarktüsü, fulminan miyokardit, kardiyotoksik ilaç zehirlenmesi, masif pulmoner emboli, son evre kardiyomiyopati, KPB'den ayrılamama (postkardiyotomi şoku) ve refrakter VT/VF.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "EOLIA çalışmasında erken VV ECMO, ağır ARDS'de 60. gün mortaliteyi istatistiksel olarak anlamlı biçimde azalttı.",
+      "isTrue": false,
+      "explanation": "Mortalite %35 vs %46 idi ama fark anlamlı değildi (p = 0,09). Kontrol grubunun %28'i kurtarıcı ECMO'ya geçti.",
+      "source": "EOLIA, NEJM 2018"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Akut solunum yetmezliğine bağlı pulmoner hipertansiyon ve sağ ventrikül disfonksiyonu genellikle VV ECMO ile düzelir.",
+      "isTrue": true,
+      "explanation": "Bu tablo önceden var olan kalp yetmezliği sanılıp gereksiz yere VA ECMO başlatılırsa hasta ek riske girer.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "SAVE skoru, postkardiyotomi şokundaki hastalarda VA ECMO sağkalımını öngörmek için kullanılır.",
+      "isTrue": false,
+      "explanation": "SAVE, ELSO kayıt verisinden türetilen VA ECMO sağkalım skorudur ama postkardiyotomi hastalarına uygulanmaz. Sınıf I'de sağkalım %75, sınıf V'te %18'dir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "VV ECMO başlama eşikleri (ELSO 2021)",
+      "body": "Hipoksemik yetmezlik: optimal tedavi ve prone denemesinden sonra **PaO2/FiO2 < 80 mmHg**. Hiperkapnik yetmezlik: optimal ventilasyona rağmen **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+      "source": "ELSO VV 2021"
+    }
   ]
 }

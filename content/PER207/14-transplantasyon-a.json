@@ -1,0 +1,69 @@
+{
+  "topic": "Transplantasyon ve yeni teknolojiler",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "EVLP",
+      "en": "Ex vivo lung perfusion",
+      "definition": "Donör akciğerinin vücut dışında normotermik perfüzyon ve ventilasyonla değerlendirilmesi/onarılması.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Steen solüsyonu",
+      "en": "STEEN Solution",
+      "definition": "Albümin (onkotik basınç) ve dekstran 40 içeren tamponlu aselüler EVLP perfüzatı.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Organ Bakım Sistemi",
+      "en": "Organ Care System",
+      "definition": "Organı transport sırasında normotermik, kanla perfüze (kalp: atar halde) tutan portatif sistem.",
+      "source": "PROCEED II, Lancet 2015"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DCD",
+      "en": "Donation after circulatory death",
+      "definition": "Dolaşımın durmasıyla ölüm tespiti sonrası organ bağışı.",
+      "source": "Sydney DCD serisi 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DBD",
+      "en": "Donation after brain death",
+      "definition": "Beyin ölümü sonrası organ bağışı.",
+      "source": "Sydney DCD serisi 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "NRP",
+      "en": "Normothermic regional perfusion",
+      "definition": "DCD donörde ölüm tespitinden sonra ECMO ile organların vücut içinde normotermik perfüzyonu.",
+      "source": "Sydney DCD serisi 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DPP",
+      "en": "Direct procurement and perfusion",
+      "definition": "DCD kalbinin soğuk kardiyoplejiyle alınıp ex situ makinede yeniden perfüze edilmesi.",
+      "source": "Sydney DCD serisi 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Primer greft disfonksiyonu",
+      "en": "Primary graft dysfunction",
+      "definition": "Nakil sonrası erken dönemde greftin (ör. akciğer) yetersiz çalışması; VV ECMO endikasyonu.",
+      "source": "ELSO VV 2021"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "topic": "Kanülasyon stratejileri",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kanül",
+      "en": "Cannula",
+      "definition": "ECLS'de doğrudan damara yerleştirilen büyük kateter.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Drenaj kanülü",
+      "en": "Drainage (access) cannula",
+      "definition": "Hastadan devreye kan alan kanül; adlandırmada tireden önce yazılır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Dönüş kanülü",
+      "en": "Return cannula",
+      "definition": "Devreden hastaya kan veren kanül; tireden sonra yazılır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "French",
+      "en": "French gauge",
+      "definition": "Kanül veya kateterin dış çapını ifade eden ölçü birimi. Maastricht adlandırmasında kanül boyutu bu birimle bildirilebilir.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Seldinger tekniği",
+      "en": "Seldinger technique",
+      "definition": "İğneyle ponksiyon – kılavuz tel – seri dilatasyon – kanül yerleştirme.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Yarı-Seldinger",
+      "en": "Semi-Seldinger",
+      "definition": "Damar cut-down ile görülüp ciltten Seldinger ile kanüle edilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Cut-down",
+      "en": "Surgical cut-down",
+      "definition": "Damarın cerrahi olarak açılıp doğrudan kanüle edilmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Periferik kanülasyon",
+      "en": "Peripheral cannulation",
+      "definition": "Göğüs/karın boşluğu dışındaki damarlara (femoral, juguler, aksiller) kanülasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Santral kanülasyon",
+      "en": "Central cannulation",
+      "definition": "Kalp, intratorasik aort veya pulmoner artere sternotomi/torakotomiyle kanülasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Çift lümenli kanül",
+      "en": "Dual-lumen cannula",
+      "definition": "Drenaj ve dönüş lümenini tek kanülde birleştiren VV kanülü; bikaval tipte RIJ'den yerleştirilir, dönüş jeti triküspite yönelir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Distal perfüzyon kanülü",
+      "en": "Distal perfusion cannula",
+      "definition": "Femoral arteriyel ECMO kanülünün distalindeki ekstremiteye kan ulaştırmak amacıyla yerleştirilen ek kanül.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Sefalik kanül",
+      "en": "Cephalad (jugular bulb) cannula",
+      "definition": "İç juguler vene kafa yönünde konan, drenajı artırıp serebral venöz konjesyonu azaltan kanül (yenidoğan).",
+      "source": "ELSO Neonatal 2013"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Chimney greft",
+      "en": "Chimney graft",
+      "definition": "Aksiller/subklavyen artere uç-yan dikilen greft üzerinden arteriyel kanülasyon; kol hiperperfüzyonu riski.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Yakın kızılötesi ışıkla beyin/bacak doku oksijenasyonunun izlenmesi.",
+      "source": "ELSO VA 2021"
+    }
+  ]
+}

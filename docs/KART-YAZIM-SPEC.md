@@ -452,12 +452,14 @@ Derleme çıktısı örneği:
 
 | Ders | Araştırma | Kart | Durum |
 |---|---|---|---|
-| PER141 | tamam (154 KB) | 0 | başlanmadı |
-| PER207 | tamam (158 KB) | 102 | Hazır olanlar: konular 01–06'nın `-b` dosyaları (fact, flip, remember, mcq, tf) ve konu 13'ün pilot dosyaları (`-a`, `-b`). Eksik olanlar: konular 01–06'nın terim/karşılaştırma kartları ve 07–12, 14–17'nin hepsi. Doğrulama yapılmadı. |
-| PER241 | tamam (160 KB) | 0 | başlanmadı |
-| PER243 | tamam (185 KB) | 0 | başlanmadı |
-| PER245 | tamam (175 KB) | 0 | başlanmadı |
-| PER247 | tamam (190 KB) | 0 | başlanmadı |
+| PER141 | kaynaklı araştırma hazır | 510 | 18 konu üretildi; doğrulama kayıtları mevcut |
+| PER207 | kaynaklı araştırma hazır | 309 | 17 konuda terimler üretildi; diğer türler ve bağımsız son inceleme sürüyor |
+| PER241 | kaynaklı araştırma hazır | 524 | 16 konu üretildi; doğrulama kayıtları mevcut |
+| PER243 | kaynaklı araştırma hazır | 562 | 16 konu üretildi; doğrulama kayıtları mevcut |
+| PER245 | kaynaklı araştırma hazır | 0 | Kart üretimi sürüyor; bu ara yayına alınmadı |
+| PER247 | kaynaklı araştırma hazır | 0 | Kart üretimi sürüyor; bu ara yayına alınmadı |
+
+Ara yayın toplamı **1.905 karttır**. Henüz derslerin tamamlanma ölçütleri sağlanmamıştır; güncel kalan kapsam `docs/KALAN-IS-MINI-SPEC.md` dosyasındadır.
 
 **Hazır olanlar:**
 - Site kodu tamam ve test edildi (57 test). Kapsadığı özellikler:

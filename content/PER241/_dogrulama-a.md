@@ -313,3 +313,12 @@
 - Her dosya kaydından sonra `node scripts/build-data.mjs PER241` hatasız çalıştırıldı. Son durumda 524kart: term216/fact102/flip47/mcq76/tf36/remember27/compare20; dağılım uyarısı yok.
 - 16konu kapsandı; en az konu12de17kart. MCQ doğru konumları 19/19/19/19, TF18doğru/18yanlış. Bütün kartlarda source var; şema, sınırlar ve kalıcı kimlik eşsizliği derleyiciyle kontrol edildi.
 - Ana bilgi terimden sonra ikinci kullanımda farklı soru biçimiyle işlendi; karşılaştırmalarda tekrar eden ilgili kavramların ilişkileri birlikte sunuldu. Eş anlamlı terim, aynalı soru ve otomatik olumsuzlaştırma dizisi oluşturulmadı.
+
+
+## 2026-10-08 devam turu: Türkçe ek denetimi
+- 09-siyanotik-a.json #8 `definition`: Aortun sağ ventrikül'den, pulmoner arterin sol ventrikül'den çıktığı ventrikülo-arteriyel diskordans. → Aortun sağ ventrikülden, pulmoner arterin sol ventrikülden çıktığı ventrikülo-arteriyel diskordans.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
+- 09-siyanotik-a.json #16 `definition`: Her iki büyük arterin tamamen/çoğunlukla sağ ventrikül'den çıkması. → Her iki büyük arterin tamamen/çoğunlukla sağ ventrikülden çıkması.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
+- 02-kalp-anatomisi-a.json #13 `definition`: sağ ventrikül'de septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır. → sağ ventrikülde septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
+- 02-kalp-anatomisi-a.json #14 `definition`: sağ ventrikül'nin pulmoner kapağa uzanan düz duvarlı çıkış yolu; TOF'ta darlığın yeri. → sağ ventrikülün pulmoner kapağa uzanan düz duvarlı çıkış yolu; TOF'ta darlığın yeri.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
+- 13-operasyonlar-a.json #5 `definition`: pulmoner arter'ya kısıtlayıcı bant; pulmoner akım ve basıncı azaltır, TGA'da sol ventrikül'yi hazırlar. → pulmoner artere kısıtlayıcı bant; pulmoner akım ve basıncı azaltır, TGA'da sol ventrikülü hazırlar.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
+- 13-operasyonlar-a.json #17 `definition`: VSD'den aortaya baffle + sağ ventrikül'den pulmoner arter'ya kapaklı kondüit. → VSD'den aortaya baffle + sağ ventrikülden pulmoner artere kapaklı kondüit.. Yalnızca Türkçe ek yazımı düzeltildi; tıbbi içerik değişmedi.
