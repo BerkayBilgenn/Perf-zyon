@@ -1,0 +1,99 @@
+{
+  "topic": "Hemostaz ve pıhtılaşma testleri",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fibrinojeni fibrine dönüştüren enzim hangisidir?",
+      "options": [
+        "Plazmin",
+        "Antitrombin",
+        "PAI-1",
+        "Trombin"
+      ],
+      "correct": 3,
+      "explanation": "Trombin fibrinojenden fibrin oluşmasını sağlar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fibrin polimerlerini çapraz bağlayan faktör hangisidir?",
+      "options": [
+        "Faktör XIII",
+        "Faktör VII",
+        "Faktör IX",
+        "Faktör XII"
+      ],
+      "correct": 0,
+      "explanation": "Aktive faktör XIII fibrin zincirlerini kovalent çapraz bağlarla sağlamlaştırır.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparin etkisini ayırmak için INTEM ile hangi ROTEM testi karşılaştırılır?",
+      "options": [
+        "FIBTEM",
+        "HEPTEM",
+        "EXTEM",
+        "APTEM"
+      ],
+      "correct": 1,
+      "explanation": "HEPTEM heparinaz içeren INTEM'dir; iki test arasındaki fark heparin etkisini değerlendirmeye yardım eder.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hemofili B hangi faktör eksikliğiyle ilişkilidir?",
+      "options": [
+        "Faktör VIII",
+        "Faktör XI",
+        "Faktör IX",
+        "Faktör XIII"
+      ],
+      "correct": 2,
+      "explanation": "Hemofili B, Christmas hastalığı, faktör IX eksikliğidir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "D-dimerin kaynağı hangisidir?",
+      "options": [
+        "Yeni trombinin sentezi",
+        "Trombositlerin üretimi",
+        "Kalsiyumun bağlanması",
+        "Çapraz bağlı fibrinin yıkımı"
+      ],
+      "correct": 3,
+      "explanation": "D-dimer, çapraz bağlı fibrinin plazminle yıkılmasıyla oluşur.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Hemofili A, faktör IX eksikliğidir.",
+      "isTrue": false,
+      "explanation": "Hemofili A faktör VIII eksikliğidir; faktör IX eksikliği hemofili B'dir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Prostasiklin trombosit agregasyonunu inhibe eder.",
+      "isTrue": true,
+      "explanation": "Prostasiklin ve tromboksan dengesi trombosit aktivasyonunun yerel tutulmasına katkı sağlar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Reptilaz zamanı heparin etkisiyle uzar.",
+      "isTrue": false,
+      "explanation": "Reptilaz zamanı heparinden etkilenmez; trombin zamanı ise heparinle uzayabilir.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    }
+  ]
+}

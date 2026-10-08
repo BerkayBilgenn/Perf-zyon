@@ -1,0 +1,61 @@
+{
+  "topic": "Pediatrik kalp yetmezliği",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Bebekte yetmezliğin beslenme bulgusu",
+      "body": "Beslenirken **dispne ve terleme**, kalp yetmezliğinin önemli belirtileridir. Süt alımı sırasında artan efor tabloyu görünür hale getirir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Büyüme üzerinden ipucu",
+      "body": "Bebekte **kilo alamama**, taşipne ve hepatomegaliyle birlikte kalp yetmezliğini düşündürebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Hacim yükü kaynakları",
+      "body": "Büyük soldan sağa şantlar ve kapak yetersizlikleri, pediatrik kalpte **hacim yükü** oluşturabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Basınç yükü kaynakları",
+      "body": "Aortik obstrüksiyon ve koarktasyon **sol ventrikülün basınç yükünü** artırabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Koroner kökenli yetmezlik",
+      "body": "ALCAPA'da miyokard iskemisi, **ventrikül disfonksiyonu ve mitral yetersizliğiyle** kalp yetmezliği oluşturabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Ritim bozukluğuyla yetmezlik",
+      "body": "Konjenital düzeltilmiş transpozisyonda **atriyoventriküler blok**, pediatrik kalp yetmezliğinin ritimle ilişkili nedenlerinden biridir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Ödemin KPB ile ilişkisi",
+      "body": "KPB'nin tetiklediği inflamasyon, damar dışına sıvı kaçışını artırıp **interstisyel ödem ve organ disfonksiyonuna** katkıda bulunur."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Nedenin düzeltilmesi neden önemlidir?",
+      "answer": "Semptomların giderilmesine ek olarak **altta yatan yapısal lezyonun düzeltilmesi**, şant veya obstrüksiyonun kalbe yükünü ortadan kaldırmayı hedefler."
+    }
+  ]
+}

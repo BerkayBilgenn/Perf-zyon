@@ -1,0 +1,65 @@
+{
+  "topic": "Preoperatif değerlendirme ve risk skorları",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "ASA fiziksel durum sınıflaması",
+      "en": "ASA physical status",
+      "definition": "Anestezi öncesi hastanın sistemik hastalık yükünü tanımlayan fiziksel durum sınıflaması; cerrahiye özgü mortalite yüzdesi hesaplamaz.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "NYHA sınıflaması",
+      "en": "NYHA functional class",
+      "definition": "Kalp yetersizliği semptomlarına göre fiziksel aktivite kısıtlılığını ve istirahatteki semptom durumunu tanımlayan fonksiyonel sınıflama.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "CCS sınıflaması",
+      "en": "CCS angina class",
+      "definition": "Eforla ortaya çıkan anjinanın hastanın olağan fiziksel aktivitesini ne ölçüde kısıtladığını tanımlayan sınıflama.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "EuroSCORE II",
+      "en": "EuroSCORE II",
+      "definition": "Kalp cerrahisi hastalarında hastane mortalitesi olasılığını hasta, kalp ve operasyon değişkenlerinden hesaplayan lojistik risk modeli.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "STS skoru",
+      "en": "STS risk score",
+      "definition": "Erişkin kalp cerrahisinde operatif mortalite ve majör morbiditeyi öngören risk hesaplayıcısı.",
+      "source": "STS risk hesaplayıcısı"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Semptoma göre sınıflama",
+      "left": {
+        "title": "NYHA",
+        "points": [
+          "Kalp yetersizliği semptomları",
+          "Nefes darlığı ve yorgunlukla aktivite kısıtlılığı"
+        ]
+      },
+      "right": {
+        "title": "CCS",
+        "points": [
+          "Anjina semptomları",
+          "Eforla göğüs ağrısının aktiviteyi kısıtlaması"
+        ]
+      },
+      "source": "NYHA / CCS sınıflamaları"
+    }
+  ]
+}

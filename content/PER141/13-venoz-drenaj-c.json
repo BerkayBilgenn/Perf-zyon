@@ -1,0 +1,77 @@
+{
+  "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Venöz hatta hava kilidi oluşması gravite drenajını nasıl etkiler?",
+      "options": [
+        "Sifonu güçlendirip akımı artırır",
+        "Sifonu kesip drenajı azaltabilir",
+        "Arteriyel kanülü sterilize eder",
+        "Gaz fraksiyonunu yükseltir"
+      ],
+      "correct": 1,
+      "explanation": "Hava birikimi sıvı sütununun sürekliliğini bozarak gravite drenajını durdurabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "VAVD hangi düzenekle negatif basıncı ayarlar?",
+      "options": [
+        "Anestezik vaporizer",
+        "Gaz blenderi",
+        "Vakum regülatörü",
+        "Su sirkülasyon pompası"
+      ],
+      "correct": 2,
+      "explanation": "VAVD'de rezervuarın kapağına bağlanan kontrollü vakum regülatörü kullanılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KAVD'de kinetik desteği sağlayan pompa hangisidir?",
+      "options": [
+        "Roller kardiyopleji pompası",
+        "Su tankı pompası",
+        "İlaç infüzyon pompası",
+        "Santrifügal pompa"
+      ],
+      "correct": 3,
+      "explanation": "KAVD venöz hatta santrifügal pompayla negatif basınç oluşturur.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Gravite drenajını azaltabilecek hasta kaynaklı etken hangisidir?",
+      "options": [
+        "Hipovolemi",
+        "Artmış dolaşan hacim",
+        "Yeterli venöz dolum",
+        "Uygun kanül konumu"
+      ],
+      "correct": 0,
+      "explanation": "Kanama veya kompartmanlara kan kaybıyla hipovolemi venöz dönüşü azaltabilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Yardımlı venöz drenaj için kullanılan rezervuar bu kullanıma onaylı olmalıdır.",
+      "isTrue": true,
+      "explanation": "EACTS 2024, yardımlı drenaj için onaylı rezervuar kullanılmasını önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Negatif basıncın artırılması venöz mikroemboli riskini azaltır.",
+      "isTrue": false,
+      "explanation": "Aşırı negatif basınç gazlı mikroemboli oluşumunu ve iletimini artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

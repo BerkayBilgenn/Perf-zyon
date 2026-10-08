@@ -1,0 +1,82 @@
+{
+  "topic": "Kas gevşeticiler ve antagonistleri",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Süksinilkolin ve denervasyon",
+      "body": "Denervasyon, yanık ve ağır travma sonrasında süksinilkolin **tehlikeli hiperkalemi** oluşturabilir.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Roküronyumun eliminasyonu",
+      "body": "Roküronyumun eliminasyonunda **karaciğer** önemlidir; karaciğer hastalığında blok süresi uzayabilir.",
+      "source": "DailyMed: roküronyum"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Veküronyumun aktif metaboliti",
+      "body": "Veküronyumun **3-desasetilveküronyum** adlı aktif metaboliti bulunur.",
+      "source": "DailyMed: veküronyum"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Sisatraküryum ve sugammadeks",
+      "body": "Sugammadeks benzilizokinolinleri kapsüllemez; **sisatraküryum bloğunun** geri çevrilmesinde bu ajan kullanılmaz.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Hipotermide kas gevşetici",
+      "body": "Hipotermik kardiyopulmoner bypassta kas gevşetici gereksinimi azalabilir ve **etki süresi uzayabilir**. Doz ve izlem sıcaklıkla birlikte değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Adduktor pollisis ve soğuma",
+      "body": "Hipotermi adduktor pollisis yanıtını değiştirerek nöromüsküler monitörizasyonun yorumunu **yanıltabilir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Post-tetanik sayım hangi blok durumunda bilgi sağlar?",
+      "answer": "Dörtlü uyarıya yanıt alınmayan **derin nöromüsküler blokta** tetanik uyarı sonrası yanıtlar değerlendirilir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sugammadeks dozunu neden yalnız ilaç adı belirlemez?",
+      "answer": "Doz, nöromüsküler monitörle saptanan **blok derinliği ve geri çevirme zamanına** göre belirlenir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Süksinilkolinden sonra görülen kas seğirmeleri hangi terimle adlandırılır?",
+      "answer": "**Fasikülasyon**; gözle görülen istemsiz kas seğirmeleridir.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Neostigminle antimuskarinik",
+      "body": "Neostigmin uygulamasında **atropin veya glikopirolat**, bradikardi gibi muskarinik etkileri önlemek için önce ya da eş zamanlı verilir.",
+      "source": "DailyMed: neostigmin"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Sugammadeks ve ciddi reaksiyon",
+      "body": "Sugammadeks sonrası **anafilaksi ve belirgin bradikardi** görülebilir; bazı bradikardi olguları kardiyak arrestle ilişkilidir.",
+      "source": "Bridion ürün bilgisi"
+    }
+  ]
+}

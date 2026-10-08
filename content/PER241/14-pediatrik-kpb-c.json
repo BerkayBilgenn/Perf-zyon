@@ -1,0 +1,63 @@
+{
+  "topic": "Pediatrik KPB'nin temelleri",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Hendrix ve ark. 2021",
+      "question": "Prime terimi hangi hazırlığı ifade eder?",
+      "options": [
+        "Devrenin kaçak yönünden basınçla sınanması",
+        "Pompa yönünün kontrol edilmesi",
+        "Gaz hattının oksijenatöre bağlanması",
+        "Devrenin solüsyonla havasız doldurulması"
+      ],
+      "correct": 3,
+      "explanation": "Prime devreyi dolaşıma hazır ve havasız hale getiren dolgu ve işlemdir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Groom ve ark. 2005",
+      "question": "VAVD hangi mekanizmayla venöz drenajı destekler?",
+      "options": [
+        "Rezervuara kontrollü negatif basınç",
+        "Arteriyel kanüle pozitif gaz basıncı",
+        "Koroner sinüse hızlı kardiyopleji",
+        "Pulmoner vene seçici CO2 verilmesi"
+      ],
+      "correct": 0,
+      "explanation": "Vakum yardımlı venöz drenaj rezervuara negatif basınç uygulanmasına dayanır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Ramakrishnan ve ark. 2023",
+      "question": "Kardiyak indeks hangi oranı ifade eder?",
+      "options": [
+        "Kan hacmi / kalp hızı",
+        "Kardiyak debi / vücut yüzey alanı",
+        "Pulmoner akım / sistemik akım",
+        "Eritrosit hacmi / prime hacmi"
+      ],
+      "correct": 1,
+      "explanation": "Kardiyak indeks debinin vücut yüzey alanına göre normalize edilmesidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Hendrix ve ark. 2021",
+      "statement": "Neonatal kanlı prime eritrosit süspansiyonu ve plazma içerebilir.",
+      "isTrue": true,
+      "explanation": "Kan ürünleri hemodilüsyon ve koagülasyon gereksinimleri göz önüne alınarak kullanılır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "statement": "Saklanmış eritrositlerin yıkanması neonatal prime üzerindeki potasyum yükünü artırmayı amaçlar.",
+      "isTrue": false,
+      "explanation": "Eritrosit yıkama potasyum ve laktat yükünü azaltmak için kullanılır."
+    }
+  ]
+}

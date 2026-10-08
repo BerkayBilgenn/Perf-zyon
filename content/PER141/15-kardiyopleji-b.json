@@ -1,0 +1,75 @@
+{
+  "topic": "Kardiyopleji ve miyokard koruma",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Buckberg karışım oranı",
+      "body": "EACTS 2024'e göre Buckberg kardiyoplejisinde **4 kısım kan : 1 kısım kristaloid** vardır. Bazı derlemelerde ters aktarım bulunduğundan oran kaynak adıyla öğrenilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "del Nido oranı ve süre",
+      "body": "EACTS 2024, del Nido için **1 kısım kan : 4 kısım kristaloid** ve tek dozla yaklaşık 90 dakikaya kadar kullanım bildirir; yeniden dozlama işlem ve protokole bağlıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Kardiyoplejide basıncın ölçüm yeri",
+      "body": "EACTS 2024 antegrad **aort kökünü 60–100 mmHg**, retrograd koroner sinüsü 30–50 mmHg olarak verir. Hat basıncıyla kök veya sinüs basıncı aynı ölçüm değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aralıklı kardiyoplejinin yenilenmesi",
+      "body": "EACTS 2024'te çok dozlu soğuk kardiyoplejinin genellikle **20–30 dakikada** yenilendiği belirtilir. Tek doz stratejileri ve merkez protokolleri farklıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "St Thomas potasyum değerleri",
+      "body": "Francica 2021'e göre St Thomas No.1 **20 mmol/L**, No.2 16 mmol/L potasyum içerir; her ikisinde magnezyum 16 mmol/L'dir.",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "del Nido'daki lidokain ve magnezyum miyokardı nasıl korumayı amaçlar?",
+      "answer": "Lidokain sodyum kanallarını bloke eder; magnezyum kalsiyum antagonizması sağlar. Hücre içi kalsiyum yüklenmesi sınırlanır.",
+      "source": "del Nido RKÇ 2022"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Kardiyopleji ile hipotermi birlikte miyokardın hangi gereksinimini azaltır?",
+      "answer": "Elektromekanik arrest ve soğuma, **miyokard oksijen gereksinimini** azaltır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sıcak kardiyoplejinin kesintisiz ve homojen verilmesi neden önemlidir?",
+      "answer": "Akımın kesilmesi sıcak iskemiye yol açabilir; sıcak miyokardın metabolik gereksinimi sürer.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "HTK sonrası sodyumu bağlamıyla yorumla",
+      "body": "HTK'nin düşük sodyumu **izo-ozmotik hiponatremi** oluşturabilir. EACTS 2024 bu düşüşü otomatik düzeltmemeyi vurgular; uygunsuz düzeltme hiperozmolarite riski taşır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kardiyopleji güvenliği ayrı izlenir",
+      "body": "Kardiyopleji **dozu, yolu, basıncı ve iskemi süresi** izlenir. Set havasız olmalı, solüsyon doğrulanmalı ve basınçlandırmada kaçak bulunmamalıdır.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

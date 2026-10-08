@@ -1,0 +1,133 @@
+{
+  "topic": "IV anestezikler, opioidler ve antagonistleri",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Propofol",
+      "en": "Propofol",
+      "definition": "Lipid emülsiyonu halinde kısa etkili intravenöz hipnotik; belirgin hipotansiyon yapar.",
+      "source": "DailyMed: propofol"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Propofol infüzyon sendromu",
+      "en": "Propofol infusion syndrome",
+      "definition": "Uzun süre yüksek doz propofolle metabolik asidoz, hiperkalemi, rabdomiyoliz, kalp ve böbrek yetersizliği.",
+      "source": "DailyMed: propofol"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Etomidat",
+      "en": "Etomidate",
+      "definition": "İntravenöz hipnotik; miyokard ve dolaşım üzerine görece az etki göstererek hemodinamik stabilite sağlayabilir.",
+      "source": "DailyMed: etomidat"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ketamin",
+      "en": "Ketamine",
+      "definition": "NMDA reseptörünü antagonize eden disosiyatif anestezik; kan basıncı ve kalp hızını artırabilir.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Tiyopental",
+      "en": "Thiopental",
+      "definition": "gama-aminobütirik asit aracılı etki gösteren intravenöz barbitürat hipnotik; kısa etkisinin sonlanması redistribüsyonla ilişkilidir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Redistribüsyon",
+      "en": "Redistribution",
+      "definition": "İlacın beyinden kas/yağ gibi dokulara yeniden dağılarak etkisinin sonlanması.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Midazolam",
+      "en": "Midazolam",
+      "definition": "Kısa etkili benzodiazepin; sedasyon, amnezi, premedikasyon; antidotu flumazenil.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Deksmedetomidin",
+      "en": "Dexmedetomidine",
+      "definition": "Santral α2-adrenerjik agonist sedatif; bradikardi ve hipotansiyon oluşturabilir.",
+      "source": "DailyMed: deksmedetomidin"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Opioid",
+      "en": "Opioid",
+      "definition": "Opioid reseptörlerine (özellikle µ) bağlanan analjezik; solunum depresyonu, bradikardi ve rijidite yapabilir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Fentanil",
+      "en": "Fentanyl",
+      "definition": "Sentetik µ-opioid reseptör agonisti analjezik; kardiyak anestezide cerrahi stres yanıtını baskılamak için kullanılabilir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sufentanil",
+      "en": "Sufentanil",
+      "definition": "Fentanilden daha güçlü sentetik µ-opioid reseptör agonisti analjezik.",
+      "source": "DailyMed: sufentanil"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Remifentanil",
+      "en": "Remifentanil",
+      "definition": "Nonspesifik kan ve doku esterazlarıyla yıkılan, çok kısa etkili µ-opioid reseptör agonisti.",
+      "source": "DailyMed: remifentanil"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bağlama duyarlı yarılanma süresi",
+      "en": "Context-sensitive half-time",
+      "definition": "İnfüzyon kesildikten sonra plazma ilaç düzeyinin yarıya inmesi için gereken süre; infüzyon süresine bağlı olarak değişebilir.",
+      "source": "Local Reg Anesth 2010: remifentanil"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Göğüs duvarı rijiditesi",
+      "en": "Opioid-induced muscle rigidity",
+      "definition": "Hızlı/yüksek doz opioidle solunum kaslarının sertleşmesi; ventilasyonu güçleştirir, kas gevşeticiyle düzelir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Nalokson",
+      "en": "Naloxone",
+      "definition": "Kompetitif opioid antagonisti; etkisi bazı opioidlerden kısa sürebilir.",
+      "source": "DailyMed: nalokson"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Flumazenil",
+      "en": "Flumazenil",
+      "definition": "Benzodiazepin reseptör antagonisti; nöbet riski ve yeniden sedasyon olabilir.",
+      "source": "DailyMed: flumazenil"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "Heparinizasyon ve ACT",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparine bağlanma bölgesi",
+      "body": "Heparinin antitrombine bağlanmasında özgül **pentasakkarit dizisi** önemlidir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparin başlangıç dozu değişkenliği",
+      "body": "BJA Education 2023 toplam vücut ağırlığına göre **300–400 IU/kg** heparini bildirir. 2024 PBM kılavuzunda başlangıç aralığı 300–600 IU/kg'dır; kurum ve stratejiye göre değişir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT hedefinin bağlamı",
+      "body": "2024 KPB kılavuzunda özellikle kaplamasız devre ve kardiyotomi aspirasyonunda **ACT >480 sn** uygun kabul edilir. Ölçüm cihazı ve devreye göre hedef değişebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparin ve priming",
+      "body": "Heparin yönetiminde devrenin **priming hacmi ve priminge eklenen heparin** de dikkate alınır; yalnız hastaya verilen bolus değerlendirilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparinde doğrusal olmayan yanıt",
+      "body": "Heparin doz-yanıtı **doğrusal değildir**; doz arttığında antikoagülan yanıtın ve etkinin süresinin artması aynı basit oranda gerçekleşmez.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT ve konsantrasyon ayrışması",
+      "body": "Hemodilüsyon, hipotermi ve faktör değişiklikleri nedeniyle **ACT ile heparin konsantrasyonu ayrışabilir**.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Hepcon HMS heparin doz-yanıtını nasıl değerlendirir?",
+      "answer": "Kan örneğini **farklı heparin miktarlarına maruz bırakarak** hastanın bireysel yanıtını değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "KPB kontrol listesi tamamlandığında ekip bunu nasıl doğrular?",
+      "answer": "Ekip **time-out** sırasında listenin tamamlandığını ortak biçimde onaylar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Hipotermi ACT'yi heparinden bağımsız nasıl değiştirebilir?",
+      "answer": "Hipotermi **ACT'yi uzatabilir**; bu nedenle uzama yalnız daha fazla heparin etkisi anlamına gelmez.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Ölçmeden bypass başlatma",
+      "body": "Kardiyopulmoner bypass başlamadan önce **ACT ile yeterli antikoagülasyon** gösterilmelidir; verilen heparin dozu tek başına yeterlilik kanıtı değildir.",
+      "source": "BJA Education 2023: heparin"
+    }
+  ]
+}

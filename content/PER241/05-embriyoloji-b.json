@@ -1,0 +1,75 @@
+{
+  "topic": "Kardiyovasküler embriyoloji",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalbin embriyolojik kökeni",
+      "body": "Kalbin gelişimi **mezodermdeki kardiyojenik alanda** başlar."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Primitif tüpte kan hangi yönde akar?",
+      "answer": "**Sinüs venozustan trunkus arteriyozusa**, yani kaudal uçtan kranial uca doğru akar."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalp tüpünün segment sırası",
+      "body": "Kranialden kaudale: trunkus arteriyozus, bulbus kordis, **primitif ventrikül**, primitif atriyum ve sinüs venozus."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Primitif ventrikül hangi ventrikülün gelişimine katılır?",
+      "answer": "**Primitif ventrikül**, sol ventrikülün gelişimine katılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "title": "Atriyumun trabeküllü bölümleri",
+      "body": "Primitif atriyum, atriyumların **ön ve trabeküllü bölümleri ile aurikulaları** oluşturur."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Sinüs venozusun sol boynuzu neye dönüşür?",
+      "answer": "**Koroner sinüse** dönüşür; sağ boynuz sağ atriyumun düz duvarına katılır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Ostium sekundum embriyolojik olarak nasıl oluşur?",
+      "answer": "Septum primum içinde **apoptozla oluşan açıklıkların birleşmesi**, ostium sekundumu meydana getirir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "title": "Membranöz septumun oluşumu",
+      "body": "**Endokardiyal yastıklarla bulbar sırtların kaynaşması** membranöz ventriküler septumun oluşumuna katılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "TAPVR'nin embriyolojik bağlantısı",
+      "body": "Pulmoner venlerin **sol atriyuma bağlanamaması**, pulmoner venöz dönüşün sistemik venöz bağlantılara yönelmesiyle sonuçlanabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalbin ilk atımı",
+      "body": "OpenStax'a göre kalp, döllenmeden sonra **21–22. günde** atmaya başlar; gelişim zamanını kaynakla birlikte öğren."
+    }
+  ]
+}

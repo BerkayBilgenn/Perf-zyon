@@ -1,0 +1,63 @@
+{
+  "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Yan ve ark. 2013",
+      "question": "DHCA'da pompa akımının durumu hangisidir?",
+      "options": [
+        "Yalnız pulmoner artere artırılır",
+        "Normotermik tam akım sürer",
+        "Tamamen durdurulur",
+        "Yalnız koroner sinüse yönlendirilir"
+      ],
+      "correct": 2,
+      "explanation": "DHCA derin hipotermi altında tüm dolaşım akımının durdurulmasıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Yan ve ark. 2013",
+      "question": "Elektroserebral sessizlik hangi izlemede saptanır?",
+      "options": [
+        "Elektrokardiyogram",
+        "Arteriyel kan gazı",
+        "Merkezi venöz basınç",
+        "Elektroensefalogram"
+      ],
+      "correct": 3,
+      "explanation": "EEG, serebral elektriksel aktivitenin baskılanmasını ve sessizliği gösterir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Groom ve ark. 2005",
+      "question": "Düşük akımlı KPB'yi DHCA'dan ayıran özellik hangisidir?",
+      "options": [
+        "Azaltılmış sistemik akımın sürmesi",
+        "Sistemik akımın sıfıra indirilmesi",
+        "Hipoterminin hiç kullanılmaması",
+        "Yalnız venöz basıncın izlenmesi"
+      ],
+      "correct": 0,
+      "explanation": "Düşük akımda tüm vücuda azaltılmış akım devam eder; DHCA'da akım durur."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "NIRS yalnızca kalbin elektriksel ritmini ölçer.",
+      "isTrue": false,
+      "explanation": "NIRS yakın kızılötesi ışıkla dokunun oksijenlenmesini izler; ritim ölçümü değildir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Groom ve ark. 2005",
+      "statement": "Selektif serebral perfüzyonda ark cerrahisi sırasında beyne akım sürdürülebilir.",
+      "isTrue": true,
+      "explanation": "Tekniğin amacı beyne seçici antegrad perfüzyon sağlamaktır."
+    }
+  ]
+}

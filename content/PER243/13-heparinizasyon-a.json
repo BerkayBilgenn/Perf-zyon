@@ -1,0 +1,37 @@
+{
+  "topic": "Heparinizasyon ve ACT",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Aktivatör eklenmiş tam kanın pıhtılaşması için geçen süreyi ölçen yatak başı test; kardiyopulmoner bypass sırasında heparin etkisini izler.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Antitrombin",
+      "en": "Antithrombin (eski adı AT III)",
+      "definition": "Trombin ve aktive faktör Xa başta olmak üzere aktif pıhtılaşma faktörlerini inhibe eden doğal antikoagülan; heparinin kofaktörüdür.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Fraksiyone olmayan heparin",
+      "en": "Unfractionated heparin (UFH)",
+      "definition": "Antitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu artıran antikoagülan; kardiyopulmoner bypassta yaygın kullanılır.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "HMS",
+      "en": "Hemostasis management system",
+      "definition": "Heparin doz-yanıtı ve protamin titrasyonuyla heparin konsantrasyonunu ölçen yatak başı sistem.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

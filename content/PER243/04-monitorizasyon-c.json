@@ -1,0 +1,77 @@
+{
+  "topic": "Kardiyak cerrahide monitörizasyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner arter kateterinden hangi oksijen satürasyonu örneklenir?",
+      "options": [
+        "Arteriyel satürasyon",
+        "Karışık venöz satürasyon",
+        "Koroner sinüs satürasyonu",
+        "Bölgesel serebral satürasyon"
+      ],
+      "correct": 1,
+      "explanation": "Pulmoner arterdeki kan karışık venöz kanı temsil eder; SvO2 ölçülür.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Modifiye Allen testi neyi değerlendirir?",
+      "options": [
+        "Sol ventrikül kasılmasını",
+        "Pulmoner kapak açıklığını",
+        "Elin kollateral dolaşımını",
+        "Beynin elektriksel etkinliğini"
+      ],
+      "correct": 2,
+      "explanation": "Test radial-ulnar palmar ark yoluyla elin kollateral kan akımını değerlendirir.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Arter dalga formundan kalp debisi tahmin eden yöntem hangisidir?",
+      "options": [
+        "Termodilüsyon",
+        "Kapnografi",
+        "Serebral oksimetri",
+        "Nabız kontur analizi"
+      ],
+      "correct": 3,
+      "explanation": "Nabız kontur analizi arter dalga formuna dayanır; kalp cerrahisinde rutin kullanımı önerilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Güvenli KPB'de arteriyel pompa akımı hangi noktaya yakın ölçülmelidir?",
+      "options": [
+        "Hastaya yakın noktadan",
+        "Pompa başlığına yakın noktadan",
+        "Venöz rezervuar girişinden",
+        "Kardiyotomi dönüş hattından"
+      ],
+      "correct": 0,
+      "explanation": "2024 KPB kılavuzu pompa akımının hastaya yakın ölçülmesini önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "2024 KPB kılavuzunda pulmoner arter kateteri seçilmiş hastalarda kullanılabilir; rutin kullanım desteklenmez.",
+      "isTrue": true,
+      "explanation": "Rutin kullanım için yeterli randomize kanıt yoktur; seçilmiş hastalarda rolü bulunur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Serebral NIRS, bölgesel doku oksijenasyonunu invaziv arter kanülünden ölçer.",
+      "isTrue": false,
+      "explanation": "NIRS yakın kızılötesi ışıkla noninvaziv bölgesel doku oksijenasyonu değerlendirmesidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

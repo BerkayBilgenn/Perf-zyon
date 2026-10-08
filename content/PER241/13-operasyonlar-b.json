@@ -1,0 +1,75 @@
+{
+  "topic": "Palyatif ve düzeltici operasyonlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "PA bandında takip edilen sorunlar",
+      "body": "Pulmoner arter bandının **yer değiştirmesi ve arterde distorsiyon** oluşturması takipte önem taşır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Arteriyel switch'te koronerler",
+      "body": "Büyük arterler değiştirilirken **koroner ağızlar neo-aortaya aktarılır**; koroner transfer onarımın temel adımıdır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Rastelli'de tekrar girişim nedeni",
+      "body": "Sağ ventrikül–pulmoner arter kondüitinde **darlık** gelişmesi veya büyümeyle uyumsuzluk, yeniden girişim gerektirebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Ross'ta büyüme avantajı",
+      "body": "Pulmoner otogreft **çocukla birlikte büyüyebilir**; pediatrik aort kapak cerrahisinde önemli avantajdır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Ross'un iki kapak riski",
+      "body": "Aort pozisyonundaki otogreft dilatasyonu ve pulmoner homogreft darlığıyla **iki kapak yatağında sorun** gelişebilir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Wikipedia",
+      "question": "Fontan dolaşımının ön koşulları nelerdir?",
+      "answer": "Pasif pulmoner akım için **düşük pulmoner direnç** ve iyi ventrikül fonksiyonu gerekir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Fontan fenestrasyonunun işlevi",
+      "body": "Fenestrasyon, yüksek venöz basınç için **basınç boşaltma açıklığı** görevi görür; dolaşımın anatomik bir düzeltmesi değildir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Koni onarımının ventriküler bileşeni",
+      "body": "Triküspit yapraklarının mobilizasyonuna ek olarak **atriyalize sağ ventrikül plikasyonu** uygulanır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wang ve An 2025",
+      "title": "Takeuchi'de koroner akımın yolu",
+      "body": "Aortopulmoner pencere ve **pulmoner arter içi tünel**, aortik kanı anormal koroner ağza yönlendirir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Tek ventrikülde evre sırası",
+      "body": "HLHS için tipik sıralama **Norwood → bidireksiyonel Glenn → Fontan** şeklindedir. Yaş aralıkları kaynağa ve hastaya göre değişir."
+    }
+  ]
+}

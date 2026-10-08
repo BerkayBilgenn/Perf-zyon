@@ -1,0 +1,22 @@
+{
+  "topic": "Pediatrik kalp yetmezliği",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Konjestif kalp yetmezliği",
+      "en": "Congestive heart failure",
+      "definition": "Kalbin metabolik ihtiyacı karşılayamaması ve konjesyon bulguları; bebekte taşipne, beslenme güçlüğü, terleme, kilo alamama.",
+      "origin": "Lat. congestio = birikme"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Draaisma 2009",
+      "term": "Kapiller kaçak",
+      "en": "Capillary leak",
+      "definition": "SIRS'e bağlı sıvının damar dışına sızması; ödem ve organ disfonksiyonu."
+    }
+  ]
+}

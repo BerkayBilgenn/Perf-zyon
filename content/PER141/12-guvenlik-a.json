@@ -1,0 +1,137 @@
+{
+  "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kabarcık dedektörü",
+      "definition": "Hatta hava algılandığında alarm verip pompayı durduran (ultrasonik) sensör; hastaya giden tüm hatlarda önerilir.",
+      "en": "Bubble (air) detector",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Basınç transdüseri",
+      "definition": "Hat basıncını (arteriyel, kardiyopleji, venöz) elektrik sinyaline çeviren sensör.",
+      "en": "Pressure transducer",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Servo-regülasyon",
+      "definition": "Sensör sinyaline göre pompa hızının otomatik ayarlanması veya durdurulması.",
+      "en": "Servo-regulation",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "In-line kan gazı monitörü",
+      "definition": "Devre üzerinde sürekli pH, PCO₂, PO₂ (ve SvO₂/hematokrit) ölçen sistem.",
+      "en": "In-line blood gas monitor",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "SvO₂",
+      "definition": "Venöz kandaki oksijen satürasyonu; global oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+      "en": "Venous oxygen saturation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "NIRS (rScO₂)",
+      "definition": "Bölgesel serebral doku oksijenasyonunu ölçen non-invaziv yöntem.",
+      "en": "Near-infrared spectroscopy",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz oklüder",
+      "definition": "Venöz hattı kısarak drenajı ayarlayan klemp/cihaz; oklüzyon yüzdesi izlenir.",
+      "en": "Venous occluder",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kontrol listesi",
+      "definition": "Kurulum, başlatma, ayrılma ve acil durumlarda adımların atlanmamasını sağlayan liste.",
+      "en": "Checklist",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Time-out",
+      "definition": "Cerrahi güvenlik kontrolünde ekip teyidi; perfüzyon checklist'inin tamamlandığı burada bildirilir.",
+      "en": "Surgical safety time-out",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon kaydı",
+      "definition": "KPB parametrelerinin, olayların ve kullanılan malzemelerin yazılı/elektronik dokümantasyonu.",
+      "en": "Perfusion record",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "FMEA",
+      "definition": "Hata türleri ve etkilerini sistematik inceleyen risk analizi yöntemi.",
+      "en": "Failure mode and effects analysis",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hava embolisi",
+      "definition": "Devreden, sahadan veya damar yolundan damar içine hava girişi; masif olanı acil protokol gerektirir.",
+      "en": "Air embolism",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İyatrojenik aort diseksiyonu",
+      "definition": "Kanülasyon veya klemp uygulaması sırasında oluşabilen, aort duvarı katmanlarının ayrılmasıyla seyreden komplikasyon.",
+      "en": "Iatrogenic aortic dissection",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "RCP",
+      "definition": "vena kava superior yoluyla beyne ters yönde perfüzyon; masif hava embolisinde kullanılabilir.",
+      "en": "Retrograde cerebral perfusion",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Hava güvenliği sensörleri",
+      "left": {
+        "title": "Seviye sensörü",
+        "points": [
+          "Rezervuar kan seviyesindeki düşüşü algılar",
+          "Havanın ana devreye girişini önlemeye yardım eder"
+        ]
+      },
+      "right": {
+        "title": "Kabarcık dedektörü",
+        "points": [
+          "Hatta bulunan hava kabarcığını algılar",
+          "Pompa akımına müdahale ederek hastayı korur"
+        ]
+      },
+      "source": "AmSECT 2017"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Uzun süreli siyanozda parmak uçlarının genişlemesi hangi terimle ifade edilir?",
+      "options": [
+        "Diferansiyel siyanoz",
+        "Çomak parmak",
+        "Taşipne",
+        "Hepatomegali"
+      ],
+      "correct": 1,
+      "explanation": "Çomak parmak kronik hipokseminin periferik bulgularındandır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Qp/Qs oranının payında hangi akım bulunur?",
+      "options": [
+        "Sistemik akım",
+        "Koroner akım",
+        "Pulmoner akım",
+        "Portal akım"
+      ],
+      "correct": 2,
+      "explanation": "Qp pulmoner, Qs sistemik akımı ifade eder."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Eisenmenger sendromunun en sık başlangıç lezyonu hangisidir?",
+      "options": [
+        "Biküspit aort kapağı",
+        "İzole pulmoner stenoz",
+        "Aort kapak yetersizliği",
+        "Ventriküler septal defekt"
+      ],
+      "correct": 3,
+      "explanation": "Merck'e göre en sık neden büyük VSD'dir; kronik şant pulmoner damar hastalığına ilerler."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Merck'e göre en sık siyanotik konjenital kalp hastalığı hangisidir?",
+      "options": [
+        "Fallot tetralojisi",
+        "Hipoplastik sol kalp",
+        "Triküspit atrezisi",
+        "Ebstein anomalisi"
+      ],
+      "correct": 0,
+      "explanation": "Fallot tetralojisi en sık siyanotik KKH olarak belirtilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Aşağıdaki lezyonlardan hangisinde sistemik akım duktusa bağımlıdır?",
+      "options": [
+        "Küçük sekundum ASD",
+        "Hipoplastik sol kalp sendromu",
+        "Küçük musküler VSD",
+        "Hafif pulmoner stenoz"
+      ],
+      "correct": 1,
+      "explanation": "HLHS'de sağ ventrikülün kanı açık duktus üzerinden sistemik dolaşıma ulaşır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Asiyanotik KKH grubunda obstrüktif lezyonlar bulunabilir.",
+      "isTrue": true,
+      "explanation": "Merck sınıflaması soldan sağa şantların yanında obstrüktif grubu da ayırır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Eisenmenger sendromunda ilerleyen damar hastalığı pulmoner vasküler direnci düşürür.",
+      "isTrue": false,
+      "explanation": "Pulmoner vasküler direnç yükselir ve net şant sağdan sola dönebilir."
+    }
+  ]
+}

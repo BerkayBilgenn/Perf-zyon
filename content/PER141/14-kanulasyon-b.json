@@ -1,0 +1,68 @@
+{
+  "topic": "Kanülasyon teknikleri ve kanüller",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "French dış çapı ölçer",
+      "body": "French ölçüsünde **1 Fr = 1/3 mm dış çap**. Bu nedenle 18 Fr 6 mm, 21 Fr 7 mm ve 24 Fr 8 mm dış çapa karşılık gelir; iç çap aynı değildir.",
+      "source": "Medtronic / LivaNova kanüller"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül basınç-akım eğrisi",
+      "body": "Aynı French ölçüsündeki kanüllerin performansı üreticiye göre değişebilir. Boyut seçiminde **üreticinin basınç-akım eğrisi** ve hedef akım değerlendirilir.",
+      "source": "Pediatrik kanül çalışması 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül boyunca basınç düşüşü",
+      "body": "Arteriyel kanül basınç düşüşünü yaklaşık **100 mmHg ile sınırlamak** genel kabul gören yaklaşımdır; hedef yüksek jet ve kan hasarını sınırlamaktır.",
+      "source": "Pediatrik kanül çalışması 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Aort kanülasyonunda basınç",
+      "body": "EACTS 2024 aort kanülasyonunda sistolik basıncı **<100 mmHg**, Basics of CPB 90–100 mmHg olarak verir. İki anlatım diseksiyon riskini azaltmaya yöneliktir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Periferik arteriyel giriş",
+      "body": "Femoral giriş aortaya **retrograd**, aksiller giriş ise arkus damarlarına antegrad akım sağlayabilir. Giriş yeri patoloji ve cerrahi yaklaşımla birlikte seçilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Arteriyel kanülün venözden önce yerleştirilmesinin gerekçesi nedir?",
+      "answer": "Venöz kanülasyon sırasında hipotansiyon oluşursa **arteriyel hattan hacim verebilmek**.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "İnce duvarlı kanül aynı dış çapta neden daha iyi akım sağlayabilir?",
+      "answer": "İç çapı daha geniştir; akıma direnç ve gerekli basınç düşüşü azalabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kanül boyutunu seçerken hangi hasta ve işlem bilgileri kullanılır?",
+      "answer": "Hasta büyüklüğü, gereken akım, damar anatomisi ve planlanan cerrahi yaklaşım; tip ve boyut ekiple önceden kararlaştırılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Dekanülasyon sırasını gerekçesiyle öğren",
+      "body": "Stabil hemodinamide genel sıra **venöz kanül, protamin, arteriyel kanül** biçimindedir. Tek atriyal kanül hasta KPB'den tamamen ayrılmadan çıkarılmaz.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    }
+  ]
+}

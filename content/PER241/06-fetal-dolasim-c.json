@@ -1,0 +1,91 @@
+{
+  "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "LITFL fetal dolaşım",
+      "question": "VCI kanını fetal foramen ovaleye yönlendiren kapakçık hangisidir?",
+      "options": [
+        "Östaki valvi",
+        "Aort kapağı",
+        "Pulmoner kapak",
+        "Mitral kapak"
+      ],
+      "correct": 0,
+      "explanation": "Östaki valvi inferior vena kava ağzında fetal akımı yönlendirir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "question": "Fetal dolaşımda pulmoner trunkusu inen aortaya bağlayan yapı hangisidir?",
+      "options": [
+        "Duktus venozus",
+        "Duktus arteriyozus",
+        "Umbilikal ven",
+        "Koroner sinüs"
+      ],
+      "correct": 1,
+      "explanation": "Duktus arteriyozus, yüksek dirençli fetal akciğer yatağını atlayan bağlantıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "question": "Umbilikal venin doğum sonrası kalıntısı hangisidir?",
+      "options": [
+        "Ligamentum venozum",
+        "Ligamentum arteriyozum",
+        "Ligamentum teres hepatis",
+        "Medial umbilikal ligament"
+      ],
+      "correct": 2,
+      "explanation": "Karaciğerin yuvarlak bağı umbilikal venin kalıntısıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "question": "Duktus venozusun kalıntısı hangi yapıdır?",
+      "options": [
+        "Ligamentum teres hepatis",
+        "Ligamentum arteriyozum",
+        "Koroner sinüs",
+        "Ligamentum venozum"
+      ],
+      "correct": 3,
+      "explanation": "Duktus venozus kapandıktan sonra ligamentum venozum kalır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "PPHN'de seçici pulmoner vazodilatör olarak hangi gaz kullanılır?",
+      "options": [
+        "İnhale nitrik oksit",
+        "Karbonmonoksit",
+        "Helyum",
+        "Azot protoksit"
+      ],
+      "correct": 0,
+      "explanation": "İnhale nitrik oksit pulmoner vasküler direnci azaltmak için kullanılır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "statement": "Duktus venozus umbilikal ven kanının bir kısmının karaciğeri atlamasını sağlar.",
+      "isTrue": true,
+      "explanation": "Kanal kanı inferior vena kavaya yönlendirir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "LITFL doğum fizyolojisi",
+      "statement": "Kordonun klemplenmesi doğum sonrası sistemik vasküler direnci azaltır.",
+      "isTrue": false,
+      "explanation": "Plasental düşük dirençli yatak kaybolduğu için sistemik direnç artar."
+    }
+  ]
+}

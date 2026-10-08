@@ -1,0 +1,105 @@
+{
+  "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Perfüzyon",
+      "definition": "Kanın/sıvının damar yatağı yoluyla dokulara ulaştırılması; KPB'de organ kanlanmasının makineyle sürdürülmesi.",
+      "en": "Perfusion",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Klinik perfüzyonist",
+      "definition": "KPB ve diğer ekstrakorporeal sistemleri kuran, yöneten ve kayda geçiren sağlık profesyoneli; KPB'nin operasyonel yönetiminden sorumludur.",
+      "en": "Clinical perfusionist",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyopulmoner bypass (KPB)",
+      "definition": "Kalp ve akciğerin işlevini geçici olarak vücut dışı bir devreyle üstlenen; dolaşım, solunum desteği ve sıcaklık yönetimi sağlayan ekstrakorporeal dolaşım yöntemi.",
+      "en": "Cardiopulmonary bypass (CPB)",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ekstrakorporeal dolaşım (EKD)",
+      "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+      "en": "Extracorporeal circulation (ECC)",
+      "source": "Türkiye Klinikleri 2012"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kalp-akciğer makinesi",
+      "definition": "Konsol, pompalar, sensörler ve tek kullanımlık setlerden oluşan KPB sistemi.",
+      "en": "Heart-lung machine",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Total bypass",
+      "definition": "Tüm sistemik venöz dönüşün makineye alındığı KPB; sağ atriyum açılacaksa kaval turnikeler gerekir.",
+      "en": "Total CPB",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Parsiyel bypass",
+      "definition": "Genel kabul gören tanımıyla, venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği, kalbin kısmen ejeksiyon yaptığı bypass evresi.",
+      "en": "Partial CPB",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Tam akım",
+      "definition": "Arteriyel pompa akımının venöz dönüşle dengelendiği ve hasta için planlanan hedef akıma ulaşıldığı durum.",
+      "en": "Full flow",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ECMO / ECLS",
+      "definition": "Vücut dışındaki membran oksijenatör ve pompa aracılığıyla uzamış kalp ve/veya akciğer desteği sağlayan sistem.",
+      "en": "Extracorporeal membrane oxygenation / life support",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Eksanguinasyon",
+      "definition": "Hastanın kanını kaybetmesi/devreye boşaltılması (arteriyel akım–venöz dönüş dengesizliği, santrifügal geri akış).",
+      "en": "Exsanguination",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Tam ve parsiyel bypass",
+      "left": {
+        "title": "Total bypass",
+        "points": [
+          "Tüm sistemik venöz dönüş devreye alınır",
+          "Sağ atriyum açılırsa kaval izolasyon gerekir"
+        ]
+      },
+      "right": {
+        "title": "Parsiyel bypass",
+        "points": [
+          "Venöz dönüşün bir kısmı kalp-akciğerden geçer",
+          "Genel olarak KPB'ye giriş ve ayrılmada görülür"
+        ]
+      },
+      "source": "Konjenital cerrahi derlemesi 2020"
+    }
+  ]
+}

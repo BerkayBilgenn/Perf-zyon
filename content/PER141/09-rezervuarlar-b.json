@@ -1,0 +1,82 @@
+{
+  "topic": "Rezervuarlar, aspiratörler ve vent",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Saha kanının içeriği",
+      "body": "Yıkanmadan geri verilen mediastinal saha kanı **yağ partikülleri, debris ve sitokinler** içerebilir. Cell salvage ile işlenmesi ayrı bir kan koruma seçeneğidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspirasyonda kan hasarı",
+      "body": "Negatif basınç, kan-hava karışımı ve yabancı yüzey teması koagülasyon aktivasyonu ile **hemolizi** artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspiratör ucunun tıkanması",
+      "body": "Tam tıkanmış aspiratör ucunun oluşturduğu negatif basınç, aralıklı hava-kan aspirasyonuna göre daha fazla serbest hemoglobin oluşumuyla ilişkilidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Rezervuar seviyesi modele özgüdür",
+      "body": "Terumo örneklerinde FX25 rezervuarının en az çalışma hacmi **150 mL**, FX15'in 70 mL'dir. Cihaz minimumu tüm rezervuarlara genellenmez.",
+      "source": "Terumo CAPIOX FX"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspiratör hızı ve mikroemboli",
+      "body": "Deneysel çalışmada aspiratör akımı artıp rezervuar seviyesi azaldığında daha fazla gazlı mikroemboli iletildi. **En düşük etkili aspirasyon** ve uygun rezervuar düzeyi önemlidir.",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "LV'ye bypass sırasında gelen kan",
+      "body": "Bronşiyal ve Thebesian venlerden sol ventriküle kan gelmeye devam edebilir; aort yetmezliği ve bazı şantlar da dolumu artırır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB'de sol ventrikül ventinin başlıca koruyucu amaçları nelerdir?",
+      "answer": "Ventrikül distansiyonunu sınırlamak, kan ve havayı boşaltmak, görüş alanını iyileştirmek ve miyokardın yeniden ısınmasını azaltmak.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ventrikül ventinin konumu hangi yöntemle doğrulanabilir?",
+      "answer": "**Transözofageal ekokardiyografi (TEE)** ile vent ucu ve yanlış yerleşim değerlendirilir.",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ventrikül distansiyonu akciğerlerde hangi sonuca yol açabilir?",
+      "answer": "Pulmoner venöz hipertansiyon ve **pulmoner ödem** gelişebilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin ile aspirasyon aynı anda sürmez",
+      "body": "AmSECT 2017 ve EACTS 2024'e göre **protamin başlanırken kardiyotomi aspirasyonu kapatılır**. Amaç nötralize kanın devreye dönmesiyle pıhtılaşmayı önlemektir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Rezervuarın boşalmasını bekleme",
+      "body": "Hard-shell rezervuarda seviye sensörü, yeterli tepki süresi ve güvenli hacim bırakacak şekilde yerleştirilir. Alarm **pompayı yavaşlatabilir veya durdurabilir**.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

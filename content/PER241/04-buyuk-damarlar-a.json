@@ -1,0 +1,58 @@
+{
+  "topic": "Büyük damarlar ve varyasyonları",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Aort istmusu",
+      "en": "Aortic isthmus",
+      "definition": "Sol subklavyen çıkışı ile duktus/ligamentum arteriyozum arasındaki aort segmenti; koarktasyonun tipik yeri.",
+      "origin": "Yun. isthmos = dar geçit"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Brakiyosefalik trunkus",
+      "en": "Brachiocephalic trunk",
+      "definition": "Arkusun ilk dalı; sağ subklavyen ve sağ ana karotise ayrılır.",
+      "origin": "Yun. brakhion = kol + kephale = baş"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Ligamentum arteriyozum",
+      "en": "Ligamentum arteriosum",
+      "definition": "Fetal duktus arteriyozusun doğum sonrasındaki fibröz kalıntısı.",
+      "origin": "Lat. ligare = bağlamak"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Persistan sol VCS",
+      "en": "Persistent left superior vena cava",
+      "definition": "Embriyonik sol ön kardinal venin kalıcı olmasıyla oluşan venöz varyasyon. Genellikle koroner sinüse açılır; kanülasyon ve retrograd kardiyoplejiyi etkiler."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Radiopaedia",
+      "term": "Bovin ark",
+      "en": "Bovine arch",
+      "definition": "Brakiyosefalik trunkus ile sol ana karotisin ortak çıkış gösterdiği aortik ark varyasyonu.",
+      "origin": "Lat. bos = sığır"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Arteria lusoria",
+      "en": "Aberrant right subclavian artery",
+      "definition": "Arkusun son dalı olarak çıkan anormal sağ subklavyen arter.",
+      "origin": "Lat. lusus naturae = doğanın oyunu"
+    }
+  ]
+}

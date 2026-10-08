@@ -1,0 +1,149 @@
+{
+  "topic": "Anestezi cihazı ve mekanik ventilasyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Anestezi cihazı",
+      "en": "Anesthesia machine / workstation",
+      "definition": "oksijen sağlama, gaz-buhar karıştırma, ventilasyon ve güvenlik sistemlerini içeren cihaz.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pin indeks güvenlik sistemi",
+      "en": "Pin index safety system (PISS)",
+      "definition": "Silindir valfi ile boyunduruktaki gaza özgü pin dizilimini kullanarak yanlış gaz silindirinin takılmasını önleyen bağlantı sistemi.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Çap indeks güvenlik sistemi",
+      "en": "Diameter index safety system (DISS)",
+      "definition": "Boru hattı bağlantılarında gaza özgü çaplarla yanlış bağlantıyı önler.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Basınç regülatörü",
+      "en": "Pressure regulator",
+      "definition": "Gaz silindirindeki yüksek ve değişken basıncı, anestezi cihazının kullanabileceği sabit düşük basınca indiren düzenek.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Akış ölçer",
+      "en": "Flowmeter (Thorpe tube)",
+      "definition": "Konik tüpteki şamandırayla gaz akımını gösteren değişken orifisli düzenek; şamandıranın üstünden okunur.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen flaş valfi",
+      "en": "Oxygen flush valve",
+      "definition": "Akış ölçer ve vaporizatörü atlayarak solunum devresine yüksek akımda saf oksijen veren valf.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen yetmezlik güvenlik sistemi",
+      "en": "Oxygen failure safety device",
+      "definition": "oksijen basıncı düşünce susturulamayan alarm verip diğer gazları azaltan/kesen sistem.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hipoksik karışım önleyici",
+      "en": "Hypoxic guard (proportioning system)",
+      "definition": "Nitröz oksit ve oksijen akımlarını birbirine bağlayarak taze gazda hipoksik karışım oluşmasını sınırlayan düzenek.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Vaporizatör",
+      "en": "Vaporizer",
+      "definition": "Sıvı volatil ajanı kontrollü konsantrasyonda buhara çeviren, ajana özgü cihaz.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Halka sistem",
+      "en": "Circle breathing system",
+      "definition": "Tek yönlü valfler ve karbondioksit absorbanıyla ekshale gazın yeniden solunmasına izin veren solunum devresi.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Soda lime",
+      "en": "Soda lime",
+      "definition": "Ca(OH)2 ağırlıklı, NaOH/KOH ve su içeren karbondioksit absorbanı; tepkimesi ekzotermiktir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "APL valfi",
+      "en": "Adjustable pressure-limiting valve",
+      "definition": "Devredeki fazla gazı atık sisteme bırakan ayarlanabilir basınç sınırlayıcı valf.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Atık gaz uzaklaştırma",
+      "en": "Scavenging",
+      "definition": "Ekshale anestezik gazların ameliyathane ortamından uzaklaştırılmasını sağlayan sistem.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Düşük akım anestezisi",
+      "en": "Low-flow anesthesia",
+      "definition": "Taze gaz akımının <2 L/dk tutulduğu halka sistem uygulaması.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kendiliğinden şişen balon",
+      "en": "Self-inflating bag (Ambu)",
+      "definition": "Makine arızasında elle ventilasyon için her zaman hazır bulunması gereken balon-valf-maske düzeneği.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Tidal volüm",
+      "en": "Tidal volume",
+      "definition": "Her solukta verilen gaz hacmi; akciğer koruyucu ventilasyonda tahmini vücut ağırlığına göre belirlenir.",
+      "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "PEEP",
+      "en": "Positive end-expiratory pressure",
+      "definition": "Ekspirasyon sonunda havayolunda korunan pozitif basınç; alveollerin açık tutulmasına ve atelektazinin azaltılmasına yardımcı olur.",
+      "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hacim / basınç kontrollü ventilasyon",
+      "en": "VCV / PCV",
+      "definition": "VCV'de tidal volüm sabit, basınç değişken; PCV'de basınç sabit, tidal volüm değişken.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    }
+  ]
+}

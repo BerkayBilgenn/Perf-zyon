@@ -1,0 +1,213 @@
+{
+  "topic": "Transfüzyon ve kan koruma",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hasta kan yönetimi",
+      "en": "Patient blood management",
+      "definition": "Anemi, kanama ve transfüzyonu azaltmayı amaçlayan kanıta dayalı, hasta merkezli yaklaşım.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Eritrosit süspansiyonu",
+      "en": "Packed red blood cells",
+      "definition": "Oksijen taşıma kapasitesini artırmak amacıyla kullanılan eritrositten zengin kan bileşeni.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Taze donmuş plazma",
+      "en": "Fresh frozen plasma",
+      "definition": "Pıhtılaşma faktörlerini içeren, dondurularak saklanan plazma bileşeni.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trombosit süspansiyonu",
+      "en": "Platelet concentrate",
+      "definition": "Trombosit desteği sağlamak için kullanılan, uygun sıcaklıkta ajitasyonla saklanan kan bileşeni.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kriyopresipitat",
+      "en": "Cryoprecipitate",
+      "definition": "Plazmadan elde edilen fibrinojenden zengin çökelti; hipofibrinojenemide kullanılır.",
+      "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Lökodeplesyon",
+      "en": "Leukodepletion",
+      "definition": "Filtrasyonla kan bileşenindeki lökositlerin uzaklaştırılması.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Işınlama",
+      "en": "Irradiation",
+      "definition": "Kan bileşenindeki canlı donör T lenfositlerini etkisizleştirerek transfüzyonla ilişkili graft-versus-host hastalığını önleyen işlem.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Akut hemolitik transfüzyon reaksiyonu",
+      "en": "Acute hemolytic transfusion reaction",
+      "definition": "Çoğunlukla ABO uyumsuzluğuyla dakikalar içinde gelişen eritrosit yıkımı.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Febril non-hemolitik reaksiyon",
+      "en": "Febrile non-hemolytic reaction",
+      "definition": "Transfüzyon sırasında veya kısa süre sonra başka bir nedenle açıklanamayan ateş artışıyla gelişen, hemolizle ilişkili olmayan reaksiyon.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TRALI",
+      "en": "Transfusion-related acute lung injury",
+      "definition": "Transfüzyonla ilişkili, kardiyojenik olmayan akut akciğer hasarı ve ödem tablosu.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TACO",
+      "en": "Transfusion-associated circulatory overload",
+      "definition": "Transfüzyonla gelişen hidrostatik dolaşım yüklenmesi ve akciğer ödemi.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TRIM",
+      "en": "Transfusion-related immunomodulation",
+      "definition": "Allojenik transfüzyonun alıcı bağışıklığını baskılaması (enfeksiyon, nüks riski).",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TA-GVHD",
+      "en": "Transfusion-associated graft-versus-host disease",
+      "definition": "Canlı donör T lenfositlerinin alıcı dokularına saldırısı; ışınlamayla önlenir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sitrat toksisitesi",
+      "en": "Citrate toxicity",
+      "definition": "Hızlı/masif transfüzyonda sitratın kalsiyumu bağlayarak hipokalsemi yapması.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Restriktif transfüzyon stratejisi",
+      "en": "Restrictive transfusion strategy",
+      "definition": "Transfüzyon kararında liberal stratejiye göre daha düşük hemoglobin eşiği kullanan yaklaşım; eşik hastanın oksijen dengesinden bağımsız değerlendirilmez.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hücre kurtarıcı",
+      "en": "Cell saver (cell salvage)",
+      "definition": "Cerrahi kanamanın aspire edilip santrifüj ve yıkamayla yalnız eritrositlerin geri verilmesi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ANH",
+      "en": "Acute normovolemic hemodilution",
+      "definition": "Cerrahi başında kan alınıp hacmin sıvıyla korunması ve kanın KPB sonrası geri verilmesi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "RAP",
+      "en": "Retrograde autologous priming",
+      "definition": "KPB başlangıcında priming sıvısının hastanın kendi kanıyla yer değiştirilerek hemodilüsyonun azaltılması.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "MiECC",
+      "en": "Minimally invasive extracorporeal circulation",
+      "definition": "Düşük priming hacimli, optimize edilmiş kapalı KPB sistemi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hemodilüsyon",
+      "en": "Hemodilution",
+      "definition": "Priming ve sıvılarla kanın seyrelmesi; Hct ve pıhtılaşma faktörleri azalır.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ultrafiltrasyon",
+      "en": "Ultrafiltration",
+      "definition": "Basınç gradyanıyla plazmadan su ve küçük molekülleri uzaklaştırarak hemokonsantrasyon sağlanması.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Transfüzyon sonrası akciğer ödemi",
+      "left": {
+        "title": "TRALI",
+        "points": [
+          "Kardiyojenik olmayan geçirgenlik ödemi",
+          "Dolaşım yüklenmesiyle açıklanmaz"
+        ]
+      },
+      "right": {
+        "title": "TACO",
+        "points": [
+          "Hidrostatik dolaşım yüklenmesi",
+          "Kalp ve böbrek yetersizliği riski artırır"
+        ]
+      },
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Otolog kanı geri verme",
+      "left": {
+        "title": "ANH",
+        "points": [
+          "Cerrahi başında tam kan alınır",
+          "Kan hacmi sıvıyla korunur ve kan sonra geri verilir"
+        ]
+      },
+      "right": {
+        "title": "Hücre kurtarıcı",
+        "points": [
+          "Cerrahi alandan kaybedilen kan toplanır",
+          "Yıkama sonrası eritrositler geri verilir"
+        ]
+      },
+      "source": "EACTS/EACTAIC PBM 2024"
+    }
+  ]
+}

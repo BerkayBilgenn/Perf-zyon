@@ -1,0 +1,61 @@
+{
+  "topic": "Hemostaz ve pıhtılaşma testleri",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Faktör adında aktif form",
+      "body": "Pıhtılaşma faktörlerinin aktive biçimi **a ekiyle** gösterilir; örneğin faktör IIa trombindir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Trombosit sayısı ve fonksiyonu",
+      "body": "Trombosit sayımı **trombosit fonksiyonunu ölçmez**. Normal sayı, primer hemostaz işlevinin normal olduğunu tek başına göstermez.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hücre yüzeyinde trombin patlaması",
+      "body": "Hücre temelli modelin yayılım evresinde trombosit yüzeyindeki tenaz ve protrombinaz kompleksleri **çok miktarda trombin** oluşturur.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "TEG ve ROTEM aralıkları",
+      "body": "Viskoelastik testlerin referans aralıkları **cihaz ve teste özgüdür**; farklı cihaz değerleri birbirine doğrudan aktarılmaz.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Glanzmann trombastenisinde hangi trombosit reseptörü etkilenir?",
+      "answer": "**GPIIb/IIIa** eksikliği veya işlev bozukluğu, fibrinojen aracılı trombosit agregasyonunu bozar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Bernard-Soulier sendromunda hangi reseptör eksiktir?",
+      "answer": "**GPIb** eksikliği, von Willebrand faktörü aracılı trombosit adezyonunu bozar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "FIBTEM trombosit katkısını nasıl ayırır?",
+      "answer": "**Sitokalasin D ile trombositleri inhibe eder**; fibrinojenin pıhtı sağlamlığına katkısı değerlendirilir.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "APTEM ile EXTEM karşılaştırması hangi süreci tanımaya yardım eder?",
+      "answer": "Antifibrinolitik eklenmiş testle karşılaştırma **hiperfibrinolizi** tanımaya yardım eder.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    }
+  ]
+}

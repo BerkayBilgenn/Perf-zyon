@@ -1,0 +1,225 @@
+{
+  "topic": "Oksijenatörler ve gaz transferi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijenatör",
+      "definition": "Kana O₂ veren ve CO₂ uzaklaştıran yapay akciğer (genellikle ısı değiştirici entegre).",
+      "en": "Oxygenator",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Membran oksijenatör",
+      "definition": "Kan ve gazın bir membranla ayrıldığı, pO₂ ve pCO₂'nin bağımsız kontrol edilebildiği oksijenatör; günümüz standardı.",
+      "en": "Membrane oxygenator",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bubble oksijenatör",
+      "definition": "Gazın kana doğrudan kabarcık hâlinde verildiği tarihsel oksijenatör; artık üretilmiyor.",
+      "en": "Bubble oxygenator",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Film oksijenatör",
+      "definition": "Kanın ince film hâlinde gaza maruz bırakıldığı tarihsel oksijenatör (Gibbon: dikey elek; Crafoord–Björk: dönen disk).",
+      "en": "Film (disc/screen) oxygenator",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hollow fiber",
+      "definition": "Oksijenatörde gazın içinden, kanın dışından geçtiği içi boş ince lif yapısı.",
+      "en": "Hollow fiber",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mikroporöz membran",
+      "definition": "Gazların küçük gözeneklerden geçişine izin veren hidrofobik membran yapısı.",
+      "en": "Microporous membrane",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Polipropilen (PP)",
+      "definition": "KPB oksijenatörlerinin standart mikroporöz hollow-fiber malzemesi.",
+      "en": "Polypropylene",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Polimetilpenten (PMP)",
+      "definition": "Dış yüzeyinde yoğun deri tabakası bulunan, plazma sızıntısına dirençli difüzyon membranı malzemesi; uzun süreli desteğe uygundur.",
+      "en": "Polymethylpentene",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Silikon membran",
+      "definition": "Non-poröz \"gerçek\" difüzyon membranı; plazma sızıntısı yapmaz (Kolobow).",
+      "en": "Silicone (PDMS) membrane",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma sızıntısı",
+      "definition": "Porların zamanla hidrofilikleşip plazmanın gaz tarafına sızması; gaz transferi bozulur, gaz çıkışında sarı köpük görülür.",
+      "en": "Plasma leakage (wetting)",
+      "source": "Membranes 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sweep gaz",
+      "definition": "Oksijenatörün gaz tarafından geçen gaz akımı; artırılınca PaCO₂ düşer.",
+      "en": "Sweep gas",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "FiO₂",
+      "definition": "Oksijenatöre verilen gazdaki O₂ oranı; PaO₂'yi belirler.",
+      "en": "Fraction of (delivered) oxygen",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Gaz blenderi",
+      "definition": "O₂ ve havayı karıştırıp FiO₂'yi ayarlayan cihaz.",
+      "en": "Gas blender",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Vaporizer",
+      "definition": "Sweep gaza volatil anestezik ekleyen cihaz; atık gaz uzaklaştırma gerektirir.",
+      "en": "Anesthetic vaporizer",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Atık gaz uzaklaştırma",
+      "definition": "Oksijenatör çıkışından atık anestezik gazların uzaklaştırılması; aşırı negatif basınç membranı yırtabilir.",
+      "en": "Scavenging",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Oksijen analizörü",
+      "definition": "Oksijenatöre giden gazın O₂ yüzdesini ölçen cihaz.",
+      "en": "Oxygen analyzer",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Transmembran basınç gradyanı (ΔP)",
+      "definition": "Oksijenatör giriş–çıkış basınç farkı; artışı tromboz/pıhtı göstergesi olabilir.",
+      "en": "Transmembrane pressure gradient (delta-P)",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijenatör yetmezliği",
+      "definition": "Yüksek FiO₂ ve gaz akımına rağmen yetersiz oksijenasyon/CO₂ atımı veya yüksek ΔP.",
+      "en": "Oxygenator failure",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijenatör değişimi",
+      "definition": "İşlevini kaybeden oksijenatörün ekstrakorporeal dolaşım sırasında yenisiyle değiştirilmesi.",
+      "en": "Oxygenator change-out",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Su–kan kaçağı",
+      "definition": "Isı değiştirici kaçağıyla suyun kana karışması: hacim artışı, pH ve hematokrit düşüşü, hemoliz.",
+      "en": "Water-to-blood leak",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan ve gazın teması",
+      "left": {
+        "title": "Bubble oksijenatör",
+        "points": [
+          "Gaz kana doğrudan kabarcıklarla verilir",
+          "Tarihsel sistem; hücre hasarı daha fazladır"
+        ]
+      },
+      "right": {
+        "title": "Membran oksijenatör",
+        "points": [
+          "Kan ve gaz membranla ayrılır",
+          "Gazların bağımsız kontrolüne uygundur"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Gaz ayarları",
+      "left": {
+        "title": "FiO₂",
+        "points": [
+          "Gaz içindeki oksijen oranı",
+          "Blender ile ayarlanır; PaO₂ üzerinde etkilidir"
+        ]
+      },
+      "right": {
+        "title": "Sweep gaz akımı",
+        "points": [
+          "Gazın oksijenatörden geçiş hızı",
+          "Gaz akımölçeriyle ayarlanır; PaCO₂ üzerinde etkilidir"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Membran malzemeleri",
+      "left": {
+        "title": "Polipropilen",
+        "points": [
+          "Mikroporöz hollow-fiber yapı",
+          "Uzamış kullanımda plazma sızıntısı oluşabilir"
+        ]
+      },
+      "right": {
+        "title": "Polimetilpenten",
+        "points": [
+          "Yoğun dış tabakalı difüzyon membranı",
+          "Plazma sızıntısına dirençli; uzamış desteğe uygun"
+        ]
+      },
+      "source": "Membranes 2024"
+    }
+  ]
+}

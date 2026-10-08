@@ -1,0 +1,96 @@
+{
+  "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Umbilikal kanın yönü",
+      "body": "Umbilikal ven **plasentadan fetusa** oksijenli kan taşır; umbilikal arterler fetustan plasentaya döner."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "title": "Fetusta beyin ve koronerlerin beslenmesi",
+      "body": "Vena kava inferiorun iyi oksijenli kanı foramen ovaleden sol kalbe yönlenir; **çıkan aorta** üzerinden beyin ve koronerler beslenir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "question": "Fetal VCS kanı hangi yolu izler?",
+      "answer": "Ağırlıklı olarak **sağ ventriküle**, sonra duktus arteriyozus aracılığıyla inen aortaya yönelir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "LITFL doğum fizyolojisi",
+      "title": "İlk nefesin dolaşıma etkisi",
+      "body": "Akciğerlerin açılması **pulmoner vasküler direnci düşürür** ve pulmoner kan akımını artırır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "LITFL doğum fizyolojisi",
+      "question": "Kordon klemplenmesi sistemik direnci nasıl etkiler?",
+      "answer": "Plasental dolaşım devreden çıkınca **sistemik vasküler direnç artar**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "LITFL doğum fizyolojisi",
+      "question": "Foramen ovalenin kapanmasını ne başlatır?",
+      "answer": "Pulmoner venöz dönüşle sol atriyum basıncının **sağ atriyum basıncını aşması**, kapakçığın fonksiyonel kapanmasını sağlar."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Duktal konstriksiyonun uyaranları",
+      "body": "Doğum sonrasında artan oksijen ve azalan **prostaglandin düzeyleri**, duktus arteriyozusun kasılmasına katkıda bulunur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "HbF'nin bağlanma farkı",
+      "body": "Fetal hemoglobinin gama zincirleri **2,3-BPG'yi daha az bağlar**; oksijen afinitesi erişkin hemoglobininden yüksektir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "PDA ilacında yaş ayrımı",
+      "body": "COX inhibitörleri **prematüre PDA'sında** etkilidir; miadında doğan bebek ve çocuklarda genellikle etkisizdir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PGE1'in amacı",
+      "body": "Duktus-bağımlı lezyonda prostaglandin E1, **duktusun açık kalmasını** sağlayarak gerekli akımın sürmesine yardım eder."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "Alprostadilde önemli yan etki",
+      "body": "Alprostadilin klinik olarak önemli yan etkileri arasında **apne**, ateş ve hipotansiyon bulunur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PPHN'de hipokseminin nedeni",
+      "body": "Yüksek pulmoner direnç, foramen ovale veya duktus üzerinden **sağdan sola şanta** ve oksijene yetersiz yanıt veren hipoksemiye yol açabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PGE1 başlangıç aralığı",
+      "body": "Merck'in HLHS bölümünde alprostadil başlangıcı **0,05–0,1 mcg/kg/dk** IV infüzyon olarak verilir; duktusun açık tutulmasına yöneliktir."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "topic": "Siyanotik lezyonlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Tet nöbetinde çömelme hangi fizyolojik etkiyi sağlar?",
+      "options": [
+        "Sistemik direnci artırır",
+        "Sistemik direnci azaltır",
+        "Pulmoner venöz dönüşü keser",
+        "Koroner ostiumları kapatır"
+      ],
+      "correct": 0,
+      "explanation": "Sistemik direnç artışı sağdan sola şantı azaltıp oksijenasyonu iyileştirebilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Tek trunkal kapak ve geniş VSD ile hangi lezyon tanımlanır?",
+      "options": [
+        "Aortopulmoner pencere",
+        "Persistan trunkus arteriyozus",
+        "Patent duktus arteriyozus",
+        "Sekundum ASD"
+      ],
+      "correct": 1,
+      "explanation": "Trunkusta sistemik, pulmoner ve koroner akım tek arteriyel gövdeden çıkar."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Tüm pulmoner venlerin sistemik venöz dolaşıma döndüğü lezyon hangisidir?",
+      "options": [
+        "PAPVR",
+        "ALCAPA",
+        "TAPVR",
+        "AAOCA"
+      ],
+      "correct": 2,
+      "explanation": "Total anormal pulmoner venöz dönüşte hiçbir pulmoner ven normal sol atriyal bağlantıyı sağlamaz."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Triküspit atrezisinde sağ atriyumdan kanın çıkışı için hangi bağlantı gereklidir?",
+      "options": [
+        "Aortopulmoner pencere",
+        "Koroner arter fistülü",
+        "Ventriküler soldan sağa şant",
+        "Atriyal sağdan sola şant"
+      ],
+      "correct": 3,
+      "explanation": "Triküspit giriş kapalı olduğu için kan atriyal düzeyde sol tarafa geçmek zorundadır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Ebstein anomalisiyle ilişkili maternal ilaç maruziyeti hangisidir?",
+      "options": [
+        "Lityum",
+        "İbuprofen",
+        "İnsülin",
+        "Penisilin"
+      ],
+      "correct": 0,
+      "explanation": "Maternal lityum maruziyeti Ebstein anomalisiyle ilişkilidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Ebstein anomalisiyle sık birliktelik gösteren ileti tablosu hangisidir?",
+      "options": [
+        "İzole sol dal bloğu",
+        "Wolff-Parkinson-White",
+        "Sinüs arresti",
+        "Uzun QT sendromu"
+      ],
+      "correct": 1,
+      "explanation": "Aksesuar ileti yollarıyla ilişkili WPW, Ebstein anomalisiyle birliktelik gösterebilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Taussig-Bing anomalisi hangi VSD yerleşimiyle tanımlanır?",
+      "options": [
+        "Subaortik VSD",
+        "Uzak VSD",
+        "Subpulmoner VSD",
+        "İzole inlet VSD"
+      ],
+      "correct": 2,
+      "explanation": "Subpulmoner VSD'li çift çıkışlı sağ ventrikül TGA benzeri fizyoloji oluşturur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "ccTGA'da sistemik ventrikülün morfolojisi hangisidir?",
+      "options": [
+        "Morfolojik sol ventrikül",
+        "Primitif atriyum",
+        "Hipoplastik pulmoner ventrikül",
+        "Morfolojik sağ ventrikül"
+      ],
+      "correct": 3,
+      "explanation": "Çift diskordans fizyolojik seri akım sağlasa da sistemik yük sağ ventriküldedir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "HLHS'nin anatomik parçası hangisidir?",
+      "options": [
+        "Sol ventrikül ve çıkan aorta hipoplazisi",
+        "Sağ atriyumun izole yokluğu",
+        "İzole pulmoner ven fistülü",
+        "Tek başına sağ aortik ark"
+      ],
+      "correct": 0,
+      "explanation": "HLHS sol kalp yapılarının gelişim yetersizliğidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Bot şeklindeki kalp grafisi hangi lezyonla ilişkilidir?",
+      "options": [
+        "D-TGA",
+        "Fallot tetralojisi",
+        "Suprakardiyak TAPVR",
+        "Aort koarktasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Sağ ventrikül hipertrofisi ve konkav pulmoner segment bot görünümünü oluşturur."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "D-TGA'da aorta morfolojik sol ventrikülden çıkar.",
+      "isTrue": false,
+      "explanation": "D-TGA'da aorta sağ ventrikülden, pulmoner arter sol ventrikülden çıkar."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Çift çıkışlı sağ ventrikülde her iki büyük arter tamamen veya ağırlıkla sağ ventrikülden çıkar.",
+      "isTrue": true,
+      "explanation": "DORV'nin anatomik tanımı büyük arterlerin sağ ventrikül kökenidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Kardan adam grafi görünümü tipik olarak infrakardiyak TAPVR ile ilişkilidir.",
+      "isTrue": false,
+      "explanation": "Kardan adam görünümü suprakardiyak TAPVR ile ilişkilidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Ebstein anomalisi triküspit kapağın yapraklarında apikal yer değişikliğiyle ilişkilidir.",
+      "isTrue": true,
+      "explanation": "Özellikle septal ve inferior yaprakların aşağı yer değiştirmesi atriyalize sağ ventrikül oluşturur."
+    }
+  ]
+}

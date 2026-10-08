@@ -1,0 +1,61 @@
+{
+  "topic": "Filtreler",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel filtre gözeneği",
+      "body": "Basics of CPB arteriyel hat filtresi için yaklaşık **20–40 µm** aralığını verir. Terumo FX örneğinde entegre elek 32 µm'dir; cihaz modeli önemlidir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Kılavuzların ALF dili",
+      "body": "AmSECT 2017, arteriyel hat filtresini **zorunlu** tutar; EACTS 2024 mikroemboli sayısını azaltmak için düşünülebilir der. Bu fark kesin bir test eşiği yapılmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Prebypass ve gaz filtresi",
+      "body": "National Heart Center/LivaNova örneklerinde prebypass ve gaz hattı filtreleri **0,2 µm**'dir. Biri dolum sıvısı, diğeri gaz akımı içindir.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kardiyopleji filtresinin boyutu",
+      "body": "National Heart Center 2026, kristaloid kardiyopleji filtresini **0,2 µm**, kan kardiyopleji filtresini 40 µm olarak verir; kullanım sıvısı belirtilmelidir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Entegre filtrenin hacim katkısı",
+      "body": "EACTS 2024, oksijenatöre entegre arteriyel filtreyle prime hacminde **100–250 mL** azalma bildirir; bu her modelin kesin kazanımı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyotomi filtresinde hangi iki filtrasyon ilkesi birlikte kullanılabilir?",
+      "answer": "**Elek ve derinlik filtrasyonu**; kan hem belirli gözeneklerden hem hacimli bir matristen geçirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Arteriyel filtrede biriken hava hangi hatla uzaklaştırılır?",
+      "answer": "**Purge hattı** üzerinden hava tahliye edilir.",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Rutin lökosit filtresinin kanıtını bil",
+      "body": "EACTS 2024, membran oksijenatörle **rutin lökosit filtresi kullanımını önermez**; klinik yarar gösterilmemiştir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

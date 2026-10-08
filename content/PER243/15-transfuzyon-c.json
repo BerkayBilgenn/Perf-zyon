@@ -1,0 +1,77 @@
+{
+  "topic": "Transfüzyon ve kan koruma",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Akut hemolitik transfüzyon reaksiyonunun en sık nedeni hangisidir?",
+      "options": [
+        "ABO uyumsuzluğu",
+        "Rh antijen uyumsuzluğu",
+        "Sitratın kalsiyumu bağlaması",
+        "Plazma proteinine alerji"
+      ],
+      "correct": 0,
+      "explanation": "ABO uyumsuzluğu akut eritrosit yıkımının en sık nedenidir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hücre kurtarıcıda yıkama sonrası esas olarak hangi bileşen geri verilir?",
+      "options": [
+        "Trombositler",
+        "Eritrositler",
+        "Tam plazma",
+        "Kriyopresipitat"
+      ],
+      "correct": 1,
+      "explanation": "Hücre kurtarıcı, toplanan kanı yıkayıp eritrositleri geri verir; tam kanın bütün bileşenleri korunmaz.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Otolog priming işlemi hemodilüsyonu nasıl azaltır?",
+      "options": [
+        "Hastanın tam kanı alınır, yerine sıvı verilir",
+        "Devre kanı yıkanarak eritrosit geri verilir",
+        "Priming sıvısı hastanın kanıyla yer değiştirir",
+        "Plazmadan su ve küçük moleküller süzülür"
+      ],
+      "correct": 2,
+      "explanation": "RAP'ta devre priming sıvısı hastanın kendi kanıyla yer değiştirir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Transfüzyon sırasında hipotermiyi önlemek için uygun araç hangisidir?",
+      "options": [
+        "Kontrollü sıcak su banyosu",
+        "Mikrodalga ısıtma cihazı",
+        "Oda tipi sıcak hava ısıtıcısı",
+        "Bu amaçla tasarlanmış kan ısıtıcısı"
+      ],
+      "correct": 3,
+      "explanation": "Kan bileşenleri yalnız bu amaçla tasarlanmış kan ısıtıcılarıyla ısıtılır.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "Transfüzyondaki sitrat iyonize kalsiyumu artırarak hiperkalsemi oluşturur.",
+      "isTrue": false,
+      "explanation": "Sitrat kalsiyumu bağlar ve iyonize kalsiyumu azaltarak hipokalsemi oluşturabilir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "2024 PBM kılavuzunda kanamayı azaltmak için profilaktik TDP kullanımı desteklenmez.",
+      "isTrue": true,
+      "explanation": "TDP belirli kanama/faktör eksikliği endikasyonlarında kullanılır; profilaktik rutin kullanım etkili değildir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "topic": "Kardiyovasküler fizyoloji",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Atım hacmi 70 mL, kalp hızı 70/dk olan hastanın debisi kaçtır?",
+      "options": [
+        "4,9 L/dk",
+        "0,49 L/dk",
+        "7,0 L/dk",
+        "9,8 L/dk"
+      ],
+      "correct": 0,
+      "explanation": "70 × 70 = 4.900 mL/dk = 4,9 L/dk.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diyastol sonu hacmi 120 mL, sistol sonu hacmi 50 mL ise atım hacmi kaçtır?",
+      "options": [
+        "170 mL",
+        "70 mL",
+        "50 mL",
+        "120 mL"
+      ],
+      "correct": 1,
+      "explanation": "Atım hacmi = diyastol sonu hacim − sistol sonu hacim = 120 − 50 = 70 mL.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp debisi 5 L/dk, vücut yüzey alanı 2 m² ise kardiyak indeks kaçtır?",
+      "options": [
+        "10 L/dk/m²",
+        "5 L/dk/m²",
+        "2,5 L/dk/m²",
+        "0,4 L/dk/m²"
+      ],
+      "correct": 2,
+      "explanation": "Kardiyak indeks = kalp debisi / vücut yüzey alanı = 5 / 2 = 2,5 L/dk/m².",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sistolik basınç 120 mmHg, diyastolik basınç 60 mmHg ise yaklaşık OAB kaçtır?",
+      "options": [
+        "60 mmHg",
+        "90 mmHg",
+        "120 mmHg",
+        "80 mmHg"
+      ],
+      "correct": 3,
+      "explanation": "OAB ≈ (sistolik + 2 × diyastolik) / 3 = (120 + 120) / 3 = 80 mmHg.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "EKG'de ventrikül repolarizasyonunu hangi dalga gösterir?",
+      "options": [
+        "T dalgası",
+        "P dalgası",
+        "Q dalgası",
+        "R dalgası"
+      ],
+      "correct": 0,
+      "explanation": "T dalgası ventrikül repolarizasyonunu gösterir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 1,
+      "question": "Sol ana koroner arterin başlıca dalları hangi çifttir?",
+      "options": [
+        "LAD ve sağ koroner arter",
+        "LAD ve sirkumfleks",
+        "Sirkumfleks ve sağ koroner arter",
+        "Posterior inen ve sağ koroner arter"
+      ],
+      "correct": 1,
+      "explanation": "Sol ana koroner arter LAD ve sirkumfleks dallarına ayrılır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Frank-Starling mekanizması, kalbin venöz dönüşe yanıt veren intrinsik bir özelliğidir.",
+      "isTrue": true,
+      "explanation": "Mekanizma yalnız nörohumoral uyarıya dayanmaz; miyokardın intrinsik yanıtıdır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "EKG'de P dalgası ventrikül depolarizasyonunu gösterir.",
+      "isTrue": false,
+      "explanation": "P dalgası atriyal depolarizasyonu gösterir; ventrikül depolarizasyonu QRS kompleksidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "Vagal uyarı AV düğüm iletisini yavaşlatabilir.",
+      "isTrue": true,
+      "explanation": "Parasempatik uyarı AV iletiyi yavaşlatır; sempatik uyarı ters yönde etki eder.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    }
+  ]
+}

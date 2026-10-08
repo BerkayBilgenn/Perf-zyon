@@ -1,0 +1,105 @@
+{
+  "topic": "Kalp anatomisi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Aşağıdakilerden hangisi sağ atriyumda görülen kas sırtlarıdır?",
+      "options": [
+        "Papiller kaslar",
+        "Pektinat kaslar",
+        "Trabekül karne",
+        "İnterventriküler kas septumu"
+      ],
+      "correct": 1,
+      "explanation": "Pektinat kaslar sağ atriyumun ön duvarında ve aurikulasında bulunur."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Atriyoventriküler kapak yapraklarını papiller kaslara bağlayan yapı hangisidir?",
+      "options": [
+        "Purkinje lifi",
+        "Valsalva sinüsü",
+        "Korda tendinea",
+        "Koroner sinüs"
+      ],
+      "correct": 2,
+      "explanation": "Korda tendinea, papiller kaslarla atriyoventriküler kapak yaprakları arasındaki fibröz bağlantıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Fetal foramen ovalenin sağ atriyumdaki kalıntısı hangisidir?",
+      "options": [
+        "Koch üçgeni",
+        "Koroner sinüs",
+        "İnfundibulum",
+        "Fossa ovalis"
+      ],
+      "correct": 3,
+      "explanation": "İnteratriyal septumdaki fossa ovalis fetal foramen ovalenin kalıntısıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Sağ ventrikülün düz duvarlı çıkış yolu hangi adla bilinir?",
+      "options": [
+        "İnfundibulum",
+        "Fossa ovalis",
+        "Aurikula",
+        "Sinüs venarum"
+      ],
+      "correct": 0,
+      "explanation": "İnfundibulum, sağ ventrikülden pulmoner kapağa uzanan çıkış bölümüdür."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Kalp boşluklarını içten döşeyen duvar tabakası hangisidir?",
+      "options": [
+        "Epikard",
+        "Endokard",
+        "Miyokard",
+        "Fibröz perikard"
+      ],
+      "correct": 1,
+      "explanation": "İç yüzeyi endokard döşer; miyokard kas tabakasıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Koroner arterler aort kökünün hangi bölümünden çıkar?",
+      "options": [
+        "Nonkoroner aortik kusp",
+        "Pulmoner kapak sinüsleri",
+        "Sağ ve sol Valsalva sinüsleri",
+        "Mitral anulus"
+      ],
+      "correct": 2,
+      "explanation": "Sağ ve sol koroner arterler ilgili aortik sinüslerden çıkar."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Epikard, seröz perikardın viseral yaprağıdır.",
+      "isTrue": true,
+      "explanation": "Epikard kalp yüzeyindeki seröz yapraktır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Aort ve pulmoner kapaklar korda tendineayla papiller kaslara bağlanır.",
+      "isTrue": false,
+      "explanation": "Korda bağlantısı atriyoventriküler kapaklarda vardır; semilunar kapaklarda korda bulunmaz."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "term": "Plasenta",
+      "en": "Placenta",
+      "definition": "Fetusta gaz ve besin alışverişini sağlayan organ.",
+      "origin": "Lat. = yassı kek"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Umbilikal ven",
+      "en": "Umbilical vein",
+      "definition": "Plasentadan fetusa oksijenli kanı taşıyan tek ven; kalıntısı ligamentum teres hepatis.",
+      "origin": "Lat. umbilicus = göbek"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Umbilikal arterler",
+      "en": "Umbilical arteries",
+      "definition": "Fetustan plasentaya oksijeni daha düşük kanı taşıyan damarlar."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Duktus venozus",
+      "en": "Ductus venosus",
+      "definition": "Umbilikal ven kanının bir kısmını karaciğeri atlatarak vena kava inferior'ya ileten fetal şant; kalıntısı ligamentum venozum.",
+      "origin": "Lat. ductus + vena"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Duktus arteriyozus",
+      "en": "Ductus arteriosus",
+      "definition": "Pulmoner trunkusu inen aortaya bağlayan, 6. ark kökenli fetal damar.",
+      "origin": "L. Botallo (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Fetal hemoglobin",
+      "en": "Fetal hemoglobin",
+      "definition": "Erişkin hemoglobinine göre oksijen afinitesi daha yüksek olan fetal hemoglobin. Gama zincirlerinin 2,3-BPG bağlaması daha azdır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ligamentum venozum",
+      "en": "Ligamentum venosum",
+      "definition": "Duktus venozusun kalıntısı."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ligamentum teres hepatis",
+      "en": "Round ligament of the liver",
+      "definition": "Umbilikal venin kalıntısı.",
+      "origin": "Lat. teres = yuvarlak"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "LITFL fetal dolaşım",
+      "term": "Transisyonel dolaşım",
+      "en": "Transitional circulation",
+      "definition": "Doğumda fetal (paralel/şantlı) dolaşımdan erişkin tipi seri dolaşıma geçiş: pulmoner vasküler direnç düşer, sistemik vasküler direnç artar, şantlar kapanır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Fonksiyonel kapanma",
+      "en": "Functional closure",
+      "definition": "Bir yapının akımı durduracak şekilde kapanması. Doku düzeyindeki kalıcı kapanmadan önce gerçekleşebilir."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "PPHN",
+      "en": "Persistent pulmonary hypertension of the newborn",
+      "definition": "Yüksek fetal pulmoner vasküler direnç'nin sürmesi/geri dönmesi; PFO/PDA'dan sağdan sola şantla oksijene yanıtsız hipoksemi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Alprostadil",
+      "en": "Prostaglandin E1",
+      "definition": "Duktus-bağımlı lezyonlarda duktusun açık tutulması için kullanılan prostaglandin E1."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "COX inhibitörleri",
+      "en": "Cyclooxygenase inhibitors",
+      "definition": "Prostaglandin sentezini baskılayarak prematüre PDA'sını kapatan ilaçlar."
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Fetal kanallar",
+      "left": {
+        "title": "Duktus arteriyozus",
+        "points": [
+          "Pulmoner trunkus ile aorta arasındadır",
+          "Kalıntısı ligamentum arteriyozumdur"
+        ]
+      },
+      "right": {
+        "title": "Duktus venozus",
+        "points": [
+          "Umbilikal ven akımını vena kava inferior'ya yönlendirir",
+          "Kalıntısı ligamentum venozumdur"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kapanmanın iki anlamı",
+      "left": {
+        "title": "Fonksiyonel kapanma",
+        "points": [
+          "Yapıdan geçen akım durur",
+          "Doku düzeyinde birleşme henüz tamamlanmayabilir"
+        ]
+      },
+      "right": {
+        "title": "Anatomik kapanma",
+        "points": [
+          "Doku birleşmesi veya fibrozis gelişir",
+          "Kalıcı yapısal kapanmayı ifade eder"
+        ]
+      }
+    }
+  ]
+}

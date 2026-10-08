@@ -1,0 +1,82 @@
+{
+  "topic": "Isı değiştirici, HCU ve M. chimaera",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Soğutma ve ısıtmada gradyan",
+      "body": "STS/SCA/AmSECT 2015'e göre oksijenatör **arteriyel çıkışı ile venöz girişi** arasındaki sıcaklık farkı, soğutma ve ısıtmada 10 °C'yi aşmamalıdır.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "30 °C sonrası kontrollü ısıtma",
+      "body": "STS 2015'e göre arteriyel çıkış ≥30 °C iken arteriyel çıkış-venöz giriş farkı **≤4 °C**, ısıtma hızı ≤0,5 °C/dk tutulması makuldür.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Arteriyel çıkış sıcaklık sınırı",
+      "body": "EACTS 2024 arteriyel çıkışı **en çok 37 °C**, STS 2015 ise <37 °C ile sınırlar. Amaç serebral hipertermiden kaçınmaktır; sınırın kaynak dili belirtilmelidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hasta sıcaklığının gecikmesi",
+      "body": "STS 2015'te mesane veya rektal sıcaklığın ısıtmada beyin sıcaklığından **2–4 °C düşük** kalabileceği belirtilir; tek bölge ölçümüyle karar verilmez.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "HCU su sınırı cihazın özelliğidir",
+      "body": "FDA cihaz örneklerinde Hemotherm 400CE **3–42 °C**, Terumo HX2 10–40 °C su aralığına sahiptir. Bu değerler hastaya giden kan sıcaklığının hedefi değildir.",
+      "source": "FDA: HCU cihaz özetleri"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "M. chimaera'nın gecikmesi",
+      "body": "HCU ile ilişkili M. chimaera enfeksiyonu uzun latanslıdır. EACTS 2024'te yüksek mortalite **%40–65** olarak aktarılır; tek bir kesin başlangıç süresi kabul edilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "HCU'nun su devresi kapalı olsa da mikroorganizma cerrahi alana nasıl ulaşabilir?",
+      "answer": "Kontamine tank suyundan oluşan **aerosol**, cihazın havalandırmasıyla cerrahi alana taşınabilir.",
+      "source": "CDC MMWR 2016"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "HCU'da kanın sıcaklığı doğrudan hangi akışkan aracılığıyla değiştirilir?",
+      "answer": "Isı değiştiricide dolaştırılan **suyla**; su ile kan normalde ayrı bölmelerde bulunur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "HCU bakımında hangi ana parçalar değerlendirilir?",
+      "answer": "Su tankı, sirkülasyon pompaları, sıcaklık kontrolü ve sensörler ile tüp/konnektörler bakım planına alınır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "HCU yerleşimi enfeksiyon güvenliğidir",
+      "body": "EACTS 2024, HCU'nun mümkünse **ameliyathane dışına** konulmasını önerir. Üretici talimatına göre örnekleme, temizlik ve dezenfeksiyon sürdürülür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Hasta ve cihazı birlikte izle",
+      "body": "Arteriyel çıkış, birden çok hasta bölgesi ve HCU su sıcaklığı birlikte izlenir. **Su ayarı ile kan sıcaklığı farklıdır**; aşırı ısıtma serebral hipertermi riski taşır.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

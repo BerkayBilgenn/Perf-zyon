@@ -1,0 +1,91 @@
+{
+  "topic": "Kanülasyon teknikleri ve kanüller",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Santral arteriyel kanülasyon için tercih edilen bölge hangisidir?",
+      "options": [
+        "Koroner sinüs",
+        "Distal çıkan aorta",
+        "Pulmoner ven",
+        "Sol atriyum apendiksi"
+      ],
+      "correct": 1,
+      "explanation": "EACTS 2024 santral arteriyel dönüş için distal çıkan aortayı tercih edilen yer olarak belirtir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Dispersiyon uçlu arteriyel kanülün hedeflediği etki hangisidir?",
+      "options": [
+        "Venöz kanı köpürtmek",
+        "Gaz egzozunu kapatmak",
+        "Jet akımını dağıtmak",
+        "Aort kapağını immobilize etmek"
+      ],
+      "correct": 2,
+      "explanation": "Yan delikli dispersiyon uç, tek yoğun jetin aort duvarına etkisini azaltmayı amaçlar.",
+      "source": "Medtronic / LivaNova kanüller"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Femoral arteriyel bi-flow kanülün ek amacı nedir?",
+      "options": [
+        "Koroner sinüs drenajı",
+        "Sol atriyum ventingi",
+        "Akciğer ventilasyonu",
+        "Distal bacak perfüzyonu"
+      ],
+      "correct": 3,
+      "explanation": "Bi-flow tasarım femoral girişin distalindeki bacağı da perfüze eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Bikaval drenajda iki venöz kanül hangi damarlara yerleştirilir?",
+      "options": [
+        "Vena kava superior ve inferior",
+        "Sağ ve sol pulmoner arter",
+        "Sağ ve sol koroner arter",
+        "Büyük ve küçük kardiyak ven"
+      ],
+      "correct": 0,
+      "explanation": "Bikaval kanülasyon superior ve inferior vena kavayı ayrı kanüllerle drene eder.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Retrograd kardiyopleji kanülünün balonu hangi damarda yer alır?",
+      "options": [
+        "Femoral ven",
+        "Koroner sinüs",
+        "Pulmoner arter",
+        "Vena kava superior"
+      ],
+      "correct": 1,
+      "explanation": "Retrograd balonlu kanül sağ atriyumdan koroner sinüse yerleştirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "İki kademeli venöz kanülün ince ucu superior vena kavaya yerleşir.",
+      "isTrue": false,
+      "explanation": "İnce uç inferior vena kavada, geniş delikli bölüm sağ atriyumda bulunur.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Epiaortik ultrason çıkan aortadaki ateromların belirlenmesine yardım eder.",
+      "isTrue": true,
+      "explanation": "Kanülasyon ve klemp bölgesi planlanırken çıkan aorta ateromları epiaortik ultrasonla değerlendirilebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "topic": "Soldan sağa şantlı lezyonlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Fossa ovalis bölgesindeki ASD tipi hangisidir?",
+      "options": [
+        "Primum ASD",
+        "Sinüs venozus ASD",
+        "Sekundum ASD",
+        "Koroner sinüs tipi ASD"
+      ],
+      "correct": 2,
+      "explanation": "Sekundum defekt fossa ovalis bölgesinde yer alır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Çevresi tümüyle kas dokusundan oluşan VSD tipi hangisidir?",
+      "options": [
+        "Perimembranöz VSD",
+        "İnlet VSD",
+        "Çıkış VSD",
+        "Musküler VSD"
+      ],
+      "correct": 3,
+      "explanation": "Musküler defektin bütün kenarları ventriküler kas dokusudur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "En sık görülen VSD tipi hangisidir?",
+      "options": [
+        "Perimembranöz VSD",
+        "Trabeküler musküler VSD",
+        "İnlet VSD",
+        "Subpulmoner VSD"
+      ],
+      "correct": 0,
+      "explanation": "Membranöz septum çevresindeki defekt en sık tiptir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Sistol ve diyastol boyunca süren makine üfürümü hangi lezyonu düşündürür?",
+      "options": [
+        "Sekundum ASD",
+        "PDA",
+        "İzole VSD",
+        "Pulmoner stenoz"
+      ],
+      "correct": 1,
+      "explanation": "PDA tipik olarak sürekli makine üfürümüyle ilişkilidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Restriktif inlet VSD içeren AVSD formu hangisidir?",
+      "options": [
+        "Komplet form",
+        "Parsiyel form",
+        "Geçiş formu",
+        "İzole sekundum form"
+      ],
+      "correct": 2,
+      "explanation": "Geçiş AVSD'de inlet VSD küçük veya orta boyutlu ve restriktiftir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Lutembacher sendromunda ASD'ye hangi kapak hastalığı eşlik eder?",
+      "options": [
+        "Pulmoner stenoz",
+        "Aort atrezisi",
+        "Triküspit atrezisi",
+        "Edinsel mitral stenoz"
+      ],
+      "correct": 3,
+      "explanation": "Lutembacher sendromu sekundum ASD ile edinsel mitral stenoz birlikteliğidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Komplet AVSD'de ortak atriyoventriküler kapak bulunur.",
+      "isTrue": true,
+      "explanation": "Komplet form primum ASD, inlet VSD ve ortak atriyoventriküler kapağı içerir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "İzole PDA'da normal doğum sonrası basınç ilişkisiyle akım pulmoner arterden aortaya yönelir.",
+      "isTrue": false,
+      "explanation": "İzole PDA'da tipik şant aortadan pulmoner artere, yani soldan sağadır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "statement": "Scimitar sendromundaki anormal ven grafide sol kalp kenarına paralel pala görünümü oluşturur.",
+      "isTrue": false,
+      "explanation": "Tipik pala görünümü sağ kalp kenarına paralel anormal pulmoner venle ilişkilidir."
+    }
+  ]
+}

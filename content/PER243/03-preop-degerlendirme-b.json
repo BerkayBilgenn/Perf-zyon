@@ -1,0 +1,96 @@
+{
+  "topic": "Preoperatif değerlendirme ve risk skorları",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Risk tahmininin sınırı",
+      "body": "STS risk tahmini karar verme bilgilerinden biridir. Tek bir yüksek risk özelliği, hastayı cerrahiden dışlama gerekçesi olarak kullanılmamalıdır.",
+      "source": "STS risk hesaplayıcısı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "EuroSCORE'da böbrek işlevi",
+      "body": "EuroSCORE II böbrek fonksiyonunu **kreatinin klirensi ve diyaliz durumuyla** değerlendirir; yalnız serum kreatininine dayanan bir sınıflama değildir.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Elektif cerrahi ve P2Y12 arası",
+      "body": "2024 PBM kılavuzunda elektif kalp cerrahisi öncesi kesme aralıkları: **klopidogrel 5 gün, prasugrel 7 gün, tikagrelor en az 3 gün**. Aciliyet ve trombotik risk ayrıca değerlendirilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspirin ve KABG",
+      "body": "2024 PBM kılavuzu, koroner arter bypass greftleme öncesi aspirinin sürdürülmesini destekler. **Yüksek kanama riski** olan hastalarda yaklaşım farklılaşabilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Antikoagülan köprülemenin kapsamı",
+      "body": "2024 PBM kılavuzunda heparinle köprüleme, mekanik kapak gibi **yüksek trombotik risk** durumlarıyla sınırlıdır; bütün hastalara aynı biçimde uygulanmaz.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Preoperatif aneminin anlamı",
+      "body": "Preoperatif anemi transfüzyon, komplikasyon ve mortalite riskini artırır. Değerlendirme ameliyat öncesinde tanı ve tedaviyi içerir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Rutin testlerin öngörü sınırı",
+      "body": "Preoperatif rutin PT ve aPTT, kalp cerrahisindeki kanama ve transfüzyon miktarını tek başına güvenilir biçimde öngörmez.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "EuroSCORE II'de ürjan cerrahi nasıl tanımlanır?",
+      "answer": "Elektif yatırılmamış, aynı yatışta ameliyatı gereken ve **eve gönderilemeyen** hastanın cerrahisidir.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "EuroSCORE II'de salvage cerrahiyi belirleyen olay nedir?",
+      "answer": "Ameliyathaneye giderken veya **anestezi indüksiyonundan önce kalp masajı gerekmesi**; indüksiyon sonrası masaj bu tanıma dahil değildir.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Varfarinin acil geri çevrilmesinde 2024 PBM'nin öncelikli ürünü nedir?",
+      "answer": "**Protrombin kompleks konsantresi** önceliklidir; hızlı INR düzeltmesi sağlar. Taze donmuş plazma alternatif yaklaşımdır.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Andeksanet ve KPB",
+      "body": "2024 PBM kılavuzunda andeksanet alfanın KPB öncesi kullanımı **heparin direnci ve devre pıhtılaşması** riskiyle ilişkilidir; preoperatif kullanım önerilmez.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kronik beta-bloker",
+      "body": "2024 KPB kılavuzunda kronik **beta-blokerin sürdürülmesi** desteklenir; bradikardi ve hipotansiyon riski ayrıca değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ASA III ve IV örnekleri",
+      "body": "ASA'nın 2020 tablosunda implante kalp pili ve orta derecede ejeksiyon fraksiyonu azalması **ASA III**; devam eden kardiyak iskemi ve ağır kapak disfonksiyonu **ASA IV** örnekleridir.",
+      "source": "ASA fiziksel durum sınıflaması"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "topic": "Pompalar: roller ve santrifügal",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Roller pompa direnci yükselmiş kapalı bir hatta çalışırsa temel tehlike nedir?",
+      "options": [
+        "Pompanın zorunlu olarak geri dönmesi",
+        "Gaz blenderinin durması",
+        "Hat basıncının aşırı yükselmesi",
+        "Rezervuarın kendiliğinden büyümesi"
+      ],
+      "correct": 2,
+      "explanation": "Roller pompa akımı dirençten büyük ölçüde bağımsızdır; tıkalı çıkışta aşırı basınç devreyi bozabilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Roller pompanın sürekli sıkışmaya maruz kalan segmentinde hangi malzeme kullanılır?",
+      "options": [
+        "Teflon elek",
+        "Paslanmaz çelik",
+        "PMP lif",
+        "Silikon"
+      ],
+      "correct": 3,
+      "explanation": "Silikon pompa segmenti yinelenen sıkışmaya dayanması için kullanılır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "PVC roller tüpünde sürtünmeyle oluşan elektrik hangi terimle adlandırılır?",
+      "options": [
+        "Triboelektrik yük",
+        "Transmembran gradyan",
+        "Osmotik basınç",
+        "Hidrostatik drenaj"
+      ],
+      "correct": 0,
+      "explanation": "Triboelektrik yük sürtünmenin oluşturduğu statik elektrik birikimidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Santrifügal pompada düşük devir alarmının başlıca güvenlik amacı nedir?",
+      "options": [
+        "Kanı kristaloidle seyreltmek",
+        "Retrograd akımı önlemeye yardım etmek",
+        "Su devresini sterilize etmek",
+        "Tüp çapını hesaplamak"
+      ],
+      "correct": 1,
+      "explanation": "Düşük devir hasta direncini yenemeyebilir; geri akış önleme donanımı önemlidir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulsatil akımın hemodinamik enerjisini değerlendiren göstergeler hangisidir?",
+      "options": [
+        "ACT ve INR",
+        "PaO₂ ve PaCO₂",
+        "EEP ve SHE",
+        "Hct ve trombosit sayısı"
+      ],
+      "correct": 2,
+      "explanation": "EEP ve SHE, pulsasyonun hemodinamik enerji katkısını nicelleştirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Roller pompada oklüzyon ayarının tek bir uluslararası yöntemi vardır.",
+      "isTrue": false,
+      "explanation": "Standart bir evrensel oklüzyon ayarı yoktur; kurum protokolü ve kullanılan sistem dikkate alınır.",
+      "source": "Dinamik oklüzyon 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Santrifügal pompa girişteki dolum koşullarına duyarlıdır.",
+      "isTrue": true,
+      "explanation": "Oklüzif olmayan pompanın akımı ön yüke, yani giriş dolumuna bağlıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Santrifügal pompa, roller tüpündeki sıkışmaya bağlı aşınmayı oluşturur.",
+      "isTrue": false,
+      "explanation": "Santrifügal başta roller gibi tüp sıkışması yoktur; aynı mekanizmalı tüp aşınması beklenmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

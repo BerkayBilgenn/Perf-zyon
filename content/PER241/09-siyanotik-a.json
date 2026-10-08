@@ -1,0 +1,206 @@
+{
+  "topic": "Siyanotik lezyonlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Hiperkiyanotik nöbet",
+      "en": "Hypercyanotic (tet) spell",
+      "definition": "Fallot tetralojisinde ani ve belirgin siyanoz artışıyla gelişen atak."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Çömelme",
+      "en": "Squatting",
+      "definition": "TOF'lu çocuğun sistemik vasküler direnç'yi artırarak sağdan sola şantı azaltmak için çömelmesi."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Bot şeklinde kalp",
+      "en": "Boot-shaped heart (coeur en sabot)",
+      "definition": "TOF'ta sağ ventrikül hipertrofisi ve konkav pulmoner segmentle oluşan grafi görünümü.",
+      "origin": "Fr. sabot = takunya"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "İp üzerinde yumurta",
+      "en": "Egg-on-a-string",
+      "definition": "D-TGA'da dar üst mediastenle oluşan grafi görünümü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Kardan adam görünümü",
+      "en": "Snowman sign (figure of 8)",
+      "definition": "Suprakardiyak TAPVR'de genişlemiş vertikal ven, innominat ven ve vena kava superior'nin oluşturduğu grafi görünümü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Fallot tetralojisi",
+      "en": "Tetralogy of Fallot",
+      "definition": "VSD + sağ ventrikül çıkış yolu obstrüksiyonu + aortanın ata binmesi + sağ ventrikül hipertrofisi; en sık siyanotik KKH.",
+      "origin": "É. Fallot + Yun. tetra = dört"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "term": "Pembe Fallot",
+      "en": "Pink tetralogy",
+      "definition": "Sağ ventrikül çıkış yolu darlığının hafif olduğu, siyanozu belirgin olmayan Fallot tetralojisi görünümü."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "D-TGA",
+      "en": "Dextro-transposition of the great arteries",
+      "definition": "Aortun sağ ventrikül'den, pulmoner arterin sol ventrikül'den çıktığı ventrikülo-arteriyel diskordans.",
+      "origin": "Lat. trans + positio"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "ccTGA",
+      "en": "Congenitally corrected TGA",
+      "definition": "atriyoventriküler ve ventrikülo-arteriyel çift diskordans; sistemik ventrikül morfolojik sağ ventrikül."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Persistan trunkus arteriyozus",
+      "en": "Persistent truncus arteriosus",
+      "definition": "Tek trunkal kapaklı tek arteriyel gövdenin sistemik, pulmoner ve koroner dolaşımı beslemesi + VSD.",
+      "origin": "Lat. truncus = gövde"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "TAPVR",
+      "en": "Total anomalous pulmonary venous return",
+      "definition": "Tüm pulmoner venlerin sol atriyum yerine sistemik venöz dolaşıma açılması."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Triküspit atrezisi",
+      "en": "Tricuspid atresia",
+      "definition": "Triküspit kapağın yokluğu ve hipoplastik sağ ventrikül; zorunlu atriyal sağdan sola şant.",
+      "origin": "Yun. a- + tresis = deliksizlik"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "PA-İVS",
+      "en": "Pulmonary atresia with intact ventricular septum",
+      "definition": "Pulmoner kapağın oluşmaması, septumun sağlam olması; sağ ventrikül hipoplazisi, koroner fistüller."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Ebstein anomalisi",
+      "en": "Ebstein anomaly",
+      "definition": "Triküspit septal ve inferior yapraklarının apekse yer değiştirmesi; \"atriyalize sağ ventrikül\".",
+      "origin": "W. Ebstein (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Atriyalize sağ ventrikül",
+      "en": "Atrialized right ventricle",
+      "definition": "Ebstein'da yer değiştiren kapağın üstünde kalıp atriyum gibi davranan sağ ventrikül bölümü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "DORV",
+      "en": "Double outlet right ventricle",
+      "definition": "Her iki büyük arterin tamamen/çoğunlukla sağ ventrikül'den çıkması."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Taussig-Bing anomalisi",
+      "en": "Taussig-Bing anomaly",
+      "definition": "Subpulmoner VSD'li DORV; TGA benzeri fizyoloji.",
+      "origin": "H. Taussig, R. Bing (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "HLHS",
+      "en": "Hypoplastic left heart syndrome",
+      "definition": "sol ventrikül, mitral/aort kapak ve çıkan aorta hipoplazisi; sistemik akım duktusa bağımlı.",
+      "origin": "Yun. hypo + plasis = az biçimlenme"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Heterotaksi",
+      "en": "Heterotaxy",
+      "definition": "Organların sağ-sol düzeninin bozulması; TAPVR ile (özellikle aspleni) ilişkili.",
+      "origin": "Yun. heteros = farklı + taxis = düzen"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Transpozisyonda uyumsuzluk",
+      "left": {
+        "title": "D-TGA",
+        "points": [
+          "Ventrikül-arter bağlantıları uyumsuzdur",
+          "Sistemik ve pulmoner devreler paraleldir"
+        ]
+      },
+      "right": {
+        "title": "ccTGA",
+        "points": [
+          "atriyoventriküler ve ventrikül-arter bağlantıları uyumsuzdur",
+          "Morfolojik sağ ventrikül sistemik çalışır"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pulmoner venöz dönüş düzeyleri",
+      "left": {
+        "title": "Suprakardiyak TAPVR",
+        "points": [
+          "Drenaj kalbin üstündeki venleredir",
+          "Grafide kardan adam görünümü olabilir"
+        ]
+      },
+      "right": {
+        "title": "İnfrakardiyak TAPVR",
+        "points": [
+          "Drenaj diyafram altındaki venleredir",
+          "Obstrüksiyon varsa acil cerrahi gerekir"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Gravite drenajı",
+      "definition": "Rezervuarın hastadan aşağıda olmasıyla yerçekimi farkından venöz drenaj.",
+      "en": "Gravity (siphon) drainage",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "VAVD",
+      "definition": "Kapalı hard-shell rezervuara kontrollü vakum uygulanarak venöz drenajın artırılması.",
+      "en": "Vacuum-assisted venous drainage",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "KAVD",
+      "definition": "Venöz hatta santrifügal pompa ile negatif basınç oluşturulması.",
+      "en": "Kinetic-assisted venous drainage",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hava kilidi",
+      "definition": "Venöz hatta biriken havanın sifonu kesip drenajı durdurması.",
+      "en": "Airlock",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Vakum regülatörü",
+      "definition": "VAVD'de negatif basıncı ayarlayan ve sınırlayan cihaz.",
+      "en": "Vacuum regulator",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Yardımlı venöz drenaj",
+      "definition": "Graviteye ek olarak vakum veya kinetik pompa kullanarak venöz kanın devreye dönüşünü artırma yöntemi.",
+      "en": "Assisted venous drainage",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Yardımlı drenajın kaynağı",
+      "left": {
+        "title": "VAVD",
+        "points": [
+          "Rezervuara kontrollü vakum uygulanır",
+          "Vakum regülatörü kullanılır"
+        ]
+      },
+      "right": {
+        "title": "KAVD",
+        "points": [
+          "Venöz hatta kinetik pompa kullanılır",
+          "Santrifügal pompa negatif basınç üretir"
+        ]
+      },
+      "source": "MiECC derlemesi 2021"
+    }
+  ]
+}

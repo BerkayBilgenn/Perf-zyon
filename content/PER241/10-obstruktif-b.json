@@ -1,0 +1,75 @@
+{
+  "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+  "cards": [
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Koarktasyonun muayene ipucu",
+      "body": "Üst ekstremitelerde güçlü nabız ve hipertansiyona karşılık **femoral nabızlar zayıf veya gecikmiştir**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Koarktasyonda kosta çentiklenmesi nasıl oluşur?",
+      "answer": "Kollateral damarların kaburgalarla ilişkisi **kosta çentiklenmesi** görünümünü oluşturabilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Koarktasyon klempinde nörolojik risk",
+      "body": "Aortik kros-klemp sırasında **spinal kord iskemisi ve parapleji** riski bulunur."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "IAA tip B'de kesinti nerede yer alır?",
+      "answer": "**Sol ana karotis ile sol subklavyen arter arasında** yer alır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Biküspit aort kapağına hangi aortik değişiklik eşlik edebilir?",
+      "answer": "Biküspit aort kapağına **aort kökü veya çıkan aorta genişlemesi** eşlik edebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Aort kapağında girişim ayrımı",
+      "body": "Stenotik kapakta balon dilatasyon veya cerrahi onarım; **yetersiz kapakta cerrahi** seçenekler değerlendirilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pulmoner stenozda sık girişim",
+      "body": "Uygun kapak anatomisinde **transkateter balon dilatasyon** sık kullanılan tedavi yaklaşımıdır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Shone'un anatomik bileşenleri",
+      "body": "Supravalvüler mitral halka, paraşüt mitral kapak, **subaortik stenoz ve koarktasyon** birlikteliği Shone kompleksidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Romatizmal hastalık nasıl başlar?",
+      "answer": "A grubu streptokok farenjiti sonrasında gelişen **otoimmün inflamatuvar yanıt** kardit ve kapak hasarına yol açabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Romatizmal karditte dönem farkı",
+      "body": "Akut dönemde **mitral yetersizliği**, kronik dönemde mitral stenoz öne çıkar."
+    }
+  ]
+}

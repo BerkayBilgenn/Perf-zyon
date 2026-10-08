@@ -1,0 +1,75 @@
+{
+  "topic": "KPB'de anestezi, ayrılma ve aciller",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ayrılmada ekip iletişimi",
+      "body": "Kardiyopulmoner bypasstan ayrılma **multidisipliner** bir süreçtir; anestezi, cerrahi ve perfüzyon ekibinin ortak kontrol listesi kullanması önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Zor ayrılmayı öngören etkenler",
+      "body": "Düşük sol ventrikül ejeksiyon fraksiyonu, diyastolik disfonksiyon, acil cerrahi ve uzun bypass süresi **zor ayrılma** olasılığını artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Acil yeniden bypass hazırlığı",
+      "body": "Acil yeniden kardiyopulmoner bypass için steril set hazır olmalı; yeniden açma kararıyla birlikte **yeterli heparin erken verilmelidir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "İnsan faktörü ve güvenlik",
+      "body": "Yorgunluk, uzun çalışma ve iletişim hataları kardiyopulmoner bypass advers olaylarına katkı sağlayabilir. **Simülasyon ve ekip eğitimi** acil durum yönetimini destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB'den ayrılmada TÖE'nin temel katkısı nedir?",
+      "answer": "**Ventrikül işlevini, kapak sonucunu ve rezidüel havayı** değerlendirerek ayrılma yaklaşımına rehberlik eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Ventilasyonu yeniden başlat",
+      "body": "Kardiyopulmoner bypasstan ayrılmadan önce **ventilasyonun yeniden başlatıldığı** kontrol listesiyle doğrulanmalıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Zor ayrılmada mekanik destek",
+      "body": "Artan vazoaktif ilaçlarla ayrılmayı zorlamak yerine seçilmiş hastada **erken geçici mekanik dolaşım desteği** değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB akım aralığının bağlamı",
+      "body": "2024 KPB kılavuzunda orta hipotermi–normotermide yaygın pompa akımı **2,2–2,8 L/dk/m²** olarak aktarılır; vücut yüzey alanı, sıcaklık ve oksijen gereksinimine göre değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Bekleyen devre için kurum politikası",
+      "body": "2024 KPB kılavuzunda hazır primingli devre için **72 saat**, kuru devre için **30 gün** saklama, kurum politikası olarak düşünülür; evrensel raf ömrü değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Masif hava embolisinde yaklaşımlar",
+      "body": "2024 KPB kılavuzu masif hava embolisinde doku oksijenasyonunun optimizasyonu, hipotermi ve **retrograd serebral perfüzyon** gibi yaklaşımları tartışır; acil plan ekip ve kurum protokolüne dayanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "topic": "IV anestezikler, opioidler ve antagonistleri",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Ketaminin temel reseptör mekanizması hangisidir?",
+      "options": [
+        "Muskarinik agonizm",
+        "NMDA antagonizması",
+        "β1 antagonizması",
+        "V2 antagonizması"
+      ],
+      "correct": 1,
+      "explanation": "Ketamin nonkompetitif NMDA reseptör antagonisti disosiyatif anesteziktir.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Uzun süre benzodiazepin kullanan hastada flumazenilin önemli riski nedir?",
+      "options": [
+        "Hiperkalemi",
+        "Siyanür toksisitesi",
+        "Nöbet",
+        "Malign hipertermi"
+      ],
+      "correct": 2,
+      "explanation": "Flumazenil uzun süre benzodiazepin kullanan hastada nöbeti tetikleyebilir.",
+      "source": "DailyMed: flumazenil"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fentanilin solunum depresyonu ile analjezi süresi nasıl ilişkilidir?",
+      "options": [
+        "Analjezi solunum depresyonunu sona erdirir",
+        "İki etki aynı anda zorunlu olarak biter",
+        "Solunum depresyonu yalnız infüzyonda görülür",
+        "Solunum depresyonu daha uzun sürebilir"
+      ],
+      "correct": 3,
+      "explanation": "Ürün bilgisi solunum depresyonunun analjeziden daha uzun sürebileceğini belirtir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Opioid sonrası ventilasyonu zorlaştıran kas sertleşmesi hangi tablodur?",
+      "options": [
+        "Göğüs duvarı rijiditesi",
+        "Laringospazm",
+        "Bronkospazm",
+        "Rezidüel nöromüsküler blok"
+      ],
+      "correct": 0,
+      "explanation": "Yüksek veya hızlı opioid uygulaması solunum kaslarında rijidite oluşturabilir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Propofolün kardiyak indüksiyon dozu hangi aralıktadır?",
+      "options": [
+        "5–15 mg/kg",
+        "0,5–1,5 mg/kg",
+        "0,05–0,15 mg/kg",
+        "50–150 mg/kg"
+      ],
+      "correct": 1,
+      "explanation": "DIPRIVAN etiketinde kardiyak indüksiyon için 0,5–1,5 mg/kg yavaş titrasyonla verilir; sağlıklı genç erişkin dozu farklıdır.",
+      "source": "DailyMed: propofol"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Ketamin bronkodilatör etki gösterebilir.",
+      "isTrue": true,
+      "explanation": "Ketaminin bronkodilatör özelliği ürün bilgisinde belirtilen etkilerindendir.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Nalokson benzodiazepin reseptörlerinin kompetitif antagonistidir.",
+      "isTrue": false,
+      "explanation": "Nalokson opioid antagonistidir; benzodiazepin etkisini geri çeviren ajan flumazenildir.",
+      "source": "DailyMed: nalokson"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Deksmedetomidin önerilen dozlarda belirgin solunum depresyonu oluşturmadan sedasyon sağlayabilir.",
+      "isTrue": true,
+      "explanation": "Ürün bilgisinde önerilen dozlarda belirgin solunum depresyonu bulunmadığı belirtilir; hemodinamik izlem yine gerekir.",
+      "source": "DailyMed: deksmedetomidin"
+    }
+  ]
+}

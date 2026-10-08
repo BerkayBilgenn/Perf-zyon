@@ -1,0 +1,77 @@
+{
+  "topic": "Koroner sistem anatomisi ve fizyolojisi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Koroner dominansın anatomik ölçütü hangisidir?",
+      "options": [
+        "Ön inen arterin toplam uzunluğu",
+        "Koroner sinüsün çapı",
+        "Posterior desendan arterin kökeni",
+        "Sol ana koronerin dallanma açısı"
+      ],
+      "correct": 2,
+      "explanation": "Dominans PDA'yı veren koroner arterle tanımlanır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Koroner sinüs hangi boşluğa açılır?",
+      "options": [
+        "Sol atriyum",
+        "Sağ ventrikül",
+        "Sol ventrikül",
+        "Sağ atriyum"
+      ],
+      "correct": 3,
+      "explanation": "Koroner sinüs kalbin venöz kanını sağ atriyuma boşaltır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Anterior kardiyak venlerin karakteristik drenajı hangisidir?",
+      "options": [
+        "Doğrudan sağ atriyuma",
+        "Doğrudan sol atriyuma",
+        "Pulmoner venlere",
+        "Aort köküne"
+      ],
+      "correct": 0,
+      "explanation": "Anterior kardiyak venler koroner sinüse uğramadan sağ atriyuma açılır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Taşikardi koroner perfüzyon süresini hangi mekanizmayla kısaltır?",
+      "options": [
+        "Koroner ostiumu kapatarak",
+        "Diyastol süresini azaltarak",
+        "Venöz kanı arteriyelleştirerek",
+        "Kanül çapını büyüterek"
+      ],
+      "correct": 1,
+      "explanation": "Koroner akımın önemli bölümü diyastolde olur; taşikardi bu süreyi kısaltır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Koroner sinüs sol atriyumun arka tarafı boyunca sol atriyoventriküler olukta seyreder.",
+      "isTrue": true,
+      "explanation": "Koroner sinüsün seyri sol atriyumun arka duvarı boyunca sol AV oluktadır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Thebesian venlerin tamamı koroner sinüste birleşir.",
+      "isTrue": false,
+      "explanation": "Thebesian venler doğrudan kalp boşluklarına açılır; koroner sinüse uğramaz.",
+      "source": "Radiopaedia: Koroner anatomi"
+    }
+  ]
+}

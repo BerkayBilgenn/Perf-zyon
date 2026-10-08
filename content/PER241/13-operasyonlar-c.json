@@ -1,0 +1,77 @@
+{
+  "topic": "Palyatif ve düzeltici operasyonlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Atriyal ve arteriyel switch'in birlikte uygulandığı girişim hangisidir?",
+      "options": [
+        "Rastelli",
+        "Ross-Konno",
+        "Takeuchi",
+        "Double switch"
+      ],
+      "correct": 3,
+      "explanation": "Double switch, ccTGA'da sistemik sağ ventrikül yükünü değiştirmeyi amaçlayan seçenektir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "TGA'da sol ventrikülü sistemik yüke hazırlamak için hangi girişim kullanılabilir?",
+      "options": [
+        "Pulmoner arter bandı",
+        "Fontan fenestrasyonu",
+        "Koroner fistül embolizasyonu",
+        "Mitral yarık kapatılması"
+      ],
+      "correct": 0,
+      "explanation": "Pulmoner arter bandı sol ventrikülün basınç yükünü artırarak hazırlık sağlayabilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "İnteratriyal septumun cerrahi çıkarılması hangi terimle ifade edilir?",
+      "options": [
+        "Atriyal septostomi",
+        "Atriyal septektomi",
+        "Arteriyel switch",
+        "Valvüloplasti"
+      ],
+      "correct": 1,
+      "explanation": "Septektomi doku çıkarılmasıdır; septostomi açıklık oluşturulması veya genişletilmesidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Ross'ta hastanın hangi kapağı aort pozisyonuna taşınır?",
+      "options": [
+        "Triküspit kapak",
+        "Mitral kapak",
+        "Pulmoner kapak",
+        "Koroner sinüs kapağı"
+      ],
+      "correct": 2,
+      "explanation": "Ross pulmoner otogreftle aort kapağının değiştirilmesidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "Norwood'da pulmoner kök, neo-aortanın oluşturulmasına katılır.",
+      "isTrue": true,
+      "explanation": "Norwood neo-aorta ve ark rekonstrüksiyonuyla sistemik çıkış yolu sağlar."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Koni onarımı temel olarak aort kapağının onarımı için kullanılır.",
+      "isTrue": false,
+      "explanation": "Koni onarımı Ebstein'daki triküspit kapak deformitesine yöneliktir."
+    }
+  ]
+}

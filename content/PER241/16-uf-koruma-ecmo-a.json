@@ -1,0 +1,208 @@
+{
+  "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "CUF",
+      "en": "Conventional ultrafiltration",
+      "definition": "KPB sırasında hemokonsantratörle sıvı uzaklaştırma; rezervuar minimum hacmiyle sınırlı."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Naik ve ark. 1991",
+      "term": "MUF",
+      "en": "Modified ultrafiltration",
+      "definition": "Kardiyopulmoner bypass sonlandıktan sonra, protamin verilmeden önce uygulanan ultrafiltrasyon yöntemi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Journois ve ark. 1996",
+      "term": "Z-BUF",
+      "en": "Zero-balance ultrafiltration",
+      "definition": "KPB'de ultrafiltrat kadar kristaloid ekleyerek volüm nötr şekilde mediatör uzaklaştırma."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "term": "Hemokonsantratör",
+      "en": "Hemoconcentrator",
+      "definition": "Ultrafiltrasyon için yarı geçirgen membranlı filtre."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Matte ve del Nido 2012",
+      "term": "Kardiyopleji",
+      "en": "Cardioplegia",
+      "definition": "Kalbi diyastolde durdurup iskemiye karşı koruyan solüsyon.",
+      "origin": "Yun. kardia + plege = darbe/felç"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Matte ve del Nido 2012",
+      "term": "del Nido kardiyoplejisi",
+      "en": "del Nido cardioplegia",
+      "definition": "Kan ile kristaloidi **1:4** oranında birleştiren; lidokain, magnezyum, mannitol, bikarbonat ve potasyum içeren kardiyopleji.",
+      "origin": "P. del Nido (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Ghiragosian ve ark. 2022",
+      "term": "HTK",
+      "en": "Histidine-tryptophan-ketoglutarate",
+      "definition": "Düşük Na'lı, histidin tamponlu, hiperpolarize arrest yapan kristaloid kardiyopleji."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "term": "Depolarize arrest",
+      "en": "Depolarized arrest",
+      "definition": "Yüksek K ile membranın depolarize tutularak kalbin durdurulması (del Nido, kan kardiyoplejisi)."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Ghiragosian ve ark. 2022",
+      "term": "Hiperpolarize arrest",
+      "en": "Hyperpolarized arrest",
+      "definition": "Ekstraselüler Na deplesyonu ile hızlı depolarizasyon fazının engellenmesi (HTK)."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Heparin",
+      "en": "Heparin",
+      "definition": "Antitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandıran antikoagülan.",
+      "origin": "Yun. hepar = karaciğer"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Antitrombin",
+      "en": "Antithrombin",
+      "definition": "Heparinin etki gösterebilmesi için gerekli doğal pıhtılaşma inhibitörü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Protamin",
+      "en": "Protamine",
+      "definition": "Heparinin etkisini nötralize eden ilaç."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Heparin etkisinin izlenmesinde kullanılan tam kan pıhtılaşma zamanı testi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "HIT",
+      "en": "Heparin-induced thrombocytopenia",
+      "definition": "Heparine karşı immün reaksiyonla gelişen ciddi trombositopeni."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "Antifibrinolitik",
+      "en": "Antifibrinolytic",
+      "definition": "Fibrinolizi azaltarak kanamayı azaltan ajan (aprotinin, traneksamik asit)."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "ECMO",
+      "en": "Extracorporeal membrane oxygenation",
+      "definition": "Günler-haftalar sürebilen ekstrakorporeal kalp ve/veya akciğer desteği."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "VA ECMO",
+      "en": "Veno-arterial extracorporeal membrane oxygenation (VA ECMO)",
+      "definition": "Venöz kanın arteriyel sisteme döndürüldüğü, kalp ve akciğer desteği sağlayan ekstrakorporeal membran oksijenasyonu biçimi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Oksijenasyon indeksi",
+      "en": "Oxygenation index",
+      "definition": "Yenidoğanın solunum yetmezliği şiddetini değerlendirmede kullanılan oksijenlenme ölçütü."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "İnhale nitrik oksit",
+      "en": "Inhaled nitric oxide",
+      "definition": "Pulmoner damarları seçici olarak genişleten, solunum yoluyla uygulanan nitrik oksit."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "VV ECMO",
+      "en": "Veno-venous extracorporeal membrane oxygenation",
+      "definition": "Venöz kanın oksijenlendirilip yeniden venöz sisteme verildiği, kalp fonksiyonu yeterliyken solunum desteği sağlayan yöntem."
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Ultrafiltrasyonun zamanı",
+      "left": {
+        "title": "CUF",
+        "points": [
+          "KPB sırasında uygulanır",
+          "Rezervuarın minimum hacmiyle sınırlanır"
+        ]
+      },
+      "right": {
+        "title": "MUF",
+        "points": [
+          "KPB sonrasında, protaminden önce uygulanır",
+          "Rezidüel devre kanını konsantre etmeyi sağlar"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Ultrafiltrasyonda hacim dengesi",
+      "left": {
+        "title": "MUF",
+        "points": [
+          "Sıvı uzaklaştırıp hematokriti artırır",
+          "KPB sonrasında uygulanır"
+        ]
+      },
+      "right": {
+        "title": "Z-BUF",
+        "points": [
+          "Ultrafiltrat kadar kristaloid eklenir",
+          "KPB sırasında volüm nötr uygulanır"
+        ]
+      }
+    }
+  ]
+}

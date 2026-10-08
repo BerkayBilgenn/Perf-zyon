@@ -1,0 +1,121 @@
+{
+  "topic": "İnhalasyon anestezikleri",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "MAK",
+      "en": "Minimum alveolar concentration",
+      "definition": "Bir atmosferde cerrahi insizyona karşı hastaların **%50'sinin** hareket etmediği alveoler anestezik konsantrasyonu.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Kan/gaz partisyon katsayısı",
+      "en": "Blood/gas partition coefficient",
+      "definition": "Anesteziğin kan ile gaz fazı arasındaki dağılım oranı; düşük olması hızlı indüksiyon ve derlenme demektir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Sevofluran",
+      "en": "Sevoflurane",
+      "definition": "İnhalasyonla verilen volatil anestezik; güçlü baz içeren karbondioksit absorbanlarıyla etkileşimde Compound A oluşabilir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Desfluran",
+      "en": "Desflurane",
+      "definition": "Yüksek uçuculuğu nedeniyle ısıtmalı özel vaporizatör gerektiren volatil inhalasyon anesteziği.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İzofluran",
+      "en": "Isoflurane",
+      "definition": "İnhalasyonla verilen volatil anestezik; kan/gaz partisyon katsayısı sevofluran ve desflurandan daha yüksektir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Nitröz oksit",
+      "en": "Nitrous oxide (N2O)",
+      "definition": "Düşük potensli gaz anestezik; dolaşımdaki hava kabarcıklarını büyütebildiği için kardiyopulmoner bypass çevresinde sorun yaratabilir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Volatil anestezik",
+      "en": "Volatile anesthetic",
+      "definition": "Oda ısısında sıvı olup vaporizatörle buharlaştırılarak solutulan anestezik.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Anestezik ön koşullandırma",
+      "en": "Anesthetic preconditioning",
+      "definition": "Volatil ajanların miyokardı iskemi-reperfüzyona karşı koruyan yolakları (ör. K-ATP) tetiklemesi.",
+      "source": "Ann Card Anaesth 2019: ön koşullandırma"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İskemik ön koşullandırma",
+      "en": "Ischemic preconditioning",
+      "definition": "Kısa iskemi dönemlerinin miyokardı sonraki daha uzun iskemiye karşı koruyan yanıtları tetiklemesi.",
+      "source": "Ann Card Anaesth 2019: ön koşullandırma"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Compound A",
+      "en": "Compound A",
+      "definition": "Sevofluranın güçlü bazlı karbondioksit absorbanlarıyla yıkımından oluşan madde.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Malign hipertermi",
+      "en": "Malignant hyperthermia",
+      "definition": "Volatil ajan veya süksinilkolinle tetiklenen kalıtsal hipermetabolik kas krizi; tedavisi dantrolen.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Dantrolen",
+      "en": "Dantrolene",
+      "definition": "Malign hipertermi tedavisinde kullanılan iskelet kası gevşeticisi.",
+      "source": "DailyMed: dantrolen"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "İnhalasyon ajanını değerlendirme",
+      "left": {
+        "title": "MAK",
+        "points": [
+          "Anestezik potensi gösterir",
+          "Düşük değer daha güçlü ajanı gösterir"
+        ]
+      },
+      "right": {
+        "title": "Kan/gaz katsayısı",
+        "points": [
+          "Kandaki çözünürlüğü gösterir",
+          "Düşük değer daha hızlı indüksiyon ve derlenmeyle ilişkilidir"
+        ]
+      },
+      "source": "Barash Clinical Anesthesia"
+    }
+  ]
+}

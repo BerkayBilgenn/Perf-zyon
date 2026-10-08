@@ -1,0 +1,91 @@
+{
+  "topic": "Koroner damarlar ve ileti sistemi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Normal kalpte ritmi başlatan fizyolojik uyarı merkezi hangisidir?",
+      "options": [
+        "Atriyoventriküler düğüm",
+        "His demeti",
+        "Sol dal",
+        "Sinoatriyal düğüm"
+      ],
+      "correct": 3,
+      "explanation": "Normal uyarı SA düğümde başlar ve ileti sistemi boyunca yayılır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Koch üçgeni anatomisi",
+      "question": "AV düğümün yer aldığı anatomik bölge hangisidir?",
+      "options": [
+        "Koch üçgeni",
+        "Fossa ovalis",
+        "Aort istmusu",
+        "Sol atriyal aurikula"
+      ],
+      "correct": 0,
+      "explanation": "atriyoventriküler düğüm Koch üçgeninin tepesinde bulunur."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Sağ atriyumdan sol atriyuma doğrudan uyarı ileten demet hangisidir?",
+      "options": [
+        "His demeti",
+        "Bachmann demeti",
+        "Sağ dal",
+        "Sol posterior fasikül"
+      ],
+      "correct": 1,
+      "explanation": "Bachmann demeti atriyumlar arası iletimi sağlar."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Hızlı subendokardiyal ileti hangi yapı tarafından sağlanır?",
+      "options": [
+        "Pektinat kaslar",
+        "Todaro tendonu",
+        "Purkinje lifleri",
+        "Korda tendinea"
+      ],
+      "correct": 2,
+      "explanation": "Purkinje lifleri uyarıyı subendokardiyal ağdan ventrikül kasına yayar."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Wikipedia",
+      "question": "Koroner dominansı belirleyen dal hangisidir?",
+      "options": [
+        "Sol marjinal arter",
+        "SA düğüm arteri",
+        "Ön kardiyak ven",
+        "Posterior inen arter"
+      ],
+      "correct": 3,
+      "explanation": "Dominans, posterior inen koroner arteri veren koronere göre tanımlanır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "statement": "His demeti interventriküler septumda sağ ve sol dallara ayrılır.",
+      "isTrue": true,
+      "explanation": "atriyoventriküler düğümden gelen uyarı His demeti ve dalları üzerinden ventriküllere iletilir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Koroner sinüsün topladığı venöz kan sol atriyuma boşalır.",
+      "isTrue": false,
+      "explanation": "Koroner sinüs sağ atriyuma açılır."
+    }
+  ]
+}

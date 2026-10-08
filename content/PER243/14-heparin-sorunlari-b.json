@@ -1,0 +1,110 @@
+{
+  "topic": "Heparin direnci, HİT ve protamin",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparin direncinin başka nedenleri",
+      "body": "Yüksek fibrinojen, trombositoz, aktif endokardit ve hipoalbüminemi heparine yetersiz yanıtla ilişkilidir; bütün direnç olguları tek nedene bağlanmaz.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "HİT testinin sınırı",
+      "body": "PF4/heparin immünoassay pozitifliği **tek başına HİT tanısı değildir**; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Bivalirudin ve durgun kan",
+      "body": "Bivalirudinle kardiyopulmoner bypassta **durgun kanın pıhtılaşması** risk oluşturur; devrede stazın önlenmesi önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Uzamış ACT ve protamin",
+      "body": "Protamin sonrası uzamış ACT'nin tek nedeni rezidüel heparin değildir. Hipotermi ve faktör/trombosit sorunları nedeniyle **otomatik ek protamin** aşırı doza yol açabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Desmopressinin tekrar yanıtı",
+      "body": "Desmopressinin sık tekrarlanan uygulamalarında **taşifilaksi** gelişebilir; hiponatremi ve su intoksikasyonu da önemli risklerdir.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Böbrek yetmezliği olan HİT hastasında argatrobanın tercih gerekçesi nedir?",
+      "answer": "Argatrobanın eliminasyonu ağırlıklı **hepatiktir**; böbrek fonksiyonu seçimi etkiler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Heparin direncinde AT desteğinin temel amacı nedir?",
+      "answer": "Kardiyopulmoner bypass için **etkin antikoagülasyon sağlamak**; birincil amaç doğrudan kanamayı azaltmak değildir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Protamin heparini hangi bağlanma biçimiyle etkisizleştirir?",
+      "answer": "Pozitif yüklü protamin, heparinle **elektrostatik bağlanarak** inaktif kompleks oluşturur.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "HİT'te tromboz",
+      "body": "İmmün heparine bağlı trombositopenide asıl tehlike yalnız düşük trombosit sayısı değildir; **tromboz** başlıca klinik tehdittir.",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin ve aspiratör",
+      "body": "**Protamin başladığında kardiyotomi aspiratörü kapatılır**; nötralize kanın devreye dönmesi istenmeyen pıhtılaşma riski oluşturur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Traneksamik asitte yol hatası",
+      "body": "Enjeksiyonluk traneksamik asit **yalnız intravenöz** uygulanır. Yanlış nöraksiyel uygulama nöbet, aritmi ve ölüm oluşturabilir.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Protamin ürün bilgisindeki sınır",
+      "body": "DailyMed protamin etiketinde **1 mg yaklaşık 100 USP ünite heparini** nötralize eder; yavaş uygulamada herhangi bir 10 dk'lık sürede 50 mg aşılmamalıdır. KPB'de oran ayrıca bireyselleştirilir.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Desmopressin ve özgül endikasyon",
+      "body": "DDAVP etiketinde hemofili A ve von Willebrand tip I için **0,3 µg/kg (en çok 20 µg)**, 15–30 dk intravenöz infüzyon belirtilir; kalp cerrahisinde rutin profilaksi önerisi değildir.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kılavuzda protamin oranı",
+      "body": "2024 PBM kılavuzu başlangıç heparinine göre protamin/heparin oranının **1,0'ın altında** tutulmasını destekler; 0,6–0,8:1 çalışılmış oranlardır. Doz, geçen süre ve rezidüel heparinle bireyselleştirilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Önceki protamin maruziyeti",
+      "body": "Protamin ürün bilgisinde önceki **protamin veya protaminli insülin** maruziyeti ciddi reaksiyon riski değerlendirmesinde önemlidir; öykü uygulama öncesinde sorgulanır.",
+      "source": "DailyMed: protamin"
+    }
+  ]
+}

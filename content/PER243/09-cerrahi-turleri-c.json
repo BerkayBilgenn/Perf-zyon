@@ -1,0 +1,99 @@
+{
+  "topic": "Cerrahi türlerine göre anestezi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Aort darlığı ve hipotansiyonda hangi damar etkisi hedeflenir?",
+      "options": [
+        "Sistemik direncin korunması",
+        "Sistemik direncin ani düşürülmesi",
+        "Venöz dönüşün kesilmesi",
+        "Pulmoner basıncın yükseltilmesi"
+      ],
+      "correct": 0,
+      "explanation": "Aort darlığında ardyükün korunması ve hipotansiyonun önlenmesi önemlidir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Mitral darlıkta taşikardi hangi mekanizmayla sorun oluşturur?",
+      "options": [
+        "Kapak açıklığını genişletir",
+        "Diyastolik doluş süresini kısaltır",
+        "Atriyal katkıyı güçlendirir",
+        "Pulmoner direnci azaltır"
+      ],
+      "correct": 1,
+      "explanation": "Taşikardi doluş için ayrılan zamanı azaltır ve mitral gradyanı artırabilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "HOKM'de hangi inotrop ürün bilgisine göre kontrendikedir?",
+      "options": [
+        "Fenilefrin",
+        "Noradrenalin",
+        "Dobutamin",
+        "Esmolol"
+      ],
+      "correct": 2,
+      "explanation": "Dobutamin etiketinde idiyopatik hipertrofik subaortik stenoz kontrendikasyon olarak yer alır.",
+      "source": "DailyMed: dobutamin"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Tamponadda korunması gereken kompansasyon hangisidir?",
+      "options": [
+        "Belirgin bradikardi ve venodilatasyon",
+        "Önyük azalması ve vazodilatasyon",
+        "Yüksek intratorasik basınç ve doluş azalması",
+        "Taşikardi ve kontraktilite"
+      ],
+      "correct": 3,
+      "explanation": "Tamponadda kompansatuvar hız ve kasılma ile önyükün korunması önemlidir.",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Mitral yetmezlikte ileri akımı hangi değişiklik kolaylaştırır?",
+      "options": [
+        "Ardyükün azaltılması",
+        "Ardyükün artırılması",
+        "Belirgin bradikardi",
+        "Hipervoleminin artırılması"
+      ],
+      "correct": 0,
+      "explanation": "Ardyükün azaltılması mitral yetmezlikte ileri sistolik akımı kolaylaştırır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Tamponadda nitrogliserin ürün bilgisine göre kontrendikedir.",
+      "isTrue": true,
+      "explanation": "Venodilatasyonla doluşun azaltılması tamponadda dolaşımı bozabilir; ürün bilgisi kontrendikasyon belirtir.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Mitral darlıkta ardyükün azaltılması mitral kapaktaki doluş engelini ortadan kaldırır.",
+      "isTrue": false,
+      "explanation": "Temel problem kapak darlığıdır; ardyük azaltılması darlığa bağlı doluş engelini gidermez.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "KABG sırasında aşırı sol ventrikül doluş basıncı koroner perfüzyon basıncını azaltabilir.",
+      "isTrue": true,
+      "explanation": "Koroner perfüzyon basıncı diyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı farkına bağlıdır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    }
+  ]
+}

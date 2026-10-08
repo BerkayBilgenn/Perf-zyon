@@ -1,0 +1,47 @@
+{
+  "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Aort yetmezliğinde kök uygulaması",
+      "body": "Belirgin aort yetmezliğinde köke verilen kardiyopleji **sol ventriküle kaçabilir**. Ostial ve/veya retrograd yol, miyokard koruması için değerlendirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Aort yetmezliğinde vent gereği",
+      "body": "Aorttan geri kaçan kan, sol atriyum boşken bile sol ventrikülü doldurabilir. **Sol ventrikül distansiyonu** ve vent yeterliliği ayrıca izlenir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Mitral transseptal yaklaşım",
+      "body": "Sağ atriyum açılacaksa bikaval kanülasyon ve **kaval turnikeler**, venöz dönüşü izole ederek kalp boşluğuna hava girişini önlemeye yardım eder.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Minimal invaziv mitral cerrahide uzun venöz kanül neden yardımlı drenaj gerektirebilir?",
+      "answer": "Uzun ve küçük çaplı kanülün direnci yüksek olabilir; **VAVD veya KAVD** yeterli venöz dönüşü destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Ağır koroner hastalıkta kardiyopleji dağılımını iyileştirmek için hangi yollar birleştirilebilir?",
+      "answer": "**Antegrad ve retrograd kardiyopleji**; retrograd yol tıkalı koroner segmentlerin distalindeki perfüzyonu tamamlayabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "KPB'siz işlemde hazırlık sürer",
+      "body": "Off-pump CABG gibi acil KPB'ye geçiş olasılığı bulunan işlemlerde **atanmış perfüzyonist ve steril kurulu makine** hazır olmalıdır.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

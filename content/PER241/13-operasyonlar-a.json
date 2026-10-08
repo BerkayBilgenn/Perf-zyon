@@ -1,0 +1,320 @@
+{
+  "topic": "Palyatif ve düzeltici operasyonlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Palyatif cerrahi",
+      "en": "Palliative surgery",
+      "definition": "Anatomiyi tam düzeltmeden fizyolojiyi iyileştiren ara girişim (şant, bant, septostomi).",
+      "origin": "Lat. palliare = örtmek"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Düzeltici onarım",
+      "en": "Corrective (complete) repair",
+      "definition": "Normal seri dolaşımı sağlayan kesin onarım (ör. TOF tam düzeltme, arteriyel switch)."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Blalock-Taussig(-Thomas) şant",
+      "en": "BT(T) shunt",
+      "definition": "Subklavyen/innominat arterden pulmoner artere şant; modifiye formunda PTFE greft.",
+      "origin": "Blalock, Taussig, Thomas (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Sano şantı",
+      "en": "Sano shunt (RV–PA conduit)",
+      "definition": "Norwood palyasyonunda sağ ventrikül ile pulmoner arter arasına yerleştirilen kondüit.",
+      "origin": "S. Sano (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Pulmoner arter bandı",
+      "en": "Pulmonary artery banding",
+      "definition": "pulmoner arter'ya kısıtlayıcı bant; pulmoner akım ve basıncı azaltır, TGA'da sol ventrikül'yi hazırlar.",
+      "origin": "İng. band = bant"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Balon atriyal septostomi",
+      "en": "Balloon atrial septostomy",
+      "definition": "Kateterle foramen ovalenin balonla yırtılarak genişletilmesi; TGA'da karışım sağlar.",
+      "origin": "Yun. stoma = ağız"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Atriyal septektomi",
+      "en": "Atrial septectomy",
+      "definition": "İnteratriyal septumun cerrahi olarak çıkarılması (ör. Norwood).",
+      "origin": "Yun. ektome = kesip çıkarma"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Bidireksiyonel Glenn",
+      "en": "Bidirectional Glenn (cavopulmonary anastomosis)",
+      "definition": "Vena kava superiorun pulmoner artere bağlandığı ikinci evre tek ventrikül palyasyonu.",
+      "origin": "W. Glenn (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Hemi-Fontan",
+      "en": "Hemi-Fontan",
+      "definition": "Glenn'e alternatif ikinci evre kavopulmoner bağlantı."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Fontan",
+      "en": "Fontan procedure / total cavopulmonary connection",
+      "definition": "Sistemik venöz kanın ventrikül pompası olmadan pulmoner arterlere yönlendirilmesi.",
+      "origin": "F. Fontan (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Fenestrasyon",
+      "en": "Fenestration",
+      "definition": "Fontan tünelinde basınç boşaltan küçük açıklık (\"pop-off valf\").",
+      "origin": "Lat. fenestra = pencere"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Norwood ameliyatı",
+      "en": "Norwood procedure",
+      "definition": "HLHS evre I: atriyal septektomi + neo-aorta/ark rekonstrüksiyonu + şant (BT veya Sano).",
+      "origin": "W. Norwood (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Hibrit prosedür",
+      "en": "Hybrid procedure",
+      "definition": "Hipoplastik sol kalp için duktal stent ve pulmoner arter dal bantlarını birlikte kullanan palyatif yaklaşım."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Arteriyel switch",
+      "en": "Arterial switch operation",
+      "definition": "Aort ve pulmoner arter'nın yer değiştirilmesi + koroner arterlerin neo-aortaya aktarılması.",
+      "origin": "A. Jatene (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Atriyal switch",
+      "en": "Atrial switch",
+      "definition": "Venöz dönüşlerin atriyum içinde ters ventriküllere yönlendirilmesi; sağ ventrikül sistemik kalır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Double switch",
+      "en": "Double switch",
+      "definition": "ccTGA'da atriyal ve arteriyel switch'in birlikte yapılması."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Rastelli ameliyatı",
+      "en": "Rastelli procedure",
+      "definition": "VSD'den aortaya baffle + sağ ventrikül'den pulmoner arter'ya kapaklı kondüit.",
+      "origin": "G. Rastelli (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Ross ameliyatı",
+      "en": "Ross procedure",
+      "definition": "Pulmoner otogreftin aort pozisyonuna, pulmoner pozisyona homogreftin konması.",
+      "origin": "D. Ross (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ross-Konno",
+      "en": "Ross-Konno procedure",
+      "definition": "Ross'a ek olarak sol ventrikül çıkış yolunun genişletilmesi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Takeuchi ameliyatı",
+      "en": "Takeuchi procedure",
+      "definition": "ALCAPA'da aortopulmoner pencere + pulmoner arter içi tünel ile koronere aortadan akım sağlanması."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Koni onarımı",
+      "en": "Cone repair",
+      "definition": "Ebstein'da triküspit yapraklarının mobilizasyonu + atriyalize sağ ventrikül plikasyonu."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Transanüler yama",
+      "en": "Transannular patch",
+      "definition": "TOF onarımında pulmoner anulusu geçen yama; uzun dönemde pulmoner yetersizlik.",
+      "origin": "Lat. trans + anulus = halka"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Otogreft",
+      "en": "Autograft",
+      "definition": "Hastanın kendi dokusundan elde edilen greft; Ross ameliyatında pulmoner kapak aort pozisyonuna taşınır.",
+      "origin": "Yun. autos = kendi, homos = aynı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Kontrollü çapraz dolaşım",
+      "en": "Controlled cross-circulation",
+      "definition": "Donör dolaşımının hastada pompa ve oksijenatör işlevini üstlenmek üzere kullanıldığı tarihsel yöntem."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Homogreft",
+      "en": "Homograft",
+      "definition": "Aynı türden başka bir bireyden elde edilen doku grefti; Ross ameliyatında pulmoner pozisyona yerleştirilebilir."
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Switch ameliyatları",
+      "left": {
+        "title": "Arteriyel switch",
+        "points": [
+          "Büyük arterler ve koronerler aktarılır",
+          "Sol ventrikül sistemik hale gelir"
+        ]
+      },
+      "right": {
+        "title": "Atriyal switch",
+        "points": [
+          "Venöz dönüş atriyum içinde yönlendirilir",
+          "Sağ ventrikül sistemik kalır"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kavopulmoner palyasyon evreleri",
+      "left": {
+        "title": "Bidireksiyonel Glenn",
+        "points": [
+          "vena kava superior kanı pulmoner artere yönlendirilir",
+          "Tek ventrikül palyasyonunun ikinci evresidir"
+        ]
+      },
+      "right": {
+        "title": "Fontan",
+        "points": [
+          "vena kava inferior kanı da pulmoner dolaşıma eklenir",
+          "Tek ventrikül palyasyonunun üçüncü evresidir"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Pulmoner kan akımı için şant",
+      "left": {
+        "title": "BT şantı",
+        "points": [
+          "Sistemik arter ile pulmoner arter arasındadır",
+          "Diyastolik kaçak koroner akımı azaltabilir"
+        ]
+      },
+      "right": {
+        "title": "Sano şantı",
+        "points": [
+          "Sağ ventrikül ile pulmoner arter arasındadır",
+          "Sistemik arter kökenli diyastolik kaçaktan kaçınır"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Tek ventrikülde başlangıç yaklaşımı",
+      "left": {
+        "title": "Norwood",
+        "points": [
+          "Neo-aorta ve aortik ark rekonstrüksiyonu",
+          "Pulmoner akım için şant eklenir"
+        ]
+      },
+      "right": {
+        "title": "Hibrit yaklaşım",
+        "points": [
+          "Duktusa stent yerleştirilir",
+          "Pulmoner arter dallarına bant uygulanır"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Pulmoner otogreft kullanılan ameliyatlar",
+      "left": {
+        "title": "Ross",
+        "points": [
+          "Pulmoner otogreft aort pozisyonuna taşınır",
+          "Pulmoner pozisyona homogreft konabilir"
+        ]
+      },
+      "right": {
+        "title": "Ross-Konno",
+        "points": [
+          "Aynı kapak değişimi uygulanır",
+          "Sol ventrikül çıkış yolu ayrıca genişletilir"
+        ]
+      }
+    }
+  ]
+}

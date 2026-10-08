@@ -1,0 +1,75 @@
+{
+  "topic": "Kalp anatomisi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Fibröz perikardın bağlantısı",
+      "body": "Fibröz perikard **diyaframın santral tendonuna** bağlanır ve kalbin aşırı ani dolmasını sınırlar."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Perikard boşluğundaki sıvının temel işlevi nedir?",
+      "answer": "Perikardın seröz yaprakları arasındaki az miktarda sıvı, kalp hareketlerinde **sürtünmeyi azaltır**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Transvers sinüs cerrahide ne için kullanılır?",
+      "answer": "Kalbin arteriyel çıkışlarının çevresinden **klemp veya bant geçirmek** için kullanılabilir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Perikardit ağrısı neden omuza yansıyabilir?",
+      "answer": "Perikardın duyu innervasyonunu sağlayan **frenik sinir** ile omuz bölgesinin ortak spinal kökleri nedeniyle."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sol ventrikül duvarı",
+      "body": "Sol ventrikül miyokardı **sağ ventrikülünkinden daha kalındır**; sistemik dolaşımın basınç yükünü karşılar."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Sol atriyum neden çoğunlukla düz duvarlıdır?",
+      "answer": "Embriyonik **primitif pulmoner venin atriyum duvarına katılması** bu düz bölümü oluşturur."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "S1 kalp sesi hangi olayla ilişkilidir?",
+      "answer": "**S1**, atriyoventriküler kapakların kapanmasıyla ilişkilidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "S2 kalp sesi hangi olayla ilişkilidir?",
+      "answer": "**S2**, aort ve pulmoner kapakların kapanmasıyla ilişkilidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sağ atriyuma dönen kan",
+      "body": "Vena kava superior, vena kava inferior ve **koroner sinüs** sağ atriyuma açılır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "title": "Tamponadda mekanizma",
+      "body": "Perikardda biriken sıvı odacıkları sıkıştırarak **kalp debisini azaltabilir**; dıştaki fibröz kesenin esnememesi temel ilişkidir."
+    }
+  ]
+}

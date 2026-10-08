@@ -1,0 +1,65 @@
+{
+  "topic": "KPB devresi ve kan akış yolu",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Konvansiyonel KPB (CECC)",
+      "definition": "Roller arteriyel pompa ve kaplamasız açık venöz rezervuar kullanan, ayrı saha kanı yönetimi olmayan klasik ekstrakorporeal devre.",
+      "en": "Conventional ECC",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Optimize KPB",
+      "definition": "Konvansiyonel devreye hemodinamik, biyouyumluluk veya hemodilüsyonu iyileştiren en az bir tekniğin eklenmesi.",
+      "en": "Optimized CPB",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Arteriyel hat",
+      "definition": "Oksijenlenmiş kanı oksijenatör ve filtreden hastanın arteriyel kanülüne taşıyan devre hattı.",
+      "en": "Arterial line",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Venöz hat",
+      "definition": "Hastadan venöz kanülle alınan kanı devrenin venöz rezervuarına taşıyan hat.",
+      "en": "Venous line",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Örnekleme manifoldu",
+      "definition": "Kan gazı ve diğer ölçümler için devreden kan örneği alınmasını sağlayan bağlantı düzeni.",
+      "en": "Sampling manifold",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Desteğin bağlamı",
+      "left": {
+        "title": "KPB",
+        "points": [
+          "Cerrahi sırasında geçici kalp-akciğer desteği",
+          "Kardiyotomi ve kardiyopleji hatları bulunabilir"
+        ]
+      },
+      "right": {
+        "title": "ECMO",
+        "points": [
+          "Uzamış kalp ve/veya akciğer desteği",
+          "Kapalı devre ve sızıntıya dirençli membran kullanılır"
+        ]
+      },
+      "source": "JECT 2025: EKD tarihçesi"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "topic": "Kas gevşeticiler ve antagonistleri",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Süksinilkolini hidrolize eden enzim hangisidir?",
+      "options": [
+        "Eritrosit esterazı",
+        "Monoamin oksidaz",
+        "Plazma kolinesterazı",
+        "Fosfodiesteraz-3"
+      ],
+      "correct": 2,
+      "explanation": "Süksinilkolin plazma kolinesterazıyla hidrolize edilir.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hofmann eliminasyonunu hangi etkenler değiştirir?",
+      "options": [
+        "Hepatik enzim etkinliği ve safra akımı",
+        "Renal filtrasyon ve idrar akımı",
+        "Plazma kolinesterazı ve enzim aktivitesi",
+        "pH ve sıcaklık"
+      ],
+      "correct": 3,
+      "explanation": "Hofmann eliminasyonu pH ve sıcaklığa bağlı organdan bağımsız kimyasal yıkımdır.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Dörtlü uyarıda T2 yeniden belirmişse Bridion'un önerilen dozu nedir?",
+      "options": [
+        "2 mg/kg",
+        "4 mg/kg",
+        "8 mg/kg",
+        "16 mg/kg"
+      ],
+      "correct": 0,
+      "explanation": "Bridion ürün bilgisi T2 yeniden belirdiğinde 2 mg/kg sugammadeks önerir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "TOF yanıtı yok, post-tetanik sayım 1–2 ise Bridion dozu nedir?",
+      "options": [
+        "1 mg/kg",
+        "4 mg/kg",
+        "2 mg/kg",
+        "16 mg/kg"
+      ],
+      "correct": 1,
+      "explanation": "Derin blokta TOF yanıtı olmadan 1–2 post-tetanik yanıt için 4 mg/kg önerilir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Erişkinde 1,2 mg/kg roküronyumdan yaklaşık 3 dk sonra acil geri çevirme için Bridion dozu nedir?",
+      "options": [
+        "2 mg/kg",
+        "4 mg/kg",
+        "16 mg/kg",
+        "8 mg/kg"
+      ],
+      "correct": 2,
+      "explanation": "Bu özgül acil roküronyum geri çevirme durumunda ürün bilgisi 16 mg/kg önerir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "mcq",
+      "importance": 1,
+      "question": "Tarihsel olarak bradikardiyi azaltan vagolitik kas gevşetici hangisidir?",
+      "options": [
+        "Sisatraküryum",
+        "Veküronyum",
+        "Süksinilkolin",
+        "Pankuronyum"
+      ],
+      "correct": 3,
+      "explanation": "Pankuronyumun vagolitik etkisi kardiyak anestezideki tarihsel kullanım gerekçesidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sisatraküryumun Hofmann eliminasyonu karaciğer enzimlerine bağımlıdır.",
+      "isTrue": false,
+      "explanation": "Hofmann eliminasyonu organdan ve enzimden bağımsız, pH ve sıcaklığa bağlı kimyasal yıkımdır.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Veküronyum klinik dozda belirgin histamin salınımı oluşturmaz.",
+      "isTrue": true,
+      "explanation": "Veküronyum ürün bilgisi klinik dozda histamin salınımı ve belirgin hemodinamik etkinin olmadığını belirtir.",
+      "source": "DailyMed: veküronyum"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "Bridion ağır böbrek yetmezliğinde rutin olarak önerilir.",
+      "isTrue": false,
+      "explanation": "Ürün bilgisi ağır böbrek yetmezliğinde kullanımını önermez; renal eliminasyon ve uzamış maruziyet önemlidir.",
+      "source": "Bridion ürün bilgisi"
+    }
+  ]
+}

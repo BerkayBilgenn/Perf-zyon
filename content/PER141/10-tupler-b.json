@@ -1,0 +1,68 @@
+{
+  "topic": "Tüpler, konnektörler ve prime hacmi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Erişkin tüp kullanım eşleşmesi",
+      "body": "National Heart Center 2026'da **1/2 inç venöz**, 3/8 inç arteriyel, 1/4 inç aspiratör ve 3/16 inç kardiyopleji tüpü örnekleri verilir; hasta ve sisteme göre seçim değişir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "İç çapın metrik karşılığı",
+      "body": "1 inç = 25,4 mm hesabıyla iç çaplar yaklaşık: 3/16 inç **4,8 mm**, 1/4 inç 6,4 mm, 3/8 inç 9,5 mm ve 1/2 inç 12,7 mm. Kaynakta yuvarlamalar farklı olabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Tüp hacmi hesabı",
+      "body": "Tüp dolum hacmi **π × r² × L** ile hesaplanır. Metre başına yaklaşık hacimler: 1/4 inç 32 mL, 3/8 inç 71 mL, 1/2 inç 127 mL; yuvarlanmış örneklerdir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "DEHP yerine TOTM",
+      "body": "EACTS 2024, daha az sızması ve daha düşük toksisite nedeniyle PVC plastikleştiricisi olarak **TOTM'nin DEHP yerine düşünülmesini** önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Soğuk PVC'nin davranışı",
+      "body": "PVC soğukta sertleşebilir ve mikropartikül salabilir. Tüp seçimi esneklik, kan hasarı ve mekanik kullanım koşullarıyla birlikte değerlendirilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Tüpün etiketindeki çap ile duvar ölçüsü nasıl okunur?",
+      "answer": "Tüp tanımı **iç çap × duvar kalınlığı** biçimindedir; dış çap veya kanülün French ölçüsüyle karıştırılmaz.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Tüp çapını küçültmek prime'ı azaltırken hangi bedeli doğurabilir?",
+      "answer": "Direnci ve gerekli basınç farkını artırabilir; prime kazancı hedef akım ve basınç güvenliğiyle birlikte değerlendirilir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Tüpleri kısaltmak devrenin hangi üç yükünü azaltmayı amaçlar?",
+      "answer": "Prime hacmini, hat boyunca basınç kaybını ve kanın devreye maruz kalmasını azaltmayı amaçlar.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Prime tasarımını girişten önce değerlendir",
+      "body": "KPB öncesi tahmini dilüsyon sonrası **hemoglobin ve hematokrit** hesaplanıp ekibe bildirilir. Devre küçültme kararı hastanın oksijen taşıma kapasitesiyle ilişkilidir.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

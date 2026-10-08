@@ -1,0 +1,61 @@
+{
+  "topic": "Anesteziye giriş ve temel kavramlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Anestezinin geri dönüşlülüğü",
+      "body": "Genel kabul gören anestezi tanımında duyuların kaybı **geri dönüşlüdür**; kalıcı sinir hasarı anestezinin hedefi değildir.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Dengeli anestezide klinik belirtiler",
+      "body": "Birden fazla ajanın birlikte kullanılması Guedel'in klinik derinlik belirtilerini **maskeleyebilir**.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "TİVA'da ölçüm sınırı",
+      "body": "Total intravenöz anestezide idame ilaçlarının plazma konsantrasyonu volatil ajan konsantrasyonu gibi doğrudan izlenemez; işlenmiş EEG bu nedenle önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Guedel evrelerinin bağlamı",
+      "body": "Guedel sınıflaması **eter anestezisi** için geliştirilmiştir. Modern çok ilaçlı tekniklerde bu klinik işaretler tek başına güvenilir derinlik göstergesi değildir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Guedel evre 1 hangi olayla sona erer?",
+      "answer": "**Bilinç kaybıyla** sona erer; başlangıcı ilk anestezik ilacın verilmesidir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Guedel evre 3 hangi klinik olayla başlar?",
+      "answer": "**Düzenli spontan solunumun yeniden başlamasıyla** cerrahi anestezi evresine girilir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Guedel evre 4 neden tehlikeli kabul edilir?",
+      "answer": "**Apne, refleks kaybı ve dolaşım baskılanması** doz aşımını gösterir; medüller paraliziyle ilişkilidir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Eksitasyonda havayolu",
+      "body": "Guedel'in **eksitasyon evresinde** laringospazm riski yüksektir; havayolu uyarımı ve ekstübasyondan kaçınılır.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    }
+  ]
+}

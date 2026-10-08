@@ -1,0 +1,85 @@
+{
+  "topic": "Heparinizasyon ve ACT",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ACT ölçümünde kullanılan örnek hangisidir?",
+      "options": [
+        "Tam kan",
+        "Yalnız plazma",
+        "Yalnız serum",
+        "İdrar"
+      ],
+      "correct": 0,
+      "explanation": "ACT aktivatör eklenmiş tam kanda pıhtılaşma süresini değerlendirir.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparin hangi doğal antikoagülanın etkisini güçlendirir?",
+      "options": [
+        "Plazminojen",
+        "Antitrombin",
+        "Fibrinojen",
+        "Doku faktörü"
+      ],
+      "correct": 1,
+      "explanation": "Heparin antitrombin aracılı trombin ve faktör Xa inhibisyonunu artırır.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparinizasyon sonrası ACT yeterli yükselmiyorsa hangi eksiklik öncelikle değerlendirilir?",
+      "options": [
+        "K vitaminine bağımlı faktör eksikliği",
+        "Fibrinojen eksikliği",
+        "Antitrombin eksikliği",
+        "Trombosit sayısında azalma"
+      ],
+      "correct": 2,
+      "explanation": "Antitrombin eksikliği heparin direncinin önemli nedenidir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hepcon HMS güncel heparin konsantrasyonunu hangi yöntemle değerlendirir?",
+      "options": [
+        "Kaolinle aktivasyon",
+        "Termodilüsyon",
+        "Kromojenik anti-Xa ölçümü",
+        "Protamin titrasyonu"
+      ],
+      "correct": 3,
+      "explanation": "Hepcon heparin konsantrasyonunu protamin titrasyonu kullanarak değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "KPB sırasında ACT sonucu trombosit sayısı ve fonksiyonundan etkilenebilir.",
+      "isTrue": true,
+      "explanation": "ACT yalnız heparin konsantrasyonuna duyarlı değildir; trombosit durumu da ölçümü etkiler.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "KPB öncesi değerlendirme formu yalnız sözlü bildirimle tutulur ve kayda gerek yoktur.",
+      "isTrue": false,
+      "explanation": "2024 KPB kılavuzu yazılı veya elektronik formun önceden doldurulup kayıtta tutulmasını önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Hepcon ile bireyselleştirilmiş heparin yönetiminin kanama ve transfüzyon sonuçları çalışmalar arasında tutarsızdır.",
+      "isTrue": true,
+      "explanation": "Yöntemin ölçüm olanağı, klinik sonuçlarda kesin üstünlük gösterildiği anlamına gelmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

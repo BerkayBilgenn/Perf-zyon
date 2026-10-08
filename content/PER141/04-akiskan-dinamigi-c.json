@@ -1,0 +1,77 @@
+{
+  "topic": "Akışkan dinamiği ve hemodinami",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diğer koşullar aynıyken tüp uzunluğunun iki katına çıkması dirençte ne yapar?",
+      "options": [
+        "İki kat azalış",
+        "Dört kat azalış",
+        "İki kat artış",
+        "On altı kat artış"
+      ],
+      "correct": 2,
+      "explanation": "Poiseuille ilişkisinde direnç uzunlukla doğru orantılıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sabit akımda tüp yarıçapı yarıya inerse ortalama hız nasıl değişir?",
+      "options": [
+        "Yarıya iner",
+        "İki katına çıkar",
+        "On altı katına çıkar",
+        "Dört katına çıkar"
+      ],
+      "correct": 3,
+      "explanation": "Kesit alanı yarıçapın karesiyle değişir. Alan dörtte bire inince hız dört kat olur.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diğer Reynolds değişkenleri sabitken hangi değişiklik türbülansı kolaylaştırır?",
+      "options": [
+        "Kan viskozitesinin azalması",
+        "Akım hızının azalması",
+        "Yoğunluğun azalması",
+        "Tüp çapının azalması"
+      ],
+      "correct": 0,
+      "explanation": "Diğer Reynolds değişkenleri sabitken viskozitenin azalması Reynolds sayısını ve türbülans eğilimini artırır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Darlıkta hız yükselirken lateral basıncın düşmesi hangi ilkeyle açıklanır?",
+      "options": [
+        "Laplace yasası",
+        "Bernoulli ilkesi",
+        "Dalton yasası",
+        "Starling filtrasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Bernoulli, akımdaki kinetik enerji ile basınç enerjisi arasındaki ilişkiyi açıklar.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Poiseuille varsayımlarında viskozitenin iki katına çıkması direnci iki kat artırır.",
+      "isTrue": true,
+      "explanation": "Direnç viskoziteyle doğru orantılıdır; diğer değişkenler sabit tutulmalıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Düşük akımda kanın viskozitesi azalır.",
+      "isTrue": false,
+      "explanation": "Düşük akımda eritrositlerin rulo oluşturması kanın viskozitesini artırabilir.",
+      "source": "Klabunde: CV Physiology"
+    }
+  ]
+}

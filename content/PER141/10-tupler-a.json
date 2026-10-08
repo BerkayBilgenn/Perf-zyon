@@ -1,0 +1,53 @@
+{
+  "topic": "Tüpler, konnektörler ve prime hacmi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PVC",
+      "definition": "En yaygın KPB tüp malzemesi; esneklik için plastikleştirici içerir.",
+      "en": "Polyvinyl chloride",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DEHP",
+      "definition": "En yaygın PVC plastikleştiricisi; kana sızar.",
+      "en": "Di(2-ethylhexyl) phthalate",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "TOTM",
+      "definition": "PVC için kullanılan, DEHP'ye göre kana daha az sızan plastikleştirici.",
+      "en": "Trioctyl trimellitate",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Konnektör",
+      "definition": "Tüp ve bileşenleri birleştiren parça (düz, Y, redüktör, luer).",
+      "en": "Connector",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Redüktör",
+      "definition": "Farklı çaplı iki tüpün güvenli bağlantısını sağlayan konnektör tipi.",
+      "en": "Reducer",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Y-konnektör",
+      "definition": "İki hattı tek bir hatta birleştiren veya bir hattı iki kola ayıran bağlantı parçası; bikaval drenajda kullanılır.",
+      "en": "Y-connector",
+      "source": "LivaNova tüp seti"
+    }
+  ]
+}

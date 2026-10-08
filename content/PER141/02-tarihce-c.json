@@ -1,0 +1,63 @@
+{
+  "topic": "KPB ve perfüzyonun tarihçesi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Gibbon'un ilk başarılı makine destekli ameliyatında onarılan lezyon hangisiydi?",
+      "options": [
+        "Aort koarktasyonu",
+        "Fallot tetralojisi",
+        "Patent duktus arteriyozus",
+        "Atriyal septal defekt"
+      ],
+      "correct": 3,
+      "explanation": "Jefferson'un tarih anlatısında Cecelia Bavolek'te ASD onarımı açıklanır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kolobow'un oksijenatörü hangi membran malzemesiyle ilişkilidir?",
+      "options": [
+        "Silikon kauçuk",
+        "Polivinil klorür",
+        "Paslanmaz çelik",
+        "Fosforilkolin"
+      ],
+      "correct": 0,
+      "explanation": "Kolobow'un tarihsel sarmal membran oksijenatörü silikon kauçuk kullanıyordu.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kontrollü çapraz dolaşım yöntemiyle en çok ilişkilendirilen cerrah kimdir?",
+      "options": [
+        "Gibbon",
+        "Lillehei",
+        "Bretschneider",
+        "Kolobow"
+      ],
+      "correct": 1,
+      "explanation": "Lillehei hasta ve donör arasında kontrollü çapraz dolaşımı kullandı.",
+      "source": "Gott 2005"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Film oksijenatörler kanı ince bir film hâlinde gazla temas ettirir.",
+      "isTrue": true,
+      "explanation": "Film tasarımında gaz değişimi, kanın elek veya disk üzerindeki ince filmiyle sağlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Bubble oksijenatörde gaz değişimi kanla gazı ayıran yoğun membran üzerinden gerçekleşir.",
+      "isTrue": false,
+      "explanation": "Bubble oksijenatörde doğrudan kan-gaz teması vardır; ayırıcı membran modern membran oksijenatörün özelliğidir.",
+      "source": "National Heart Center 2026"
+    }
+  ]
+}

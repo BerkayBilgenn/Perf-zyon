@@ -1,0 +1,82 @@
+{
+  "topic": "Pediatrik koroner hastalıklar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "ALCAPA'da doğum sonrası iskemi",
+      "body": "Pulmoner direnç ve basınç düştüğünde anormal sol koronerin beslenmesi yetersiz kalır; **sol ventrikül iskemisi** gelişebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "ALCAPA'da lateral Q dalgası",
+      "body": "Lateral derivasyonlardaki **derin Q dalgaları** iskemi ipucudur; her hastada bulunmayabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wang ve An 2025",
+      "title": "ALCAPA'da onarımın amacı",
+      "body": "Tercih edilen doğrudan aortaya reimplantasyon, **çift koroner sistemini** yeniden kurmayı amaçlar."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Wang ve An 2025",
+      "question": "ALCAPA'da kardiyopleji nereye kaçabilir?",
+      "answer": "Anormal koroner ağızdan **pulmoner arterin düşük basınçlı yatağına** kaçabilir; uygulamada pulmoner arter de oklüde edilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Wang ve An 2025",
+      "title": "ALCAPA'da pulmoner arter kontrolü",
+      "body": "Kardiyopleji sırasında aortik klemp yanında **pulmoner arter oklüzyonu**, solüsyonun anormal koronerden kaçmasını önler."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kawasaki'de tutulan damar yatağı",
+      "body": "Kawasaki hastalığında **orta çaplı arterlerin, özellikle koronerlerin vasküliti** önemlidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "AHA Kawasaki 2017",
+      "title": "Kawasaki'de greft tercihi",
+      "body": "Koroner revaskülarizasyonda internal mammarian arter greftleri **çocuğun büyümesine uyum sağlayabilir**; uzun dönem açıklık avantajları vardır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Koroner fistül hangi komplikasyonlara yol açabilir?",
+      "answer": "Koroner çalma, kalp yetmezliği, pulmoner hipertansiyon ve **tromboza bağlı miyokard enfarktüsü** görülebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "AAOCA'da riskli seyir",
+      "body": "Koroner arterin **aort ile pulmoner arter arasındaki interarteriyel seyri**, ani kardiyak ölüm riskiyle ilişkilidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "AHA Kawasaki 2017",
+      "title": "Dev koroner anevrizmanın eşiği",
+      "body": "**AHA 2017** sınıflamasında dev anevrizma: Z-skoru ≥10 veya mutlak çap ≥8 mm. Çap ve Z-skorunu birlikte hatırla."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "AHA Kawasaki 2017",
+      "title": "Kawasaki'de IVIG ve zaman",
+      "body": "**AHA 2017**, tanı sonrası ilk 10 gün içinde 2 g/kg IV immünoglobulini tek infüzyon olarak önerir; bu kaynakta erken uygulama vurgulanır."
+    }
+  ]
+}

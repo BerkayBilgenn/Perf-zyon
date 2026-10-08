@@ -1,0 +1,75 @@
+{
+  "topic": "İnhalasyon anestezikleri",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Yaş ve volatil gereksinimi",
+      "body": "İnhalasyon anesteziklerinde minimum alveoler konsantrasyon **yaşla azalır**; farklı yaş gruplarının değerleri aynı değildir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hipotermi ve çözünürlük",
+      "body": "Kardiyopulmoner bypassta hipotermi volatil ajanın kan/gaz katsayısını artırırken, **hemodilüsyon azaltır**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Isınmada derinlik değişimi",
+      "body": "Kardiyopulmoner bypassta sıcaklık hematokritten daha hızlı yükselirse volatil ajanın kan/gaz katsayısı düşebilir ve **derinlik hızla artabilir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Volatil anestezinin klinik kanıtı",
+      "body": "2024 KPB kılavuzu, volatil ajanların total intravenöz anesteziye göre mortalite üstünlüğünü **kesinleşmiş kabul etmez**. Ön koşullandırma mekanizması klinik üstünlükle aynı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Compound A oluşum koşulları",
+      "body": "Güçlü baz içeren absorbanlarla sevofluran etkileşiminde Compound A oluşumu; **düşük akım, uzun süre ve yüksek konsantrasyonla** artabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Malign hiperterminin sistemi",
+      "body": "Malign hipertermi iskelet kasına ait **farmakogenetik hipermetabolik krizdir**; yalnız vücut sıcaklığındaki artıştan ibaret değildir.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Volatil ajanlar KPB'de hangi gaz hattından verilebilir?",
+      "answer": "Volatil ajan **oksijenatör gaz hattından** verilir; konsantrasyonu egzoz hattından izlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Nitröz oksit KPB çevresinde neden sorun oluşturur?",
+      "answer": "**Hava kabarcıklarını büyütebilir**, gaz embolilerinin etkisini ağırlaştırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Dantrolen hangi anestezi acilinin özgül ilacıdır?",
+      "answer": "**Malign hipertermi** krizinin tedavisinde kullanılan özgül ilaçtır.",
+      "source": "DailyMed: dantrolen"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Tetikleyiciler ve MH",
+      "body": "Volatil anestezikler ve **süksinilkolin** malign hipertermiyi tetikleyebilir; dantrolen tetikleyici ajan kullanılan yerde hazır bulunmalıdır.",
+      "source": "StatPearls"
+    }
+  ]
+}

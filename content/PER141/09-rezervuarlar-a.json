@@ -1,0 +1,149 @@
+{
+  "topic": "Rezervuarlar, aspiratörler ve vent",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz rezervuar",
+      "definition": "Venöz kanın toplandığı, hacim tamponu ve hava ayırıcı görevi gören hazne.",
+      "en": "Venous reservoir",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hard-shell rezervuar",
+      "definition": "Sert plastik, atmosfere açık, basınç tahliye valfli venöz rezervuar; VAVD'ye uygun, kullanımı kolay.",
+      "en": "Hard-shell (open) reservoir",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Soft-shell rezervuar",
+      "definition": "Katlanabilir torba rezervuar; kan–hava teması az, biyouyumlu; aspirasyon kanı için ayrı kardiyotomi rezervuarı gerekir.",
+      "en": "Soft-shell (closed) reservoir",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyotomi rezervuarı",
+      "definition": "Saha (SMB) ve vent kanını toplayan, defoamer ve filtre içeren hazne.",
+      "en": "Cardiotomy reservoir",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Defoamer",
+      "definition": "Rezervuardaki köpüğü kıran yüzey; materyalinin embolizasyonu FMEA'da yüksek risktir.",
+      "en": "Defoamer / antifoam",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyotomi aspiratörü",
+      "definition": "Sahadaki kanı roller pompa ile kardiyotomi rezervuarına aspire eden hat.",
+      "en": "Cardiotomy suction",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Saha kanı",
+      "definition": "Mediastinal/plevral alandan toplanan, aktive olmuş, yağ ve debris içeren kan.",
+      "en": "Shed mediastinal blood",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Vent",
+      "definition": "Kalp boşluklarını (özellikle sol ventrikül) dekomprese eden, kan ve havayı boşaltan hat/kanül.",
+      "en": "Vent",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sol ventrikül venti",
+      "definition": "Sağ üst pulmoner venden sol atriyum–mitral yoluyla sol ventrikül'ye yerleştirilen vent.",
+      "en": "Left ventricular vent",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aort kökü venti",
+      "definition": "Kardiyopleji kanülü üzerinden aort kökünden aspirasyon; yalnız aort klempliyken etkili.",
+      "en": "Aortic root vent",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Tek yönlü valf",
+      "definition": "Akıma tek yönde izin veren valf; vent hattında zorunlu, santrifügal pompada geri akışı önleyebilir.",
+      "en": "One-way (check) valve",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Seviye sensörü",
+      "definition": "Rezervuar seviyesi kritik düzeye inince alarm verip arteriyel pompayı yavaşlatan/durduran sensör.",
+      "en": "Level sensor / detector",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Basınç tahliye valfi",
+      "definition": "Rezervuarda aşırı pozitif/negatif basıncı önleyen valf (VAVD'de kritik).",
+      "en": "Pressure relief valve",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Rezervuar yapısı",
+      "left": {
+        "title": "Hard-shell",
+        "points": [
+          "Sert plastik; hava ayrılması ve hacim görünürlüğü",
+          "Vakum yardımlı drenaj için uygun model kullanılabilir"
+        ]
+      },
+      "right": {
+        "title": "Soft-shell",
+        "points": [
+          "Katlanabilir torba; daha az kan-hava teması",
+          "Saha kanı için ayrı toplama düzeni gerekir"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Rezervuara gelen kan",
+      "left": {
+        "title": "Venöz rezervuar",
+        "points": [
+          "Hastanın sistemik venöz kanını toplar",
+          "Ana devrede hacim tamponu görevi görür"
+        ]
+      },
+      "right": {
+        "title": "Kardiyotomi rezervuarı",
+        "points": [
+          "Saha ve vent kanını toplar",
+          "Köpük giderici ile filtre içerir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

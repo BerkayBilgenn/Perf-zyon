@@ -1,0 +1,77 @@
+{
+  "topic": "Premedikasyon, indüksiyon ve idame",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "RSI preoksijenasyonunda hedef FeO2 değeri BJA Education 2022'ye göre hangisidir?",
+      "options": [
+        "En az 0,85",
+        "En çok 0,21",
+        "Tam 0,50",
+        "En çok 0,30"
+      ],
+      "correct": 0,
+      "explanation": "End-tidal oksijenin en az 0,85 olması preoksijenasyon yeterliliğini gösteren hedeflerden biridir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "RSI preoksijenasyonunda kullanılan maske özelliği hangisidir?",
+      "options": [
+        "Gaz çıkışının açıkta kalması",
+        "Yüze sıkı oturması",
+        "Yalnız ağız köşesini kapatması",
+        "Devreden ayrılmış olması"
+      ],
+      "correct": 1,
+      "explanation": "Sıkı oturan maske oksijenin havayla seyrelmesini azaltır ve preoksijenasyonun etkinliğini artırır.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort darlığında indüksiyon öncesi hangi hazırlık özellikle anılır?",
+      "options": [
+        "Pulmoner arter kateteri yerleştirme",
+        "Geçici transvenöz pil yerleştirme",
+        "Harici defibrilatör pedleri",
+        "Sol atriyum kateteri yerleştirme"
+      ],
+      "correct": 2,
+      "explanation": "Ciddi aort darlığında şoklanabilir ritim için defibrilatör pedlerinin önceden yerleştirilmesi uygun hazırlıktır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Akciğer koruyucu ventilasyonda tidal volüm hangi ağırlığa göre hesaplanır?",
+      "options": [
+        "Aktüel toplam vücut ağırlığı",
+        "Kuru vücut ağırlığı",
+        "Son ölçülen vücut ağırlığı",
+        "Tahmini vücut ağırlığı"
+      ],
+      "correct": 3,
+      "explanation": "2019 uzlaşısı akciğer koruyucu tidal volümü tahmini vücut ağırlığına göre 6–8 mL/kg olarak önerir.",
+      "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "İndüksiyonda hemodinamik değerlendirme miyokard oksijen sunum-tüketim dengesini de kapsar.",
+      "isTrue": true,
+      "explanation": "Kalp hızı ve basınç değişimleri hem oksijen gereksinimini hem koroner sunumu etkileyebilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Hızlı seri indüksiyon, koruyucu refleks kaybı ile kaflı tüp yerleştirme arasındaki süreyi uzatmayı hedefler.",
+      "isTrue": false,
+      "explanation": "Bu süreyi kısaltarak aspirasyon riskini azaltmayı amaçlar.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    }
+  ]
+}

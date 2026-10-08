@@ -1,0 +1,85 @@
+{
+  "topic": "Perfüzyon yönetimi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Prime sonrası Hct hesabının paydasında hangi hacim bulunur?",
+      "options": [
+        "Yalnız hastanın kan hacmi",
+        "Yalnız kristaloid prime hacmi",
+        "Yalnız arteriyel kanül hacmi",
+        "Hasta kan hacmi ile prime toplamı"
+      ],
+      "correct": 3,
+      "explanation": "Beklenen Hct = hasta kan hacmi × başlangıç Hct / toplam dolaşan hacimdir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparin antikoagülan etkisini hangi doğal inhibitör üzerinden artırır?",
+      "options": [
+        "Antitrombin",
+        "Fibrinojen",
+        "Protamin",
+        "Tromboksan"
+      ],
+      "correct": 0,
+      "explanation": "Heparin antitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandırır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "HIT tip 2'de kullanılan direkt trombin inhibitörü hangisidir?",
+      "options": [
+        "Protamin",
+        "Bivalirudin",
+        "Mannitol",
+        "Plasma-Lyte"
+      ],
+      "correct": 1,
+      "explanation": "EACTS 2024, HIT tip 2'de KPB için bivalirudini alternatif antikoagülan olarak değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Yetersiz perfüzyonu düşündüren değişiklik hangisidir?",
+      "options": [
+        "SvO₂'nin korunması",
+        "DO₂'nin yeterli kalması",
+        "Laktatın yükselmesi",
+        "Serebral satürasyonun korunması"
+      ],
+      "correct": 2,
+      "explanation": "Yüksek laktat, düşük SvO₂ ve düşük oksijen sunumu yetersiz perfüzyon belirteçleridir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "HemoTec ve Hemochron ACT sonuçları birbirinin yerine kullanılabilir.",
+      "isTrue": false,
+      "explanation": "ACT cihazları aynı sonucu vermez; eşikler kullanılan yöntem ve kurum protokolüyle yorumlanır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Prime'a rutin mannitol eklenmesi EACTS 2024 tarafından önerilir.",
+      "isTrue": false,
+      "explanation": "EACTS 2024 rutin mannitol eklenmesini önermez; prime katkıları hasta için bireyselleştirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Bivalirudin kullanılırken devrede kan stazı önlenmelidir.",
+      "isTrue": true,
+      "explanation": "Bivalirudin durağan kanda tüketilebilir; devrede staz alternatif antikoagülasyonun etkinliğini bozabilir.",
+      "source": "Basics of CPB 2017"
+    }
+  ]
+}

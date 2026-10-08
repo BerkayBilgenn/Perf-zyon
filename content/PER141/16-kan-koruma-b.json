@@ -1,0 +1,54 @@
+{
+  "topic": "Kan koruma, biyouyumluluk ve MiECC",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Konvansiyonel ve modifiye ultrafiltrasyon",
+      "body": "**CUF KPB sırasında**, MUF KPB'den ayrıldıktan sonra yapılır. MUF aort kanülünden alınan kanı filtreden geçirerek sağ atriyuma döndürür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ZBUF'ta sıvı dengesi",
+      "body": "Sıfır dengeli ultrafiltrasyonda filtre edilen hacim kadar replasman verilir. **Potasyum gibi maddeler** net hacim kaybı olmadan uzaklaştırılabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "MiECC temel düzeni",
+      "body": "MiECC **küçük prime, uçtan uca kaplama, kapalı sistem ve santrifügal pompa** kullanır. Venöz hava tutucu ve ayrı saha kanı yönetimi devrenin güvenliğini tamamlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC'de ACT örnekleri",
+      "body": "MiECC 2021 derlemesinde CABG için yaklaşık **300 sn**, kapak veya kompleks işlemler için 400 sn ACT örnekleri verilir; cihaz, işlem ve kurum protokolüne göre değişir.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kanın yabancı devre yüzeyiyle teması hangi aktivasyon zincirini başlatabilir?",
+      "answer": "Protein adsorpsiyonu, trombosit adezyon/aktivasyonu, trombüs oluşumu; ayrıca kompleman ve inflamatuvar yanıt.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Biyomimetik ve biyopasif yüzeylere birer örnek veriniz.",
+      "answer": "Biyomimetik/biyoaktif yüzeye **heparin**, biyopasif yüzeye fosforilkolin veya PMEA örnektir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Cell saver ürünü tam kan değildir",
+      "body": "Yıkanmış ürün eritrosit ağırlıklıdır; **trombosit ve plazma faktörleri** yıkamayla uzaklaştırılır. Cell saver geri dönüşü, tam kan geri dönüşüyle eşit değildir.",
+      "source": "Cell salvage çalışması 2026"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "topic": "Preoperatif değerlendirme ve risk skorları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ASA'nın normal sağlıklı hasta sınıfı hangisidir?",
+      "options": [
+        "ASA II",
+        "ASA IV",
+        "ASA I",
+        "ASA VI"
+      ],
+      "correct": 2,
+      "explanation": "ASA I normal sağlıklı hastayı tanımlar.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yaşamı sürekli tehdit eden ağır sistemik hastalık hangi ASA sınıfıdır?",
+      "options": [
+        "ASA I",
+        "ASA II",
+        "ASA III",
+        "ASA IV"
+      ],
+      "correct": 3,
+      "explanation": "ASA IV, yaşamı sürekli tehdit eden ağır sistemik hastalık durumudur.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ameliyatsız yaşaması beklenmeyen moribund hasta hangi ASA sınıfındadır?",
+      "options": [
+        "ASA V",
+        "ASA II",
+        "ASA III",
+        "ASA VI"
+      ],
+      "correct": 0,
+      "explanation": "ASA V tanımı ameliyat olmadan sağkalımı beklenmeyen moribund hastayı içerir.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Beyin ölümü gerçekleşmiş organ donörü hangi ASA sınıfıyla belirtilir?",
+      "options": [
+        "ASA I",
+        "ASA VI",
+        "ASA III",
+        "ASA V"
+      ],
+      "correct": 1,
+      "explanation": "ASA VI organları donör amacıyla alınacak beyin ölümü gerçekleşmiş hastayı tanımlar.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Olağan aktivitede semptomu olmayan kalp yetersizliği hastası hangi NYHA sınıfındadır?",
+      "options": [
+        "NYHA II",
+        "NYHA III",
+        "NYHA I",
+        "NYHA IV"
+      ],
+      "correct": 2,
+      "explanation": "NYHA I'de fiziksel aktivite kısıtlılığı yoktur; olağan aktivite semptom oluşturmaz.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "type": "mcq",
+      "importance": 1,
+      "question": "İstirahatte rahat olup olağandan az aktivitede kalp yetersizliği semptomu yaşayan hasta hangi NYHA sınıfındadır?",
+      "options": [
+        "NYHA I",
+        "NYHA II",
+        "NYHA IV",
+        "NYHA III"
+      ],
+      "correct": 3,
+      "explanation": "Olağandan az aktivitenin semptom oluşturması belirgin kısıtlılık, yani NYHA III'tür.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Yalnız yoğun veya uzun eforla anjinası olan hasta hangi CCS sınıfındadır?",
+      "options": [
+        "CCS I",
+        "CCS II",
+        "CCS III",
+        "CCS IV"
+      ],
+      "correct": 0,
+      "explanation": "CCS I'de olağan aktivite anjina yapmaz; yoğun, hızlı veya uzun efor tetikler.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "ASA sınıfındaki E eki elektif ameliyatı ifade eder.",
+      "isTrue": false,
+      "explanation": "E eki acil cerrahiyi belirtir; gecikmenin yaşam veya organ için tehdidi belirgin artırması esas alınır.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "2024 KPB kılavuzu kronik statin kullanıcılarında perioperatif tedavinin sürdürülmesini destekler.",
+      "isTrue": true,
+      "explanation": "Kronik statinin sürdürülmesiyle, ameliyat öncesi yeni yüksek doz statin başlama aynı yaklaşım değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "EuroSCORE II'nin temel tahmin sonlanımı hastanın anjina sınıfıdır.",
+      "isTrue": false,
+      "explanation": "EuroSCORE II hastane mortalitesini öngörür; anjina sınıfı modelin girdilerinden biri olabilir.",
+      "source": "EuroSCORE II"
+    }
+  ]
+}

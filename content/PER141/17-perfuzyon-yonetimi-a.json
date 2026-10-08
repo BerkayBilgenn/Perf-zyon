@@ -1,0 +1,209 @@
+{
+  "topic": "Perfüzyon yönetimi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hemodilüsyon",
+      "definition": "Prime sıvısı nedeniyle kanın seyrelmesi; hematokrit ve viskozite düşer.",
+      "en": "Hemodilution",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Priming",
+      "definition": "KPB devresinin başlamadan önce havası alınarak sıvıyla doldurulması; kullanılan sıvı \"prime solüsyonu\"dur.",
+      "en": "Priming",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Otolog priming",
+      "definition": "Hastanın kendi kanıyla prime sıvısının dış torbaya itilmesi (sağ atriyumP: arteriyel hattan geriye; VAP: venöz hattan ileri); hemodilüsyonu azaltır.",
+      "en": "Retrograde / venous antegrade autologous priming",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Resirkülasyon",
+      "definition": "Prime sıvısının devre içinde döndürülerek karıştırılması, ısıtılması ve havasının alınması.",
+      "en": "Recirculation",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "De-airing",
+      "definition": "Devreden ve kalp boşluklarından havanın uzaklaştırılması işlemleri.",
+      "en": "De-airing",
+      "source": "De-airing derlemesi 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Debubbling",
+      "definition": "Filtre, oksijenatör, kardiyopleji seti gibi bileşenlerdeki kabarcıkların temizlenmesi.",
+      "en": "Debubbling",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "CO₂ flush",
+      "definition": "Devrenin prime öncesinde karbondioksitle yıkanarak içerdiği havanın uzaklaştırılması işlemi.",
+      "en": "CO₂ flushing",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin",
+      "definition": "Antitrombini aktive ederek trombin ve FXa'yı inhibe eden antikoagülan; KPB standardı.",
+      "en": "Heparin",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Protamin",
+      "definition": "Somon spermi kaynaklı bazik protein; heparini elektrostatik bağlayarak nötralize eder.",
+      "en": "Protamine",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "ACT",
+      "definition": "Heparin etkisini izlemekte kullanılan yatak başı tam kan pıhtılaşma testi.",
+      "en": "Activated clotting time",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Antitrombin (AT III)",
+      "definition": "Heparinin etkisine aracılık eden doğal antikoagülan; eksikliği heparin direncine yol açar.",
+      "en": "Antithrombin",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin direnci",
+      "definition": "Yüksek doz heparin verilmesine rağmen hedef aktive pıhtılaşma zamanına ulaşılamaması.",
+      "en": "Heparin resistance",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "HIT",
+      "definition": "Heparinle ilişkili trombosit sayısı düşüşü; immün tipte alternatif antikoagülasyon gerekir.",
+      "en": "Heparin-induced thrombocytopenia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bivalirudin",
+      "definition": "Trombini doğrudan inhibe eden kısa etkili antikoagülan; heparine bağlı immün trombositopenide kullanılabilir.",
+      "en": "Bivalirudin",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "DO₂ (oksijen sunumu)",
+      "definition": "Kan akımıyla dokulara taşınan oksijen miktarı; akım ve arteriyel kanın oksijen içeriğiyle belirlenir.",
+      "en": "Oxygen delivery",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "GDP",
+      "definition": "Akım ve hemoglobin'yi DO₂ hedefine göre ayarlayan perfüzyon stratejisi.",
+      "en": "Goal-directed perfusion",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyak indeks (CI)",
+      "definition": "Kalp debisinin vücut yüzey alanına bölünmüşü; pompa akımı = BSA × CI.",
+      "en": "Cardiac index",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "BSA",
+      "definition": "Vücut yüzey alanı; pompa akımı hesabında kullanılır.",
+      "en": "Body surface area",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hematokrit",
+      "definition": "Kanın eritrosit hacim yüzdesi.",
+      "en": "Hematocrit",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Vazopleji",
+      "definition": "Normal veya yüksek kalp debisine rağmen düşük sistemik damar direnci ve düşük arter basıncıyla seyreden durum.",
+      "en": "Vasoplegic syndrome",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Alfa-stat",
+      "definition": "Kan gazlarının standart ölçüm sıcaklığında, hastanın sıcaklığına göre düzeltilmeden yorumlandığı asit-baz stratejisi.",
+      "en": "Alpha-stat",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "pH-stat",
+      "definition": "pH ve PaCO₂'nin sıcaklığa göre düzeltilip sabit tutulduğu (oksijenatöre CO₂ eklenen) strateji.",
+      "en": "pH-stat",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "KPB'den ayrılma",
+      "definition": "KPB desteğinin kademeli azaltılıp kalbin dolaşımı devralması.",
+      "en": "Weaning / separation from CPB",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Hipotermide kan gazı yorumu",
+      "left": {
+        "title": "Alfa-stat",
+        "points": [
+          "Hasta sıcaklığına göre düzeltme yapılmaz",
+          "Serebral otoregülasyonu korumaya yöneliktir"
+        ]
+      },
+      "right": {
+        "title": "pH-stat",
+        "points": [
+          "Sıcaklık düzeltmeli pH ve PaCO₂ esas alınır",
+          "CO₂ eklenmesi serebral akımı ve soğumayı artırır"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    }
+  ]
+}

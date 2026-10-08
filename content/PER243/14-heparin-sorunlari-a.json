@@ -1,0 +1,209 @@
+{
+  "topic": "Heparin direnci, HİT ve protamin",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin direnci",
+      "en": "Heparin resistance",
+      "definition": "Uygun heparin dozuna rağmen hedef ACT'ye ulaşılamaması; en sık neden antitrombin eksikliği.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "HİT",
+      "en": "Heparin-induced thrombocytopenia",
+      "definition": "Heparin–PF4 kompleksine karşı IgG ile trombosit aktivasyonu, trombositopeni ve tromboz (tip II).",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "4T skoru",
+      "en": "4Ts score",
+      "definition": "HİT ön test olasılığı: trombositopeni, zamanlama, tromboz, diğer nedenler.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Bivalirudin",
+      "en": "Bivalirudin",
+      "definition": "Kısa etkili doğrudan trombin inhibitörü; HİT'te KPB için ilk seçenek; antidotu yoktur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Argatroban",
+      "en": "Argatroban",
+      "definition": "Karaciğerden elimine edilen doğrudan trombin inhibitörü; böbrek yetmezliğinde tercih edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Protamin sülfat",
+      "en": "Protamine sulfate",
+      "definition": "Arginince zengin, bazik ve pozitif yüklü protein; heparin etkisini geri çevirmek için kullanılır.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin rebound",
+      "en": "Heparin rebound",
+      "definition": "Protamin sonrası dokulardan dolaşıma dönen heparinin yeniden antikoagülasyon ve kanama yapması.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "PIPH",
+      "en": "Protamine-induced pulmonary hypertension",
+      "definition": "Protamin uygulanmasından sonra gelişebilen ani pulmoner vazokonstriksiyon, pulmoner hipertansiyon ve sağ ventrikül işlev bozukluğu tablosu.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Antifibrinolitik",
+      "en": "Antifibrinolytic",
+      "definition": "Fibrinolizi inhibe ederek kanamayı azaltan ilaç (TXA, EACA, aprotinin).",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Traneksamik asit",
+      "en": "Tranexamic acid",
+      "definition": "Lizin analoğu; plazmin(ojen)in fibrine bağlanmasını önler; yüksek dozda nöbet riski.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "EACA",
+      "en": "Epsilon-aminocaproic acid",
+      "definition": "Plazminojen aktivasyonunu inhibe eden lizin analoğu antifibrinolitik.",
+      "source": "DailyMed: aminokaproik asit"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aprotinin",
+      "en": "Aprotinin",
+      "definition": "Plazmin ve kallikrein gibi serin proteazları inhibe eden polipeptit yapıda antifibrinolitik ajan.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Desmopressin",
+      "en": "Desmopressin (DDAVP)",
+      "definition": "V2 reseptörü aracılığıyla etki gösteren sentetik vazopressin analoğu; seçilmiş kalıtsal kanama bozukluklarında kullanılır.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PKK",
+      "en": "Prothrombin complex concentrate (PCC)",
+      "definition": "FII, FVII, FIX, FX içeren liyofilize konsantre; varfarinin hızlı geri çevrilmesi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Fibrinojen konsantresi",
+      "en": "Fibrinogen concentrate",
+      "definition": "Fibrinojen eksikliğine bağlı kanamada eksik pıhtı substratının yerine konmasını sağlayan konsantre ürün.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "rFVIIa",
+      "en": "Recombinant activated factor VII",
+      "definition": "Kontrol edilemeyen kanamada son çare olarak kullanılan, tromboz riski taşıyan faktör.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Doğrudan trombin inhibitörü",
+      "en": "Direct thrombin inhibitor",
+      "definition": "Antitrombine gerek olmadan trombini doğrudan inhibe eden ilaç (bivalirudin, argatroban).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyotomi aspiratörü",
+      "en": "Cardiotomy suction",
+      "definition": "Cerrahi alandaki kanı kardiyopulmoner bypass rezervuarına geri döndüren aspirasyon düzeneği.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Heparinle ilişkili sorunlar",
+      "left": {
+        "title": "Heparin direnci",
+        "points": [
+          "Heparine antikoagülan yanıt yetersiz",
+          "Antitrombin eksikliği önemli bir neden"
+        ]
+      },
+      "right": {
+        "title": "İmmün HİT",
+        "points": [
+          "Heparin–PF4 antikorlarıyla trombosit aktivasyonu",
+          "Trombositopeniye tromboz eşlik edebilir"
+        ]
+      },
+      "source": "BJA Education 2023: heparin / alternatifler"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Protamin sonrası kanama",
+      "left": {
+        "title": "Heparin rebound",
+        "points": [
+          "Dolaşıma yeniden çıkan heparin etkisi",
+          "Heparinazlı testlerle değerlendirilebilir"
+        ]
+      },
+      "right": {
+        "title": "Protamin fazlası",
+        "points": [
+          "Trombosit işlevinde bozulma ve fibrinoliz artışı",
+          "Ek protamin kanamayı ağırlaştırabilir"
+        ]
+      },
+      "source": "Ann Card Anaesth 2024: protamin"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Pıhtının oluşması ve yıkılması",
+      "left": {
+        "title": "Antikoagülan",
+        "points": [
+          "Pıhtı oluşumunu engeller",
+          "Örnek: heparin, bivalirudin"
+        ]
+      },
+      "right": {
+        "title": "Antifibrinolitik",
+        "points": [
+          "Pıhtının yıkımını engeller",
+          "Örnek: traneksamik asit, EACA"
+        ]
+      },
+      "source": "EACTS/EACTAIC PBM 2024"
+    }
+  ]
+}

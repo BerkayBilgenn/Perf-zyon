@@ -1,0 +1,77 @@
+{
+  "topic": "Anesteziye giriş ve temel kavramlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Guedel evre 1'de beklenen hasta özelliği hangisidir?",
+      "options": [
+        "Konuşabilme",
+        "Sabit geniş pupiller",
+        "Solunum paralizisi",
+        "Tüm reflekslerin kaybı"
+      ],
+      "correct": 0,
+      "explanation": "Evre 1 bilinç kaybından önceki dönemdir; hasta konuşabilir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Guedel sınıflamasında düzensiz solunum ve amaçsız hareket hangi evreyi düşündürür?",
+      "options": [
+        "Analjezi",
+        "Eksitasyon",
+        "Cerrahi anestezi",
+        "Doz aşımı"
+      ],
+      "correct": 1,
+      "explanation": "Eksitasyon döneminde düzensiz solunum ve kontrolsüz hareket görülebilir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Guedel evre 3'te havayolu refleksleri nasıl değişir?",
+      "options": [
+        "Belirgin artar",
+        "Düzenli aralıklarla güçlenir",
+        "Baskılanır",
+        "Bilinçli olarak kontrol edilir"
+      ],
+      "correct": 2,
+      "explanation": "Cerrahi anestezi evresinde havayolu reflekslerinin baskılanması havayolu girişimine olanak verir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Kardiyak anestezide farkındalık riski hangi uygulamayla ilişkilidir?",
+      "options": [
+        "Isı monitörizasyonu",
+        "Arter basıncı izlemi",
+        "Kan gazı örneklemesi",
+        "Kas gevşetici kullanımı"
+      ],
+      "correct": 3,
+      "explanation": "Kas gevşetici kullanımı farkındalık riskinin değerlendirilmesinde önemlidir; hareket görülmemesi bilinç kaybını kanıtlamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Genel kabul gören anestezi türleri arasında spinal, epidural ve periferik sinir blokları rejyonel anestezi içinde değerlendirilir.",
+      "isTrue": true,
+      "explanation": "Rejyonel anestezi, belirli bir bölgenin sinir iletimini bloke eden spinal, epidural ve periferik blokları kapsar.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Guedel evre 2, ilk anestezik uygulamasından bilinç kaybına kadar sürer.",
+      "isTrue": false,
+      "explanation": "Bu sınırlar evre 1'e aittir. Evre 2 bilinç kaybından düzenli otomatik solunumun başlamasına kadar sürer.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    }
+  ]
+}

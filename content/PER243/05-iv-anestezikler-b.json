@@ -1,0 +1,124 @@
+{
+  "topic": "IV anestezikler, opioidler ve antagonistleri",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Etomidat ve analjezi",
+      "body": "Etomidat hipnotiktir; **analjezik etkisi yoktur**. Bilinç kaybı, ağrılı uyaranın analjezisini tek başına karşılamaz.",
+      "source": "DailyMed: etomidat"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ketamin ve sekresyon",
+      "body": "Ketamin **salivasyonu artırabilir**; disosiyatif anestezi ve korunan havayolu refleksleri sekresyon değerlendirmesini ortadan kaldırmaz.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Tiyopentalin damar riski",
+      "body": "Tiyopentalin yanlışlıkla intraarteriyel verilmesi **arteriyospazm ve şiddetli ağrı** oluşturabilir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Midazolamın metabolizması",
+      "body": "Midazolam **CYP3A4** yoluyla α-hidroksimidazolama metabolize edilir.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Deksmedetomidin yükleme yanıtı",
+      "body": "Deksmedetomidin yüklemesi sırasında geçici **hipertansiyon** görülebilir; idamede bradikardi ve hipotansiyon da izlenir.",
+      "source": "DailyMed: deksmedetomidin"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Fentanilin metabolizması",
+      "body": "Fentanilin metabolizmasında **CYP3A4** rol oynar; remifentanilden farklı olarak başlıca nonspesifik esteraz yıkımına dayanmaz.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB'de serbest ilaç fraksiyonu",
+      "body": "Kardiyopulmoner bypassta plazma proteinlerinin azalması, proteine bağlı ilacın **serbest aktif fraksiyonunu artırabilir**. Total düzey düşüşü tek başına etki kaybını göstermez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Akciğerde opioid tutulması",
+      "body": "Fentanil ve sufentanil akciğerde tutulabilir; kardiyopulmoner bypasstan ayrılmada tekrar dolaşıma geçmeleri plazma düzeyini artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Flumazenil sonrası yeniden sedasyon neden görülebilir?",
+      "answer": "Flumazenilin etkisi benzodiazepinden **daha kısa sürebilir**; antagonist etkisi biterken sedatif etki sürebilir.",
+      "source": "DailyMed: flumazenil"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Naloksonla opioid etkisini aniden geri çevirmek hangi dolaşım sorunlarını doğurabilir?",
+      "answer": "**Taşikardi, hipertansiyon ve ciddi aritmiler** gelişebilir; kontrollü titrasyonun klinik gerekçelerinden biridir.",
+      "source": "DailyMed: nalokson"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Etomidat sonrasında kortizol yanıtı hangi mekanizmayla azalır?",
+      "answer": "Adrenal steroid sentezinde **11β-hidroksilasyonun baskılanması** kortizol yanıtını azaltır.",
+      "source": "DailyMed: etomidat"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Hipotermik KPB ilaç etkisini neden yalnız total düzeyle açıklayamaz?",
+      "answer": "Hemodilüsyon, protein bağlanması ve sıcaklık değişimi **serbest fraksiyonu ve eliminasyonu** etkiler; total plazma düzeyi bütün etkiyi göstermez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Tiyopental ve porfiri",
+      "body": "**Tiyopental porfiride kontrendikedir**; indüksiyon ajanları bu hastalık açısından eşdeğer değildir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Remifentanil kesilmeden önce",
+      "body": "Çok kısa etkili remifentanil kesilmeden önce **devam eden analjezi planlanmalıdır**; infüzyon sonrası hızlı etki kaybı beklenir.",
+      "source": "DailyMed: remifentanil"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Remifentanil uygulama yolu",
+      "body": "Remifentanil formülasyonundaki **glisin** nedeniyle epidural veya intratekal uygulama kontrendikedir.",
+      "source": "DailyMed: remifentanil"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Tiyopental çözeltisinin pH'ı",
+      "body": "Tiyopental SmPC'sinde klinik çözeltinin pH'ı **10–11** olarak verilir. Bu yüksek alkalinite, damar dışına kaçıştaki kimyasal doku hasarını açıklayan etkenlerdendir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Fentanil etiketindeki anestezik teknik",
+      "body": "DailyMed fentanil etiketinde ek anestezik ajan kullanılmadan oksijen ve kas gevşeticiyle uygulanan teknik için **50–100 µg/kg** bildirilir; bu aralık bütün kardiyak tekniklerin standart dozu değildir.",
+      "source": "DailyMed: fentanil"
+    }
+  ]
+}

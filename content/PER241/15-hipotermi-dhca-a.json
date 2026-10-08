@@ -1,0 +1,119 @@
+{
+  "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "term": "Hipotermi",
+      "en": "Hypothermia",
+      "definition": "Vücut sıcaklığının düşürülmesi. Kalp cerrahisinde metabolik gereksinimleri azaltmak amacıyla kullanılır.",
+      "origin": "Yun. hypo + therme = ısı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "DHCA",
+      "en": "Deep hypothermic circulatory arrest",
+      "definition": "Derin hipotermide KPB akımının tamamen durdurulması."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "Düşük akımlı KPB",
+      "en": "Low-flow bypass",
+      "definition": "Hipotermi sırasında tüm vücuda azaltılmış pompa akımının sürdürüldüğü kardiyopulmoner bypass tekniği."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "SACP",
+      "en": "Selective antegrade cerebral perfusion",
+      "definition": "Ark cerrahisinde beyne seçici antegrad akım verilmesi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "Alfa-stat",
+      "en": "Alpha-stat",
+      "definition": "Kan gazını standart ölçüm sıcaklığındaki, hasta sıcaklığına göre düzeltilmemiş değerlerle değerlendiren yaklaşım.",
+      "origin": "α = imidazol iyonlaşma oranı"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Groom ve ark. 2005",
+      "term": "pH-stat",
+      "en": "pH-stat",
+      "definition": "Kan gazını hastanın sıcaklığına düzeltilmiş değerlerle değerlendiren yaklaşım. Karbondioksit eklenmesi serebral vazodilatasyona katkıda bulunur."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Elektroserebral sessizlik",
+      "en": "Electrocerebral silence",
+      "definition": "Elektroensefalogramda beyin elektriksel aktivitesinin saptanamaz düzeye inmesi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Yakın kızılötesi ışıkla doku (serebral/somatik) oksijen satürasyonunun invaziv olmadan ölçümü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "term": "Nazofaringeal sıcaklık",
+      "en": "Nasopharyngeal temperature",
+      "definition": "Beyin sıcaklığını izlemek için kullanılan nazofarinks bölgesinden sıcaklık ölçümü."
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Kan gazını hangi sıcaklıkta yorumlarız?",
+      "left": {
+        "title": "Alfa-stat",
+        "points": [
+          "Hasta sıcaklığına göre düzeltme yapılmaz",
+          "Otoregülasyonun korunmasıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "pH-stat",
+        "points": [
+          "Hasta sıcaklığına düzeltilmiş değerler kullanılır",
+          "CO2 eklenmesi serebral vazodilatasyon sağlar"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Arrest ve beyin akımı",
+      "left": {
+        "title": "DHCA",
+        "points": [
+          "KPB akımı tamamen durdurulur",
+          "Beyin korumasında hipotermiye dayanılır"
+        ]
+      },
+      "right": {
+        "title": "SACP",
+        "points": [
+          "Beyne seçici antegrad akım sürdürülür",
+          "Aortik ark cerrahisinde kullanılır"
+        ]
+      }
+    }
+  ]
+}

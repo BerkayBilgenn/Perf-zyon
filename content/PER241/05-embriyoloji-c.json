@@ -1,0 +1,91 @@
+{
+  "topic": "Kardiyovasküler embriyoloji",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Endokardiyal yastıkların gelişim bozukluğu en çok hangi lezyonla ilişkilidir?",
+      "options": [
+        "Aort koarktasyonu",
+        "Koroner arter fistülü",
+        "Pulmoner ven stenozu",
+        "Atriyoventriküler septal defekt"
+      ],
+      "correct": 3,
+      "explanation": "Endokardiyal yastıklar atriyoventriküler kanal septasyonuna katılır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Ostium primum hangi iki yapı arasında bulunur?",
+      "options": [
+        "Septum primum ve endokardiyal yastıklar",
+        "Septum sekundum ve aort kökü",
+        "Bulbus kordis ve pulmoner kapak",
+        "Koroner sinüs ve aortik ark"
+      ],
+      "correct": 0,
+      "explanation": "İlk atriyal açıklık, büyüyen septum primumun alt kenarıyla yastıklar arasındadır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu hangisidir?",
+      "options": [
+        "Somit miyotomu",
+        "Nöral krista",
+        "Nefrojenik kord",
+        "Endodermal pankreas tomurcuğu"
+      ],
+      "correct": 1,
+      "explanation": "Nöral krista hücreleri konotrunkal septasyonla ilişkilidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Embriyonik aortikopulmoner septumun normal seyri nasıldır?",
+      "options": [
+        "Düz paralel seyirlidir",
+        "Atriyum tavanına yönelir",
+        "Spiral seyirlidir",
+        "İnteratriyal septumla sınırlıdır"
+      ],
+      "correct": 2,
+      "explanation": "Spiral septum embriyonik çıkış yolunu aort ve pulmoner trunkusa ayırır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Kalp tüpünün en kaudal segmenti hangisidir?",
+      "options": [
+        "Trunkus arteriyozus",
+        "Bulbus kordis",
+        "Primitif ventrikül",
+        "Sinüs venozus"
+      ],
+      "correct": 3,
+      "explanation": "Sinüs venozus kalp tüpünün kaudal giriş segmentidir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "statement": "Septum primum doğumdan sonra foramen ovalenin kapakçığı işlevini görür.",
+      "isTrue": true,
+      "explanation": "İlk ince septum, foramen ovale kapakçığının anatomik temelidir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "statement": "Sağ atriyumun düz bölümüne sinüs venozusun sol boynuzu katılır.",
+      "isTrue": false,
+      "explanation": "Sağ boynuz sağ atriyuma katılır; sol boynuz koroner sinüse dönüşür."
+    }
+  ]
+}

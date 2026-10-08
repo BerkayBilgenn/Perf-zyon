@@ -1,0 +1,89 @@
+{
+  "topic": "Soldan sağa şantlı lezyonlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "ASD'de hacim yükü",
+      "body": "Atriyal soldan sağa şant özellikle **sağ atriyum ve sağ ventrikülde** hacim yüküne yol açar."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "ASD üfürümünün yeri",
+      "body": "ASD'de pulmoner akım artışıyla ilişkili yumuşak midsistolik üfürüm **üst sol sternal kenarda** duyulabilir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Küçük restriktif VSD pulmoner basıncı nasıl etkiler?",
+      "answer": "Küçük restriktif VSD'de açıklık akımı sınırlar; **pulmoner basınç normal kalabilir**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "VSD üfürümünün tipik yeri ve zamanlaması nasıldır?",
+      "answer": "VSD üfürümü tipik olarak **alt sol sternal kenarda holosistolik** karakterdedir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Şant semptomları neden gecikebilir?",
+      "answer": "Doğum sonrası yüksek pulmoner direnç şantı sınırlar; **direnç düştükçe soldan sağa akım artar** ve kalp yetmezliği belirginleşir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PDA'da nabız basıncı",
+      "body": "Büyük PDA, diyastolik aortik kaçak nedeniyle **geniş nabız basıncı ve zıplayan nabızlara** yol açabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Komplet AVSD'nin odacık etkisi",
+      "body": "Atriyal ve ventriküler düzeyde büyük şantla **dört odacıkta genişleme** görülebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Parsiyel AVSD'de ventriküler septum",
+      "body": "Parsiyel AVSD'de primum ASD ve sol atriyoventriküler kapak yarığı bulunur; **ventriküler septum sağlamdır**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "AVSD onarımı sonrası hangi sorunlar izlenir?",
+      "answer": "**Rezidüel VSD, sol atriyoventriküler kapak yetersizliği ve ileti bozuklukları** önemli postoperatif sorunlardır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "AP pencerenin anatomik ayrımı",
+      "body": "Aortopulmoner pencerede büyük arterler arasında açıklık olsa da **iki ayrı semilunar kapak vardır**; bunu trunkusla karıştırma."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Scimitar'da anormal drenaj",
+      "body": "Scimitar sendromunda hipoplastik sağ akciğerin anormal veni en sık **vena kava inferiora** açılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Sinüs venozus ASD'nin eşlikçisi",
+      "body": "Sinüs venozus ASD'ye **parsiyel anormal pulmoner venöz dönüş** sık eşlik eder."
+    }
+  ]
+}

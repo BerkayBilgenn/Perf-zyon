@@ -1,0 +1,77 @@
+{
+  "topic": "İnhalasyon anestezikleri",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Desfluran hangi vaporizatör düzenini gerektirir?",
+      "options": [
+        "Soğutmalı oksijen regülatörü",
+        "Soda lime kanisteri",
+        "Isıtmalı özel vaporizatör",
+        "Tek yönlü venöz valf"
+      ],
+      "correct": 2,
+      "explanation": "Desfluranın yüksek uçuculuğu özel ısıtmalı gaz-buhar karıştırıcısı gerektirir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Volatil ajanın etkisiyle ön koşullandırmada hangi kanal yolu anılır?",
+      "options": [
+        "GPIb reseptörleri",
+        "GPIIb/IIIa reseptörleri",
+        "V2 su kanalları",
+        "K-ATP kanalları"
+      ],
+      "correct": 3,
+      "explanation": "Anestezik ön koşullandırmanın koruyucu yolakları arasında K-ATP kanalları bulunur.",
+      "source": "Ann Card Anaesth 2019: ön koşullandırma"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kuru absorbanla volatil ajan etkileşiminde hangi toksik gaz oluşabilir?",
+      "options": [
+        "Karbon monoksit",
+        "Oksijen",
+        "Tıbbi hava",
+        "Helyum"
+      ],
+      "correct": 0,
+      "explanation": "Güçlü baz içeren kuru absorbanlar volatil anesteziklerden karbon monoksit oluşumuna yol açabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Minimum alveoler konsantrasyon azalınca ajan potensi nasıl yorumlanır?",
+      "options": [
+        "Potens azalır",
+        "Potens artar",
+        "Çözünürlük mutlaka artar",
+        "Kaynama noktası mutlaka düşer"
+      ],
+      "correct": 1,
+      "explanation": "Daha düşük konsantrasyonda aynı hareketsizlik sonlanımına ulaşılması daha yüksek potensi gösterir.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Hipotermi inhalasyon anesteziği gereksinimini artırır.",
+      "isTrue": false,
+      "explanation": "Hipotermi volatil anestezik gereksinimini azaltır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Desfluranın hava yolunu irrite eden keskin kokusu olduğu genel kabul edilir.",
+      "isTrue": true,
+      "explanation": "Genel kabul gören bu özellik, anestezik potensi veya kan/gaz çözünürlüğüyle aynı kavram değildir.",
+      "source": "Genel kabul (PER243 araştırması)"
+    }
+  ]
+}

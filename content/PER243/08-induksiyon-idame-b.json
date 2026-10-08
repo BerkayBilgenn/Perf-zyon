@@ -1,0 +1,82 @@
+{
+  "topic": "Premedikasyon, indüksiyon ve idame",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Sternotominin fizyolojik etkisi",
+      "body": "Sternotomi ve laringoskopi taşikardi ve hipertansiyon oluşturarak **miyokard oksijen tüketimini artırabilir**.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "RSI gerektiren risk",
+      "body": "Hızlı seri indüksiyonun gerekçelerinden biri **aspirasyon riskidir**; aç olmayan acil hasta ve reflü gibi riskler değerlendirilir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Krikoid basının kanıtı",
+      "body": "Hızlı seri indüksiyonda krikoid basının etkinliği **tartışmalıdır**. Havayolunu zorlaştırırsa bırakılması gerekir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: berrak sıvı",
+      "body": "ASA 2017'de sağlıklı elektif hastada berrak sıvılar için **2 saat** açlık önerilir. Aspirasyon riski olan hastada plan bireyselleştirilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: anne sütü",
+      "body": "ASA 2017'de sağlıklı elektif bebekte anne sütü için **4 saat** açlık önerilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: hafif öğün",
+      "body": "ASA 2017'de sağlıklı elektif hastada hafif yemek, mama ve insan dışı süt için **6 saat** açlık önerilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: yağlı yemek",
+      "body": "ASA 2017'de yağlı/kızartılmış yemek ve et için **en az 8 saat** gerekebilir; yenilen miktar ve içerik de değerlendirilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Aort darlığında premedikasyonun taşikardi açısından amacı nedir?",
+      "answer": "Anksiyeteyi azaltarak **anksiyeteye bağlı taşikardiyi önlemeye** yardımcı olmaktır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Mitral darlıkta aşırı sedasyon pulmoner dolaşımı nasıl etkileyebilir?",
+      "answer": "Hipoventilasyon ve hiperkarbi oluşturarak **pulmoner hipertansiyonu artırabilir**.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyak indüksiyonda opioidin güçlü uyaranlara karşı işlevi nedir?",
+      "answer": "Laringoskopi ve sternotomi gibi uyaranların oluşturduğu **taşikardi ve hipertansiyon yanıtını baskılamaktır**.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Tüpü dalga formuyla doğrula",
+      "body": "Hızlı seri indüksiyonda trakeal tüp yerinin doğrulanması için **dalga formlu kapnografi** gerekir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    }
+  ]
+}

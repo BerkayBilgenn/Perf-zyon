@@ -1,0 +1,82 @@
+{
+  "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Merck'in KKH sınıflaması",
+      "body": "Konjenital kalp hastalıkları **siyanotik**, soldan sağa şantlı asiyanotik ve obstrüktif lezyonlar olarak gruplandırılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "KKH'nin kalıtsal ilişkileri",
+      "body": "Kromozomal anomaliler ve tek gen hastalıkları KKH ile ilişkili olabilir; **her olguda tanımlanabilir bir genetik neden bulunmaz**."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Down sendromunda sık eşleşme",
+      "body": "**Komplet atriyoventriküler septal defekt**, Down sendromuyla güçlü birliktelik gösterir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Turner sendromunda aort",
+      "body": "Turner sendromuyla ilişkili kardiyovasküler lezyonlardan biri **aort koarktasyonudur**."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "22q11 delesyonunda çıkış yolu",
+      "body": "**Persistan trunkus arteriyozus** ve diğer konotrunkal anomaliler, 22q11 delesyonuyla ilişkilidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Eisenmenger'de şant neden tersine döner?",
+      "answer": "Kronik yüksek pulmoner akımın yol açtığı **pulmoner vasküler hastalık**, direnci artırarak net akımı sağdan sola çevirebilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Eisenmenger'de defekt kapatma",
+      "body": "İleri geri dönüşsüz pulmoner vasküler hastalık gelişmiş **Eisenmenger sendromunda defekt kapatma uygun değildir**."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kronik siyanozun kan bulgusu",
+      "body": "Uzun süreli hipoksemiye yanıt olarak **eritrosit kütlesi artabilir**; sekonder eritrositoz gelişir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Karışım da duktusa bağlı olabilir",
+      "body": "Büyük arter transpozisyonunda duktusun açıklığı yalnız akım için değil, **iki dolaşım arasında karışım** için de önemlidir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Duktus kapanmasının sistemik sonucu",
+      "body": "Hipoplastik sol kalp ve kritik aortik obstrüksiyonda duktusun kapanması **sistemik hipoperfüzyon ve şok** oluşturabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Qp/Qs'nin satürasyon formülü",
+      "body": "Fick ilkesinden: **Qp/Qs = (SaO2 − SvO2) / (SpvO2 − SpaO2)**. Sa: sistemik arter; Sv: karışık ven; Spv: pulmoner ven; Spa: pulmoner arter."
+    }
+  ]
+}

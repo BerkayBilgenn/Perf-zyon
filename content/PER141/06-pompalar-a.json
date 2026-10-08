@@ -1,0 +1,213 @@
+{
+  "topic": "Pompalar: roller ve santrifügal",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hemoliz",
+      "definition": "Eritrositlerin parçalanması; serbest plazma hemoglobin'si artar.",
+      "en": "Hemolysis",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Spallasyon",
+      "definition": "Roller sıkışmasıyla tüp iç yüzeyinden partikül kopması; aşırı oklüzyonda artar.",
+      "en": "Spallation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kavitasyon",
+      "definition": "Ani negatif basınçta sıvı içinde gaz/buhar kabarcığı oluşması (ör. roller pompa girişinin aniden tıkanması).",
+      "en": "Cavitation",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Roller pompa",
+      "definition": "İki silindirin tüpü yatağa bastırarak kanı ileri ittiği oklüzif, afterload'dan bağımsız pompa (DeBakey tipi).",
+      "en": "Roller (peristaltic) pump",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Oklüzyon",
+      "definition": "Roller ile yatak arasında tüpün sıkıştırılma derecesi; fazlası hemoliz/spallasyon, azı geri kaçak ve hatalı akım okuması yapar.",
+      "en": "Occlusion",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Drop-rate testi",
+      "definition": "Pompa çıkışındaki yükseltilmiş sıvı sütununun düşüşü ölçülerek roller pompa oklüzyonunun değerlendirilmesi.",
+      "en": "Drop-rate occlusion test",
+      "source": "Vieira Junior ve ark. 2009"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Dinamik oklüzyon ayarı",
+      "definition": "Çıkış klempliyken düşük devirde istenen basınca ulaşana dek oklüzyonun artırılması.",
+      "en": "Dynamic occlusion setting",
+      "source": "Vieira Junior ve ark. 2009"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Pompa yatağı",
+      "definition": "Roller pompa tüpünün yerleştirildiği yarım daire biçimindeki yatak.",
+      "en": "Raceway",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pompa segmenti",
+      "definition": "Roller pompaya yerleştirilen, sürekli sıkışmaya dayanıklı (genellikle silikon) tüp parçası.",
+      "en": "Pump boot / header",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kalibrasyon",
+      "definition": "Pompa devri–akım ilişkisinin (tüp çapına göre) ve ölçüm cihazlarının doğruluğunun ayarlanması/kontrolü.",
+      "en": "Calibration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Santrifügal pompa",
+      "definition": "Manyetik olarak döndürülen koni/çarkla merkezkaç kuvvet oluşturan, oklüzif olmayan, preload/afterload'a duyarlı pompa.",
+      "en": "Centrifugal pump",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "İmpeller",
+      "definition": "Santrifügal pompa başında kanı döndüren kanatlı çark veya iç içe koniler.",
+      "en": "Impeller / cone",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Akım probu",
+      "definition": "Akımı ultrasonik veya elektromanyetik ilkeyle ölçen sensör; santrifügal pompada zorunlu.",
+      "en": "Flow probe / flowmeter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Preload",
+      "definition": "Pompanın girişine gelen dolum (venöz dönüş, rezervuar/hasta hacmi).",
+      "en": "Preload",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Afterload",
+      "definition": "Pompanın/ventrikülün karşı koymak zorunda olduğu yük (hasta direnci, hat basıncı).",
+      "en": "Afterload",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Retrograd akım",
+      "definition": "Santrifügal pompa durunca ya da devri yetersiz kalınca kanın arteriyel hattan geriye akması.",
+      "en": "Retrograde flow / backflow",
+      "source": "SafeCEC çalışması 2025"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pulsatil akım",
+      "definition": "Nabız benzeri basınç dalgalanmalı akım.",
+      "en": "Pulsatile flow",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Non-pulsatil akım",
+      "definition": "Sürekli, nabızsız akım; standart KPB'nin çoğu.",
+      "en": "Non-pulsatile (continuous) flow",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "EEP / SHE",
+      "definition": "Pulsatil akımın hemodinamik enerjisini nicelleştiren göstergeler.",
+      "en": "Energy equivalent pressure / Surplus hemodynamic energy",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Triboelektrik yük",
+      "definition": "Sürtünmeyle oluşan statik elektrik; PVC tüplü roller pompada belirgin.",
+      "en": "Triboelectric charge",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "El krankı",
+      "definition": "Elektrik ve batarya kaybında pompayı elle çevirmeye yarayan kol (AmSECT 6.9).",
+      "en": "Hand crank",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Pompa çalışma ilkesi",
+      "left": {
+        "title": "Roller pompa",
+        "points": [
+          "Tüpü sıkıştırarak kanı ilerletir",
+          "Oklüzif; akım devir ve tüp çapıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Santrifügal pompa",
+        "points": [
+          "Dönen çark veya koniyle kanı ilerletir",
+          "Oklüzif olmayan; akım ön ve ard yüke duyarlıdır"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan hasarının kaynağı",
+      "left": {
+        "title": "Spallasyon",
+        "points": [
+          "Tüp iç yüzeyinden partikül kopması",
+          "Roller sıkışması ve aşırı oklüzyonla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Kavitasyon",
+        "points": [
+          "Negatif basınçla gaz veya buhar kabarcığı oluşması",
+          "Ani giriş tıkanmasıyla gelişebilir"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    }
+  ]
+}

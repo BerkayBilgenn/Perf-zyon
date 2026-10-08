@@ -1,0 +1,113 @@
+{
+  "topic": "Kan koruma, biyouyumluluk ve MiECC",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "MiECC",
+      "definition": "Küçük prime'lı, uçtan uca kaplamalı, kapalı, santrifügal pompalı ve venöz kabarcık tutuculu minimal invaziv EKD.",
+      "en": "Minimal invasive extracorporeal circulation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ultrafiltrasyon",
+      "definition": "Basınç farkıyla yarı geçirgen membrandan plazma suyu ve küçük moleküllerin uzaklaştırılması.",
+      "en": "Ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hemokonsantratör",
+      "definition": "Kandan plazma suyunu uzaklaştırıp hematokrit'yi yükselten ultrafiltre; protein ve hücreleri tutar.",
+      "en": "Hemoconcentrator (hemofilter)",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "CUF",
+      "definition": "KPB sırasında yapılan ultrafiltrasyon.",
+      "en": "Conventional ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "MUF",
+      "definition": "KPB'den ayrıldıktan sonra, aort kanülünden alınan kanın ultrafiltreden geçirilerek sağ atriyuma döndürülmesi.",
+      "en": "Modified ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ZBUF",
+      "definition": "Uzaklaştırılan hacim kadar replasman sıvısı verilerek yapılan UF (ör. K⁺ uzaklaştırma).",
+      "en": "Zero-balance ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Cell saver",
+      "definition": "Saha kanını toplayıp santrifüjle ayıran, serum fizyolojikle yıkayıp eritrositleri geri veren sistem.",
+      "en": "Intraoperative cell salvage",
+      "source": "Cell salvage çalışması 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Biyouyumluluk",
+      "definition": "Malzemenin kanla temasında minimum aktivasyon/inflamasyon oluşturma özelliği.",
+      "en": "Biocompatibility",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin kaplı devre",
+      "definition": "Yüzeyine heparin bağlanmış biyoaktif devre; daha düşük ACT ile kullanılabilir.",
+      "en": "Heparin-bonded circuit",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fosforilkolin (PC) kaplama",
+      "definition": "Hücre zarını taklit eden biyopasif kaplama.",
+      "en": "Phosphorylcholine coating",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "PMEA",
+      "definition": "Protein adsorpsiyonunu azaltan biyopasif kaplama.",
+      "en": "Poly(2-methoxyethyl acrylate)",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kanı yoğunlaştırmak veya yıkamak",
+      "left": {
+        "title": "Hemokonsantratör",
+        "points": [
+          "Plazma suyu membrandan uzaklaştırılır",
+          "Hücreler ve proteinler kanda tutulur"
+        ]
+      },
+      "right": {
+        "title": "Cell saver",
+        "points": [
+          "Santrifüj ve yıkama ile eritrositler hazırlanır",
+          "Trombosit ve plazma ürünle geri dönmez"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    }
+  ]
+}

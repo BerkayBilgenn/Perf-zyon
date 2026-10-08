@@ -1,0 +1,201 @@
+{
+  "topic": "Kas gevşeticiler ve antagonistleri",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Nöromüsküler kavşak",
+      "en": "Neuromuscular junction",
+      "definition": "Genel kabul gören tanımıyla, motor sinir ucu ile kas son plağı arasındaki sinaps; asetilkolin nikotinik reseptörlere bağlanır.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Depolarizan kas gevşetici",
+      "en": "Depolarizing NMBA",
+      "definition": "Nikotinik reseptörü uyarıp sürekli depolarizasyonla blok yapan ajan (süksinilkolin).",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Nondepolarizan kas gevşetici",
+      "en": "Nondepolarizing NMBA",
+      "definition": "Nikotinik reseptörde asetilkolinle kompetitif yarışarak blok yapan ajanlar (roküronyum vb.).",
+      "source": "DailyMed: roküronyum"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Süksinilkolin",
+      "en": "Succinylcholine (suxamethonium)",
+      "definition": "Nikotinik reseptörü uyararak depolarizan nöromüsküler blok oluşturan kas gevşetici.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Faz II blok",
+      "en": "Phase II block",
+      "definition": "Yüksek doz veya uzun süreli süksinilkolinle depolarizan bloğun nondepolarizan benzeri bloğa dönüşmesi.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fasikülasyon",
+      "en": "Fasciculation",
+      "definition": "Süksinilkolin sonrası görülen istemsiz, görünür kas seğirmeleri; postop miyaljiyle ilişkili.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma kolinesterazı",
+      "en": "Plasma cholinesterase (pseudocholinesterase)",
+      "definition": "Süksinilkolini hidrolize eden plazma enzimi.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Roküronyum",
+      "en": "Rocuronium",
+      "definition": "Hızlı başlangıçlı aminosteroid yapıda nondepolarizan kas gevşetici.",
+      "source": "DailyMed: roküronyum"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Veküronyum",
+      "en": "Vecuronium",
+      "definition": "Histamin salmayan, hemodinamik olarak nötr aminosteroid nondepolarizan.",
+      "source": "DailyMed: veküronyum"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Sisatraküryum",
+      "en": "Cisatracurium",
+      "definition": "Benzilizokinolin yapısında nondepolarizan kas gevşetici; organdan bağımsız kimyasal yıkımla elimine edilir.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hofmann eliminasyonu",
+      "en": "Hofmann elimination",
+      "definition": "pH ve sıcaklığa bağlı, enzim ve organdan bağımsız kimyasal ilaç yıkımı.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Pankuronyum",
+      "en": "Pancuronium",
+      "definition": "Vagolitik etkili, uzun etkili aminosteroid nondepolarizan.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TOF",
+      "en": "Train-of-four",
+      "definition": "Dört ardışık sinir uyarısına oluşan kas yanıtlarını kullanarak nöromüsküler blok derinliğini ve derlenmeyi değerlendiren yöntem.",
+      "source": "DailyMed: neostigmin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Post-tetanik sayım",
+      "en": "Post-tetanic count",
+      "definition": "Derin blokta tetanik uyarı sonrası tekli uyarılara yanıt sayısı; sugammadeks dozunu belirler.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Neostigmin",
+      "en": "Neostigmine",
+      "definition": "Asetilkolinesterazı inhibe ederek sinaptik asetilkolini artıran ve nondepolarizan nöromüsküler bloğun geri çevrilmesinde kullanılan ajan.",
+      "source": "DailyMed: neostigmin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sugammadeks",
+      "en": "Sugammadex",
+      "definition": "Roküronyum ve veküronyumu kapsülleyen modifiye gama siklodekstrin.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Glikopirolat",
+      "en": "Glycopyrrolate",
+      "definition": "Kuaterner amonyum yapısında antimuskarinik; kan-beyin bariyerini kolay geçmez.",
+      "source": "DailyMed: glikopirolat"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kas gevşetici blok türleri",
+      "left": {
+        "title": "Depolarizan",
+        "points": [
+          "Reseptörü uyarıp depolarizasyonla blok yapar",
+          "Örnek: süksinilkolin"
+        ]
+      },
+      "right": {
+        "title": "Nondepolarizan",
+        "points": [
+          "Reseptörde kompetitif blok oluşturur",
+          "Örnek: roküronyum"
+        ]
+      },
+      "source": "DailyMed: süksinilkolin / roküronyum"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Bloğun geri çevrilmesi",
+      "left": {
+        "title": "Neostigmin",
+        "points": [
+          "Asetilkolinesterazı inhibe ederek dolaylı etki eder",
+          "Antimuskarinikle birlikte kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Sugammadeks",
+        "points": [
+          "Roküronyum ve veküronyumu kapsüller",
+          "Bu mekanizma için antimuskarinik gerekmez"
+        ]
+      },
+      "source": "DailyMed: neostigmin / Bridion ürün bilgisi"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Antimuskariniklerin yapısı",
+      "left": {
+        "title": "Atropin",
+        "points": [
+          "Tersiyer amin yapısında",
+          "Kan-beyin bariyerini geçebilir"
+        ]
+      },
+      "right": {
+        "title": "Glikopirolat",
+        "points": [
+          "Kuaterner amonyum yapısında",
+          "Kan-beyin bariyerini kolay geçmez"
+        ]
+      },
+      "source": "DailyMed: atropin / glikopirolat"
+    }
+  ]
+}

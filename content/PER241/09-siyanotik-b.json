@@ -1,0 +1,138 @@
+{
+  "topic": "Siyanotik lezyonlar",
+  "cards": [
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Fallot'un bileşenlerini birlikte hatırla",
+      "body": "VSD, sağ ventrikül çıkış yolu darlığı, aortanın ata binmesi ve **sağ ventrikül hipertrofisi** Fallot tetralojisinin bileşenleridir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Fallot'ta siyanozu ne belirler?",
+      "answer": "**Sağ ventrikül çıkış yolu obstrüksiyonunun derecesi** net şant yönünü ve siyanozun şiddetini belirler."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pembe Fallot",
+      "body": "Hafif çıkış yolu obstrüksiyonunda net şant **soldan sağa** olabilir; siyanozu belirgin olmayan bu durum pembe Fallot olarak anılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Tet nöbetinin tetikleyicileri",
+      "body": "Ağlama, defekasyon ve **sistemik direnci azaltan durumlar** hiperkiyanotik atağı tetikleyebilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Tet nöbetinde pozisyon",
+      "body": "**Diz-göğüs pozisyonu** sistemik direnç artışıyla sağdan sola şantın azaltılmasına yardım eder."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Transanüler yamadan sonraki sorun",
+      "body": "Fallot onarımında transanüler yama sonrası önemli uzun dönem sorun **pulmoner kapak yetersizliğidir**."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "TGA'da yaşam için gerekli iletişim",
+      "body": "ASD/PFO, VSD veya PDA yoluyla **sistemik ve pulmoner kanın karışması** gerekir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Restriktif atriyal septumda girişim",
+      "body": "TGA'da yetersiz atriyal karışım varsa **balon atriyal septostomi** iletişimi genişletmek için kullanılabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Trunkus onarımında iki temel adım",
+      "body": "VSD'nin kapatılmasıyla sol ventrikül trunkal kapağa yönlendirilir; **sağ ventrikül–pulmoner arter kondüiti** eklenir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "TAPVR'de sol kalp nasıl dolar?",
+      "answer": "Sistemik venöz dolaşıma dönen pulmoner kanın sol kalbe geçmesi **atriyal iletişim** gerektirir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Obstrüktif TAPVR",
+      "body": "Pulmoner venöz drenajın tıkanması **pulmoner ödem ve ağır siyanoza** yol açar; acil cerrahi değerlendirme gerektiren tablodur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Triküspit atrezisinin EKG ipucu",
+      "body": "Siyanotik bebekte **sol aks deviasyonu** ve sol ventrikül hipertrofisi triküspit atrezisini düşündürür."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "PA-İVS'de hangi koroner dolaşım riski değerlendirilir?",
+      "answer": "Hipoplastik sağ ventrikülün koroner arterlerle fistül bağlantıları olabilir; **sağ ventrikül-bağımlı koroner dolaşım riski** değerlendirilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Ebstein'da küçük fonksiyonel ventrikül",
+      "body": "Triküspit yapraklarının apikal yer değiştirmesiyle sağ ventrikülün bir bölümü **atriyalize olur**; fonksiyonel ventrikül hacmi azalır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "DORV'de fizyolojiyi ne belirler?",
+      "answer": "**VSD'nin büyük arterlere göre konumu** ve eşlik eden çıkış yolu darlığı belirler."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Subaortik DORV onarımının amacı",
+      "body": "Sol ventrikül çıkışı, VSD üzerinden **aortaya yönlendirilerek** uygun anatomi varsa tam onarım yapılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "ccTGA'da uzun dönem yük",
+      "body": "Dolaşım fizyolojik olarak düzeltilmiş olsa da **morfolojik sağ ventrikül sistemik yükü** taşır; disfonksiyon ve atriyoventriküler blok riski vardır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "HLHS'de fazla pulmoner akım",
+      "body": "Oksijenle pulmoner direnç fazla düşerse **pulmoner aşırı akım**, sistemik akımdan pay alabilir; dolaşım dengesi önemlidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "HLHS'de satürasyon dengesi",
+      "body": "Merck'in HLHS yaklaşımında hedef sistemik satürasyon **%70–80** olarak verilir; aşırı pulmoner akımla sistemik hipoperfüzyondan kaçınma bağlamındadır."
+    }
+  ]
+}

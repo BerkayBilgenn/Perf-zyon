@@ -1,0 +1,90 @@
+{
+  "topic": "Koroner damarlar ve ileti sistemi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "LAD",
+      "en": "Left anterior descending artery",
+      "definition": "Sol koronerin ön interventriküler oluk boyunca inen dalı."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Sirkumfleks arter",
+      "en": "Circumflex artery",
+      "definition": "Sol koronerin atriyoventriküler oluk boyunca sola ve arkaya dolanan dalı.",
+      "origin": "Lat. circumflexus = çevresinde bükülmüş"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Posterior inen koroner arter",
+      "en": "Posterior descending artery",
+      "definition": "Posterior interventriküler arter; hangi koronerden çıktığı dominansı belirler. Patent duktus arteriyozus ile karıştırma."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Koroner dominans",
+      "en": "Coronary dominance",
+      "definition": "PDA'yı veren koronere göre tanımlama; çoğunluk sağ dominanttır."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Tebesius venleri",
+      "en": "Thebesian veins (venae cordis minimae)",
+      "definition": "Doğrudan kalp boşluklarına açılan en küçük kalp venleri.",
+      "origin": "A. Thebesius (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "SA düğüm",
+      "en": "Sinoatrial node",
+      "definition": "Sağ atriyum üst duvarında, vena kava superior ağzına yakın, fizyolojik pacemaker."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "AV düğüm",
+      "en": "Atrioventricular node",
+      "definition": "Koch üçgeninde bulunan ve atriyumlardan gelen uyarıyı ventriküllere iletmeden önce geciktiren düğüm."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "His demeti",
+      "en": "Bundle of His",
+      "definition": "atriyoventriküler düğümün devamı; septumda sağ ve sol dallara ayrılır.",
+      "origin": "W. His Jr. (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Purkinje lifleri",
+      "en": "Purkinje fibres",
+      "definition": "Subendokardiyal hızlı ileti lifleri; impulsu ventrikül kasına yayar.",
+      "origin": "J. Purkyně (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Bachmann demeti",
+      "en": "Bachmann's bundle",
+      "definition": "İmpulsu sağ atriyumdan sol atriyuma doğrudan ileten yol.",
+      "origin": "J. Bachmann (eponim)"
+    }
+  ]
+}

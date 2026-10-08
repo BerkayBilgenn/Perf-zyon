@@ -1,0 +1,99 @@
+{
+  "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "AmSECT'in oku-doğrula checklist yöntemi nasıl uygulanır?",
+      "options": [
+        "Biri sorumlu perfüzyonist olan iki kişiyle",
+        "Cerrahi bitince tek kişiyle",
+        "Yalnız cihaz satıcısıyla",
+        "Hasta ziyaretinde üç kişiyle"
+      ],
+      "correct": 0,
+      "explanation": "AmSECT 2017 checklist'i biri birincil perfüzyonist olmak üzere iki kişinin oku-doğrula yaklaşımıyla tanımlar.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Masif hava embolisi fark edildiğinde devreye yönelik ilk temel yaklaşım hangisidir?",
+      "options": [
+        "Pompa devrini en yükseğe çıkarmak",
+        "Ekibi uyarıp pompayı durdurmak ve hatları klemplemek",
+        "Rezervuar alarmını kapatmak",
+        "Hava kaynağı araştırılmadan protamin vermek"
+      ],
+      "correct": 1,
+      "explanation": "Acil protokolde önce yeni hava iletimini durdurmak ve ekibi uyarmak gerekir; sonraki işlemler ekipçe yönetilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "AmSECT'e göre yardımlı drenajda hangi ek basınç izlenir?",
+      "options": [
+        "Gaz tüpünün oda sıcaklığı",
+        "Hasta idrar torbası basıncı",
+        "Venöz rezervuar basıncı",
+        "İlaç şişesinin hava basıncı"
+      ],
+      "correct": 2,
+      "explanation": "Yardımlı drenajda rezervuar basıncı güvenlik izleminin parçasıdır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Basınç transdüseri ölçümü hangi biçime dönüştürür?",
+      "options": [
+        "Mekanik kan pıhtısına",
+        "Gaz karışımına",
+        "Steril su akımına",
+        "Elektrik sinyaline"
+      ],
+      "correct": 3,
+      "explanation": "Transdüser hat basıncını ölçülebilen elektrik sinyaline çevirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Perfüzyonun kalite güvencesinde hangi uygulama anlamlıdır?",
+      "options": [
+        "Olayların raporlanıp analiz edilmesi",
+        "Olay kayıtlarının silinmesi",
+        "Alarm eşiklerinin belgesiz değiştirilmesi",
+        "Bakım kayıtlarının tutulmaması"
+      ],
+      "correct": 0,
+      "explanation": "Olay raporlaması, analiz ve kalite programına katılım sistem güvenliğini destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Gaz egzozunun açık olduğu KPB öncesi kontrol edilmelidir.",
+      "isTrue": true,
+      "explanation": "AmSECT checklist gaz hattı bağlantılarıyla birlikte gaz egzozunun açık olduğunu da kontrol eder.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB sırasında radyal arter basıncı gerçek sistemik basıncı düşük gösterebilir.",
+      "isTrue": true,
+      "explanation": "Radyal arter ölçümü bazı KPB koşullarında yanıltıcı olabilir; alternatif arteriyel ölçüm yerleri değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sesli ve görsel alarmlar KPB sırasında devre dışı tutulmalıdır.",
+      "isTrue": false,
+      "explanation": "Güvenlik alarmları etkin tutulur ve gereken sensörlerde pompaya müdahale bağlantısı sağlanır.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

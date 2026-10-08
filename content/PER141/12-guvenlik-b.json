@@ -1,0 +1,75 @@
+{
+  "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "İki taraflı basınç izlemi",
+      "body": "EACTS 2024, arteriyel devrede **oksijenatör öncesi ve sonrası** basınç izlemini önerir; kardiyopleji basıncı da ayrıca izlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Alarm ile pompa arasındaki ilişki",
+      "body": "Basınç, hava ve düşük seviye sensörleri sesli/görsel uyarının yanında pompayı **servo-kontrol edebilir veya durdurabilir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Akım ölçümünün yeri",
+      "body": "Hastaya yakın akım ölçümü gerçek arteriyel dönüşü daha iyi temsil eder. Açık şantlardan önceki ölçüm oksijen sunumu hesabını yanıltabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "NIRS uyarı örneği",
+      "body": "EACTS 2024'te düşük bazal serebral satürasyon, örneğin **<%50**, veya bazalden >%15 düşüş malperfüzyonu düşündüren bulgular olarak değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalıcı perfüzyon kaydı",
+      "body": "Her KPB için parametreler, olaylar ve kullanılan bileşenler yazılı veya elektronik kaydedilir; elektronik otomatik kayıt kalite izlemini destekler.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB checklist'inin tamamlandığı ekip içinde ne zaman teyit edilir?",
+      "answer": "Cerrahi güvenlik **time-out** sırasında teyit edilir; ayrılma öncesi checklist de ayrıca uygulanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Elektrik kesintisinde pompa desteğinin yedek zinciri nasıldır?",
+      "answer": "Konsol bataryası kullanılır; elektrik ve batarya desteği yetersizse **el krankıyla** manuel çalıştırma uygulanır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "İyatrojenik aort diseksiyonunda erken tanıya hangi görüntüleme yöntemi yardım eder?",
+      "answer": "**Transözofageal ekokardiyografi (TEE)**; kanül veya klemp yerindeki komplikasyonun değerlendirilmesine yardım eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Ayrılınca acil devreyi kaldırma",
+      "body": "EACTS 2024'e göre hasta ayrıldıktan sonra devre **göğüs kapanana kadar hazır ve çalışır** tutulur; acil KPB ve ekstrakorporeal destek hazırlığı sürer.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Hastaya giden hatlarda hava güvenliği",
+      "body": "EACTS 2024, **hastaya giden tüm hatlarda kabarcık dedektörü**, hard-shell rezervuarda seviye sensörü ve hayati sistemler için yedek düzen önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "topic": "Koroner sistem anatomisi ve fizyolojisi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Koroner arterlerin başlangıcı",
+      "body": "Koroner arterler aort kapağının hemen üzerindeki **aortik sinüslerden** çıkar. Kardiyoplejinin ostial uygulanması bu ağızları hedefler.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "LAD'nin dalları",
+      "body": "Ön inen arterin **diyagonal dalları** ve septal perforatörleri vardır; dal isimleri ön interventriküler seyirle birlikte öğrenilmelidir.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Sirkumfleksin dalları",
+      "body": "Sol sirkumfleks arter sol atriyoventriküler olukta ilerler ve **obtus marjinal** dallar verir.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Koroner akımın zamanlaması",
+      "body": "Özellikle sol ventrikülde sistolik damar dışı bası, koroner akımı sınırlar. Koroner kan akımının büyük kısmı **diyastolde** gerçekleşir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Endokardın kırılganlığı",
+      "body": "Endokard, iskemiye daha duyarlıdır. Taşikardinin diyastolü kısaltması koroner dolum için kullanılabilen süreyi azaltır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Büyük kardiyak ven hangi koroner artere eşlik eder?",
+      "answer": "Büyük kardiyak ven, **ön inen artere (LAD)** eşlik eder.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Orta kardiyak ven hangi arterle birlikte seyreder?",
+      "answer": "Orta kardiyak ven, **posterior desendan artere (PDA)** eşlik eder.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Koroner sinüs ostiumunu kısmen örten kapak hangisidir?",
+      "answer": "**Thebesian kapak**; koroner sinüsün sağ atriyuma açıldığı ağızda bulunur.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Şişen ventrikülün oksijen gereksinimi",
+      "body": "Ventrikül distansiyonu duvar gerilimini ve miyokardın oksijen gereksinimini artırır. KPB'de **yeterli venting**, miyokard korumasının parçasıdır.",
+      "source": "Klabunde: CV Physiology"
+    }
+  ]
+}

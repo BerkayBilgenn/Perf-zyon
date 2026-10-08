@@ -1,0 +1,265 @@
+{
+  "topic": "Kardiyovasküler fizyoloji",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kalp debisi",
+      "en": "Cardiac output",
+      "definition": "Bir ventrikülün dakikada pompaladığı kan hacmi; atım hacmi ile kalp hızının çarpımına eşittir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyak indeks",
+      "en": "Cardiac index",
+      "definition": "Kalp debisinin vücut yüzey alanına bölünmüş değeri (L/dk/m²).",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Atım hacmi",
+      "en": "Stroke volume",
+      "definition": "Her atımda ventrikülden atılan kan; diyastol sonu hacim − sistol sonu hacim.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ejeksiyon fraksiyonu",
+      "en": "Ejection fraction",
+      "definition": "Atım hacminin ventrikül diyastol sonu hacmine oranının yüzdeyle ifade edilmesi; sistolik boşalmayı değerlendirir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Önyük",
+      "en": "Preload",
+      "definition": "Kasılma öncesi miyositlerin başlangıç gerilmesi (sarkomer uzunluğu); diyastol sonu hacim/basınçla tahmin edilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ardyük",
+      "en": "Afterload",
+      "definition": "Ventrikülün kanı fırlatırken karşı koyduğu yük (duvar stresi); sol ventrikül için aort basıncı ve sistemik vasküler direnç ile ilişkili.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kontraktilite",
+      "en": "Contractility (inotropy)",
+      "definition": "Önyükten bağımsız olarak miyokardın kasılma gücü ve hızı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Frank-Starling yasası",
+      "en": "Frank-Starling law",
+      "definition": "Venöz dönüş (önyük) arttıkça kasılma gücünün ve atım hacminin artması.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Laplace yasası",
+      "en": "Law of Laplace / wall stress",
+      "definition": "Duvar stresi ∝ basınç × yarıçap / duvar kalınlığı; ardyük ve miyokard oksijen tüketiminin belirleyicisi.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sistemik vasküler direnç",
+      "en": "Systemic vascular resistance",
+      "definition": "Sistemik dolaşımın kan akımına karşı gösterdiği direnç; ortalama arter basıncı ile santral venöz basınç farkının debiye oranıyla ilişkilidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner vasküler direnç",
+      "en": "Pulmonary vascular resistance",
+      "definition": "Pulmoner dolaşımın kan akımına karşı gösterdiği direnç; pulmoner arter ile sol atriyum arasındaki basınç farkı ve kalp debisiyle hesaplanır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ortalama arter basıncı",
+      "en": "Mean arterial pressure",
+      "definition": "Bir kalp döngüsü boyunca arter basıncının zaman ortalaması; doku perfüzyonu değerlendirmesinde kullanılan basınç.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner perfüzyon basıncı",
+      "en": "Coronary perfusion pressure",
+      "definition": "Diyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı (klinikte PAOP) arasındaki fark; sol ventrikül perfüzyonunun itici gücü.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Miyokard O2 tüketimi",
+      "en": "Myocardial O2 consumption (MVO2)",
+      "definition": "Kalbin dakikada tükettiği oksijen; kalp hızı, kontraktilite ve duvar stresiyle artar.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hız-basınç çarpımı",
+      "en": "Rate-pressure product",
+      "definition": "Sistolik basınç × kalp hızı; MVO2'nin dolaylı göstergesi.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Otoregülasyon",
+      "en": "Autoregulation",
+      "definition": "Perfüzyon basıncı değişse de organ kan akımının sabit tutulması.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Subendokard",
+      "en": "Subendocardium",
+      "definition": "Ventrikül duvarının iç tabakası; sistolik kompresyon nedeniyle iskemiye en duyarlı bölge.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Koroner dominans",
+      "en": "Coronary dominance",
+      "definition": "Posterior inen arteri hangi koroner arterin verdiğine göre koroner dolaşımın sağ, sol veya kodominant olarak tanımlanması.",
+      "source": "BJA Education 2024: koroner dolaşım"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Koroner sinüs",
+      "en": "Coronary sinus",
+      "definition": "Kalbin venöz kanını sağ atriyuma boşaltan ana venöz yapı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kronotropi",
+      "en": "Chronotropy",
+      "definition": "Kalp hızı üzerindeki etki.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Dromotropi",
+      "en": "Dromotropy",
+      "definition": "İleti hızı (özellikle AV düğüm) üzerindeki etki.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Lusitropi",
+      "en": "Lusitropy",
+      "definition": "Miyokardın gevşeme hızı/diyastolik fonksiyon üzerindeki etki.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "SA düğüm",
+      "en": "Sinoatrial node",
+      "definition": "Sağ atriyumda bulunan, normal kalp ritmini başlatan doğal uyarı merkezi.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "AV düğüm",
+      "en": "Atrioventricular node",
+      "definition": "Atriyum ile ventrikül arasındaki normal ileti yolunda uyarıyı yavaşlatarak atriyal kasılmanın önce tamamlanmasına katkı sağlayan yapı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "PR aralığı",
+      "en": "PR interval",
+      "definition": "Elektrokardiyografide P dalgasının başlangıcı ile QRS kompleksinin başlangıcı arasındaki süre.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "QTc",
+      "en": "Corrected QT interval",
+      "definition": "Elektrokardiyografide kalp hızına göre düzeltilmiş QT aralığı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Atriyal katkı",
+      "en": "Atrial kick",
+      "definition": "Diyastol sonunda atriyal kasılmanın ventrikül doluşuna sağladığı katkı; kompliyansı düşük ventrikülde önem kazanır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "HFrEF / HFpEF",
+      "en": "HF with reduced / preserved EF",
+      "definition": "Sistolik (EF düşük) ve diyastolik (EF korunmuş, kompliyans düşük) kalp yetersizliği tipleri.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İskemi",
+      "en": "Ischemia",
+      "definition": "Genel kabul gören tanımıyla, dokuya kan akımının ihtiyacı karşılayamayacak ölçüde azalması.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Taşikardi / bradikardi",
+      "en": "Tachycardia / bradycardia",
+      "definition": "Kalp hızının normalden hızlı veya yavaş olması; kardiyak anestezide doluş ve miyokard oksijen dengesiyle ilişkilidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kalbin yükleri",
+      "left": {
+        "title": "Önyük",
+        "points": [
+          "Kasılma öncesindeki başlangıç gerilmesi",
+          "Diyastol sonu hacim ve basınçla tahmin edilir"
+        ]
+      },
+      "right": {
+        "title": "Ardyük",
+        "points": [
+          "Ejeksiyon sırasında karşı konulan yük",
+          "Aort basıncı ve duvar stresiyle ilişkilidir"
+        ]
+      },
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    }
+  ]
+}

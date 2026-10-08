@@ -1,0 +1,77 @@
+{
+  "topic": "Isı değiştirici, HCU ve M. chimaera",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isı değiştiricide ters akım ilkesi ne demektir?",
+      "options": [
+        "Su ve kanın zıt yönde akması",
+        "Su ve kanın aynı yönde akması",
+        "Kan akımının tümüyle kesilmesi",
+        "Gazın su tankına gönderilmesi"
+      ],
+      "correct": 0,
+      "explanation": "Zıt yönlü akış, ısı transferinin verimini artırır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isıtmada serebral perfüzat sıcaklığıyla ilgili hangi yaklaşım doğrudur?",
+      "options": [
+        "Arteriyel çıkış yalnız suyu ölçer",
+        "Arteriyel çıkış düşük gösterebilir",
+        "Mesane sıcaklığı beyni tam yansıtır",
+        "Venöz sıcaklık ölçümü gereksizdir"
+      ],
+      "correct": 1,
+      "explanation": "STS 2015, arteriyel çıkış sıcaklığının ısıtmada serebral perfüzatı düşük gösterebileceğini belirtir.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "M. chimaera hangi mikroorganizma grubundadır?",
+      "options": [
+        "Gram negatif enterobakteri",
+        "Zarflı solunum virüsü",
+        "Tüberküloz dışı mikobakteri",
+        "Filamentöz küf mantarı"
+      ],
+      "correct": 2,
+      "explanation": "CDC, HCU salgınlarını tüberküloz dışı M. chimaera ile ilişkilendirir.",
+      "source": "CDC MMWR 2016"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "HCU kaynaklı biyofilm neden önemlidir?",
+      "options": [
+        "Gaz blenderini kalibre eder",
+        "Kan viskozitesini düşürür",
+        "Koroner akımı artırır",
+        "Dezenfeksiyona direnç gösterebilir"
+      ],
+      "correct": 3,
+      "explanation": "Biyofilm kontaminasyonun kalıcı olmasını ve dezenfeksiyonun zorlaşmasını sağlayabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "HCU suyu normal çalışma sırasında hastanın kanıyla doğrudan karışır.",
+      "isTrue": false,
+      "explanation": "Isı transferi ayrı su ve kan bölmeleri arasında gerçekleşir; karışma su-kan kaçağıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Yavaş ısıtma postoperatif bilişsel bozukluğu azaltmayı destekleyebilir.",
+      "isTrue": true,
+      "explanation": "EACTS 2024'ün değerlendirdiği çalışmalar yavaş ısıtmayla daha az bilişsel bozukluk ilişkisi bildirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

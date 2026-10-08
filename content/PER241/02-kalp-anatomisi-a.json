@@ -1,0 +1,192 @@
+{
+  "topic": "Kalp anatomisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Perikard",
+      "en": "Pericardium",
+      "definition": "Kalbi saran kese: dışta fibröz perikard, içte seröz perikard (pariyetal + viseral yaprak).",
+      "origin": "Yun. peri = çevre + kardia = kalp"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Epikard",
+      "en": "Epicardium",
+      "definition": "Seröz perikardın viseral yaprağı; kalp duvarının en dış tabakası.",
+      "origin": "Yun. epi = üst"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Miyokard",
+      "en": "Myocardium",
+      "definition": "Kalp duvarının kas tabakası; en kalın tabaka.",
+      "origin": "Yun. mys/myo = kas"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Endokard",
+      "en": "Endocardium",
+      "definition": "Kalp boşluklarını döşeyen iç tabaka (basit yassı epitel).",
+      "origin": "Yun. endon = iç"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Transvers perikardiyal sinüs",
+      "en": "Transverse pericardial sinus",
+      "definition": "Aorta/pulmoner trunkusun arkası ile vena kava superior'nin önü arasındaki geçit; cerrahide klemp/bant geçirmede kullanılır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Kardiyak tamponad",
+      "en": "Cardiac tamponade",
+      "definition": "Esnemeyen perikardda biriken sıvının odacıkları sıkıştırıp debiyi düşürmesi.",
+      "origin": "Fr. tampon"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Pektinat kaslar",
+      "en": "Pectinate muscles",
+      "definition": "Sağ atriyum ön duvarı ve aurikulasındaki tarak dişine benzer paralel kas sırtları.",
+      "origin": "Lat. pecten = tarak"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Fossa ovalis",
+      "en": "Fossa ovalis",
+      "definition": "İnteratriyal septumda fetal foramen ovalenin kalıntısı olan çukurluk.",
+      "origin": "Lat. fossa = çukur"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "term": "Östaki valvi",
+      "en": "Eustachian valve",
+      "definition": "vena kava inferior ağzındaki kapakçık; fetusta vena kava inferior kanını foramen ovaleye yönlendirir.",
+      "origin": "B. Eustachi (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Koroner sinüs",
+      "en": "Coronary sinus",
+      "definition": "Kalp venlerinin çoğunu toplayıp sağ atriyuma boşaltan ven; embriyolojik sinüs venozusun sol boynuzu.",
+      "origin": "Lat. sinus = cep"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Koch üçgeni anatomisi",
+      "term": "Koch üçgeni",
+      "en": "Triangle of Koch",
+      "definition": "Koroner sinüs ağzı, Todaro tendonu ve triküspit septal yaprağının sınırladığı alan; tepesinde atriyoventriküler düğüm.",
+      "origin": "W. Koch (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Koch üçgeni anatomisi",
+      "term": "Todaro tendonu",
+      "en": "Tendon of Todaro",
+      "definition": "Koch üçgeninin bir kenarını oluşturan fibröz bant.",
+      "origin": "F. Todaro (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Moderatör bant",
+      "en": "Moderator band (septomarginal trabecula)",
+      "definition": "sağ ventrikül'de septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "İnfundibulum",
+      "en": "Infundibulum",
+      "definition": "sağ ventrikül'nin pulmoner kapağa uzanan düz duvarlı çıkış yolu; TOF'ta darlığın yeri.",
+      "origin": "Lat. = huni"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Trabekül karne",
+      "en": "Trabeculae carneae",
+      "definition": "Ventrikül iç duvarındaki kas kabartıları.",
+      "origin": "Lat. trabecula = küçük kiriş, carneus = etli"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "term": "Papiller kas",
+      "en": "Papillary muscle",
+      "definition": "Atriyoventriküler kapak yapraklarını korda tendinea aracılığıyla tutan ventriküler kas çıkıntıları.",
+      "origin": "Lat. papilla = meme başı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Korda tendinea",
+      "en": "Chordae tendineae",
+      "definition": "Papiller kasları atriyoventriküler kapak yaprakçıklarına bağlayan fibröz ipler.",
+      "origin": "Lat. chorda = ip"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Triküspit kapak",
+      "en": "Tricuspid valve",
+      "definition": "Sağ atriyum ile sağ ventrikül arasındaki kapak; anterior, septal ve posterior yaprakları vardır.",
+      "origin": "Lat. tri + cuspis = üç uç"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Mitral kapak",
+      "en": "Mitral valve",
+      "definition": "Sol atriyum ile sol ventrikül arasındaki kapak; anterior ve posterior yaprakları vardır.",
+      "origin": "Lat. mitra = piskopos başlığı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Semilunar kapak",
+      "en": "Semilunar valve",
+      "definition": "Aort ve pulmoner arter girişlerinde yer alan, yarım ay biçimli kusplardan oluşan kapak tipi. Korda tendinea içermez.",
+      "origin": "Lat. semi + luna = yarım ay"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Valsalva sinüsleri",
+      "en": "Sinuses of Valsalva (aortic sinuses)",
+      "definition": "Aort kusplarının arkasındaki genişlemeler; sağ ve sol koroner arterler buradan çıkar.",
+      "origin": "A. Valsalva (eponim)"
+    }
+  ]
+}

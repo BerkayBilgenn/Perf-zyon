@@ -1,0 +1,113 @@
+{
+  "topic": "Filtreler",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Gazlı mikroemboli",
+      "definition": "Çıplak gözle görülemeyen, dolaşımdaki gaz kabarcıkları; nörolojik hasarla ilişkili.",
+      "en": "Gaseous microemboli",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Embolus",
+      "definition": "Dolaşımla taşınıp damarı tıkayan gaz, katı veya yağ parçası; olaya emboli denir.",
+      "en": "Embolus / embolism",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel hat filtresi",
+      "definition": "Pompanın distalinde, hastaya giden kandan partikül ve gazlı mikroembolileri uzaklaştıran filtre.",
+      "en": "Arterial line filter",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Elek filtre",
+      "definition": "Belirli gözenekli örgüyle süzme.",
+      "en": "Screen filter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Derinlik filtresi",
+      "definition": "Kalın lifli/köpük matris içinde tutarak süzme (kardiyotomi filtrelerinde elekle birlikte).",
+      "en": "Depth filter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Prebypass filtresi",
+      "definition": "Prime ve resirkülasyon sırasında dolum sıvısını süzen, bypass öncesinde devreden çıkarılan filtre.",
+      "en": "Prebypass filter",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Lökosit filtresi",
+      "definition": "Kandaki lökositleri tutmak üzere tasarlanan filtre.",
+      "en": "Leukocyte depletion filter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Gaz hattı filtresi",
+      "definition": "Oksijenatöre giden gaz akımındaki bakterileri tutan filtre.",
+      "en": "Gas line filter",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Purge hattı",
+      "definition": "Filtre veya kabarcık tutucunun tepesinden havayı rezervuara tahliye eden hat.",
+      "en": "Purge line",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz kabarcık tutucu",
+      "definition": "Venöz rezervuarsız (MiECC) devrede venöz hattaki havayı ayıran cihaz.",
+      "en": "Venous bubble trap / venous air removal device",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trombüs",
+      "definition": "Damar veya devre içinde oluşan pıhtı.",
+      "en": "Thrombus",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Filtrenin kullanım evresi",
+      "left": {
+        "title": "Arteriyel hat filtresi",
+        "points": [
+          "Hastaya giden kanı süzer",
+          "KPB sırasında devrede bulunur"
+        ]
+      },
+      "right": {
+        "title": "Prebypass filtresi",
+        "points": [
+          "Dolum sıvısını süzer",
+          "KPB başlamadan devreden çıkarılır"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    }
+  ]
+}

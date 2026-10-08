@@ -1,0 +1,68 @@
+{
+  "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "KPB'nin cerrahiye katkısı",
+      "body": "Kardiyopulmoner bypass dolaşım ve gaz değişimini sürdürerek cerraha **kansız çalışma alanı** sağlar.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Operasyonel sorumluluk",
+      "body": "KPB hizmetinin ve devresinin operasyonel yönetimi **klinik perfüzyonistin** sorumluluğundadır; kararlar multidisipliner ekiple paylaşılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Tekniklerin kapsamı",
+      "body": "Perfüzyon hizmeti yalnız KPB'yi kapsamaz; miyokard koruma, otolog kan kurtarma ve uzamış mekanik dolaşım desteği de bu kapsamda yer alır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Mesleki yeterlilik",
+      "body": "EACTS 2024, formal akredite eğitim, sınavla sertifikasyon ve sürekli mesleki gelişimi önerir. Mesleki yetkinlik eğitim sonrasında da sürdürülür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Simülasyonun amacı",
+      "body": "Perfüzyon eğitiminde **simülasyon**, kritik durumlara hazırlanmayı ve devreyle ilgili becerileri gerçek hasta dışında geliştirmeyi destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Arteriyel pompa akımı azalırken venöz drenaj aynı kalırsa hangi tehlike doğar?",
+      "answer": "Hastadan devreye alınan kan geri verilenden fazla olur; hasta aşırı boşaltılarak **eksanguinasyon** gelişebilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Venöz dönüş azalınca arteriyel pompa akımı neden azaltılır?",
+      "answer": "Rezervuara gelen kan azalırken aynı çıkış sürerse rezervuar boşalır ve arteriyel devreye hava girebilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Perfüzyonda olay raporlamasının eğitim açısından amacı nedir?",
+      "answer": "Hata ve istenmeyen olayları analiz ederek tekrarlama riskini azaltmak ve kurumun kalite süreçlerini geliştirmek.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Dolaşımın iki yönünü birlikte yönet",
+      "body": "Arteriyel çıkış ile venöz dönüş dengesi bozulursa hasta veya rezervuar aşırı boşalabilir. **Akım değişikliği ekip iletişimiyle** yürütülür.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    }
+  ]
+}

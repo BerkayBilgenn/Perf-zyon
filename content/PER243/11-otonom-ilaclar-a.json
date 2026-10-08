@@ -1,0 +1,325 @@
+{
+  "topic": "Otonom sinir sistemi ve ilaçlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Otonom sinir sistemi",
+      "en": "Autonomic nervous system",
+      "definition": "İstemsiz organ fonksiyonlarını düzenleyen sempatik, parasempatik ve enterik sistem.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sempatik sinir sistemi",
+      "en": "Sympathetic nervous system",
+      "definition": "\"Savaş ya da kaç\" yanıtı; postganglionik lifler çoğunlukla noradrenalin salar.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Parasempatik sinir sistemi",
+      "en": "Parasympathetic nervous system",
+      "definition": "\"Dinlen ve sindir\" yanıtı; postganglionik lifler asetilkolin salar; kalbe vagus siniri ile ulaşır.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Preganglionik / postganglionik nöron",
+      "en": "Pre-/postganglionic neuron",
+      "definition": "Otonom yolun SSS'den gangliyona giden ilk nöronu / gangliyondan hedef organa giden ikinci nöronu.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Adrenerjik reseptör",
+      "en": "Adrenergic receptor",
+      "definition": "Katekolaminlerin bağlandığı α1, α2, β1, β2 reseptörleri.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Muskarinik reseptör",
+      "en": "Muscarinic receptor",
+      "definition": "Parasempatik postganglionik asetilkolin etkilerine aracılık eden reseptör (kalpte bradikardi).",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Katekolamin",
+      "en": "Catecholamine",
+      "definition": "Dopamin, noradrenalin ve adrenalinden oluşan endojen amin grubu.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Adrenalin",
+      "en": "Epinephrine",
+      "definition": "α ve β agonisti; düşük dozda β (sistemik vasküler direnç ↓), yüksek dozda α (sistemik vasküler direnç ↑) etkisi baskın.",
+      "source": "DailyMed: adrenalin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Noradrenalin",
+      "en": "Norepinephrine",
+      "definition": "Güçlü α1 vazokonstriktör ve β1 agonist; sistemik vasküler direnç'yi artırır, refleks bradikardi yapar.",
+      "source": "DailyMed: noradrenalin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Dopamin",
+      "en": "Dopamine",
+      "definition": "Noradrenalin öncülü; doza bağlı D1 → β1 → α etkili katekolamin.",
+      "source": "DailyMed: dopamin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Dobutamin",
+      "en": "Dobutamine",
+      "definition": "β1 ağırlıklı sentetik inotrop; debiyi artırır, sistemik vasküler direnç'yi genellikle azaltır.",
+      "source": "DailyMed: dobutamin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İzoproterenol",
+      "en": "Isoproterenol",
+      "definition": "Nonselektif β-agonist; kalp hızını artırır, sistemik vasküler direnç ve diyastolik basıncı düşürür.",
+      "source": "DailyMed: izoproterenol"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İnotrop",
+      "en": "Inotrope",
+      "definition": "Miyokard kontraktilitesini artıran ilaç.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Vazopresör",
+      "en": "Vasopressor",
+      "definition": "Damar daraltarak kan basıncını yükselten ilaç.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İnodilatör",
+      "en": "Inodilator",
+      "definition": "Hem inotropiyi artıran hem vazodilatasyon yapan ilaç (milrinon, levosimendan).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Milrinon",
+      "en": "Milrinone",
+      "definition": "Fosfodiesteraz-3 inhibisyonuyla hücre içi cAMP'yi artıran inodilatör; pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+      "source": "DailyMed: milrinon"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Levosimendan",
+      "en": "Levosimendan",
+      "definition": "Troponin C'ye kalsiyum duyarlılaştırıcı ve K-ATP açıcı inodilatör; uzun etkili aktif metaboliti vardır.",
+      "source": "Eur Cardiol 2024: levosimendan"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Vazopressin",
+      "en": "Vasopressin",
+      "definition": "V1 reseptörü üzerinden vazokonstriksiyon oluşturan peptit hormon; dirençli vazodilatör şokta kullanılabilir.",
+      "source": "DailyMed: vazopressin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fenilefrin",
+      "en": "Phenylephrine",
+      "definition": "Saf α1 agonist vazopresör; refleks bradikardi yapar.",
+      "source": "DailyMed: fenilefrin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Efedrin",
+      "en": "Ephedrine",
+      "definition": "Doğrudan α/β agonist ve dolaylı noradrenalin salgılatıcı; tekrarlayan dozda taşifilaksi.",
+      "source": "DailyMed: efedrin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Taşifilaksi",
+      "en": "Tachyphylaxis",
+      "definition": "Tekrarlanan dozlarda ilaç yanıtının hızla azalması.",
+      "source": "DailyMed: efedrin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Refleks bradikardi",
+      "en": "Reflex bradycardia",
+      "definition": "Kan basıncı artışına baroreseptör aracılı vagal yanıtla kalp hızının yavaşlaması.",
+      "source": "DailyMed: fenilefrin"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Nitrogliserin",
+      "en": "Nitroglycerin",
+      "definition": "NO donörü; düşük dozda venodilatör (önyük ↓), koroner vazodilatör.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sodyum nitroprussid",
+      "en": "Sodium nitroprusside",
+      "definition": "Güçlü arter ve ven dilatörü; siyanür toksisitesi riski; ışıktan korunmalıdır.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Siyanür toksisitesi",
+      "en": "Cyanide toxicity",
+      "definition": "Nitroprussid yıkımıyla biriken siyanürün hücresel oksijen kullanımını bozması; venöz hiperoksemi ve metabolik asidoz.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Fentolamin",
+      "en": "Phentolamine",
+      "definition": "α-blokör; noradrenalin/dopamin ekstravazasyonunda doku nekrozunu önlemek için infiltre edilir.",
+      "source": "DailyMed: noradrenalin"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Esmolol",
+      "en": "Esmolol",
+      "definition": "Eritrosit esterazlarıyla yıkılan, çok kısa etkili ve β1 seçici adrenerjik reseptör blokeri.",
+      "source": "DailyMed: esmolol"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Amiodaron",
+      "en": "Amiodarone",
+      "definition": "Sınıf III antiaritmik (I, II ve intravenöz özellikleri de var); VF ve stabil olmayan VT'de.",
+      "source": "DailyMed: amiodaron"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Adenozin",
+      "en": "Adenosine",
+      "definition": "AV düğüm iletisini geçici yavaşlatan, çok kısa etkili antiaritmik.",
+      "source": "DailyMed: adenozin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Atropin",
+      "en": "Atropine",
+      "definition": "Muskarinik antagonist; bradikardi tedavisi; küçük dozda paradoksal bradikardi.",
+      "source": "DailyMed: atropin"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Doğal ve sentetik inotrop",
+      "left": {
+        "title": "Dopamin",
+        "points": [
+          "Endojen katekolamin",
+          "Reseptör etkisi doza göre değişir"
+        ]
+      },
+      "right": {
+        "title": "Dobutamin",
+        "points": [
+          "Sentetik katekolamin",
+          "Etki ağırlıklı β1 aracılıdır"
+        ]
+      },
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Reseptörden bağımsız inotropi",
+      "left": {
+        "title": "Milrinon",
+        "points": [
+          "PDE-3 inhibisyonuyla cAMP artışı",
+          "Eliminasyonda böbrek önemlidir"
+        ]
+      },
+      "right": {
+        "title": "Levosimendan",
+        "points": [
+          "Troponin C üzerinden kalsiyum duyarlılığı artışı",
+          "Uzun etkili aktif metaboliti bulunur"
+        ]
+      },
+      "source": "DailyMed: milrinon / Eur Cardiol 2024: levosimendan"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Vazodilatörlerin riskleri",
+      "left": {
+        "title": "Nitrogliserin",
+        "points": [
+          "Düşük dozda venodilatasyon baskın",
+          "Tolerans ve PVC sete adsorpsiyon önemlidir"
+        ]
+      },
+      "right": {
+        "title": "Nitroprussid",
+        "points": [
+          "Arter ve ven dilatasyonu yapar",
+          "Siyanür toksisitesi ve ışıktan koruma önemlidir"
+        ]
+      },
+      "source": "DailyMed: nitrogliserin / nitroprussid"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Vazopresör mekanizmaları",
+      "left": {
+        "title": "Fenilefrin",
+        "points": [
+          "Saf α1 agonisti",
+          "Refleks bradikardi görülebilir"
+        ]
+      },
+      "right": {
+        "title": "Efedrin",
+        "points": [
+          "Doğrudan α/β ve dolaylı noradrenalin etkisi",
+          "Tekrarlayan dozda taşifilaksi görülebilir"
+        ]
+      },
+      "source": "DailyMed: fenilefrin / efedrin"
+    }
+  ]
+}

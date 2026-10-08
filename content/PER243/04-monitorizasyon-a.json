@@ -1,0 +1,121 @@
+{
+  "topic": "Kardiyak cerrahide monitörizasyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İnvaziv arter basıncı",
+      "en": "Invasive arterial pressure",
+      "definition": "Arter kateteriyle atım atım basınç izlemi ve kan gazı örneklemesi.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Allen testi",
+      "en": "Allen test",
+      "definition": "Radial ve ulnar arterin oluşturduğu palmar ark yoluyla el kollateral dolaşımını değerlendiren test.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Santral venöz basınç",
+      "en": "Central venous pressure",
+      "definition": "Sağ atriyum basıncını yansıtan merkezi venöz basınç ölçümü.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Pulmoner arter kateteri",
+      "en": "Pulmonary artery catheter (Swan-Ganz)",
+      "definition": "Sağ kalp ve pulmoner arter basınçlarını, PCWP'yi, termodilüsyonla debiyi ve SvO2'yi ölçen balon uçlu kateter.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "PCWP",
+      "en": "Pulmonary capillary wedge pressure",
+      "definition": "Pulmoner arter dalı balonla tıkandığında ölçülen, sol atriyum basıncının dolaylı tahminini sağlayan kama basıncı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Termodilüsyon",
+      "en": "Thermodilution",
+      "definition": "Kan sıcaklığındaki değişimden kalp debisini hesaplama yöntemi (PAK ile).",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "SvO2",
+      "en": "Mixed venous O2 saturation",
+      "definition": "Pulmoner arterdeki karışık venöz kanın oksijen satürasyonu; oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen sunumu",
+      "en": "Oxygen delivery",
+      "definition": "Dokulara dakikada taşınan oksijen miktarı; arteriyel oksijen içeriği ve kan akımıyla belirlenir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "O2 ekstraksiyon oranı",
+      "en": "O2 extraction ratio",
+      "definition": "Arteriyel kanın taşıdığı oksijenin dokular tarafından kullanılan kısmının oranı.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TÖE",
+      "en": "Transesophageal echocardiography",
+      "definition": "Özofagustan yapılan ekokardiyografi; kapak, ventrikül fonksiyonu, kanül yeri, hava ve diseksiyon değerlendirmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Bispektral indeks",
+      "en": "Bispectral index",
+      "definition": "Elektroensefalografi sinyalinden türetilen, hipnoz derinliğini sayısal olarak değerlendiren işlenmiş indeks.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Yakın kızılötesi ışıkla bölgesel serebral doku oksijenasyonunun non-invaziv ölçümü.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Atriyum basınçları",
+      "left": {
+        "title": "CVP",
+        "points": [
+          "Sağ atriyum basıncını yansıtır",
+          "Santral venöz kateterden ölçülür"
+        ]
+      },
+      "right": {
+        "title": "PCWP",
+        "points": [
+          "Sol atriyum basıncını dolaylı yansıtır",
+          "Pulmoner arter kateterinde kama konumu gerekir"
+        ]
+      },
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    }
+  ]
+}

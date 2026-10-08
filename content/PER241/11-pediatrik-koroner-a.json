@@ -1,0 +1,56 @@
+{
+  "topic": "Pediatrik koroner hastalıklar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Radiopaedia",
+      "term": "Koroner çalma",
+      "en": "Coronary steal",
+      "definition": "Kanın düşük dirençli bir yola (ALCAPA'da pulmoner artere, fistülde sağ kalbe) kaçıp miyokardı iskemik bırakması."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "term": "ALCAPA",
+      "en": "Anomalous left coronary artery from the pulmonary artery",
+      "definition": "Sol koronerin pulmoner arterden çıkması; pulmoner vasküler direnç düşünce miyokard iskemisi.",
+      "origin": "Bland, White, Garland (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Kawasaki hastalığı",
+      "en": "Kawasaki disease",
+      "definition": "Çocuklukta orta çaplı arterlerin (özellikle koroner) akut vasküliti; edinsel kalp hastalığının en sık nedeni.",
+      "origin": "T. Kawasaki (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "AHA Kawasaki 2017",
+      "term": "Dev koroner anevrizma",
+      "en": "Giant coronary aneurysm",
+      "definition": "AHA 2017 sınıflamasında Z-skoru **≥10** veya mutlak çapı **≥8 mm** olan koroner anevrizma."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Koroner arter fistülü",
+      "en": "Coronary artery fistula",
+      "definition": "Koroner arter ile kalp boşluğu/büyük damar arasında anormal bağlantı.",
+      "origin": "Lat. fistula = boru"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "AAOCA",
+      "en": "Anomalous aortic origin of a coronary artery",
+      "definition": "Koronerin aortadan yanlış Valsalva sinüsünden çıkması; interarteriyel seyirde ani ölüm riski."
+    }
+  ]
+}

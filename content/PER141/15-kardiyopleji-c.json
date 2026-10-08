@@ -1,0 +1,91 @@
+{
+  "topic": "Kardiyopleji ve miyokard koruma",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kan içermeyen intrasellüler tip kardiyopleji hangisidir?",
+      "options": [
+        "Buckberg",
+        "Microplegia",
+        "HTK",
+        "Sıcak kan hot shot"
+      ],
+      "correct": 2,
+      "explanation": "HTK düşük sodyumlu, intrasellüler tip kristaloid solüsyondur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hücre dışı potasyumun yüksek tutulması hangi arrest mekanizmasını oluşturur?",
+      "options": [
+        "Polarize arrest",
+        "Gravite drenajı",
+        "Mekanik defibrilasyon",
+        "Depolarize arrest"
+      ],
+      "correct": 3,
+      "explanation": "Yüksek potasyum membranı depolarize durumda tutarak diyastolik arrest oluşturur.",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hot shot hangi evrede uygulanır?",
+      "options": [
+        "Kros klemp kaldırılmadan önce",
+        "Arteriyel kanülasyon öncesinde",
+        "Venöz kanül çıkarıldıktan sonra",
+        "Protamin tamamlandıktan sonra"
+      ],
+      "correct": 0,
+      "explanation": "Hot shot terminal sıcak kan kardiyoplejisidir; klemp kalkmadan önce reperfüzyon sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Retrograd kardiyoplejinin önemli anatomik sınırlaması hangisidir?",
+      "options": [
+        "Sol ana koronerin doğrudan kanüllenmesi",
+        "Sağ ventrikül korumasının eksik kalması",
+        "Aort kökünün ayrı filtrelenmesi",
+        "Venöz rezervuarın tamamen boşalması"
+      ],
+      "correct": 1,
+      "explanation": "Sağ ventrikülün bazı venöz yolları koroner sinüsü bypass eder; retrograd koruma eksik olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Microplegia hangi bileşim özelliğiyle tanımlanır?",
+      "options": [
+        "Yalnız kristaloid içeren soğuk solüsyon",
+        "Yalnız su içeren vent sıvısı",
+        "Çok az kristaloid içeren kan kardiyoplejisi",
+        "Yalnız karbondioksit içeren gaz"
+      ],
+      "correct": 2,
+      "explanation": "Microplegia, kristaloid hacmi çok düşük kan kardiyoplejisi varyantıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kardiyopleji stratejisi hastaya ve işleme göre seçilmelidir.",
+      "isTrue": true,
+      "explanation": "EACTS 2024 sabit tek solüsyon yerine hastaya ve prosedüre özgü miyokard korumasını önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kristaloid kardiyopleji kan kardiyoplejisine göre daha az hemodilüsyon yapar.",
+      "isTrue": false,
+      "explanation": "Kristaloid kardiyopleji daha fazla hemodilüsyon, kanama ve transfüzyonla ilişkili olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

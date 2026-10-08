@@ -1,0 +1,99 @@
+{
+  "topic": "Otonom sinir sistemi ve ilaçlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalpte kalp hızı ve kontraktiliteyi artıran ana adrenerjik reseptör hangisidir?",
+      "options": [
+        "α1",
+        "α2",
+        "β1",
+        "V2"
+      ],
+      "correct": 2,
+      "explanation": "β1 uyarısı kalpte kronotropi, inotropi ve iletiyi artırır.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Damar ve bronş düz kasında gevşemeyle ilişkili adrenerjik reseptör hangisidir?",
+      "options": [
+        "α1",
+        "M2",
+        "V1",
+        "β2"
+      ],
+      "correct": 3,
+      "explanation": "β2 uyarısı düz kasta gevşeme, vazodilatasyon ve bronkodilatasyon oluşturur.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Presinaptik noradrenalin salınımını inhibe eden reseptör hangisidir?",
+      "options": [
+        "α2",
+        "β1",
+        "β2",
+        "D1"
+      ],
+      "correct": 0,
+      "explanation": "Presinaptik α2 reseptörleri noradrenalin salınımını baskılayan geri bildirim sağlar.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp debisini artırırken vazodilatasyon yapan ilaç grubu hangisidir?",
+      "options": [
+        "Vazopresör",
+        "İnodilatör",
+        "Saf vazodilatör",
+        "Negatif inotrop"
+      ],
+      "correct": 1,
+      "explanation": "İnodilatörler pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Esmololü yıkan başlıca enzim sistemi hangisidir?",
+      "options": [
+        "Plazma kolinesterazı",
+        "Fosfodiesteraz-3",
+        "Eritrosit esterazları",
+        "Trombin"
+      ],
+      "correct": 2,
+      "explanation": "Esmolol eritrosit esterazlarıyla yıkılır; süksinilkolin gibi plazma kolinesterazına dayanmaz.",
+      "source": "DailyMed: esmolol"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "İzoproterenol nonselektif β-agonisttir; sistemik vasküler direnci azaltabilir.",
+      "isTrue": true,
+      "explanation": "β1 ile kardiyak uyarı ve β2 ile vazodilatasyon görülür.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fenilefrinin temel reseptör etkisi saf β2 agonizmasıdır.",
+      "isTrue": false,
+      "explanation": "Fenilefrin saf α1 agonistidir; vazokonstriksiyon ve refleks bradikardi yapabilir.",
+      "source": "DailyMed: fenilefrin"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Vazopressin, adrenerjik reseptör yerine V1 reseptörü üzerinden vazokonstriksiyon oluşturur.",
+      "isTrue": true,
+      "explanation": "Vazopressinin vazokonstriktör etkisi V1 aracılıdır.",
+      "source": "DailyMed: vazopressin"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "Filtreler",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Venöz rezervuarı olmayan MiECC'de venöz hava için hangi bileşen kullanılır?",
+      "options": [
+        "Venöz kabarcık tutucu",
+        "Prebypass filtresi",
+        "Gaz hattı filtresi",
+        "Kristaloid kardiyopleji filtresi"
+      ],
+      "correct": 0,
+      "explanation": "Venöz kabarcık tutucu veya VARD, rezervuarsız devrede venöz havayı ayırır.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Deforme olabilen mikroemboli örneği hangisidir?",
+      "options": [
+        "Çelik partikülü",
+        "Yağ damlacığı",
+        "Gaz kabarcığı",
+        "Tüp parçası"
+      ],
+      "correct": 1,
+      "explanation": "Filtrasyon sınıflamasında yağ damlacıkları deforme olabilen emboli grubundadır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Elek filtrasyonunun temel özelliği hangisidir?",
+      "options": [
+        "Gazı kana doğrudan verme",
+        "Kanı santrifüjle yıkama",
+        "Tanımlı gözeneklerden süzme",
+        "Su tankını dezenfekte etme"
+      ],
+      "correct": 2,
+      "explanation": "Elek filtrede parçacıklar tanımlı gözenek boyutuna göre tutulur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Derinlik filtresi parçacığı nerede tutar?",
+      "options": [
+        "Gaz blenderinin girişinde",
+        "Su tankının çıkışında",
+        "Arteriyel kanülün dış yüzünde",
+        "Lifli matrisin içinde"
+      ],
+      "correct": 3,
+      "explanation": "Derinlik filtrasyonunda parçacıklar kalın matris boyunca tutulur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kaplamasız elek filtreler trombosit aktivasyonuna katkı yapabilir.",
+      "isTrue": true,
+      "explanation": "Kan-yabancı yüzey teması nedeniyle kaplamasız elek filtre trombositleri aktive edebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Gazlı mikroemboli tutma verimi filtre gözenekleri büyüdükçe artar.",
+      "isTrue": false,
+      "explanation": "EACTS değerlendirmesinde gazlı mikroemboli tutma verimi gözenek boyutuyla ters ilişkilidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

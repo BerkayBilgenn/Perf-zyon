@@ -1,0 +1,103 @@
+{
+  "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "MUF'un temel amacı",
+      "body": "KPB sonundaki hasta ve devre kanını konsantre ederek **hemodilüsyonu donör kan olmadan azaltmayı** hedefler."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Milovanovic ve ark. 2018",
+      "title": "MUF yararı konusunda araştırma ayrılığı",
+      "body": "Milovanovic ve ark. çalışmasında agresif CUF sonrasında MUF'un **ek klinik yararı gösterilememiştir**; her uygulamada aynı faydayı varsayma."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Milovanovic ve ark. 2018",
+      "title": "AV MUF örneğinde kanın yolu",
+      "body": "Çalışmanın atriyoventriküler yönteminde kan **aort kanülünden hemofiltreye**, ardından sağ atriyumdaki venöz kanüle yönlendirilir; devre düzeni kurumsaldır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Matte ve del Nido 2012",
+      "title": "del Nido'nun kan oranı",
+      "body": "**Matte ve del Nido 2012**: kan:kristaloid oranı 1:4'tür; kristaloid ağırlıklı karışımı klasik kan kardiyoplejisiyle karıştırma."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "title": "del Nido'nun doz bağlamı",
+      "body": "Boston protokolünde genellikle **20 mL/kg tek doz** kullanılır; 50 kg üzerindeki hastada başlangıç arrest dozu en çok 1 L ile sınırlandırılır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "question": "del Nido'da lidokainin görevi nedir?",
+      "answer": "**Sodyum kanalını bloke ederek** refrakter dönemi uzatır; sodyum ve kalsiyum birikimini sınırlamaya katkıda bulunur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "title": "Mannitolün koruyucu etkileri",
+      "body": "del Nido formülündeki mannitol **serbest radikal temizleme ve hücre şişmesini azaltma** amaçlarına katkıda bulunur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "title": "Bikarbonatın işlevi",
+      "body": "Kardiyoplejide bikarbonat **hidrojen iyonlarını tamponlayarak** hücre içi pH'nın korunmasına katkıda bulunur."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Ghiragosian ve ark. 2022",
+      "question": "HTK'de temel tampon hangisidir?",
+      "answer": "**Histidin**, histidin-triptofan-ketoglutarat solüsyonunun temel tamponudur."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "Heparin etkisinin ara proteini",
+      "body": "Heparin etkisini **antitrombin üzerinden** gösterir; doğrudan tek başına trombini nötralize eden bir madde olarak düşünme."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Wikipedia",
+      "question": "Heparin dışında hangi fizyolojik durumlar ACT sonucunu etkileyebilir?",
+      "answer": "**Hipotermi ve hemodilüsyon** ACT sonucunu etkileyebilir; ölçüm yalnız heparin miktarını yansıtmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Santral post-kardiyotomi ECMO",
+      "body": "Santral venoarteriyel ECMO'da örnek kanülasyon, **sağ atriyumdan drenaj ve çıkan aortaya dönüş** şeklindedir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PPHN'de iNO başlangıcı",
+      "body": "Merck PPHN bölümünde inhale nitrik oksidin başlangıç dozu **20 ppm** olarak verilir; etkiye göre azaltılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PPHN'de ECMO değerlendirmesi",
+      "body": "Merck'e göre maksimum solunum desteğine karşın oksijenasyon indeksi **>35–40** olan ağır hipoksik solunum yetmezliğinde ECMO değerlendirilir."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "Cerrahi türlerine göre anestezi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "OPCAB'da bozulma nedenleri",
+      "body": "Pompasız koroner cerrahide stabilizatörün kalbe baskısı ve koroner akımın geçici kesilmesi **hemodinamik bozulma ve iskemi** oluşturabilir.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aort yetmezliğinde diyastol",
+      "body": "Bradikardi diyastolü uzatarak aort yetmezliğinde **regürjitasyon süresini artırır**; bu nedenle daha hızlı kalp hızı tercih edilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Mitral darlıkta sıvı",
+      "body": "Mitral darlıkta aşırı sıvı yüklemesi **pulmoner ödem** oluşturabilir; önyük dikkatli değerlendirilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "HOKM'de dinamik obstrüksiyon",
+      "body": "Hipertrofik obstrüktif kardiyomiyopatide önyük veya ardyük azalması, taşikardi ve kontraktilite artışı **çıkış yolu obstrüksiyonunu artırabilir**.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Tamponadda pozitif basınç",
+      "body": "Kardiyak tamponadda pozitif basınçlı ventilasyonun başlaması **venöz dönüşü azaltarak** dolaşım çöküşü oluşturabilir.",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Hipoksi, hiperkarbi ve asidoz sağ ventrikül yükünü neden artırabilir?",
+      "answer": "**Pulmoner vasküler direnci artırarak** sağ ventrikülün karşı koyduğu yükü yükseltirler.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "HOKM'de inotropla kötüleşen hipotansiyon hangi mekanizmayı düşündürür?",
+      "answer": "Kontraktilite artışıyla ağırlaşan **dinamik sol ventrikül çıkış yolu obstrüksiyonunu** düşündürür.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Beck triadının bileşenleri nelerdir?",
+      "answer": "**Juguler venöz dolgunluk, hipotansiyon ve azalmış kalp sesleri**; kardiyak tamponadın klasik bulgularıdır.",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "OPCAB'da kalbin yer değiştirmesi neden yakın izlem gerektirir?",
+      "answer": "Stabilizatör baskısı ve koroner akım kesilmesi **iskemi ve hemodinamik bozulma** oluşturabilir.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "HOKM'de inotrop tuzağı",
+      "body": "Hipertrofik obstrüktif kardiyomiyopatide kontraktiliteyi artırmak obstrüksiyonu ağırlaştırabilir. Hipotansiyonda **önyük ve ardyükün korunması** önemlidir.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "topic": "Anesteziye giriş ve temel kavramlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Anestezi",
+      "en": "Anesthesia",
+      "definition": "Genel kabul gören tanımıyla, cerrahi veya girişimsel işlem için duyuların, özellikle ağrının, ilaçlarla geri dönüşlü olarak ortadan kaldırılması.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Genel anestezi",
+      "en": "General anesthesia",
+      "definition": "Genel kabul gören bileşenleri bilinç kaybı, amnezi, analjezi, hareketsizlik ve otonom yanıtların baskılanması olan, ilaçla oluşturulmuş geri dönüşlü durum.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hipnoz",
+      "en": "Hypnosis",
+      "definition": "Genel kabul gören tanımıyla, bilincin ve dış uyaranlara yanıtın kaybı; anestezi derinliğinin bilinçle ilgili boyutu.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Analjezi",
+      "en": "Analgesia",
+      "definition": "Genel kabul gören tanımıyla, ağrı algısının ve nosiseptif fizyolojik yanıtların baskılanması.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Amnezi",
+      "en": "Amnesia",
+      "definition": "Olayların belleğe kaydedilmemesi/hatırlanamaması; benzodiazepinlerin belirgin etkisi.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Dengeli anestezi",
+      "en": "Balanced anesthesia",
+      "definition": "Hipnotik, opioid, kas gevşetici ve volatil ajanın birlikte kullanıldığı teknik; Guedel belirtilerini maskeler.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TİVA",
+      "en": "Total intravenous anesthesia",
+      "definition": "Anestezi idamesinin yalnız intravenöz ilaçlarla yapılması; plazma düzeyi ölçülemediği için EEG temelli derinlik izlemi önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Guedel evreleri",
+      "en": "Guedel's stages",
+      "definition": "Eter anestezisinde klinik derinliği analjezi, eksitasyon, cerrahi anestezi ve doz aşımı dönemlerine ayıran tarihsel sınıflama.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Eksitasyon evresi",
+      "en": "Stage 2 (excitement)",
+      "definition": "Bilinç kaybından düzenli otomatik solunuma kadar süren, laringospazm riskinin en yüksek olduğu evre.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Laringospazm",
+      "en": "Laryngospasm",
+      "definition": "Ses tellerinin refleks kapanmasıyla gelişen havayolu tıkanıklığı.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Farkındalık",
+      "en": "Intraoperative awareness",
+      "definition": "Genel anestezi sırasında bilincin geri gelmesi ve olayların hatırlanması; kardiyak anestezide daha sık.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

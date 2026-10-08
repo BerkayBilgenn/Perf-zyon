@@ -1,0 +1,71 @@
+{
+  "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Heparine bağlı immün trombositopeninin kısaltması hangisidir?",
+      "options": [
+        "MUF",
+        "HIT",
+        "NIRS",
+        "SACP"
+      ],
+      "correct": 1,
+      "explanation": "HIT heparine karşı immün reaksiyonla gelişen ciddi trombositopenidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Ghiragosian ve ark. 2022",
+      "question": "HTK'nin adında yer alan bileşen hangisidir?",
+      "options": [
+        "Lidokain",
+        "Aprotinin",
+        "Triptofan",
+        "Protamin"
+      ],
+      "correct": 2,
+      "explanation": "HTK histidin, triptofan ve ketoglutarat adlarının baş harflerinden oluşur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Matte ve del Nido 2012",
+      "question": "Yüksek potasyumlu kardiyoplejinin temel arrest etkisi hangisidir?",
+      "options": [
+        "Sinüs hızını artırma",
+        "Koroner şant oluşturma",
+        "Kapiller kaçağı başlatma",
+        "Depolarize arrest"
+      ],
+      "correct": 3,
+      "explanation": "Ekstraselüler yüksek potasyum kardiyomiyositin depolarize arrestini sağlar."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "Protamin, heparinin antikoagülan etkisini nötralize etmek için kullanılır.",
+      "isTrue": true,
+      "explanation": "Heparin etkisinin geri çevrilmesinde protamin kullanılır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "VV ECMO'da kan arteriyel sisteme döndürülür.",
+      "isTrue": false,
+      "explanation": "VV ECMO'da kan venöz sisteme döner; arteriyel dönüş VA ECMO'dadır."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "statement": "Z-BUF'ta uzaklaştırılan ultrafiltrat kadar kristaloid eklenir.",
+      "isTrue": true,
+      "explanation": "Bu işlem KPB sırasında volüm nötr ultrafiltrasyon sağlar."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "topic": "Soldan sağa şantlı lezyonlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "S2'nin fiks çiftlenmesi",
+      "en": "Fixed splitting of S2",
+      "definition": "ASD'de solunumla değişmeyen geniş S2 çiftlenmesi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Makine üfürümü",
+      "en": "Machinery murmur",
+      "definition": "PDA'ya özgü, sistol ve diyastolde süren sürekli üfürüm."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "ASD",
+      "en": "Atrial septal defect",
+      "definition": "İnteratriyal septumda açıklık; sağ atriyum ve ventrikülde hacim yükü."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Sekundum ASD",
+      "en": "Ostium secundum ASD",
+      "definition": "Fossa ovalis bölgesindeki, en sık ASD tipi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Primum ASD",
+      "en": "Ostium primum ASD",
+      "definition": "Ön-alt septumdaki ASD; parsiyel AVSD'nin parçası, mitral yarık eşlik eder."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Sinüs venozus ASD",
+      "en": "Sinus venosus ASD",
+      "definition": "Arka septumda, sıklıkla parsiyel anormal pulmoner venöz dönüşle birlikte olan ASD."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "PFO",
+      "en": "Patent foramen ovale",
+      "definition": "Foramen ovale kapakçığının doğum sonrasında karşı septumla kaynaşmaması sonucu kalan iletişim."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Lutembacher sendromu",
+      "en": "Lutembacher syndrome",
+      "definition": "Sekundum ASD + edinsel mitral stenoz.",
+      "origin": "R. Lutembacher (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "VSD",
+      "en": "Ventricular septal defect",
+      "definition": "İnterventriküler septumda açıklık."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Perimembranöz VSD",
+      "en": "Perimembranous VSD",
+      "definition": "Membranöz septum çevresinde bulunan ventriküler septal açıklık; en sık görülen VSD tipidir."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Musküler VSD",
+      "en": "Muscular VSD",
+      "definition": "Çevresi tümüyle kas dokusundan oluşan ventriküler septal açıklık."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Çıkış VSD",
+      "en": "Outlet (subarterial) VSD",
+      "definition": "Semilunar kapakların altında yer alan ventriküler septal açıklık."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "PDA",
+      "en": "Patent ductus arteriosus",
+      "definition": "Doğumdan sonra açık kalan duktus; aortadan pulmoner artere şant."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "AVSD",
+      "en": "Atrioventricular septal defect",
+      "definition": "Primum ASD + ortak atriyoventriküler kapak ± inlet VSD; komplet formu sıklıkla Down sendromunda."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Mitral yarık",
+      "en": "Cleft mitral valve",
+      "definition": "Parsiyel AVSD'de mitral ön yaprakçıktaki yarık."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "AP pencere",
+      "en": "Aortopulmonary window",
+      "definition": "Çıkan aorta ile ana pulmoner arter arasında doğrudan iletişim; iki ayrı semilunar kapak vardır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Scimitar sendromu",
+      "en": "Scimitar syndrome",
+      "definition": "Hipoplastik sağ akciğerin anormal pulmoner veniyle vena kava inferior'ya drenajı; grafide \"Türk kılıcı\" görüntüsü.",
+      "origin": "scimitar = pala"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Atriyal iletişimin yapısı",
+      "left": {
+        "title": "ASD",
+        "points": [
+          "Septal doku eksikliği vardır",
+          "Sağ kalpte hacim yüküne neden olabilir"
+        ]
+      },
+      "right": {
+        "title": "PFO",
+        "points": [
+          "Kapakçık ile septumun kaynaşması eksiktir",
+          "Doğum sonrası fetal geçidin kalıntısıdır"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Arterler arasındaki iki açıklık",
+      "left": {
+        "title": "PDA",
+        "points": [
+          "Bağlantı fetal duktus düzeyindedir",
+          "Büyük arterler ayrı yapılarını korur"
+        ]
+      },
+      "right": {
+        "title": "Aortopulmoner pencere",
+        "points": [
+          "Çıkan aorta ile ana pulmoner arter arasında delik vardır",
+          "İki ayrı semilunar kapak bulunur"
+        ]
+      }
+    }
+  ]
+}

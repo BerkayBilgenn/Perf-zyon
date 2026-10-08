@@ -1,0 +1,99 @@
+{
+  "topic": "Anestezi cihazı ve mekanik ventilasyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Oksijen flaş valfinin uygunsuz kullanımı hangi fiziksel hasar riskini artırır?",
+      "options": [
+        "Hiperkapni",
+        "Barotravma",
+        "Atelektazi",
+        "Bronkospazm"
+      ],
+      "correct": 1,
+      "explanation": "Yüksek akımlı oksijen flaşının uygunsuz kullanımı havayolu basıncını artırıp barotravma yapabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Thorpe tüpündeki bobin biçimli şamandıra hangi noktadan okunur?",
+      "options": [
+        "Alt kenarından",
+        "Orta seviyesinden",
+        "Üst kenarından",
+        "Şamandıra çapından"
+      ],
+      "correct": 2,
+      "explanation": "Bobin biçimli şamandırada akım üst kenardan okunur; farklı gösterge tiplerinin okuma biçimi aynı değildir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Atık gaz uzaklaştırma sistemi hangi riski azaltmayı amaçlar?",
+      "options": [
+        "Hastanın yeniden CO2 solumasını",
+        "Gaz silindirinin yanlış bağlanmasını",
+        "Anestezik sıvının yanlış doldurulmasını",
+        "Personelin anestezik gaza maruziyetini"
+      ],
+      "correct": 3,
+      "explanation": "Scavenging ekshale anestezik gazları ortamdan uzaklaştırır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Oksijen silindirinde yanlış bağlantıyı önleyen düzenek hangisidir?",
+      "options": [
+        "Pin indeks sistemi",
+        "Çap indeks sistemi",
+        "Vaporizatör kilidi",
+        "Ajana özgü dolum anahtarı"
+      ],
+      "correct": 0,
+      "explanation": "Pin indeks sistemi silindir valfi ve boyundurukta gaza özgü dizilim kullanır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hacim kontrollü ventilasyonda hangi büyüklük sabit hedeflenir?",
+      "options": [
+        "Havayolu basıncı",
+        "Tidal volüm",
+        "Arter kan basıncı",
+        "Kan/gaz katsayısı"
+      ],
+      "correct": 1,
+      "explanation": "Hacim kontrollü ventilasyonda volüm sabit, basınç değişkendir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Sıvılaştırılmış nitröz oksit silindirinde kalan miktar yalnız basınç göstergesinden güvenilir biçimde okunur.",
+      "isTrue": false,
+      "explanation": "Sıvı kaldıkça basınç yaklaşık sabit kalır; içerik tartılarak değerlendirilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ajana özgü vaporizatör dolum bağlantısı yanlış anestezikle doldurma riskini azaltır.",
+      "isTrue": true,
+      "explanation": "Anahtarlı dolum sistemi vaporizatörün ajana özgü güvenlik özelliklerinden biridir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Basınç kontrollü ventilasyonda tidal volüm sabit, havayolu basıncı değişkendir.",
+      "isTrue": false,
+      "explanation": "Basınç kontrollü modda basınç hedefi sabittir; tidal volüm değişebilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "Kan koruma, biyouyumluluk ve MiECC",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip II'yi Tip I'den ayıran ek bileşen hangisidir?",
+      "options": [
+        "Hard-shell yedek rezervuar",
+        "Soft-bag hacim rezervuarı",
+        "Yalnız kardiyopleji hattı",
+        "Venöz hava uzaklaştırma cihazı"
+      ],
+      "correct": 3,
+      "explanation": "MiECC sınıflamasında Tip II, venöz kabarcık tutucu veya VARD eklenmiş düzeni ifade eder.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip III'te hacim kontrolüne hangi bileşen eklenir?",
+      "options": [
+        "Soft-bag rezervuar",
+        "Gaz hattı filtresi",
+        "Aort kökü kanülü",
+        "Yeni anestezik vaporizer"
+      ],
+      "correct": 0,
+      "explanation": "Tip III'te esnek torba rezervuar hacim yönetimine katkı sağlar.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip IV'ün ayırt edici özelliği hangisidir?",
+      "options": [
+        "Yalnız ECLS devresi olması",
+        "Açık sisteme geçebilen modüler düzen",
+        "Havasız bir gaz hattı olması",
+        "Kardiyoplejisiz açık rezervuar olması"
+      ],
+      "correct": 1,
+      "explanation": "Tip IV, gerekirse açık hard-shell rezervuara geçiş sağlayan modüler veya hibrit sistemdir.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC'de hastanın hangi bölümü rezervuar gibi davranır?",
+      "options": [
+        "Koroner ostiumları",
+        "Aort kapağı",
+        "Venöz kompartmanı",
+        "Sol ventrikül endokardı"
+      ],
+      "correct": 2,
+      "explanation": "Kapalı devrede hastanın venöz kompartmanı hacim rezervuarı gibi işlev görür.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Cell saver kanı santrifüjle ayırıp serum fizyolojikle yıkar.",
+      "isTrue": true,
+      "explanation": "Cell salvage sisteminde toplanan kan antikoagüle edilir, santrifüjle ayrılır ve yıkanmış eritrositler hazırlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Heparin kaplı devre kullanılması sistemik antikoagülasyon ihtiyacını kaldırır.",
+      "isTrue": false,
+      "explanation": "Kaplama bazı protokollerde daha düşük heparin/ACT düzeyini sağlayabilir; antikoagülasyonu ortadan kaldırmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

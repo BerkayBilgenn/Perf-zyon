@@ -1,0 +1,68 @@
+{
+  "topic": "Akışkan dinamiği ve hemodinami",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Sürücü basınç",
+      "body": "Temel ilişki **akım = basınç farkı / direnç** biçimindedir. Basınç farkı sabitken direnç artışı akımı azaltır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Çapın büyük etkisi",
+      "body": "Poiseuille varsayımları altında tüp çapı iki katına çıkarsa direnç **16 kat azalır**. Uzunluk ve viskozitenin etkisi doğrusal, çapın etkisi dördüncü kuvvettendir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kan için model sınırlaması",
+      "body": "Poiseuille eşitliği uzun ve düz tüp, Newtonyen sıvı ve sabit laminer akım varsayar. **Kan Newtonyen olmayan** bir sıvı olduğundan gerçek devre tam olarak bu modeli izlemez.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Süreklilik ilişkisi",
+      "body": "**Akım = ortalama hız × kesit alanı**. Aynı akım daha dar kesitten geçtiğinde hız yükselir; kanül ucundaki jet bu ilişkiyle anlaşılır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hipotermi ve viskozite",
+      "body": "Soğuma kanın viskozitesini artırır. Hemodilüsyon viskoziteyi düşürerek hipotermide akışın sürdürülmesine katkı sağlar.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Laminer akımda hız tüp boyunca nasıl dağılır?",
+      "answer": "Hız tüpün merkezinde en yüksek, duvarında sıfırdır; profil **paraboliktir**.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Reynolds sayısında hangi değişkenler yer alır?",
+      "answer": "Yoğunluk, ortalama hız, çap ve viskozite: **Re = ρ × V × D / η**.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Laplace ilişkisine göre ventrikül duvar stresi kalınlıkla nasıl değişir?",
+      "answer": "Aynı basınç ve yarıçapta duvar kalınlığı arttıkça duvar stresi azalır; ilişki **σ ∝ P × r / h** biçimindedir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Akım ile hız aynı büyüklük değildir",
+      "body": "Akım birim zamanda taşınan hacimdir; hız, kanın ilerleme süratidir. **Kesit daralınca hız artabilir**, aynı akımın korunması bu artışa bağlıdır.",
+      "source": "Klabunde: CV Physiology"
+    }
+  ]
+}

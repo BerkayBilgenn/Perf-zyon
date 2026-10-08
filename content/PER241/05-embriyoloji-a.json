@@ -1,0 +1,173 @@
+{
+  "topic": "Kardiyovasküler embriyoloji",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Kardiyojenik alan",
+      "en": "Cardiogenic area",
+      "definition": "Kalbin gelişiminin başladığı mezoderm bölgesi.",
+      "origin": "Yun. kardia + genes = oluşturan"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Primitif kalp tüpü",
+      "en": "Primitive heart tube",
+      "definition": "Embriyoda endokardiyal tüplerin birleşmesiyle oluşan, daha sonra kalp odacıklarına ve çıkış yollarına farklılaşan yapı."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Sinüs venozus",
+      "en": "Sinus venosus",
+      "definition": "Kalp tüpünün kaudal ucu; sağ atriyum düz duvarı, SA düğüm ve koroner sinüse dönüşür.",
+      "origin": "Lat. sinus + vena"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Bulbus kordis",
+      "en": "Bulbus cordis",
+      "definition": "Primitif ventrikülün kranialindeki segment; sağ ventrikül ve çıkış yollarını (konus) oluşturur.",
+      "origin": "Lat. bulbus = soğan, cor = kalp"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Embriyonik trunkus arteriyozus",
+      "en": "Truncus arteriosus",
+      "definition": "Kalp tüpünün kranial ucu; aort ve pulmoner trunkusa ayrılır.",
+      "origin": "Lat. truncus = gövde"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Kardiyak kıvrılma",
+      "en": "Cardiac looping",
+      "definition": "Primitif kalp tüpünün sağa kıvrılıp odacıkların yerleşimine katkıda bulunduğu gelişim süreci."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Endokardiyal yastıklar",
+      "en": "Endocardial cushions",
+      "definition": "atriyoventriküler kanalı bölen ve membranöz septuma katılan dokular; gelişim bozukluğu AVSD'dir."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Septum primum",
+      "en": "Septum primum",
+      "definition": "Atriyum tavanından yastıklara uzanan ilk ince septum; doğumdan sonra foramen ovalenin kapakçığı olur.",
+      "origin": "Lat. primus = birinci"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Kenhub embriyoloji",
+      "term": "Ostium primum",
+      "en": "Ostium primum",
+      "definition": "Septum primum ile endokardiyal yastıklar arasındaki ilk açıklık.",
+      "origin": "Lat. ostium = ağız, giriş"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Ostium sekundum",
+      "en": "Ostium secundum",
+      "definition": "Septum primumun ortasında apoptozla açılan ikinci açıklık.",
+      "origin": "Lat. secundus = ikinci"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Septum sekundum",
+      "en": "Septum secundum",
+      "definition": "Septum primumun sağında gelişen kaslı septum; foramen sekundumu örter."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Kenhub embriyoloji",
+      "term": "Foramen ovale",
+      "en": "Foramen ovale",
+      "definition": "Septum primum ve sekundum arasında, fetusta sağdan sola akıma izin veren eğik geçit.",
+      "origin": "Lat. foramen = delik"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Aortikopulmoner septum",
+      "en": "Aorticopulmonary septum",
+      "definition": "Embriyonik çıkış yolunu aort ve pulmoner trunkusa ayıran, spiral seyirli septum."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Kenhub embriyoloji",
+      "term": "Nöral krista",
+      "en": "Neural crest",
+      "definition": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu; bozukluğu konotrunkal anomalilerle (22q11) ilişkili."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Faringeal ark arterleri",
+      "en": "Pharyngeal arch arteries",
+      "definition": "Embriyonik dönemde gelişen ve karotisler, aortik ark, pulmoner arterler ile duktusun oluşumuna katılan damarlar."
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "title": "Atriyal septaların gelişimi",
+      "left": {
+        "title": "Septum primum",
+        "points": [
+          "İlk gelişen, ince septum",
+          "Foramen ovalenin kapakçığını oluşturur"
+        ]
+      },
+      "right": {
+        "title": "Septum sekundum",
+        "points": [
+          "Daha sonra gelişen, kaslı septum",
+          "Foramen sekundumu örter"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalp tüpünün çıkış segmentleri",
+      "left": {
+        "title": "Bulbus kordis",
+        "points": [
+          "Primitif ventrikülün kranialindedir",
+          "Sağ ventrikül ve çıkış yollarına katılır"
+        ]
+      },
+      "right": {
+        "title": "Embriyonik trunkus",
+        "points": [
+          "Kalp tüpünün kranial ucundadır",
+          "Aort ve pulmoner trunkusa ayrılır"
+        ]
+      }
+    }
+  ]
+}

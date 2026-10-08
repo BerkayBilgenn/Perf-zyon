@@ -1,0 +1,54 @@
+{
+  "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Gravite drenajının düzeni",
+      "body": "Gravite drenajında rezervuar **hasta seviyesinin altında** bulunur. Sifonun kesilmemesi için venöz hat sıvıyla dolu ve havasız tutulur.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "VAVD'nin hacim kazancı",
+      "body": "Vakum yardımı daha küçük kanül ve tüp kullanımına, rezervuarın hastaya yaklaştırılmasına ve **prime hacminin azalmasına** olanak verebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Negatif basınçta kan hasarı",
+      "body": "EACTS 2024'te aktarılan çalışmalarda **−80 mmHg**, −40 mmHg ve gravite drenajına göre daha fazla hemolizle ilişkilidir. Bu gözlem tek bir evrensel vakum ayarı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül çevresinde ven kollapsı",
+      "body": "KAVD'de aşırı negatif basınç ven duvarını kanül çevresine çekebilir. Uygun kanül boyutu ve negatif basınç izlemi drenaj güvenliği için önemlidir.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Yetersiz venöz dönüşte ilk değerlendirilecek mekanik etkenler nelerdir?",
+      "answer": "Kanül konumu ve boyutu, hava kilidi, hat katlanması, kalbin kaldırılması ve kaval turnike yerleşimi kontrol edilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "VAVD devresinde basınç tahliye valfleri neden kontrol edilir?",
+      "answer": "Rezervuarın aşırı pozitif veya negatif basınçlanmasını sınırlamak ve hava embolisi gibi riskleri azaltmak için.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Vakum tek başına çözüm değildir",
+      "body": "Yardımlı drenajda **negatif basınç izlenir**; aşırı vakum önerilmez. Kötü drenajın nedeni kanül yerleşimi veya hat sorunuysa yalnız vakumu artırmak güvenli değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "title": "Yan 2013 hipotermi sınıfları",
+      "body": "**Yan 2013**: derin-ötesi ≤14 °C; derin 14,1–20 °C; orta 20,1–28 °C; hafif 28,1–34 °C. Bu konsensusun sınıflaması olarak öğren."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "title": "Hipotermi ve beyin metabolizması",
+      "body": "Sıcaklık düştükçe **serebral metabolik gereksinim azalır**; dolaşım arrestinde koruma bu ilişkiye dayanır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "question": "Mesane sıcaklığı neden tek başına yeterli değildir?",
+      "answer": "Mesane ölçümü kraniyal bölgenin sıcaklık değişikliklerinin **gerisinde kalabilir**; beyin sıcaklığını doğrudan temsil etmez."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Karma kan gazı stratejisi",
+      "body": "Groom ve ark. anketindeki karma yaklaşım **soğutmada pH-stat**, daha sonraki dönemde alfa-stat kullanımını içerir; kurumsal uygulamalar değişir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Şantlı hastada düşük karbondioksit",
+      "body": "Düşük PaCO2, **serebral vazokonstriksiyon** ve pulmoner vazodilatasyon yoluyla beyne giden akımı azaltabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "pH-stat ile soğutmanın ilişkisi",
+      "body": "CO2 eklenmesiyle artan serebral akım, **beynin daha homojen soğumasına** katkıda bulunabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "NIRS'in ölçtüğü alan",
+      "body": "Yakın kızılötesi spektroskopi, **serebral veya somatik dokunun oksijenlenmesini** invaziv olmadan izlemeye yarar."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Yan ve ark. 2013",
+      "title": "Sıcaklığın yeri de önemlidir",
+      "body": "Nazofaringeal ölçüm, beyin sıcaklığına yakınlığı nedeniyle kullanılır; **bir ölçüm bölgesinin değerini tüm vücudun değeri sayma**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "question": "SACP ark cerrahisinde neyi sağlamayı amaçlar?",
+      "answer": "Selektif antegrad serebral perfüzyon, **ark rekonstrüksiyonu sırasında beyne akımın sürdürülmesini** amaçlar."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "DHCA'nın süre sınırı",
+      "body": "Arrest uzadıkça nörolojik risk artar; süreyi tek bir **evrensel güvenli eşik** olarak ezberlemek yerine sıcaklık ve tekniğin bağlamını öğren."
+    }
+  ]
+}

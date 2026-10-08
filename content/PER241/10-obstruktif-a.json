@@ -1,0 +1,72 @@
+{
+  "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "\"3\" işareti",
+      "en": "Figure-3 sign / rib notching",
+      "definition": "Aort koarktasyonunda aort konturunun göğüs grafisinde oluşturduğu karakteristik görünüm."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Aort koarktasyonu",
+      "en": "Coarctation of the aorta",
+      "definition": "Genellikle istmusta, duktus karşısında lokal aort daralması.",
+      "origin": "Lat. coarctare = sıkıştırmak"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Kesintili aortik ark",
+      "en": "Interrupted aortic arch",
+      "definition": "Çıkan ve inen aorta arasında anatomik devamlılığın bulunmadığı doğumsal lezyon."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Biküspit aort kapağı",
+      "en": "Bicuspid aortic valve",
+      "definition": "İki kusptan oluşan aort kapağı. Darlık, yetersizlik ve çıkan aorta genişlemesiyle ilişkili olabilir."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Pulmoner stenoz",
+      "en": "Pulmonary stenosis",
+      "definition": "Pulmoner kapak veya sağ ventrikül çıkış yolundaki daralma.",
+      "origin": "Yun. stenos = dar"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Shone kompleksi",
+      "en": "Shone complex",
+      "definition": "Supravalvüler mitral halka, paraşüt mitral, subaortik stenoz ve koarktasyon birlikteliği.",
+      "origin": "J. D. Shone (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Paraşüt mitral kapak",
+      "en": "Parachute mitral valve",
+      "definition": "Tüm kordaların tek papiller kasa toplandığı mitral kapak."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Romatizmal kalp hastalığı",
+      "en": "Rheumatic heart disease",
+      "definition": "A grubu streptokok sonrası otoimmün kardit ve kalıcı kapak hasarı (en sık mitral)."
+    }
+  ]
+}

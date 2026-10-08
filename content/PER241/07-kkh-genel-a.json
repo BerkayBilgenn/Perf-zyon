@@ -1,0 +1,208 @@
+{
+  "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Siyanoz",
+      "en": "Cyanosis",
+      "definition": "Deri ve mukozalarda deoksijenize hemoglobinin artmasına bağlı mavi-mor renk değişikliği.",
+      "origin": "Yun. kyanos = koyu mavi"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Asiyanotik",
+      "en": "Acyanotic",
+      "definition": "Siyanoza yol açmayan lezyon (çoğunlukla soldan sağa şantlı veya obstrüktif).",
+      "origin": "a- = olumsuzluk + siyanotik"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Diferansiyel siyanoz",
+      "en": "Differential cyanosis",
+      "definition": "Pre- ve postduktal satürasyon farkı (alt vücudun daha siyanotik olması); PPHN, IAA, kritik koarktasyonda."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Şant",
+      "en": "Shunt",
+      "definition": "Kanın normal dolaşım yolundan sapması (soldan sağa, sağdan sola veya çift yönlü).",
+      "origin": "İng. shunt = saptırmak"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Soldan sağa şant",
+      "en": "Left-to-right shunt",
+      "definition": "Oksijenli kanın sol kalpten sağ kalbe/pulmoner dolaşıma geçmesi; pulmoner aşırı dolaşım, siyanoz yok."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Sağdan sola şant",
+      "en": "Right-to-left shunt",
+      "definition": "Deoksijenize kanın akciğeri atlayarak sistemik dolaşıma geçmesi; siyanoz."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Qp/Qs",
+      "en": "Pulmonary-to-systemic flow ratio",
+      "definition": "Pulmoner kan akımının sistemik kan akımına oranı; şantın net yönünü ve miktarını değerlendirmede kullanılır.",
+      "origin": "Q = akım"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "LITFL fetal dolaşım",
+      "term": "Pulmoner vasküler direnç",
+      "en": "Pulmonary vascular resistance",
+      "definition": "Pulmoner dolaşımın akıma direnci; doğumda düşer, şantın yön ve miktarını belirler."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Eisenmenger sendromu",
+      "en": "Eisenmenger syndrome",
+      "definition": "Uzun süreli soldan sağa şantın pulmoner vasküler hastalık sonucu sağdan sola dönmesi; geri dönüşsüz.",
+      "origin": "V. Eisenmenger (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Duktus-bağımlı lezyon",
+      "en": "Ductal-dependent lesion",
+      "definition": "Pulmoner veya sistemik akımın (ya da karışımın) açık duktusa bağlı olduğu lezyon; PGE1 gerektirir."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Paralel dolaşım",
+      "en": "Parallel circulation",
+      "definition": "D-TGA'da sistemik ve pulmoner dolaşımın seri değil paralel çalışması; yaşam için karışım gerekir."
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Tek ventrikül fizyolojisi",
+      "en": "Single-ventricle physiology",
+      "definition": "Tek fonksiyonel ventrikülün hem sistemik hem pulmoner akımı sağlaması; Qp/Qs dengesi kritiktir."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Çomak parmak",
+      "en": "Clubbing",
+      "definition": "Kronik siyanozda parmak uçları ve tırnak yatağının genişlemesi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Polisitemi",
+      "en": "Polycythemia",
+      "definition": "Kronik hipoksemiye yanıt olarak eritrosit kütlesinin artması.",
+      "origin": "Yun. polys + kytos + haima"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Diyastolik kaçak",
+      "en": "Diastolic run-off",
+      "definition": "Diyastolde aortadan düşük dirençli yatağa (PDA, şant) akım; diyastolik basınç ve koroner perfüzyon düşer."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "SIRS",
+      "en": "Systemic inflammatory response syndrome",
+      "definition": "KPB'nin tetiklediği nonspesifik sistemik inflamatuvar yanıt."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "22q11 delesyonu",
+      "en": "22q11 deletion syndrome",
+      "definition": "Konotrunkal anomalilerle ilişkili kromozomal delesyon; trunkus arteriyozus, Fallot tetralojisi ve kesintili aortik arkla birliktelik gösterebilir.",
+      "origin": "A. DiGeorge (eponim)"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "KKH'nin iki klinik grubu",
+      "left": {
+        "title": "Siyanotik lezyon",
+        "points": [
+          "Deoksijenize kan sistemik dolaşıma karışır",
+          "Örnek: Fallot tetralojisi"
+        ]
+      },
+      "right": {
+        "title": "Asiyanotik lezyon",
+        "points": [
+          "Soldan sağa şant veya obstrüksiyon olabilir",
+          "Örnek: atriyal septal defekt"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Şantın yönü",
+      "left": {
+        "title": "Soldan sağa şant",
+        "points": [
+          "Oksijenli kan pulmoner dolaşıma döner",
+          "Pulmoner aşırı akım görülebilir"
+        ]
+      },
+      "right": {
+        "title": "Sağdan sola şant",
+        "points": [
+          "Deoksijenize kan sistemik dolaşıma geçer",
+          "Siyanoz görülebilir"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pulmoner hipertansiyonun bağlamı",
+      "left": {
+        "title": "Eisenmenger sendromu",
+        "points": [
+          "Uzun süreli şantla damar hastalığı gelişir",
+          "Şantın tersine dönmesiyle siyanoz oluşur"
+        ]
+      },
+      "right": {
+        "title": "PPHN",
+        "points": [
+          "Fetal yüksek pulmoner direnç devam eder",
+          "Yenidoğanın geçiş dolaşımı bozukluğudur"
+        ]
+      }
+    }
+  ]
+}

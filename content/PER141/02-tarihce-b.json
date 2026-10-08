@@ -1,0 +1,68 @@
+{
+  "topic": "KPB ve perfüzyonun tarihçesi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Gibbon'un başarısı",
+      "body": "**6 Mayıs 1953**'te Gibbon, Cecelia Bavolek'in atriyal septal defektini kalp-akciğer makinesiyle onardı. Bu, makineyle ilk başarılı açık kalp ameliyatı olarak anılır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Elekten membrana",
+      "body": "Gibbon'un makinesinde kan, **dikey elek üzerinde ince film** oluşturuyordu; bu tasarım gazı kandan ayıran modern membran oksijenatörden farklıdır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "DeBakey ve roller pompa",
+      "body": "DeBakey'in transfüzyon için geliştirdiği roller pompa düzeni KPB'ye uyarlandı. Roller pompanın bütün tarihini tek bir kişiye ait ilk patent olarak sunmak doğru değildir.",
+      "source": "Passaroni 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Heparinin teknolojik katkısı",
+      "body": "Heparinin keşfi ve kullanıma girmesi, kanın vücut dışı devrede pıhtılaşmasını sınırlayarak KPB teknolojisinin gelişimini destekledi.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Türkiye tarihindeki iki farklı başlangıç",
+      "body": "Aytaç'ın tarih anlatısında Türkiye'deki ilk EKD girişimi Mehmet Tekdoğan ile, düzenli seri ameliyatların başlaması ise Aydın Aytaç ile ilişkilidir.",
+      "source": "Aytaç: Kalp cerrahisi tarihi"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Lillehei'nin kontrollü çapraz dolaşımında gaz değişimini hangi yapı sağlıyordu?",
+      "answer": "Donör olarak kullanılan ebeveynin **akciğerleri**, biyolojik oksijenatör işlevi görüyordu.",
+      "source": "Gott 2005"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kirklin'in KPB tarihindeki katkısı nasıl özetlenir?",
+      "answer": "Gibbon–IBM makinesini geliştirerek Mayo Clinic'te **seri açık kalp cerrahisi** programını yürütmesi.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "PMP membranlar uzamış ekstrakorporeal destekte hangi teknik soruna yanıt verdi?",
+      "answer": "Oksijenatörün plazmayla ıslanmasına ve **plazma sızıntısına** karşı daha dirençli bir gaz değişim yüzeyi sağladı.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Tarih sorusunun klasik eşleşmesi",
+      "body": "Makineyle **ilk başarılı açık kalp ameliyatı**: Gibbon, 6 Mayıs 1953; işlem atriyal septal defekt onarımıdır.",
+      "source": "Jefferson Magazine 2020"
+    }
+  ]
+}

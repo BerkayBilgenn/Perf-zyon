@@ -1,0 +1,109 @@
+{
+  "topic": "Cerrahi türlerine göre anestezi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "KABG",
+      "en": "Coronary artery bypass grafting (CABG)",
+      "definition": "Koroner darlıkların arter/ven greftleriyle baypas edildiği cerrahi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "OPCAB",
+      "en": "Off-pump CABG",
+      "definition": "KPB kullanılmadan, atan kalpte stabilizatörle yapılan KABG.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Aort darlığı",
+      "en": "Aortic stenosis",
+      "definition": "Aort kapak açıklığının daralmasıyla sol ventrikülün kanı aortaya atmasının zorlaşması; ciddi olgularda debi sınırlıdır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aort yetmezliği",
+      "en": "Aortic regurgitation",
+      "definition": "Diyastolde aorttan sol ventrikül'ye geri kaçış; sol ventrikül'de hacim yüklenmesi ve eksantrik hipertrofi.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Mitral darlık",
+      "en": "Mitral stenosis",
+      "definition": "Mitral açıklığın daralması; taşikardi doluşu bozar, sol atriyum ve pulmoner arter basıncı artar.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Mitral yetmezlik",
+      "en": "Mitral regurgitation",
+      "definition": "Sistolde sol ventrikül'den sol atriyuma geri akım; ardyük azaltma ileri akımı artırır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "HOKM ve SAM",
+      "en": "HOCM / systolic anterior motion",
+      "definition": "Dinamik LVOT obstrüksiyonu ve mitral ön yaprakçığın sistolde öne hareketi.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyak tamponad",
+      "en": "Cardiac tamponade",
+      "definition": "Perikardiyal sıvı/kanın kalbin doluşunu engellemesi; Beck triadı (JVD, hipotansiyon, derinden kalp sesleri).",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Aort kapak lezyonlarında hedef",
+      "left": {
+        "title": "Aort darlığı",
+        "points": [
+          "Sinüs ritmi ve uygun doluş korunur",
+          "Sistemik vasküler direnç korunur"
+        ]
+      },
+      "right": {
+        "title": "Aort yetmezliği",
+        "points": [
+          "Bradikardiden kaçınılır",
+          "Ardyük azaltılması ileri akımı kolaylaştırır"
+        ]
+      },
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Mitral kapak lezyonlarında hedef",
+      "left": {
+        "title": "Mitral darlık",
+        "points": [
+          "Taşikardi doluşu kötüleştirir",
+          "Ardyük azaltma temel doluş engelini gidermez"
+        ]
+      },
+      "right": {
+        "title": "Mitral yetmezlik",
+        "points": [
+          "Bradikardi regürjitan yükü artırabilir",
+          "Ardyük azaltma ileri akımı artırır"
+        ]
+      },
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    }
+  ]
+}

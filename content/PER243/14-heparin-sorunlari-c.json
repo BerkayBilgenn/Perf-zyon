@@ -1,0 +1,77 @@
+{
+  "topic": "Heparin direnci, HİT ve protamin",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "İmmün HİT'te antikorların hedefi hangi komplekstir?",
+      "options": [
+        "Heparin–PF4",
+        "Protamin–kalsiyum",
+        "Fibrin–adenozin",
+        "Hemoglobin–oksijen"
+      ],
+      "correct": 0,
+      "explanation": "Tip II HİT heparin–PF4 kompleksine karşı antikorlarla trombosit aktivasyonuna bağlıdır.",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "HİT için KPB'de kullanılan doğrudan trombin inhibitörü hangisidir?",
+      "options": [
+        "Fraksiyone olmayan heparin",
+        "Bivalirudin",
+        "Düşük molekül ağırlıklı heparin",
+        "Fondaparinuks"
+      ],
+      "correct": 1,
+      "explanation": "Bivalirudin trombini doğrudan inhibe eder; heparinler ve fondaparinuks antitrombin üzerinden etki gösterir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Traneksamik asit fibrin yıkımını hangi mekanizmayla azaltır?",
+      "options": [
+        "Trombini antitrombine bağlar",
+        "Trombosit sayısını artırır",
+        "Plazminojenin fibrine bağlanmasını engeller",
+        "Kalsiyumu sitrata bağlar"
+      ],
+      "correct": 2,
+      "explanation": "Lizin analoğu traneksamik asit, plazmin(ojen)in fibrindeki lizin bağlanma bölgelerini işgal eder.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Desmopressin endotelden hangi çifti salgılatır?",
+      "options": [
+        "Faktör IX ve faktör XIII",
+        "Heparin ve antitrombin",
+        "Plazmin ve doku faktörü",
+        "vWF ve faktör VIII"
+      ],
+      "correct": 3,
+      "explanation": "Desmopressin V2 uyarımıyla vWF ve faktör VIII salınımını artırır.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "statement": "Traneksamik asidin eliminasyonu esas olarak akciğer sekestrasyonuyla olur.",
+      "isTrue": false,
+      "explanation": "Traneksamik asit büyük ölçüde değişmeden idrarla atılır; böbrek yetmezliğinde doz değerlendirmesi gerekir.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Aşırı protamin trombosit işlevini bozup kanamayı artırabilir.",
+      "isTrue": true,
+      "explanation": "Protamin fazlası paradoksal antikoagülasyon, trombosit işlev bozukluğu ve fibrinoliz artışı oluşturabilir.",
+      "source": "Ann Card Anaesth 2024: protamin"
+    }
+  ]
+}

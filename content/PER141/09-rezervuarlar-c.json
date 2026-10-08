@@ -1,0 +1,77 @@
+{
+  "topic": "Rezervuarlar, aspiratörler ve vent",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yaygın sol ventrikül venti hangi giriş yolunu kullanır?",
+      "options": [
+        "Sağ üst pulmoner ven",
+        "Vena kava superior",
+        "Koroner sinüs",
+        "Femoral arter"
+      ],
+      "correct": 0,
+      "explanation": "RSPV yoluyla sol atriyum ve mitral kapaktan sol ventriküle ulaşılır.",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Antegrad kardiyopleji verilirken aort kökü venti neden durdurulur?",
+      "options": [
+        "Arteriyel kanülü soğutmak için",
+        "Verilen solüsyonu aspire etmemesi için",
+        "Venöz kanülü genişletmek için",
+        "Koroner sinüsü kapatmak için"
+      ],
+      "correct": 1,
+      "explanation": "Aort kökü venti antegrad kök uygulaması sırasında çalıştırılmaz; solüsyonun koroner dolaşıma gitmesi amaçlanır.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Vent hattındaki tek yönlü valfin temel görevi nedir?",
+      "options": [
+        "Gaz fraksiyonunu ölçmek",
+        "Hematokriti hesaplamak",
+        "Ters akımı önlemek",
+        "Hasta sıcaklığını ölçmek"
+      ],
+      "correct": 2,
+      "explanation": "Tek yönlü valf, vent hattından ters akımla hava veya kan dönmesini önler.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Vent ucunun yanlış yerleşmesi hangi komplikasyonu doğurabilir?",
+      "options": [
+        "Tüpün boyunun kısalması",
+        "Blender gaz oranının değişmesi",
+        "Su tankının büyümesi",
+        "Kalp yaralanması veya hava embolisi"
+      ],
+      "correct": 3,
+      "explanation": "Yanlış konumlu vent kalp yaralanması, kanama ve hava embolisi riski taşır.",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Venöz rezervuarda kan seviyesi görünürlüğü yalnızca kullanım kolaylığı sağlar.",
+      "isTrue": false,
+      "explanation": "Seviyenin izlenmesi sıvı yönetimi ve devreye hava girişinin önlenmesi için güvenlik unsurudur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kapalı torba rezervuar kan-hava temasını azaltır.",
+      "isTrue": true,
+      "explanation": "Soft-shell yapısı açık rezervuara göre daha az kan-hava teması sağlar.",
+      "source": "Basics of CPB 2017"
+    }
+  ]
+}

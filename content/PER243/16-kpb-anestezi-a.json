@@ -1,0 +1,69 @@
+{
+  "topic": "KPB'de anestezi, ayrılma ve aciller",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyopulmoner bypass",
+      "en": "Cardiopulmonary bypass",
+      "definition": "Kalp ve akciğer fonksiyonunun cerrahi süresince kalp-akciğer makinesiyle geçici olarak üstlenilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon",
+      "en": "Perfusion",
+      "definition": "Genel kabul gören tanımıyla, dokulara kan (sıvı) akımı sağlanması; perfüzyonist KPB'yi yöneten sağlık profesyonelidir.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kontrol listesi",
+      "en": "Checklist",
+      "definition": "KPB öncesi, ayrılma ve acil durumlarda kritik adımların atlanmasını önleyen yapılandırılmış liste.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Düşük kalp debisi sendromu",
+      "en": "Low cardiac output syndrome (LCOS)",
+      "definition": "Kalp cerrahisi sonrası miyokard disfonksiyonuna bağlı düşük kardiyak indeks ve uç organ hipoperfüzyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Vazopleji",
+      "en": "Vasoplegia",
+      "definition": "Yeterli/yüksek debiye rağmen düşük sistemik vasküler direnç ile seyreden dirençli vazodilatasyon (ör. KPB sonrası).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hava embolisi",
+      "en": "Air embolism",
+      "definition": "Dolaşıma hava girmesi; KPB'nin korkulan komplikasyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İyatrojenik aort diseksiyonu",
+      "en": "Iatrogenic aortic dissection",
+      "definition": "Kanülasyon veya kros-klemp gibi girişimle ilişkili aort duvarı katmanlarının ayrışması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Zor ayrılma",
+      "en": "Difficult weaning from CPB",
+      "definition": "Artan vazoaktif destek, başarısız ilk deneme veya mekanik destek gerektiren KPB'den ayrılma.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Paraşüt mitral kapakta kordalar hangi düzeni gösterir?",
+      "options": [
+        "Papiller kas olmadan aortaya bağlanır",
+        "İki pulmoner vene bağlanır",
+        "Tek papiller kasta toplanır",
+        "Sağ atriyuma uzanır"
+      ],
+      "correct": 2,
+      "explanation": "Kordaların tek papiller kasta birleşmesi paraşüt görünümünü oluşturur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Shone kompleksine hangi lezyon dahildir?",
+      "options": [
+        "İzole triküspit atrezisi",
+        "Persistan trunkus",
+        "Total pulmoner venöz dönüş anomalisi",
+        "Supravalvüler mitral halka"
+      ],
+      "correct": 3,
+      "explanation": "Shone sol kalbin seri obstrüktif lezyonlarıdır; mitral halka temel bileşenlerdendir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Koarktasyonun tipik yerleşimi hangisidir?",
+      "options": [
+        "Sol subklavyen arterin hemen distali",
+        "Koroner ostiumların arası",
+        "Pulmoner trunkus bifurkasyonu",
+        "Mitral anulusun altı"
+      ],
+      "correct": 0,
+      "explanation": "Tipik jukstaduktal daralma, sol subklavyen çıkışının distalinde duktus karşısındadır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Biküspit aort kapağında hangi komplikasyona yatkınlık vardır?",
+      "options": [
+        "Pulmoner venin doğuştan yokluğu",
+        "Endokardit",
+        "Sağ ventrikül atrezisi",
+        "Total atriyal septum yokluğu"
+      ],
+      "correct": 1,
+      "explanation": "Biküspit aort kapak darlık, yetersizlik, aortopati ve endokarditle ilişkilidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Aşağıdakilerden hangisi Jones majör kriteridir?",
+      "options": [
+        "Sinüs taşikardisi",
+        "İzole öksürük",
+        "Kore",
+        "Nabız basıncı artışı"
+      ],
+      "correct": 2,
+      "explanation": "Kore, kardit, poliartrit, eritema marjinatum ve subkutan nodüller majör kriterlerdir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Biküspit aort kapağı üç normal kusptan oluşur.",
+      "isTrue": false,
+      "explanation": "Biküspit kapakta iki kusp bulunur."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Eritema marjinatum Jones majör kriterleri arasındadır.",
+      "isTrue": true,
+      "explanation": "Diğer majör bulgular kardit, poliartrit, kore ve subkutan nodüllerdir."
+    }
+  ]
+}

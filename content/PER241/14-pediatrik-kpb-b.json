@@ -1,0 +1,89 @@
+{
+  "topic": "Pediatrik KPB'nin temelleri",
+  "cards": [
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "title": "Yenidoğan devresinde temel oran",
+      "body": "Devre prime hacmi hastanın kan hacmine yaklaşabilir; **prime/hasta kan hacmi oranı** erişkindekinden çok daha büyüktür."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Minyatürizasyonun hedefi",
+      "body": "Kısa hatlar ve küçük devre bileşenleri **prime hacmini ve hemodilüsyonu azaltmayı** hedefler; donör kan gereksinimi de azalabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "İnflamasyonu başlatan temas",
+      "body": "**Kan-devre yüzeyi ve kan-hava teması**, cerrahi travma ve iskemi-reperfüzyonla birlikte inflamatuvar yanıtı tetikleyebilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Prime büyüklüğünün inflamatuvar ilişkisi",
+      "body": "Büyük prime hacmi ve hemodilüsyon derecesi, **inflamatuvar mediatör artışıyla** ilişkilidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "title": "Devre boyutlandırmada temel ilke",
+      "body": "Oksijenatör, pompa başlığı ve hat çapı **gereken maksimum akıma göre** seçilir; bu akımı düşük prime ile sağlamak amaçlanır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Hagedorn ve ark. 2019",
+      "question": "RAP hangi aşamada uygulanır?",
+      "answer": "Heparinizasyon ve aortik kanülasyondan sonra **hastanın kendi kanıyla prime geriye doğru itilerek** uzaklaştırılır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "title": "Saklanmış kanın metabolik yükü",
+      "body": "Bankada saklanmış kanın **potasyum, glukoz ve laktat yükü** ile düşük pH'sı neonatal prime için önem taşır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "question": "Eritrosit yıkama neden yapılabilir?",
+      "answer": "Saklanmış eritrositlerin yıkanması **potasyum ve laktat yükünü azaltmak** için kullanılabilir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "question": "Kanlı prime'da bypass öncesi hangi özellikler değerlendirilir?",
+      "answer": "Kanlı neonatal prime'ın **elektrolit ve asit-baz bileşimi**, bypass başlamadan değerlendirilir; kullanılan ürünler sonucu etkiler."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Egro ve ark. 2020",
+      "title": "Dilüsyonel hematokritin temel hesabı",
+      "body": "Beklenen hematokrit, **toplam eritrosit hacminin toplam dolaşan hacme oranıdır**. Prime'daki eritrosit hacmi de paya eklenir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Ramakrishnan ve ark. 2023",
+      "title": "Yüksek akım tek bir standart değildir",
+      "body": "Ramakrishnan ve ark. protokolünde yenidoğan akımı **175–200 mL/kg/dk** olarak verilir; bu kurumsal yüksek akım stratejisidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Ramakrishnan ve ark. 2023",
+      "title": "Büyük çocukta kurumsal akım",
+      "body": "Aynı yüksek akım protokolünde büyük çocuk için **2,6 L/dk/m²** kullanılır; hedefler merkez protokolüne göre değişebilir."
+    }
+  ]
+}

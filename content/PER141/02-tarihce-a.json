@@ -1,0 +1,37 @@
+{
+  "topic": "KPB ve perfüzyonun tarihçesi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kontrollü çapraz dolaşım",
+      "definition": "Cerrahi sırasında hastanın dolaşımını bir donörün dolaşımına bağlayıp donörün akciğerini biyolojik oksijenatör olarak kullanma yöntemi.",
+      "en": "Controlled cross-circulation",
+      "source": "Gott 2005"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "İnflow stasis",
+      "definition": "Kalbe gelen kan akımının geçici olarak durdurulması; tarihsel açık kalp cerrahisinde total vücut hipotermisiyle birlikte kullanılmıştır.",
+      "en": "Inflow stasis",
+      "source": "Gott 2005"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Autojector",
+      "definition": "Brukhonenko tarafından geliştirilen, deneysel vücut dışı dolaşımda kullanılan erken kalp-akciğer aygıtı.",
+      "en": "Autojector",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Mayo-Gibbon makinesi",
+      "definition": "Gibbon–IBM tasarımının Mayo Clinic tarafından seri açık kalp ameliyatlarında kullanılmak üzere değiştirilmiş biçimi.",
+      "en": "Mayo-Gibbon heart-lung machine",
+      "source": "JECT 2025: EKD tarihçesi"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "KPB devresi ve kan akış yolu",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Açık KPB devresinde arteriyel pompanın girişini hangi bileşen besler?",
+      "options": [
+        "Aort kökü venti",
+        "Gaz blenderi",
+        "Venöz rezervuar",
+        "Kardiyopleji ısı değiştiricisi"
+      ],
+      "correct": 2,
+      "explanation": "Ana pompa, rezervuarda toplanan venöz kanı oksijenatöre ilerletir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hastaya dönüşten hemen önce filtrelenen kan hangi kanüle yönelir?",
+      "options": [
+        "Venöz kanül",
+        "Retrograd kardiyopleji kanülü",
+        "Sol ventrikül vent kanülü",
+        "Arteriyel kanül"
+      ],
+      "correct": 3,
+      "explanation": "Arteriyel filtre sonrası kan arteriyel hattan dönüş kanülüne ulaşır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Devredeki örnekleme manifoldu hangi işlem için kullanılır?",
+      "options": [
+        "Kan örneği alma",
+        "Gaz egzozunu kapatma",
+        "Su sıcaklığını değiştirme",
+        "Kaval turnikeyi sıkma"
+      ],
+      "correct": 0,
+      "explanation": "Manifold, kan gazı gibi analizler için örneklemeyi sağlar.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Konvansiyonel KPB'yi optimize etmek için hangisi anlamlı bir hedeftir?",
+      "options": [
+        "Tüp uzunluğunu artırmak",
+        "Hemodilüsyonu azaltmak",
+        "Kan-hava temasını artırmak",
+        "Prime hacmini artırmak"
+      ],
+      "correct": 1,
+      "explanation": "Optimize KPB, hemodinamik koşulları, biyouyumluluğu veya hemodilüsyonu iyileştiren teknikler kullanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Modern membran devresinde oksijenatör ana arteriyel pompanın önündedir.",
+      "isTrue": false,
+      "explanation": "Konvansiyonel modern devrede pompa, venöz kanı oksijenatöre gönderir; oksijenatör pompanın distalindedir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Isı değiştirici oksijenatöre entegre olabilir.",
+      "isTrue": true,
+      "explanation": "Birçok modern oksijenatörde ısı değiştirici entegredir; kan ısı değişiminden sonra gaz değişim bölümüne geçer.",
+      "source": "Basics of CPB 2017"
+    }
+  ]
+}

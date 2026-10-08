@@ -1,0 +1,165 @@
+{
+  "topic": "Kardiyopleji ve miyokard koruma",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyopleji",
+      "definition": "Kalbi elektromekanik olarak durdurup koruyan solüsyon/yöntem.",
+      "en": "Cardioplegia",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aort kros klempi",
+      "definition": "Aort kanülü ile kalp arasında aortayı kapatan klemp; iskemi süresini başlatır.",
+      "en": "Aortic cross-clamp",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Antegrad kardiyopleji",
+      "definition": "Klempin proksimalinden aort köküne veya ostiumlara normal yönde verilen kardiyopleji.",
+      "en": "Antegrade cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Retrograd kardiyopleji",
+      "definition": "Koroner sinüse yerleştirilen balonlu kanülden venöz yolla ters yönde verilen kardiyopleji.",
+      "en": "Retrograde cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ostial kardiyopleji",
+      "definition": "Aortotomi sonrası doğrudan koroner ostiumlara verilen kardiyopleji (ciddi aort yetmezliği).",
+      "en": "Ostial (selective) cardioplegia",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kan kardiyoplejisi",
+      "definition": "Oksijenli kan ile kristaloid solüsyonun karıştırılarak miyokard korumasında kullanılması.",
+      "en": "Blood cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kristaloid kardiyopleji",
+      "definition": "Kan içermeyen kardiyopleji (HTK, St Thomas).",
+      "en": "Crystalloid cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "del Nido kardiyoplejisi",
+      "definition": "Lidokain ve magnezyum içeren, kan ile kristaloidin karıştırıldığı tek doz kardiyopleji stratejisi.",
+      "en": "del Nido cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "HTK (Custodiol)",
+      "definition": "Histidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji solüsyonu.",
+      "en": "Histidine–tryptophan–ketoglutarate",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "St Thomas solüsyonu",
+      "definition": "Ekstrasellüler tipte, magnezyum içeren depolarizan kristaloid kardiyopleji solüsyonu.",
+      "en": "St Thomas' Hospital solution",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hot shot",
+      "definition": "Klemp kaldırılmadan önce verilen sıcak, zenginleştirilmiş kan kardiyoplejisi.",
+      "en": "Terminal warm blood cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Depolarize arrest",
+      "definition": "Yüksek hücre dışı potasyumla membranın depolarize tutulması ve kalbin diyastolde durdurulması.",
+      "en": "Depolarized arrest",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Polarize arrest",
+      "definition": "Membranı istirahat potansiyeline yakın tutan arrest (adenozin, lidokain, Mg; esmolol).",
+      "en": "Polarized arrest",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Miyokard koruma",
+      "definition": "Klemp sırasında iskemi–reperfüzyon hasarını azaltan stratejiler bütünü.",
+      "en": "Myocardial protection",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fibrilasyonlu kalp tekniği",
+      "definition": "Klempsiz, sürekli koroner perfüzyonla ventrikül fibrilasyonundaki kalpte çalışma.",
+      "en": "Fibrillating heart technique",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kardiyoplejinin giriş yolu",
+      "left": {
+        "title": "Antegrad kök uygulaması",
+        "points": [
+          "Aort kökünden koroner arterlere ilerler",
+          "Yeterli aort kapağı işlevi gerektirir"
+        ]
+      },
+      "right": {
+        "title": "Retrograd uygulama",
+        "points": [
+          "Koroner sinüsten venöz yönde ilerler",
+          "Sağ ventrikül koruması eksik kalabilir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Arrest mekanizması",
+      "left": {
+        "title": "Depolarize arrest",
+        "points": [
+          "Hücre dışı potasyum artışıyla oluşturulur",
+          "Membran depolarize durumda tutulur"
+        ]
+      },
+      "right": {
+        "title": "Polarize arrest",
+        "points": [
+          "Adenozin, lidokain, magnezyum gibi ajanlarla sağlanır",
+          "Membran istirahat potansiyeline yakın tutulur"
+        ]
+      },
+      "source": "Francica ve ark. 2021"
+    }
+  ]
+}

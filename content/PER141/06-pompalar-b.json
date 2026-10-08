@@ -1,0 +1,82 @@
+{
+  "topic": "Pompalar: roller ve santrifügal",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Aşırı oklüzyonun sonucu",
+      "body": "Roller pompadaki fazla tüp sıkışması **hemoliz, spallasyon ve tüp yırtılması** riskini artırır. Oklüzyon ayarı her vaka için kontrol edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Yetersiz oklüzyonun sonucu",
+      "body": "Az sıkıştırılmış roller tüpü geri kaçak oluşturabilir; konsolun hesapladığı akım, **gerçekte iletilen akımdan farklı** olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Santrifügal pompa ve direnç",
+      "body": "Santrifügal pompa devri sabitken hastanın sistemik damar direnci artarsa akım düşebilir. **Devir tek başına akım ölçümü değildir.**",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Yüksek devirin yükü",
+      "body": "Yüksek ard yükü yenmek için santrifügal devir artırıldığında ısı üretimi ve protein denatürasyonu riski artabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Roller pompanın ek görevleri",
+      "body": "Pozitif ve negatif basınç üretebilmesi, roller pompanın **aspiratör, vent ve kardiyopleji** hatlarında kullanılmasını sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulsatil akımın değerlendirilmesi",
+      "body": "Pulsatil perfüzyonun tanımı ve ölçümü için evrensel uzlaşı yoktur; bileşenlerin pulsatil kullanım onayı ayrıca değerlendirilmelidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Santrifügal pompa akımını devirden bağımsız ölçmek için ne kullanılır?",
+      "answer": "**Akım probu**; ultrasonik veya elektromanyetik ölçümle gerçek akım değerlendirilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Roller pompa girişinin aniden tıkanması neden kabarcık oluşturabilir?",
+      "answer": "Girişte ani negatif basınç oluşarak **kavitasyona** yol açabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Santrifügal pompa için uzun KPB önerisinin gücü nedir?",
+      "answer": "EACTS 2024, uzun KPB bekleniyorsa santrifügal pompanın **düşünülmesini** önerir; öneri tüm sonuçlarda kanıtlanmış üstünlük anlamına gelmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Durdurmadan önce geri akışı önle",
+      "body": "Santrifügal pompa durduğunda kan geriye akabilir. **Arteriyel hattın klemplenmesi** ve geri akış önleme sistemi, durdurma sürecinin kritik parçalarıdır.",
+      "source": "SafeCEC çalışması 2025"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Akım göstergesine kör güvenme",
+      "body": "Roller konsolundaki devirden hesaplanan akım, yetersiz oklüzyon veya açık şantlar nedeniyle hastaya ulaşan akımdan farklı olabilir. **Gerçek akımı** değerlendirmek gerekir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

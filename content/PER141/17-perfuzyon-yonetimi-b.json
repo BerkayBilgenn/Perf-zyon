@@ -1,0 +1,68 @@
+{
+  "topic": "Perfüzyon yönetimi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Kaplamasız devrede ACT hedefi",
+      "body": "EACTS 2024, kaplamasız ekipman ve kardiyotomi aspirasyonuyla KPB'de **ACT >480 sn** eşiğini ele alır. Kaplamalı sistem veya farklı ACT cihazına doğrudan genellenmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Oksijen sunumu hedefi",
+      "body": "EACTS 2024, akut böbrek hasarı riskini azaltmak için indekslenmiş **DO₂ en az 280 mL/dk/m²** hedefini önerir; normotermik GDP için 280–300 mL/dk/m² alt eşikleri tartışılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arter basıncı hedefi",
+      "body": "EACTS 2024 KPB'de **MAP 50–80 mmHg**, Basics of CPB 50–70 mmHg verir. Hedef hasta ve serebral otoregülasyonla bireyselleştirilir; kaynak farkı testte puanlanmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Transfüzyonun oksijenasyon bağlamı",
+      "body": "EACTS 2024'te Hct **<%18** için eritrosit transfüzyonu önerilir; %18–24 arasında doku oksijenasyonu değerlendirilir. Hct >%24 ve oksijenasyon yeterliyse transfüzyon önerilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Pompa akımı vücut yüzey alanından nasıl hesaplanır?",
+      "answer": "**Akım = vücut yüzey alanı × kardiyak indeks**. Seçilen indeks ve sonuç birimleri hasta sıcaklığı ile metabolik gereksinime göre değerlendirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Heparin direnci antitrombin eksikliğine bağlıysa EACTS 2024 hangi yaklaşımı önceler?",
+      "answer": "**Antitrombin konsantresi**; bulunmuyorsa taze donmuş plazma değerlendirilebilir. Profilaktik plazma rutin önerilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB'den ayrılırken venöz dönüş ve pompa akımı birlikte nasıl değiştirilir?",
+      "answer": "Venöz dönüş kademeli kısılarak kalp doldurulur; aynı sırada **pompa akımı azaltılır** ve kalbin dolaşımı devralması değerlendirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin fazlası da sorun yaratır",
+      "body": "EACTS 2024 **protamin/heparin oranının <1,0** tutulmasını önerir. Aşırı protamin koagülasyonu bozabilir; dozlama ve kontrol yöntemi bireyselleştirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Ayrılmaya hazırlık çok bileşenlidir",
+      "body": "Weaning öncesi **ventilasyon, ritim, sıcaklık, de-airing, asit-baz ve elektrolitler** birlikte değerlendirilir. Güç ayrılma multidisipliner yaklaşım ve destek planı gerektirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

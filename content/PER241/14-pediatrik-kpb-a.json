@@ -1,0 +1,136 @@
+{
+  "topic": "Pediatrik KPB'nin temelleri",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "Hemodilüsyon",
+      "en": "Hemodilution",
+      "definition": "Prime solüsyonu ile kanın sulandırılması; Hct ve onkotik basınç düşer.",
+      "origin": "Yun. haima + Lat. dilutio"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Kardiyopulmoner bypass",
+      "en": "Cardiopulmonary bypass",
+      "definition": "Kalp ve akciğer işlevinin kalp-akciğer makinesi (pompa + oksijenatör) ile geçici üstlenilmesi."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ekstrakorporeal dolaşım",
+      "en": "Extracorporeal circulation",
+      "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+      "origin": "Lat. extra + corpus = beden dışı"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Hendrix ve ark. 2021",
+      "term": "Prime",
+      "en": "Prime / priming",
+      "definition": "KPB devresini havasız doldurmak için kullanılan solüsyon ve işlem.",
+      "origin": "İng. prime = hazırlamak"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "term": "Kanlı prime",
+      "en": "Blood prime",
+      "definition": "Hemodilüsyonu sınırlamak için ES ve/veya TDP içeren prime."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "Minyatürizasyon",
+      "en": "Miniaturization",
+      "definition": "Devre bileşenlerinin küçültülüp hatların kısaltılarak prime hacminin azaltılması."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Hagedorn ve ark. 2019",
+      "term": "RAP",
+      "en": "Retrograde autologous priming",
+      "definition": "Prime'ın hastanın kendi kanıyla geriye doğru itilip uzaklaştırılması."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Valleley ve ark. 2007",
+      "term": "PBUF",
+      "en": "Pre-bypass ultrafiltration",
+      "definition": "Kanlı prime'ın KPB öncesi ultrafiltrasyonla \"yıkanması\" (K, laktat, glukoz düşer; pH düzelir)."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Hendrix ve ark. 2021",
+      "term": "TDP",
+      "en": "Fresh frozen plasma",
+      "definition": "Pıhtılaşma faktörlerini içeren plazma ürünü; neonatal prime'da kullanılır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Valleley ve ark. 2007",
+      "term": "Eritrosit süspansiyonu",
+      "en": "Packed red blood cells",
+      "definition": "Prime'da Hct'yi yükseltmek için kullanılan ürün; metabolik yük nedeniyle yıkanabilir."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Valleley ve ark. 2007",
+      "term": "Taze tam kan",
+      "en": "Fresh whole blood",
+      "definition": "Koagülasyon faktörleri ve trombositleri de içeren, tazelik süresi çalışmanın protokolünde tanımlanan tam kan ürünü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "VAVD",
+      "en": "Vacuum-assisted venous drainage",
+      "definition": "Venöz rezervuara kontrollü negatif basınç uygulayarak drenajı artırma."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Ramakrishnan ve ark. 2023",
+      "term": "Oksijen sunumu",
+      "en": "Oxygen delivery",
+      "definition": "Birim zamanda dokulara taşınan oksijen miktarı. Pompa akımı ve kanın oksijen taşıma kapasitesiyle ilişkilidir."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Ramakrishnan ve ark. 2023",
+      "term": "Kardiyak indeks",
+      "en": "Cardiac index",
+      "definition": "Kardiyak debinin BSA'ya bölünmesi (L/dk/m²)."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "BSA",
+      "en": "Body surface area",
+      "definition": "Boy ve kilodan hesaplanabilen, kardiyak indeks ve pompa akımını değerlendirmede kullanılan vücut büyüklüğü ölçütü."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Kalp-akciğer makinesi",
+      "en": "Heart-lung machine",
+      "definition": "Pompa ve oksijenatörden oluşan KPB cihazı."
+    }
+  ]
+}

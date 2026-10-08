@@ -1,0 +1,96 @@
+{
+  "topic": "Kardiyovasküler fizyoloji",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Frank-Starling eğrisinin kayması",
+      "body": "Ardyük artışı veya kontraktilite azalması Frank-Starling eğrisini **aşağı-sağa** kaydırır; aynı önyükte daha düşük atım hacmi elde edilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Duvar kalınlığı ve stres",
+      "body": "Laplace ilişkisine göre aynı basınç ve yarıçapta duvar kalınlığının artması **duvar stresini azaltır**.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ardyük artışında kalan kan",
+      "body": "Ardyük artışı sistol sonu hacmi artırıp atım hacmini azaltabilir. Yetersiz kalp, sağlıklı kalbe göre bu değişime daha duyarlıdır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Diyastolik yetersizlikte EF",
+      "body": "Korunmuş ejeksiyon fraksiyonu **normal diyastolik işlev anlamına gelmez**; düşük ventrikül kompliyansı doluşu bozabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Metabolik koroner düzenleme",
+      "body": "Koroner akımın metabolik düzenlenmesinde **adenozin ve nitrik oksit** önemlidir. Oksijen ihtiyacı arttığında akım artışı gerekir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Kalp hızı artarken koroner oksijen dengesi neden bozulabilir?",
+      "answer": "Taşikardi **oksijen talebini artırır** ve diyastolü kısaltarak koroner oksijen sunumunu azaltabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Atriyal fibrilasyon önyükü hangi mekanizmayla azaltabilir?",
+      "answer": "**Atriyal kasılmanın doluşa katkısı kaybolur**; bu durum ventrikül doluşunu azaltabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kontraktilite artışı sistol sonu hacmi nasıl etkiler?",
+      "answer": "Daha güçlü boşalma nedeniyle **sistol sonu hacmi azalır**, atım hacmi artar.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "AV düğümdeki ileti gecikmesinin işlevi nedir?",
+      "answer": "Atriyal kasılmanın ventrikül kasılmasından **önce tamamlanmasına** zaman sağlar.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Subendokardı koru",
+      "body": "**Subendokard**, sistolik kompresyon nedeniyle iskemiye en duyarlı miyokard bölgesidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Akım artışı neden gerekli?",
+      "body": "Miyokardın oksijen ekstraksiyonu zaten yüksektir. Artan talep esas olarak **koroner kan akımının artışıyla** karşılanır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Edwards: hemodinamik aralıklar",
+      "body": "Edwards 2022'de kalp debisi **4–8 L/dk**, kardiyak indeks **2,5–4 L/dk/m²** olarak verilir. Klabunde indeks aralığını 2,6–4,2 L/dk/m² bildirir; kaynaklar farklıdır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: vasküler direnç",
+      "body": "Edwards 2022'de sistemik direnç **800–1.200 dyn·sn·cm⁻⁵**, pulmoner direnç **100–250 dyn·sn·cm⁻⁵** olarak verilir. Normal aralıklar kaynak ve klinik bağlamla değerlendirilir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    }
+  ]
+}

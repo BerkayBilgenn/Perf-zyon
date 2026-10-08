@@ -1,0 +1,77 @@
+{
+  "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp boşlukları açılmayan tipik CABG'de hangi venöz kanül düzeni kullanılır?",
+      "options": [
+        "Yalnız koroner sinüs kanülü",
+        "Yalnız pulmoner ven kanülü",
+        "Yalnız sol ventrikül apeks kanülü",
+        "İki kademeli kavo-atriyal kanül"
+      ],
+      "correct": 3,
+      "explanation": "CABG'de tipik venöz dönüş iki kademeli kavo-atriyal kanülle sağlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ciddi aort darlığı ve LV hipertrofisinde klemp kaldırılınca hangi ritim görülebilir?",
+      "options": [
+        "Ventrikül fibrilasyonu",
+        "Atriyal standstill",
+        "Sinüs arresti",
+        "Birinci derece AV blok"
+      ],
+      "correct": 0,
+      "explanation": "Basics of CPB, özellikle ciddi AS ve LVH'de klemp sonrası VF olabileceğini vurgular.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Minimal invaziv mitral cerrahide femoral venöz kanül ucunun konumu neyle doğrulanır?",
+      "options": [
+        "Gaz oksijen analizörü",
+        "Transözofageal ekokardiyografi",
+        "Kan gazı pH ölçümü",
+        "Rezervuar seviye sensörü"
+      ],
+      "correct": 1,
+      "explanation": "TEE kılavuz tel ve venöz kanülün hedef konumda olduğunu doğrulamada kullanılır.",
+      "source": "MIMVS kanülasyon çalışmaları 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "CABG'de epiaortik ultrasonun başlıca amacı nedir?",
+      "options": [
+        "Kardiyopleji oranını hesaplamak",
+        "Gaz karışımını doğrulamak",
+        "Aort ateromlarını değerlendirmek",
+        "Kaval turnike basıncını ölçmek"
+      ],
+      "correct": 2,
+      "explanation": "Aort manipülasyonu planlanırken ateromların saptanması serebral emboli riskini azaltmaya yardımcı olur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "OPCAB, KPB kullanılarak durmuş kalpte yapılan koroner cerrahidir.",
+      "isTrue": false,
+      "explanation": "OPCAB, KPB'siz atan kalpte yapılan koroner bypass cerrahisidir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sol kalp boşlukları açılan kapak cerrahisinde de-airing önemlidir.",
+      "isTrue": true,
+      "explanation": "Sol tarafta kalan hava sistemik dolaşıma taşınabilir; venting, dolum ve TEE değerlendirmesi kullanılır.",
+      "source": "De-airing derlemesi 2026"
+    }
+  ]
+}

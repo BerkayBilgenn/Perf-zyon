@@ -1,0 +1,82 @@
+{
+  "topic": "Anestezi cihazı ve mekanik ventilasyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Silindirde kalan N2O",
+      "body": "Nitröz oksit silindirinde sıvı kaldıkça basınç yaklaşık sabit kalır; kalan miktar **tartılarak** değerlendirilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijen güvenliğinin sınırı",
+      "body": "Oksijen yetmezlik güvenlik sistemi **basıncı** algılar; yanlış gaz dolumunu veya hatalı akış karışımını tek başına saptayamaz.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Gaz kimliğinde etiket",
+      "body": "Gaz silindirinin **etiketi okunmalıdır**. Renk kodu ülkelere göre farklılaşabildiğinden tek başına birincil tanımlama yöntemi değildir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Vaporizatör kilidi",
+      "body": "Vaporizatörler arasındaki **interlock**, aynı anda birden fazla vaporizatörün açılmasını önleyen güvenlik mekanizmasıdır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Absorban renginin sınırı",
+      "body": "Soda lime indikatörünün renk değişimi, absorbanın işlevini değerlendirmede **tek başına tamamen güvenilir değildir**.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Makine arızasına hazırlık",
+      "body": "Anestezi cihazı kontrolünde **kendiliğinden şişen balon ve alternatif oksijen kaynağı** hazır bulundurulur.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Düşük basınçlı anestezi sistemi hangi bölümden başlar?",
+      "answer": "**Akış ölçerlerin sonrasından** başlar; vaporizatörler ve ortak gaz çıkışını kapsar.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Halka sistemde hiperkapninin devreyle ilişkili nedenleri nelerdir?",
+      "answer": "**Tükenmiş absorban, yetersiz tek yönlü valf ve absorban baypasının yanlış kullanımı** yeniden karbondioksit solunmasına yol açabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Oksijen flaş valfi anesteziği neden seyreltebilir?",
+      "answer": "Saf oksijeni **akış ölçer ve vaporizatörü atlayarak** verir; hastaya giden anestezik konsantrasyonu azalabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Oksijen ölçerinin yeri",
+      "body": "Klasik akış ölçer dizisinde **oksijen ölçeri en sonda**, aşağı akımda yer alır; ara tüp kaçağında hipoksik karışım riskini azaltır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Gaz basıncı yeterli değil",
+      "body": "Oksijen basıncı güvenlik sistemi oksijen konsantrasyonunu doğrudan ölçmez. **Oksijen analizörü** ayrı bir güvenlik katmanıdır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    }
+  ]
+}

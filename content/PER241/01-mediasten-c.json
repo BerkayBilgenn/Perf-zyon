@@ -1,0 +1,91 @@
+{
+  "topic": "Mediasten anatomisi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Üst mediastenin üst sınırını hangi yapı oluşturur?",
+      "options": [
+        "Toraks girişi",
+        "Diyafram",
+        "Perikardın alt yüzü",
+        "Akciğer hilusu"
+      ],
+      "correct": 0,
+      "explanation": "Üst mediasten yukarıda toraks girişiyle sınırlanır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Üst mediastenin ön sınırındaki kemik yapı hangisidir?",
+      "options": [
+        "Vertebra cismi",
+        "Manubrium",
+        "Ksifoid çıkıntı",
+        "Skapula"
+      ],
+      "correct": 1,
+      "explanation": "Ön sınır sternumun manubrium bölümüdür."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Aşağıdaki venöz yapılardan hangisi arka mediastende yer alır?",
+      "options": [
+        "Pulmoner ven",
+        "Koroner sinüs",
+        "Hemiazigos ven",
+        "Vena kava superior"
+      ],
+      "correct": 2,
+      "explanation": "Azigos, hemiazigos ve aksesuar hemiazigos sistemi arka mediastendedir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "İnen torasik aortanın dalları arasında hangisi bulunur?",
+      "options": [
+        "Koroner arterler",
+        "Ana pulmoner arterler",
+        "Brakiyosefalik arter",
+        "Posterior interkostal arterler"
+      ],
+      "correct": 3,
+      "explanation": "İnen torasik aorta, arka göğüs duvarına posterior interkostal dallar verir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Frenik sinir ile akciğer hilusunun ilişkisi hangisidir?",
+      "options": [
+        "Sinir hilusun önünden geçer",
+        "Sinir hilusun arkasından geçer",
+        "Sinir hilusun içinden geçer",
+        "Sinir hilusta sonlanır"
+      ],
+      "correct": 0,
+      "explanation": "Frenik önden, vagus hilusun arkasından seyreder."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "statement": "Ön mediasten, sternum ile perikard arasında yer alır.",
+      "isTrue": true,
+      "explanation": "Ön mediasten bu iki yapı arasındaki dar bölümdür."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "statement": "Kalp ve perikard kesesi arka mediastenin temel içerikleridir.",
+      "isTrue": false,
+      "explanation": "Kalp ve perikard orta mediastende yer alır; arka mediastende özofagus ve inen aorta gibi yapılar vardır."
+    }
+  ]
+}

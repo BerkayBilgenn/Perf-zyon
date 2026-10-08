@@ -1,0 +1,63 @@
+{
+  "topic": "Pediatrik koroner hastalıklar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "ALCAPA'da sol koroner arter nereden çıkar?",
+      "options": [
+        "Sol aortik sinüs",
+        "Sağ aortik sinüs",
+        "Subklavyen arter",
+        "Pulmoner arter"
+      ],
+      "correct": 3,
+      "explanation": "ALCAPA sol koroner arterin pulmoner arterden anormal çıkışıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Koroner arter ile kalp boşluğu arasında doğrudan anormal bağlantı hangi terimdir?",
+      "options": [
+        "Koroner arter fistülü",
+        "Aort koarktasyonu",
+        "Atriyal septal defekt",
+        "Pulmoner kapak stenozu"
+      ],
+      "correct": 0,
+      "explanation": "Fistül, koroner arterle kalp boşluğu veya büyük damar arasındaki anormal bağlantıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "AAOCA'daki temel anatomik sorun hangisidir?",
+      "options": [
+        "Sol koronerin pulmoner arterden çıkması",
+        "Koronerin yanlış aortik sinüsten çıkması",
+        "Pulmoner venlerin sağ atriyuma dönmesi",
+        "Aort kapağının tamamen kapalı olması"
+      ],
+      "correct": 1,
+      "explanation": "AAOCA aortadan anormal koroner çıkışıdır; ALCAPA pulmoner kökenlidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "AAOCA, pulmoner venlerin yanlış atriyuma açılmasını ifade eder.",
+      "isTrue": false,
+      "explanation": "AAOCA koroner arterin aortada yanlış sinüsten çıkmasını ifade eder."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "AHA Kawasaki 2017",
+      "statement": "Kawasaki tedavisinde IV immünoglobuline aspirin eşlik edebilir.",
+      "isTrue": true,
+      "explanation": "Araştırmanın Kawasaki tedavi maddesi IVIG ile aspirin kullanımını birlikte ele alır."
+    }
+  ]
+}

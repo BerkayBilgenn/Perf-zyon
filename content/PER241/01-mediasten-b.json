@@ -1,0 +1,61 @@
+{
+  "topic": "Mediasten anatomisi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Mediastenin yan sınırları",
+      "body": "Mediastenin iki yanında **mediastinal plevra** bulunur. Üst mediastenin ön sınırı manubrium, arka sınırı vertebra cisimleridir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Üst mediastenin en önündeki yapı hangisidir?",
+      "answer": "**Timus**, sternumun arka yüzüne komşu lenfoid organdır."
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "question": "Ön mediastende hangi damarların dalları bulunur?",
+      "answer": "Ön mediastende yağ ve lenf düğümlerine ek olarak **internal torasik damarların dalları** bulunur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Orta mediastenin damarları",
+      "body": "Kalple birlikte **çıkan aorta, pulmoner trunkus ve vena kava superior** orta mediastende yer alır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Özofageal pleksus hangi sinirle ilişkilidir?",
+      "answer": "Mediastende özofagus çevresindeki pleksusun oluşumuna **vagus sinirleri** katılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Duktus torasikusun toraksa girişi",
+      "body": "Duktus torasikus, **aort hiatusundan** toraksa girer. Özofagus ise özofageal hiatusu kullanır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "İnen torasik aorta vertebralara göre nereden seyreder?",
+      "answer": "İnen torasik aorta, arka mediastende vertebraların **sol tarafında** ilerler."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "UNSW Embryology",
+      "title": "Arkus cerrahisinde sinir komşuluğu",
+      "body": "Sol rekürren laringeal sinir **arkus aortanın altından** döner; duktus ve ark cerrahisindeki anatomik ilişkiyi hatırla."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "topic": "KPB'de anestezi, ayrılma ve aciller",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "KPB'de kanülasyon yerinde aort diseksiyonunun tanısına hangi araç katkı sağlar?",
+      "options": [
+        "Ekokardiyografi",
+        "Arter basıncı transdüseri",
+        "Pulmoner arter kateteri",
+        "Kardiyak indeks ölçümü"
+      ],
+      "correct": 0,
+      "explanation": "Ekokardiyografi iyatrojenik aort diseksiyonunun tanısında önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB devresinde rezervuar boşalmasını algılayan güvenlik aracı hangisidir?",
+      "options": [
+        "Kabarcık dedektörü",
+        "Seviye dedektörü",
+        "Arteriyel basınç transdüseri",
+        "Arteriyel akım sensörü"
+      ],
+      "correct": 1,
+      "explanation": "Rezervuar seviye dedektörü düşük seviye ve hava girme riskini algılar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB devresinde hava varlığını algılayan güvenlik aracı hangisidir?",
+      "options": [
+        "Rezervuar seviye dedektörü",
+        "Arteriyel basınç transdüseri",
+        "Kabarcık dedektörü",
+        "Arteriyel akım sensörü"
+      ],
+      "correct": 2,
+      "explanation": "Kabarcık dedektörleri arteriyel hatta hava güvenliğinin parçalarındandır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Zor KPB ayrılması yalnız anestezi ilaçlarını keserek değerlendirilir.",
+      "isTrue": false,
+      "explanation": "Zor ayrılma çok etkenlidir; ritim, doluş, ventrikül/kapak işlevi, ventilasyon ve gerektiğinde dolaşım desteği birlikte değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

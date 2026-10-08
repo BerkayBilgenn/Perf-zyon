@@ -1,0 +1,68 @@
+{
+  "topic": "KPB devresi ve kan akış yolu",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Konvansiyonel devrede sıra",
+      "body": "Venöz kanül → venöz rezervuar → arteriyel pompa → ısı değiştirici/oksijenatör → arteriyel filtre → arteriyel kanül. Sıra **açık konvansiyonel devre** içindir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Pompadan geçen kan",
+      "body": "Membran oksijenatörlü modern devrede arteriyel pompadan **venöz, oksijensiz kan** geçer; oksijenlenme pompa sonrasında gerçekleşir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kardiyopleji yan devresi",
+      "body": "Kardiyopleji hattı, ana arteriyel devreden farklı olarak **ayrı pompa ve ısı değiştirici** kullanır; basınç ve hava güvenliği ayrıca sağlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hemofiltre şantı",
+      "body": "Hemokonsantratör ana devreye ek bir hat üzerinden bağlanabilir. Ana arteriyel akımdan ayrılan şant akımı, hastaya ulaşan gerçek akım değerlendirilirken dikkate alınır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Bileşenlerin izlenebilirliği",
+      "body": "Perfüzyon kaydına devre bileşenlerinin **üretici, model ve seri/lot bilgileri** yazılır. Bu kayıt, sonradan oluşan cihaz sorunlarının araştırılmasına yardım eder.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Isı değiştiricinin oksijenatöre göre proksimal konumu neden önemlidir?",
+      "answer": "Satüre kanın sıcaklığının değişmesiyle gaz kabarcıklarının ortaya çıkmasını azaltmak için ısı değişimi **oksijenlenmeden önce** yapılır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyotomi aspirasyon hattı devrenin hangi bölümüne kan taşır?",
+      "answer": "Cerrahi sahadaki kanı **kardiyotomi rezervuarına** taşır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Gaz hattındaki karıştırıcıdan sonra gaz nereye gider?",
+      "answer": "Blenderde ayarlanan karışım, gaz hattından **oksijenatörün gaz bölümüne** iletilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Şemayı hastadan hastaya izle",
+      "body": "Devre kontrolü yalnız bileşenleri saymakla tamamlanmaz. **Venöz girişten arteriyel dönüşe kadar** hat yönü ve bağlantılar izlenmelidir.",
+      "source": "AmSECT 2017"
+    }
+  ]
+}

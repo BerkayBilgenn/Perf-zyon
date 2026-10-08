@@ -1,0 +1,99 @@
+{
+  "topic": "Oksijenatörler ve gaz transferi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Gaz blenderi hangi iki gazı karıştırarak oksijen fraksiyonunu ayarlar?",
+      "options": [
+        "Azot ve helyum",
+        "Karbondioksit ve azot",
+        "Helyum ve karbondioksit",
+        "Oksijen ve hava"
+      ],
+      "correct": 3,
+      "explanation": "Blender, oksijen ve havayı karıştırır; toplam gaz akımı ayrı akımölçerle ayarlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Gaz beslemesinin yedeklenmesi hangi arıza riskine karşıdır?",
+      "options": [
+        "Merkezî gaz kaynağının kesilmesi",
+        "Venöz kanülün katlanması",
+        "Kaval turnikenin gevşemesi",
+        "Su filtresinin tıkanması"
+      ],
+      "correct": 0,
+      "explanation": "AmSECT 2017, gaz beslemesinin kesilmesine karşı yedek gaz kaynağını zorunlu tutar.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Oksijenatör çıkışındaki scavenging hangi amaçla kullanılır?",
+      "options": [
+        "Kanı venöz kanüle döndürmek",
+        "Atık anestezik gazları uzaklaştırmak",
+        "Prime sıvısını filtrelemek",
+        "Koroner sinüs basıncını ölçmek"
+      ],
+      "correct": 1,
+      "explanation": "Volatil ajan kullanıldığında oksijenatör çıkışındaki atık gazlar uzaklaştırılır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Scavenger'ın aşırı negatif basıncı hangi komplikasyona yol açabilir?",
+      "options": [
+        "Kaval turnike kopması",
+        "Aort kapağının kalsifikasyonu",
+        "Membran hasarı ve oksijenatör arızası",
+        "Venöz kanül çapının genişlemesi"
+      ],
+      "correct": 2,
+      "explanation": "Scavenging bağlantısındaki aşırı negatif basınç membran rüptürü ve oksijenatör yetmezliği oluşturabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Gazdaki oksijen oranını doğrudan doğrulayan cihaz hangisidir?",
+      "options": [
+        "Venöz oklüder",
+        "Isı değiştirici",
+        "Basınç tahliye valfi",
+        "Oksijen analizörü"
+      ],
+      "correct": 3,
+      "explanation": "Oksijen analizörü oksijenatöre gönderilen gazın oksijen içeriğini ölçer.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Silikon membran mikroporöz bir PP membranıdır.",
+      "isTrue": false,
+      "explanation": "Silikon membran non-poröz gerçek difüzyon membranıdır; PP mikroporöz yapıdadır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "PP ve PMP oksijenatörlerde yoğuşma işlevi azaltabilir.",
+      "isTrue": true,
+      "explanation": "Kondansat birikimi her iki oksijenatör malzemesinde de işlevi etkileyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Radyal ve aksiyal akımlı oksijenatörler için mortalite üstünlüğü gösterilmiştir.",
+      "isTrue": false,
+      "explanation": "EACTS 2024'te aktarılan karşılaştırmada radyal ve aksiyal tasarımlar arasında mortalite farkı bulunmamıştır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

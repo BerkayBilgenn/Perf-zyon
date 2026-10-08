@@ -1,0 +1,75 @@
+{
+  "topic": "Transfüzyon ve kan koruma",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kan korumada priming",
+      "body": "Devrenin priming hacminin azaltılması **hemodilüsyonu azaltır** ve hasta kan yönetiminin bir parçasıdır.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Rezidüel pompa kanı",
+      "body": "Kardiyopulmoner bypass sonundaki rezidüel devre kanı, kurum yaklaşımına göre işlenmeden, hücre kurtarıcıyla veya ultrafiltrasyon sonrası geri verilebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hemolizde laboratuvar yönü",
+      "body": "Akut hemolitik reaksiyonda hemoglobinemi ve hemoglobinüri görülebilir; **haptoglobin azalırken LDH ve indirekt bilirubin artar**.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Lökosit azaltımı ve deplesyon",
+      "body": "Buffy coat çıkarılmasıyla lökosit azaltımı ile **filtrasyonla lökodeplesyon** aynı işlem değildir.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Transfüzyonda oksijen dengesi",
+      "body": "2024 PBM kılavuzu transfüzyon kararını yalnız sabit hemoglobin eşiğine bağlamaz; **oksijen sunumu ve ekstraksiyon dengesi** değerlendirilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Sitrat içeren kan ürünleri hipokalsemiyi hangi mekanizmayla oluşturur?",
+      "answer": "**Sitratın kalsiyumu bağlaması** iyonize kalsiyumu azaltabilir; hızlı ve masif transfüzyonda önemlidir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kriyopresipitatın kan koruma açısından temel bileşeni nedir?",
+      "answer": "**Fibrinojen**; hipofibrinojenemiye bağlı kanamada pıhtı substratı sağlar.",
+      "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Işınlama hedefi",
+      "body": "Kan bileşenlerinin ışınlanması, canlı donör T lenfositlerinin oluşturduğu **TA-GVHD'yi** önlemek içindir; lökodeplesyonla eşdeğer değildir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "TRICS III'te restriktif eşik",
+      "body": "2024 PBM kılavuzunun aktardığı TRICS III'te **Hb <7,5 g/dL** eşiği kullanan restriktif strateji, çalışmanın hasta ve sonlanım koşullarında liberal stratejiye non-inferior bulunmuştur.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "KPB'de hemoglobin ve sunum",
+      "body": "2024 KPB kılavuzu Hb **<6,0 g/dL** için eritrosit desteğini tartışır; oksijen sunumu >273 mL/dk/m² ve serebral oksimetri yeterliyse Hct %21–24 kabul edilebilir. Eşik klinik bağlamla değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

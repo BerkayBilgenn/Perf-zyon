@@ -1,0 +1,117 @@
+{
+  "topic": "Akışkan dinamiği ve hemodinami",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Akışkan dinamiği",
+      "definition": "Akışkanların hareketini ve basınç–akım–direnç ilişkisini inceleyen fizik dalı.",
+      "en": "Fluid dynamics",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Laminer akım",
+      "definition": "Paralel katmanlar hâlinde, parabolik hız profilli düzenli akım.",
+      "en": "Laminar flow",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Türbülan akım",
+      "definition": "Katmanların bozulduğu kaotik akım; enerji kaybı fazladır.",
+      "en": "Turbulent flow",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Reynolds sayısı",
+      "definition": "Re = ρVD/η; laminerden türbülansa geçişi öngören boyutsuz sayı.",
+      "en": "Reynolds number",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Poiseuille yasası",
+      "definition": "Laminer akımda akımın r⁴ ve basınç farkıyla doğru, viskozite ve uzunlukla ters orantılı olması.",
+      "en": "Poiseuille's law",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Viskozite",
+      "definition": "Akışkan katmanları arasındaki iç sürtünme; kanda hematokrit artışı ve soğumayla artar.",
+      "en": "Viscosity",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Newtonyen olmayan sıvı",
+      "definition": "Viskozitesi akım hızına göre değişen sıvı (kan: düşük akımda viskozite artar).",
+      "en": "Non-Newtonian fluid",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bernoulli ilkesi",
+      "definition": "Akışta kinetik + basınç enerjisinin korunması; hız artınca lateral basınç düşer (Venturi).",
+      "en": "Bernoulli principle",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Laplace yasası",
+      "definition": "Duvar gerilimi ∝ basınç × yarıçap; dilate ventrikülde gerilim ve O₂ ihtiyacı artar.",
+      "en": "Law of Laplace",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Akım düzeni",
+      "left": {
+        "title": "Laminer akım",
+        "points": [
+          "Paralel katmanlar; düzenli hız profili",
+          "Enerji kaybı daha az"
+        ]
+      },
+      "right": {
+        "title": "Türbülan akım",
+        "points": [
+          "Düzensiz, kaotik hareket",
+          "Aynı akım için daha fazla basınç gerekir"
+        ]
+      },
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Akımın fiziksel açıklaması",
+      "left": {
+        "title": "Poiseuille",
+        "points": [
+          "Direnci çap, uzunluk ve viskoziteyle ilişkilendirir",
+          "Uzun düz tüpte laminer akım varsayar"
+        ]
+      },
+      "right": {
+        "title": "Bernoulli",
+        "points": [
+          "Kinetik enerji ile basınç enerjisini ilişkilendirir",
+          "Darlıkta hız artışı ve lateral basınç düşüşünü açıklar"
+        ]
+      },
+      "source": "Klabunde: CV Physiology"
+    }
+  ]
+}

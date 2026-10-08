@@ -1,0 +1,261 @@
+{
+  "topic": "Hemostaz ve pıhtılaşma testleri",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hemostaz",
+      "en": "Hemostasis",
+      "definition": "Kanamanın durdurulması; trombosit tıkacı, pıhtılaşma ve fibrinoliz dengesi.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Primer hemostaz",
+      "en": "Primary hemostasis",
+      "definition": "Vazospazm ve trombosit adezyon-agregasyonuyla trombosit tıkacı oluşumu.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sekonder hemostaz",
+      "en": "Secondary hemostasis",
+      "definition": "Pıhtılaşma kaskadıyla fibrin oluşumu ve tıkacın sağlamlaştırılması.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trombosit",
+      "en": "Platelet (thrombocyte)",
+      "definition": "Megakaryositlerden türeyen çekirdeksiz hücre parçası; primer hemostazın temel unsuru.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "von Willebrand faktörü",
+      "en": "von Willebrand factor",
+      "definition": "Trombositleri GPIb ile subendotel kollajene bağlayan ve FVIII'i taşıyan glikoprotein.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "GP IIb/IIIa",
+      "en": "Glycoprotein IIb/IIIa",
+      "definition": "Fibrinojen aracılığıyla trombositleri birbirine bağlayan agregasyon reseptörü.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Doku faktörü",
+      "en": "Tissue factor",
+      "definition": "Subendotelde bulunan, in vivo pıhtılaşmanın ana başlatıcısı.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ekstrinsik yol",
+      "en": "Extrinsic pathway",
+      "definition": "Doku faktörü–FVIIa ile FX'in aktive edildiği yol; PT ile değerlendirilir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "İntrinsik yol",
+      "en": "Intrinsic pathway",
+      "definition": "FXII, FXI, FIX ve FVIII aracılığıyla FX aktivasyonu; aPTT ve ACT ile değerlendirilir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ortak yol",
+      "en": "Common pathway",
+      "definition": "FXa–FVa (protrombinaz) ile trombin ve fibrin oluşumu.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hücre temelli pıhtılaşma modeli",
+      "en": "Cell-based model",
+      "definition": "Pıhtılaşmanın hücre yüzeyinde başlatma, amplifikasyon, yayılım ve stabilizasyon evreleriyle açıklanması.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Trombin",
+      "en": "Thrombin",
+      "definition": "Fibrinojeni fibrine çeviren, FV, FVIII, FXIII ve trombositleri aktive eden merkezi enzim.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Fibrinojen",
+      "en": "Fibrinogen",
+      "definition": "Karaciğerde üretilen, trombin etkisiyle fibrine dönüşen çözünür plazma proteini; pıhtı sağlamlığına katkı sağlar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Faktör XIII",
+      "en": "Factor XIII (fibrin-stabilizing factor)",
+      "definition": "Fibrin polimerlerini çapraz bağlayarak pıhtıyı stabilize eden faktör.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Labil faktörler",
+      "en": "Labile factors (FV, FVIII)",
+      "definition": "Depolanmış kanda aktivitesini hızla kaybeden faktörler.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "K vitaminine bağımlı faktörler",
+      "en": "Vitamin K-dependent factors",
+      "definition": "γ-karboksilasyon gerektiren FII, FVII, FIX, FX ile protein C ve S.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Protein C / Protein S",
+      "en": "Protein C / Protein S",
+      "definition": "Aktive protein C, protein S kofaktörüyle FVa ve FVIIIa'yı inaktive eder.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TFPI",
+      "en": "Tissue factor pathway inhibitor",
+      "definition": "Doku faktörü–FVIIa kompleksini inhibe eden doğal antikoagülan.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fibrinoliz",
+      "en": "Fibrinolysis",
+      "definition": "Plazminin fibrini yıkım ürünlerine parçalaması.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PAI-1",
+      "en": "Plasminogen activator inhibitor-1",
+      "definition": "tPA ve uPA'yı geri dönüşsüz inhibe eden ana fizyolojik fibrinoliz inhibitörü.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "D-dimer",
+      "en": "D-dimer",
+      "definition": "Çapraz bağlı fibrinin yıkım ürünü; fibrinolizin özgül göstergesi.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "PT / INR",
+      "en": "Prothrombin time / INR",
+      "definition": "Ekstrinsik ve ortak pıhtılaşma yollarını değerlendiren test ve bunun standartlaştırılmış oranı; varfarin etkisinin izleminde kullanılır.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "aPTT",
+      "en": "Activated partial thromboplastin time",
+      "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren aktive parsiyel tromboplastin zamanı testi.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TEG / ROTEM",
+      "en": "Thromboelastography / rotational thromboelastometry",
+      "definition": "Tam kanda pıhtı oluşumunu, sağlamlığını ve lizisini grafikle gösteren viskoelastik testler.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "MA / MCF",
+      "en": "Maximum amplitude / maximum clot firmness",
+      "definition": "TEG'de (MA) ve ROTEM'de (MCF) pıhtının ulaştığı en yüksek sağlamlık; trombosit ve fibrinojene bağlı.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "FIBTEM",
+      "en": "FIBTEM",
+      "definition": "Trombositleri sitokalasin D ile inhibe ederek fibrinojenin pıhtıya katkısını gösteren ROTEM testi.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "HEPTEM",
+      "en": "HEPTEM",
+      "definition": "Heparinaz eklenmiş INTEM; INTEM ile karşılaştırılarak heparin etkisi/rebound saptanır.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Antikoagülasyon izlem testleri",
+      "left": {
+        "title": "aPTT",
+        "points": [
+          "Plazmada laboratuvar testi",
+          "Daha düşük heparin düzeylerinde kullanılır"
+        ]
+      },
+      "right": {
+        "title": "ACT",
+        "points": [
+          "Tam kanda yatak başı testi",
+          "KPB'de yüksek heparin etkisini izler"
+        ]
+      },
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Pıhtılaşma yolları",
+      "left": {
+        "title": "Ekstrinsik yol",
+        "points": [
+          "Doku faktörü–FVIIa ile başlar",
+          "PT ile değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "İntrinsik yol",
+        "points": [
+          "Kontakt aktivasyonla başlayan yol",
+          "aPTT ile değerlendirilir"
+        ]
+      },
+      "source": "Indian J Anaesth 2014: hemostaz"
+    }
+  ]
+}

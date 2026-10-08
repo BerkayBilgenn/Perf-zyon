@@ -1,0 +1,89 @@
+{
+  "topic": "Otonom sinir sistemi ve ilaçlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Preganglionik iletim",
+      "body": "Sempatik ve parasempatik sistemlerin preganglionik nöronlarında ortak nörotransmitter **asetilkolindir**.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalbe vagal uyarı",
+      "body": "Parasempatik uyarı kalp hızını ve AV düğüm iletisini **yavaşlatır**; ventriküllerde vagal innervasyon seyrektir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Adenozinin etkileşimi",
+      "body": "**Kafein ve teofilin** adenozinin etkisini azaltırken, dipiridamol etkisini artırabilir.",
+      "source": "DailyMed: adenozin"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Amiodaronun kardiyak yan etkisi",
+      "body": "İntravenöz amiodaron hipotansiyon, bradikardi ve AV blok yapabilir; antiaritmik etkisi hemodinamik izlemi gereksiz kılmaz.",
+      "source": "DailyMed: amiodaron"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "İnotropi ve oksijen maliyeti",
+      "body": "İnotroplar kontraktiliteyi artırırken **miyokard oksijen tüketimini** de artırabilir; debi artışı oksijen dengesiyle birlikte değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Noradrenalin ekstravazasyonunda kullanılan α-bloker hangisidir?",
+      "answer": "**Fentolamin**, lokal vazokonstriksiyon ve doku nekrozu riskini azaltmak için kullanılan α-blokerdir.",
+      "source": "DailyMed: noradrenalin"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Nitroprussid toksisitesinde venöz hiperoksemi neden oluşur?",
+      "answer": "Siyanür **hücresel oksijen kullanımını bozar**; dokuda oksijen kullanımı azalınca venöz kan beklenmedik biçimde oksijenli kalabilir.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Nitrogliserin düşük dozda önyükü nasıl azaltır?",
+      "answer": "**Venodilatasyon ve venöz göllenme** oluşturur; sol ventrikül doluş basıncı azalabilir.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Nitrogliserin etkileşimi",
+      "body": "Nitrogliserin ile **PDE-5 inhibitörlerinin** birlikte kullanımı kontrendikedir; ciddi hipotansiyon riski vardır.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Nitroprussidi koru",
+      "body": "Sodyum nitroprussid **ışıktan korunur**. Siyanür toksisitesinde venöz hiperoksemi ve metabolik asidoz uyarıcı olabilir.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Adenozin etiketindeki başlangıç",
+      "body": "DailyMed'de erişkin paroksismal supraventriküler taşikardide başlangıç **6 mg hızlı intravenöz bolus (1–2 sn)** olarak verilir; ardından serum fizyolojikle yıkanır. Etkisizse 12 mg uygulanabilir.",
+      "source": "DailyMed: adenozin"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Vazopressin ve pulmoner direnç",
+      "body": "2024 KPB kılavuzu vazopressini, adrenerjik vazopresörlerin aksine **pulmoner direnci artırmayan** bir seçenek olarak tanımlar; seçim hastanın dolaşım tablosuna göre yapılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

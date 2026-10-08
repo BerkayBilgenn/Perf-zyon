@@ -1,0 +1,103 @@
+{
+  "topic": "Kardiyak cerrahide monitörizasyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB'de düşük radial ölçüm",
+      "body": "Kardiyopulmoner bypass sırasında beklenmedik düşük radial basınç, femoral/brakiyal hat ya da aort kökü ölçümüyle doğrulanabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "PAK ilerletme sırası",
+      "body": "Pulmoner arter kateteri venöz yoldan **sağ atriyum → sağ ventrikül → pulmoner arter** sırasıyla ilerler; konum basınç dalga formuyla tanınır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "TÖE ve hava boşaltma",
+      "body": "Transözofageal ekokardiyografi, kardiyopulmoner bypasstan ayrılmadan önce **rezidüel havayı** ve hava boşaltmanın yeterliliğini değerlendirmeye yardım eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hipotermi ve BİS",
+      "body": "Hipotermi bispektral indeksi düşürebilir. Bu nedenle düşük değerin yorumunda **sıcaklık** da dikkate alınır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "NIRS düşüşünün değerlendirilmesi",
+      "body": "Serebral oksimetri düşüşü için kullanılan algoritmalar baş pozisyonu, perfüzyon basıncı, hematokrit ve arteriyel karbondioksiti değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Isı ölçüm bölgesi",
+      "body": "Kardiyopulmoner bypassta **nazofarengeal ısı** yaygın izlenir; farklı ölçüm bölgeleri aynı hızda değişmeyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Pulmoner arter kateteriyle debi hangi yöntemle ölçülebilir?",
+      "answer": "**Termodilüsyon** yöntemiyle kan sıcaklığındaki değişimden kalp debisi hesaplanabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Arter kateterinin başlıca yerel komplikasyonları nelerdir?",
+      "answer": "**Enfeksiyon, tromboz ve iskemi** başlıca yerel komplikasyonlardır.",
+      "source": "StatPearls"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "TÖE kanülasyon sırasında hangi anatomik sorunu gösterebilir?",
+      "answer": "Kanülasyonu etkileyen **anatomik anomalileri** ve yanlış kanül yerleşimini gösterebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "NIRS bulgularının klinik sonuç kanıtında hangi sınır vardır?",
+      "answer": "Serebral malperfüzyonu fark etmeye yardımcı olsa da ağır klinik sonuçları iyileştirdiğini gösteren **kanıt sınırlıdır**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "TÖE'de özofagus güvenliği",
+      "body": "**Özofagus darlığı, fistül, travma veya özofagus cerrahisi** transözofageal ekokardiyografi için önemli kontrendikasyonlardır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: sağ ve sol doluş basıncı",
+      "body": "Edwards 2022 normal aralıkları: **santral venöz basınç 2–6 mmHg**, pulmoner kapiller kama basıncı **6–12 mmHg**. Bunlar klinik bağlamdan bağımsız tedavi hedefleri değildir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: pulmoner arter basıncı",
+      "body": "Edwards 2022'de normal pulmoner arter basıncı **15–25/8–15 mmHg**, ortalama pulmoner arter basıncı **10–20 mmHg** olarak verilir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: oksijen sunumu",
+      "body": "Edwards 2022'de normal oksijen sunumu **950–1.150 mL/dk**, indekslenmiş sunum **500–600 mL/dk/m²** olarak verilir; dinlenim aralıkları KPB hedefi değildir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    }
+  ]
+}

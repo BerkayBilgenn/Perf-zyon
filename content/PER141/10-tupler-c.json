@@ -1,0 +1,77 @@
+{
+  "topic": "Tüpler, konnektörler ve prime hacmi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Bikaval kanül hatlarını ortak venöz hatta birleştiren parça hangisidir?",
+      "options": [
+        "Y-konnektör",
+        "Gaz blenderi",
+        "Arteriyel elek filtre",
+        "Vakum regülatörü"
+      ],
+      "correct": 0,
+      "explanation": "Y-konnektör iki venöz drenaj kolunu ortak hatta bağlar.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Çapı farklı tüpleri bağlamak için hangi konnektör uygundur?",
+      "options": [
+        "Tek yönlü valf",
+        "Redüktör",
+        "Gaz analizörü",
+        "Seviye sensörü"
+      ],
+      "correct": 1,
+      "explanation": "Redüktör farklı çaplar arasında bağlantı sağlar.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aynı çaplı tüpün uzunluğu yarıya indirilirse dolum hacmi nasıl değişir?",
+      "options": [
+        "İki katına çıkar",
+        "Dörtte bire iner",
+        "Yarıya iner",
+        "Değişmeden kalır"
+      ],
+      "correct": 2,
+      "explanation": "Hacim πr²L olduğundan uzunlukla doğru orantılıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Tüp bağlantı kontrolünde hangi bulgu doğrudan mekanik sorundur?",
+      "options": [
+        "Kararlı gaz fraksiyonu",
+        "Kalibre sıcaklık probu",
+        "Açık gaz egzozu",
+        "Katlanmış hat"
+      ],
+      "correct": 3,
+      "explanation": "Katlanma akım yolunu daraltabilir; hat yönü, açıklığı ve bağlantıları kontrol edilir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Luer ve stopcock bağlantıları örnekleme portlarında kullanılabilir.",
+      "isTrue": true,
+      "explanation": "Örnekleme bağlantıları devreye luer/stopcock ile bağlanabilir; güvenli kapanmaları kontrol edilir.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Tüpün iç çapı azaldıkça aynı uzunluk için prime hacmi artar.",
+      "isTrue": false,
+      "explanation": "Tüp hacmi kesit alanıyla doğru orantılıdır; çap azalırsa prime hacmi de azalır.",
+      "source": "Klabunde: CV Physiology"
+    }
+  ]
+}

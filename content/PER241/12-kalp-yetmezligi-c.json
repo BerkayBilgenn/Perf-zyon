@@ -1,0 +1,91 @@
+{
+  "topic": "Pediatrik kalp yetmezliği",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Kalp yetmezliğinin temel tanımı hangisidir?",
+      "options": [
+        "Yalnızca kalp hızının yüksek olması",
+        "Yalnızca oksijen satürasyonunun düşük olması",
+        "Kalbin metabolik gereksinimi karşılayamaması",
+        "Herhangi bir üfürüm duyulması"
+      ],
+      "correct": 2,
+      "explanation": "Yapısal veya fonksiyonel bozukluk yeterli dolaşımın sağlanmasını engeller."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Bebekte sistemik venöz konjesyonu en doğrudan destekleyen muayene bulgusu hangisidir?",
+      "options": [
+        "Çomak parmak",
+        "Siyanoz",
+        "Sistolik üfürüm",
+        "Hepatomegali"
+      ],
+      "correct": 3,
+      "explanation": "Hepatomegali pediatrik konjesyon bulgularındandır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "question": "KPB sonrası sıvının damar dışına sızması hangi tabloyu tanımlar?",
+      "options": [
+        "Kapiller kaçak",
+        "Koroner çalma",
+        "Arteriyel diskordans",
+        "Duktal konstriksiyon"
+      ],
+      "correct": 0,
+      "explanation": "İnflamatuvar yanıt kapiller geçirgenliği artırıp ekstravasküler sıvı birikimine neden olabilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Büyük VSD'de kalbe yük oluşturan temel mekanizma hangisidir?",
+      "options": [
+        "İzole atriyal sağdan sola şant",
+        "Soldan sağa şantla hacim yükü",
+        "Koroner ostium atrezisi",
+        "Aortik arkın kesilmesi"
+      ],
+      "correct": 1,
+      "explanation": "Büyük VSD pulmoner aşırı akım ve özellikle sol kalpte hacim yükü oluşturur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Konjesyonu azaltmak için kullanılan loop diüretik hangisidir?",
+      "options": [
+        "Alprostadil",
+        "Protamin",
+        "Furosemid",
+        "Heparin"
+      ],
+      "correct": 2,
+      "explanation": "Furosemid dekonjesyon için kullanılan loop diüretiktir; heparin ve protamin pıhtılaşma yönetimiyle ilgilidir."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Kalp yetmezliğinde afterload azaltmanın amacı ventrikülün karşısındaki yükü artırmaktır.",
+      "isTrue": false,
+      "explanation": "Vazodilatörlerle afterload azaltılması ventrikülün karşısındaki yükü düşürmeyi amaçlar."
+    },
+    {
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Bebekte taşipne ve beslenme güçlüğü kalp yetmezliği bulguları arasında yer alır.",
+      "isTrue": true,
+      "explanation": "Terleme, kilo alamama ve hepatomegali de bu tabloya eşlik edebilir."
+    }
+  ]
+}

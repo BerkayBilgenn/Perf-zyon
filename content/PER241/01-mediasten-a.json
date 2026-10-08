@@ -1,0 +1,108 @@
+{
+  "topic": "Mediasten anatomisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Mediasten",
+      "en": "Mediastinum",
+      "definition": "Toraksta iki plevra kesesi arasındaki orta bölme; kalp, büyük damarlar, trakea, özofagus, timus vb. içerir.",
+      "origin": "Lat. medius = orta"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Sternal açı",
+      "en": "Sternal angle",
+      "definition": "Manubrium ile sternum gövdesinin birleşiminde oluşan açı; üst ve alt mediastenin ayrım düzleminde yer alır.",
+      "origin": "P. Louis (eponim)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Üst mediasten",
+      "en": "Superior mediastinum",
+      "definition": "Toraks girişi ile sternal açı düzlemi arasında kalan bölüm. Timus, arkus aorta, trakea ve özofagus gibi yapıları içerir."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Ön mediasten",
+      "en": "Anterior mediastinum",
+      "definition": "Sternum ile perikard arasındaki dar alan; yağ, lenf nodları, internal torasik damar dalları."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "term": "Orta mediasten",
+      "en": "Middle mediastinum",
+      "definition": "Perikard ve kalp ile çıkan aorta, pulmoner trunkus, vena kava superior, frenik sinirleri içeren bölüm."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Arka mediasten",
+      "en": "Posterior mediastinum",
+      "definition": "Perikardın arkasında bulunan mediasten bölümü. İnen torasik aorta, özofagus, duktus torasikus ve azigos sistemi burada yer alır."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Timus",
+      "en": "Thymus",
+      "definition": "Üst mediastende en öndeki, sternum arkasındaki lenfoid organ."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Duktus torasikus",
+      "en": "Thoracic duct",
+      "definition": "Vücudun en büyük lenf damarı; sisterna şiliden başlar, aort hiatusundan toraksa girer.",
+      "origin": "Lat. ductus = kanal"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Azigos ven",
+      "en": "Azygos vein",
+      "definition": "Gövde duvarı ve mediasten organlarının venöz kanını vena kava superior'ye taşıyan, simetriği olmayan ven.",
+      "origin": "Yun. a-zygos = eşsiz"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "term": "Frenik sinir",
+      "en": "Phrenic nerve",
+      "definition": "Diyaframın motor, perikardın duyu innervasyonunu sağlayan sinir. Akciğer hilusunun önünden geçer.",
+      "origin": "Yun. phren = diyafram"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Vagus siniri",
+      "en": "Vagus nerve",
+      "definition": "Mediastende akciğer hilusunun arkasından geçip özofageal pleksusa katılan kraniyal sinir.",
+      "origin": "Lat. vagus = gezgin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "UNSW Embryology",
+      "term": "Rekürren laringeal sinir",
+      "en": "Recurrent laryngeal nerve",
+      "definition": "Vagus dalı; solda arkus aortanın, sağda sağ subklavyen arterin altından dönüp larinkse çıkar.",
+      "origin": "Lat. recurrere = geri dönmek"
+    }
+  ]
+}

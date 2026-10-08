@@ -1,0 +1,63 @@
+{
+  "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Güvenli KPB'nin temel ekip yapısı hangisidir?",
+      "options": [
+        "Cerrah, anestezist ve perfüzyonist",
+        "Cerrah, radyolog ve diyetisyen",
+        "Anestezist, patolog ve fizyoterapist",
+        "Perfüzyonist, eczacı ve odyolog"
+      ],
+      "correct": 0,
+      "explanation": "KPB cerrahi, anestezi ve perfüzyon ekibinin koordineli çalışmasını gerektirir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sözlü komutun alıcı tarafından tekrar edilip doğrulanması hangi iletişim biçimidir?",
+      "options": [
+        "Tek yönlü iletişim",
+        "Kapalı döngü iletişim",
+        "Gecikmeli yazılı bildirim",
+        "Sessiz devir-teslim"
+      ],
+      "correct": 1,
+      "explanation": "Kapalı döngü iletişimde komutun doğru anlaşıldığı ekip tarafından teyit edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Perfüzyon biriminde güvenli uygulamaları standartlaştıran belge hangisidir?",
+      "options": [
+        "Hasta ziyaret çizelgesi",
+        "Cihaz satın alma faturası",
+        "Standart çalışma prosedürü",
+        "Nöbet yemek listesi"
+      ],
+      "correct": 2,
+      "explanation": "Standart çalışma prosedürü kurumdaki perfüzyon uygulamasını tanımlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Perfüzyonistin mesleki gelişimi sertifikasyon sonrası da sürdürülmelidir.",
+      "isTrue": true,
+      "explanation": "EACTS 2024, sertifikasyonla birlikte sürekli mesleki gelişimi önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB'nin operasyonel yönetiminden klinik perfüzyonist sorumludur.",
+      "isTrue": true,
+      "explanation": "Perfüzyonist, multidisipliner ekibin üyesi olarak KPB'nin operasyonel yönetimini üstlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

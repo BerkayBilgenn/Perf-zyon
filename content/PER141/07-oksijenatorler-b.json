@@ -1,0 +1,89 @@
+{
+  "topic": "Oksijenatörler ve gaz transferi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hollow-fiber akış düzeni",
+      "body": "Mikroporöz polipropilen liflerin **içinden gaz, dışından kan** geçer. Basics of CPB, lif iç çapını 100–200 µm olarak verir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "PP gözenekleri",
+      "body": "National Heart Center kılavuzundaki PP membran örneğinde gözenekler yaklaşık **0,03–0,07 µm** çapındadır; hidrofobik yapı gaz geçişini destekler.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "PMP'nin dış tabakası",
+      "body": "PMP membranın dışındaki yaklaşık **1 µm** yoğun tabaka, gaz difüzyonuna izin verirken plazma sızıntısına direnç sağlar.",
+      "source": "Membranes 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Terumo FX25 örneği",
+      "body": "CAPIOX FX25 üretici örneği: **2,5 m²** membran alanı, 260 mL statik prime ve en çok 7,0 L/dk kan akımı. Bunlar tüm erişkin oksijenatörlerin ortak sınırları değildir.",
+      "source": "Terumo CAPIOX FX"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Terumo FX15 örneği",
+      "body": "CAPIOX FX15 üretici örneğinde membran alanı yaklaşık **1,5 m²**, statik prime 144 mL ve en çok kan akımı 5,0 L/dk'dır; model bilgisiyle birlikte öğrenilir.",
+      "source": "Terumo CAPIOX FX"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Volatil ajan ve membran seçimi",
+      "body": "EACTS 2024, volatil anestezik kullanılan KPB'de **PMP membranı önermez**. Düşük volatil ajan geçirgenliği, anestezi derinliğinin kontrolünü zorlaştırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Gaz transferinin itici gücü",
+      "body": "Oksijen ve karbondioksit membranı **kısmi basınç farkı** doğrultusunda difüzyonla geçer; plazma sınır tabakası da transfer direncine katkı yapar.",
+      "source": "Membranes 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Oksijenatörün gaz çıkışında sarı köpük görülmesi hangi sorunu düşündürür?",
+      "answer": "Membran gözeneklerinden gaz tarafına **plazma sızıntısını** düşündürür; gaz transferi bozulabilir.",
+      "source": "Membranes 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Oksijenatör yetmezliği düşünülmeden önce gaz beslemesinde neler kontrol edilir?",
+      "answer": "Gaz hattı bağlantıları, oksijen analizörü, ayarlanan FiO₂'nin iletimi ve olası kaçaklar kontrol edilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Oksijenatör ΔP artışı neyi gösterebilir ve nasıl yorumlanmalıdır?",
+      "answer": "Giriş-çıkış basınç farkının artışı pıhtı oluşumunu düşündürebilir. Başlangıç değeri ve cihaz tasarımıyla birlikte değerlendirilir.",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Yetersiz gaz değişimini erken tanı",
+      "body": "Yüksek oksijen fraksiyonu ve gaz akımına rağmen yetersiz oksijenasyon veya yüksek ΔP, **oksijenatör yetmezliğini** düşündürür; ekip önceden hazırlanmış değişim planını kullanır.",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Su kaçağını gözden kaçırma",
+      "body": "Açıklanamayan devre hacmi artışı, düşen pH ve hematokrit ile hemoliz, **ısı değiştiricide su-kan kaçağını** düşündürebilir.",
+      "source": "National Heart Center 2026"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "topic": "Koroner sistem anatomisi ve fizyolojisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "LAD",
+      "definition": "Ön interventriküler olukta seyreden, diyagonal ve septal dallar veren sol koroner dalı.",
+      "en": "Left anterior descending artery",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "LCx",
+      "definition": "Sol AV olukta seyreden, obtus marjinal dalları veren sol koroner dalı.",
+      "en": "Left circumflex artery",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "RCA",
+      "definition": "Sağ aortik sinüsten çıkan; konus, SA nodal, akut marjinal ve (çoğu kişide) PDA dallarını veren arter.",
+      "en": "Right coronary artery",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner dominans",
+      "definition": "PDA'yı veren arterin belirlediği baskınlık; en sık sağ dominans.",
+      "en": "Coronary dominance",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner sinüs",
+      "definition": "Kalp venlerini toplayıp sağ atriyuma boşaltan ven; ağzında Thebesian kapak; retrograd kardiyopleji yolu.",
+      "en": "Coronary sinus",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Thebesian venler",
+      "definition": "Doğrudan kalp boşluklarına (en çok sağ atriyum'ya) açılan en küçük kalp venleri.",
+      "en": "Thebesian veins (venae cordis minimae)",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Anterior kardiyak venler",
+      "definition": "sağ ventrikül ön yüzünü drene edip doğrudan sağ atriyum'ya açılan venler; retrograd kardiyoplejide sağ ventrikül korumasının zayıf olma nedeni.",
+      "en": "Anterior cardiac veins",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Koroner",
+      "definition": "Kalbi taç gibi saran damarlarla ilgili.",
+      "en": "Coronary",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İskemi",
+      "definition": "Dokuya kan akımının yetersizliği.",
+      "en": "Ischemia",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Diyastol ve sistol",
+      "definition": "Kalbin gevşeme / kasılma evresi; koroner akımın çoğu diyastolde gerçekleşir.",
+      "en": "Diastole / systole",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sol ana koroner arter",
+      "definition": "Sol aortik sinüsten çıkan ve temel olarak ön inen arter ile sirkumfleks artere ayrılan ana koroner gövde.",
+      "en": "Left main coronary artery (LMCA)",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Posterior desendan arter",
+      "definition": "Arka interventriküler bölgede seyreden, köken aldığı arterin koroner dominansı belirlediği koroner dal.",
+      "en": "Posterior descending artery (PDA)",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Ramus intermedius",
+      "definition": "Sol ana koroner arterden ön inen arter ile sirkumfleks arter arasından çıkabilen ek dal.",
+      "en": "Ramus intermedius",
+      "source": "Radiopaedia: Koroner anatomi"
+    }
+  ]
+}

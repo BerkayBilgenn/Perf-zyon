@@ -1,0 +1,75 @@
+{
+  "topic": "Koroner damarlar ve ileti sistemi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sol ana koronerin dalları",
+      "body": "Sol ana koroner arterin başlıca dalları **sol ön inen arter** ve **sirkumfleks arterdir**."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sol ön inen arterin seyri",
+      "body": "Sol ön inen koroner arter, **ön interventriküler oluk** boyunca ilerler."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Sirkumfleks hangi olukta ilerler?",
+      "answer": "**Atriyoventriküler olukta**, sola ve arkaya doğru seyir gösterir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Koroner venlerin istisnası",
+      "body": "Ön kardiyak venler ile en küçük kardiyak venlerin bir bölümü **koroner sinüse uğramadan** kalp boşluklarına açılır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "Sol ventrikülün koroner akımı",
+      "body": "Sol ventrikülde koroner perfüzyon esas olarak **diyastolde** gerçekleşir; sistolde kas içi damarlar sıkışır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "AV gecikmesinin işlevi",
+      "body": "atriyoventriküler düğümdeki gecikme, ventrikül sistolünden önce **atriyumların boşalmasına** zaman sağlar."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "His demetinden sonra uyarı nasıl yayılır?",
+      "answer": "Uyarı **sağ ve sol dal** üzerinden subendokardiyal Purkinje liflerine, oradan ventrikül kasına yayılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "EKG'de P dalgası",
+      "body": "P dalgası **atriyal depolarizasyonu** gösterir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "EKG'de QRS kompleksi",
+      "body": "QRS kompleksi **ventriküler depolarizasyonu** gösterir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "EKG'de T dalgası",
+      "body": "T dalgası **ventriküler repolarizasyonu** gösterir."
+    }
+  ]
+}

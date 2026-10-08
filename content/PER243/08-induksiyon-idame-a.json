@@ -1,0 +1,61 @@
+{
+  "topic": "Premedikasyon, indüksiyon ve idame",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Premedikasyon",
+      "en": "Premedication",
+      "definition": "Anestezi öncesi anksiyoliz, amnezi, analjezi, sekresyon azaltma ve aspirasyon profilaksisi için ilaç verilmesi.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "İndüksiyon",
+      "en": "Induction",
+      "definition": "Genel kabul gören tanımıyla, anestezinin başlatılması ve bilincin kaybettirilmesi evresi.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "İdame",
+      "en": "Maintenance",
+      "definition": "Genel kabul gören tanımıyla, cerrahi boyunca anestezinin istenen derinlikte sürdürülmesi.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Derlenme",
+      "en": "Emergence / recovery",
+      "definition": "Genel kabul gören tanımıyla, anestezik ajanlar kesildikten sonra bilincin ve koruyucu reflekslerin geri dönmesi.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hızlı seri indüksiyon",
+      "en": "Rapid sequence induction",
+      "definition": "Havayolu koruyucu reflekslerinin kaybıyla kaflı trakeal tüp yerleştirilmesi arasındaki süreyi kısaltarak aspirasyon riskini azaltmayı amaçlayan indüksiyon tekniği.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Preoksijenasyon",
+      "en": "Preoxygenation",
+      "definition": "Anestezi indüksiyonundan önce oksijen solutularak akciğerdeki azotun oksijenle değiştirilmesi ve oksijen rezervinin artırılması.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kapnografi",
+      "en": "Capnography",
+      "definition": "Soluk havasındaki karbondioksit'nin dalga formuyla sürekli ölçümü; tüp yerinin doğrulanmasında şarttır.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    }
+  ]
+}

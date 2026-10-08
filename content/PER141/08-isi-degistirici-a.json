@@ -1,0 +1,97 @@
+{
+  "topic": "Isı değiştirici, HCU ve M. chimaera",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Outgassing",
+      "definition": "Hızlı ısıtmada kanda çözünmüş gazların kabarcık olarak açığa çıkması.",
+      "en": "Outgassing",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Isı değiştirici",
+      "definition": "Su ile kan arasında ısı aktaran, oksijenatöre entegre ve oksijenatörden önce yer alan bölüm.",
+      "en": "Heat exchanger",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Isıtıcı-soğutucu ünite (HCU)",
+      "definition": "Isı değiştiricilere sıcaklığı ayarlı su pompalayan cihaz; M. chimaera kaynağı olabilir.",
+      "en": "Heater-cooler unit",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Ters akım ilkesi",
+      "definition": "Su ve kanın zıt yönlerde akarak ısı aktarımını en verimli hâle getirmesi.",
+      "en": "Countercurrent principle",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Mycobacterium chimaera",
+      "definition": "Isıtıcı-soğutucu ünite suyunun kontaminasyonuyla ilişkili, aerosollerle cerrahi alana ulaşabilen tüberküloz dışı mikobakteri.",
+      "en": "M. chimaera",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hipotermi",
+      "definition": "Vücut kor sıcaklığının normalin altına düşmesi; perfüzyonda oksijen tüketimini azaltmak için kullanılabilir.",
+      "en": "Hypothermia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Normotermi",
+      "definition": "Normal vücut sıcaklığında yürütülen KPB.",
+      "en": "Normothermia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DHCA",
+      "definition": "Derin hipotermi altında sistemik dolaşımın tamamen durdurulması; özellikle aort arkus cerrahisinde kullanılan yöntem.",
+      "en": "Deep hypothermic circulatory arrest",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Nazofaringeal (NP) sıcaklık",
+      "definition": "Beyin sıcaklığını iyi yansıtan ölçüm yeri.",
+      "en": "Nasopharyngeal temperature",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Sıcaklık ölçümünün anlamı",
+      "left": {
+        "title": "Arteriyel çıkış",
+        "points": [
+          "Devreden hastaya giden kanın sıcaklığı",
+          "Isıtmada serebral perfüzatı düşük gösterebilir"
+        ]
+      },
+      "right": {
+        "title": "Mesane veya rektum",
+        "points": [
+          "Hasta vücut bölgesinin sıcaklığı",
+          "Isıtmada beyin sıcaklığının gerisinde kalabilir"
+        ]
+      },
+      "source": "STS/SCA/AmSECT 2015"
+    }
+  ]
+}

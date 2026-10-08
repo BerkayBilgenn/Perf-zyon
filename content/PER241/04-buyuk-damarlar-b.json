@@ -1,0 +1,61 @@
+{
+  "topic": "Büyük damarlar ve varyasyonları",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Pulmoner trunkusun ayrılması",
+      "body": "Sağ ventrikülden çıkan pulmoner trunkus **sağ ve sol pulmoner artere** ayrılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Aortanın anatomik devamlılığı",
+      "body": "Çıkan aortayı **arkus aorta**, ardından inen torasik ve abdominal aorta izler."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Arkusun dal sırası nasıldır?",
+      "answer": "Proksimalden distale **brakiyosefalik trunkus → sol ana karotis → sol subklavyen arter** sıralanır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Vena kava superior nasıl oluşur?",
+      "answer": "Sağ ve sol **brakiyosefalik venlerin birleşmesiyle** oluşur; azigos ven de bu damara açılır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "title": "Persistan sol VCS'nin cerrahi önemi",
+      "body": "Persistan sol vena kava superior, **venöz kanülasyon ve retrograd kardiyopleji** planını etkileyebilir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Persistan sol VCS sol atriyuma açılırsa hangi şant oluşabilir?",
+      "answer": "Persistan sol vena kava superior sol atriyuma açıldığında **sağdan sola şant** oluşabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Vasküler halka",
+      "body": "**Çift aortik ark**, ark varyasyonları arasında vasküler halka oluşturabilen bir anatomik düzenlemedir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "UNSW Embryology",
+      "title": "Rekürren sinirlerin asimetrisi",
+      "body": "Sol rekürren sinir arkus aortanın, sağ rekürren sinir **sağ subklavyen arterin** altından döner."
+    }
+  ]
+}

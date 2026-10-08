@@ -1,0 +1,63 @@
+{
+  "topic": "Büyük damarlar ve varyasyonları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Brakiyosefalik trunkus hangi iki artere ayrılır?",
+      "options": [
+        "Sağ subklavyen ve sağ ana karotis",
+        "Sol subklavyen ve sol ana karotis",
+        "Sağ koroner ve sol koroner",
+        "Sağ pulmoner ve sol pulmoner"
+      ],
+      "correct": 0,
+      "explanation": "Arkusun ilk dalı sağ kol ve baş-boyun damarlarına ayrılır."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Arteria lusoria terimi hangi varyasyonu ifade eder?",
+      "options": [
+        "Persistan sol vena kava superior",
+        "Aberran sağ subklavyen arter",
+        "Sol pulmoner ven atrezisi",
+        "Çift çıkışlı sağ ventrikül"
+      ],
+      "correct": 1,
+      "explanation": "Arteria lusoria, aortik arkın son dalı olarak çıkan anormal sağ subklavyen arterdir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Persistan sol VCS'nin sık görülen drenaj yeri hangisidir?",
+      "options": [
+        "Sol ventrikül",
+        "Ana pulmoner arter",
+        "Koroner sinüs",
+        "Aort kökü"
+      ],
+      "correct": 2,
+      "explanation": "Çoğunlukla koroner sinüse açılır; sol atriyuma açılan varyant şant yapabilir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Pulmoner venler oksijenlenmiş kanı sol atriyuma getirir.",
+      "isTrue": true,
+      "explanation": "Pulmoner dolaşımın venöz dönüşü normal anatomide sol atriyumadır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "statement": "Bovin arkta ortak çıkışı sol subklavyen arter ile sağ koroner arter oluşturur.",
+      "isTrue": false,
+      "explanation": "Bovin ark terimi brakiyosefalik trunkus ile sol ana karotisin ortak çıkışını ifade eder."
+    }
+  ]
+}

@@ -1,22 +1,153 @@
 {
   "topic": "ECMO devresi ve basınçlar",
   "cards": [
-    { "type": "fact", "importance": 2, "title": "Devre kapasitesi tam desteğe göre seçilir", "body": "Devre, aksi planlanmadıkça (ör. yalnız CO2 uzaklaştırma) hastanın **tam desteğini** sağlayabilecek kapasitede seçilir. Kardiyak destekte hedef ~3 L/m²/dk'dır: yenidoğanda 100, çocukta 80, erişkinde **60 mL/kg/dk**.", "source": "ELSO 2017" },
-    { "type": "fact", "importance": 1, "title": "Tüp çapı akımı belirler", "body": "Tüp direncini uzunluk ve iç çap belirler. 1 m tüpten 100 mmHg gradyanla geçen akım: 3/16 inç 1,2 L/dk; 1/4 inç 2,5 L/dk; **3/8 inç 5 L/dk**; 1/2 inç 10 L/dk.", "source": "ELSO 2017" },
-    { "type": "fact", "importance": 1, "title": "Isı değiştiricide kaçak şüphesi", "body": "Isı değiştiricinin suyu steril değildir ve kontamine olabilir; dönemsel dezenfeksiyon gerekir. **Açıklanamayan hemoliz** ya da suda kan veya protein görülmesi, kan ile suyun temas ettiğini (kaçak) düşündürür.", "source": "ELSO 2017" },
-    { "type": "fact", "importance": 2, "title": "ECMO devresinin primingi", "body": "Devre steril koşullarda, ekstraselüler sıvıya benzer izotonik elektrolit çözeltisiyle (potasyum 4–5 mEq/L) doldurulur; kabarcıklar rezervuar torbasından atılır. Devreyi önce **%100 CO2** ile doldurmak işlemi hızlandırır.", "source": "ELSO 2017" },
-    { "type": "fact", "importance": 2, "title": "Prime'a kan eklenince", "body": "Bebeklerde hematokriti **%30–40**'a getirmek için prime'a eritrosit eklenir. Kan eklenince prime'a heparin (1 U/mL) ve sitratın bağladığı kalsiyumu yerine koymak için kalsiyum verilir. Birçok merkez yüzeyi kaplamak için albümin (12,5 g) de ekler.", "source": "ELSO 2017" },
-    { "type": "fact", "importance": 1, "title": "Drenaj basıncı pratikte nerede tutulur?", "body": "Pratikte birçok merkez drenaj (P1) basıncını yaklaşık **−100 mmHg'den** daha negatif olmayacak şekilde tutar; kılavuzdaki −300 mmHg değeri pompa spesifikasyonudur. Uygulama merkeze göre değişebilir.", "source": "ELSO 2017" },
-    { "type": "mcq", "importance": 3, "question": "ECMO devresinde transmembran basınç farkının (ΔP = pre-oksijenatör − post-oksijenatör basınç) giderek artması en çok neyi düşündürür?", "options": ["Drenaj kanülünde kollaps", "Oksijenatör içinde pıhtılaşma", "Sweep gaz hattında kaçak", "Isı değiştiricide su kaçağı"], "correct": 1, "explanation": "ΔP artışı oksijenatör içindeki direncin, yani pıhtı yükünün arttığını gösterir; post-oksijenatör PO2 düşüşü ve CO2 temizliğinde azalma eşlik edebilir.", "source": "ELSO 2017; Pediatr Crit Care Med 2013" },
-    { "type": "mcq", "importance": 2, "question": "Membran oksijenatörden hastaya hava embolisini önlemeye yönelik doğru uygulama hangisidir?", "options": ["Gaz tarafı basıncını kan tarafından yüksek tutmak", "Sweep hattındaki basınç sınırlayıcı valfi çıkarmak", "Oksijenatörü hasta seviyesinin altında tutmak", "Oksijenatörü hasta seviyesinin üstüne yerleştirmek"], "correct": 2, "explanation": "Oksijenatör hasta seviyesinin altında tutulur, kan tarafı basıncı gaz tarafından yüksek olmalıdır ve sweep hattında pop-off valf bulunur.", "source": "ELSO 2017" },
-    { "type": "mcq", "importance": 2, "question": "ECMO'da plazma serbest hemoglobin hangi değeri aşınca hemoliz kabul edilir ve nedeni araştırılır?", "options": ["20 mg/dL", "50 mg/dL", "100 mg/dL", "150 mg/dL"], "correct": 1, "explanation": "Plazma serbest Hb normalde 10 mg/dL'nin altındadır; 50 mg/dL'yi aşması hemoliz demektir ve aşırı emme, pompa pıhtısı gibi nedenler aranır.", "source": "ELSO 2017; ELSO VA 2021" },
-    { "type": "mcq", "importance": 3, "question": "Aşağıdakilerden hangisi santrifüj pompanın özelliğidir?", "options": ["Akımı devir × tüp hacmiyle belirlenir", "Girişinde servo-hazne (bladder) gerekir", "Çıkış tıkanırsa devre patlama riski yüksektir", "Ön yüke bağımlı, art yüke duyarlıdır"], "correct": 3, "explanation": "Santrifüj pompa oklüzif değildir ve çıkış basıncı devirle sınırlıdır. Diğer üç şık roller pompanın özellikleridir: roller pompa çıkış tıkanırsa devreyi patlatabilir.", "source": "Pediatr Crit Care Med 2013" },
-    { "type": "flip", "importance": 2, "question": "İstenen akımda post-pompa basıncı 300 mmHg'nin üzerindeyse ne düşünülmelidir?", "answer": "VA modda yüksek sistemik basınç ya da dönüş kanülünde, tüplerde veya oksijenatörde **yüksek direnç** (obstrüksiyon) araştırılır.", "source": "ELSO 2017" },
-    { "type": "flip", "importance": 2, "question": "ECMO devresinde rutin olarak neler izlenir?", "answer": "Ultrasonik akım probuyla kan akımı; pre- ve post-membran basınçları; pre-pompa venöz drenaj basıncı; pre- ve post-membran oksihemoglobin satürasyonu; kabarcık (bubble) dedektörü.", "source": "ELSO 2017" },
-    { "type": "flip", "importance": 1, "question": "Rated flow'u 2 L/dk olan bir oksijenatör, 4 L/dk akım gereken hastaya yeterli midir?", "answer": "Hayır. Bu oksijenatör ~100 mL/dk O2 aktarabilir; 1 L/dk gereken hastaya yeter, 4 L/dk gerekene yetmez. Maksimal O2 sunumu, rated flow'daki O2 farkı (tipik 4–5 mL/dL) × akımdır.", "source": "ELSO 2017" },
-    { "type": "tf", "importance": 2, "statement": "Prime edilmiş bir ECMO devresi 30 günden sonra kullanılmamalıdır.", "isTrue": true, "explanation": "Prime edilmiş devrenin raf ömrü en fazla 30 gündür. Acil devreler kristalloidle prime edilmiş halde, dakikalar içinde bağlanmaya hazır bekletilir.", "source": "ELSO 2017; Pediatr Crit Care Med 2013" },
-    { "type": "tf", "importance": 1, "statement": "Sweep gaz olarak karbojen (%5 CO2 + %95 O2) kullanmak, oksijenatör çıkışındaki PCO2'yi belirgin biçimde düşürür.", "isTrue": false, "explanation": "Karbojen, titrasyona gerek kalmadan oksijenatör çıkışındaki PCO2'yi ~40 mmHg civarında tutar.", "source": "ELSO 2017" },
-    { "type": "remember", "importance": 3, "title": "Pompa ve devre basınç sınırları", "body": "ELSO 2017'ye göre pompa giriş emmesi **−300 mmHg'yi**, çıkış basıncı **400 mmHg'yi** aşmamalıdır. Devre ~600 mmHg'ye dayanabilse de **300 mmHg** güvenli üst sınır kabul edilir.", "source": "ELSO 2017; Pediatr Crit Care Med 2013" },
-    { "type": "remember", "importance": 3, "title": "Pompa girişinden önce musluk olmaz", "body": "Hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** erişim noktası veya musluk bulunmamalıdır; buradan devreye hava emilebilir. Erişim noktaları en aza indirilir (en az pre- ve post-oksijenatör iki nokta).", "source": "ELSO 2017" }
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Devre kapasitesi tam desteğe göre seçilir",
+      "body": "Devre, aksi planlanmadıkça (ör. yalnız CO2 uzaklaştırma) hastanın **tam desteğini** sağlayabilecek kapasitede seçilir. Kardiyak destekte hedef ~3 L/m²/dk'dır: yenidoğanda 100, çocukta 80, erişkinde **60 mL/kg/dk**.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Tüp çapı akımı belirler",
+      "body": "Tüp direncini uzunluk ve iç çap belirler. 1 m tüpten 100 mmHg gradyanla geçen akım: 3/16 inç 1,2 L/dk; 1/4 inç 2,5 L/dk; **3/8 inç 5 L/dk**; 1/2 inç 10 L/dk.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Isı değiştiricide kaçak şüphesi",
+      "body": "Isı değiştiricinin suyu steril değildir ve kontamine olabilir; dönemsel dezenfeksiyon gerekir. **Açıklanamayan hemoliz** ya da suda kan veya protein görülmesi, kan ile suyun temas ettiğini (kaçak) düşündürür.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ECMO devresinin primingi",
+      "body": "Devre steril koşullarda, ekstraselüler sıvıya benzer izotonik elektrolit çözeltisiyle (potasyum 4–5 mEq/L) doldurulur; kabarcıklar rezervuar torbasından atılır. Devreyi önce **%100 CO2** ile doldurmak işlemi hızlandırır.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Prime'a kan eklenince",
+      "body": "Bebeklerde hematokriti **%30–40**'a getirmek için prime'a eritrosit eklenir. Kan eklenince prime'a heparin (1 U/mL) ve sitratın bağladığı kalsiyumu yerine koymak için kalsiyum verilir. Birçok merkez yüzeyi kaplamak için albümin (12,5 g) de ekler.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Drenaj basıncı pratikte nerede tutulur?",
+      "body": "Pratikte birçok merkez drenaj (P1) basıncını yaklaşık **−100 mmHg'den** daha negatif olmayacak şekilde tutar; kılavuzdaki −300 mmHg değeri pompa spesifikasyonudur. Uygulama merkeze göre değişebilir.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ECMO devresinde transmembran basınç farkının (ΔP = pre-oksijenatör − post-oksijenatör basınç) giderek artması en çok neyi düşündürür?",
+      "options": [
+        "Drenaj kanülünde kollaps",
+        "Oksijenatör içinde pıhtılaşma",
+        "Sweep gaz hattında kaçak",
+        "Isı değiştiricide su kaçağı"
+      ],
+      "correct": 1,
+      "explanation": "ΔP artışı oksijenatör içindeki direncin, yani pıhtı yükünün arttığını gösterir; post-oksijenatör PO2 düşüşü ve CO2 temizliğinde azalma eşlik edebilir.",
+      "source": "ELSO 2017; Pediatr Crit Care Med 2013"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Membran oksijenatörden hastaya hava embolisini önlemeye yönelik doğru uygulama hangisidir?",
+      "options": [
+        "Gaz tarafı basıncını kan tarafından yüksek tutmak",
+        "Sweep hattındaki basınç sınırlayıcı valfi çıkarmak",
+        "Oksijenatörü hasta seviyesinin altında tutmak",
+        "Oksijenatörü hasta seviyesinin üstüne yerleştirmek"
+      ],
+      "correct": 2,
+      "explanation": "Oksijenatör hasta seviyesinin altında tutulur, kan tarafı basıncı gaz tarafından yüksek olmalıdır ve sweep hattında pop-off valf bulunur.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "ECMO'da plazma serbest hemoglobin hangi değeri aşınca hemoliz kabul edilir ve nedeni araştırılır?",
+      "options": [
+        "20 mg/dL",
+        "50 mg/dL",
+        "100 mg/dL",
+        "150 mg/dL"
+      ],
+      "correct": 1,
+      "explanation": "Plazma serbest Hb normalde 10 mg/dL'nin altındadır; 50 mg/dL'yi aşması hemoliz demektir ve aşırı emme, pompa pıhtısı gibi nedenler aranır.",
+      "source": "ELSO 2017; ELSO VA 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Aşağıdakilerden hangisi santrifüj pompanın özelliğidir?",
+      "options": [
+        "Akımı devir × tüp hacmiyle belirlenir",
+        "Girişinde servo-hazne (bladder) gerekir",
+        "Çıkış tıkanırsa devre patlama riski yüksektir",
+        "Ön yüke bağımlı, art yüke duyarlıdır"
+      ],
+      "correct": 3,
+      "explanation": "Santrifüj pompa oklüzif değildir ve çıkış basıncı devirle sınırlıdır. Diğer üç şık roller pompanın özellikleridir: roller pompa çıkış tıkanırsa devreyi patlatabilir.",
+      "source": "Pediatr Crit Care Med 2013"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "İstenen akımda post-pompa basıncı 300 mmHg'nin üzerindeyse ne düşünülmelidir?",
+      "answer": "VA modda yüksek sistemik basınç ya da dönüş kanülünde, tüplerde veya oksijenatörde **yüksek direnç** (obstrüksiyon) araştırılır.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO devresinde rutin olarak neler izlenir?",
+      "answer": "Ultrasonik akım probuyla kan akımı; pre- ve post-membran basınçları; pre-pompa venöz drenaj basıncı; pre- ve post-membran oksihemoglobin satürasyonu; kabarcık (bubble) dedektörü.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "question": "Rated flow'u 2 L/dk olan bir oksijenatör, 4 L/dk akım gereken hastaya yeterli midir?",
+      "answer": "Hayır. Bu oksijenatör ~100 mL/dk O2 aktarabilir; 1 L/dk gereken hastaya yeter, 4 L/dk gerekene yetmez. Maksimal O2 sunumu, rated flow'daki O2 farkı (tipik 4–5 mL/dL) × akımdır.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Önceden prime edilmiş devre: kaynak yılı önemli",
+      "body": "ELSO 2017, önceden prime edilmiş devrenin 30 günden sonra kullanımını önermez. Bu süre evrensel bir cihaz raf ömrü değildir; sterilite koşulları, üretici talimatı ve merkez protokolü ayrıca değerlendirilir.",
+      "source": "ELSO 2017; ELSO devre kılavuzu 2022"
+    },
+    {
+      "type": "tf",
+      "importance": 1,
+      "statement": "Sweep gaz olarak karbojen (%5 CO2 + %95 O2) kullanmak, oksijenatör çıkışındaki PCO2'yi belirgin biçimde düşürür.",
+      "isTrue": false,
+      "explanation": "Karbojen, titrasyona gerek kalmadan oksijenatör çıkışındaki PCO2'yi ~40 mmHg civarında tutar.",
+      "source": "ELSO 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Pompa ve devre basınç sınırları",
+      "body": "ELSO 2017'ye göre pompa giriş emmesi **−300 mmHg'yi**, çıkış basıncı **400 mmHg'yi** aşmamalıdır. Devre ~600 mmHg'ye dayanabilse de **300 mmHg** güvenli üst sınır kabul edilir.",
+      "source": "ELSO 2017; Pediatr Crit Care Med 2013"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Pompa girişinden önce musluk olmaz",
+      "body": "Hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** erişim noktası veya musluk bulunmamalıdır; buradan devreye hava emilebilir. Erişim noktaları en aza indirilir (en az pre- ve post-oksijenatör iki nokta).",
+      "source": "ELSO 2017"
+    }
   ]
 }
