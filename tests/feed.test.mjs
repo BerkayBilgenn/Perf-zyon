@@ -22,6 +22,8 @@ test('kaydedilmiş görülenler bu turda tekrar gelmez; bilinmeyen kimlikler yok
   const ids = take(feed, 7).map((x) => x.card.id);
   assert.equal(new Set(ids).size, 7);
   assert.ok(!ids.some((id) => ['c0', 'c1', 'c2'].includes(id)));
+  assert.equal(feed.seenIds.length, 3, 'yalnızca gösterilen kartlar görülmüş sayılır');
+  ids.forEach((id) => feed.markShown(id));
   assert.equal(feed.seenIds.length, 10);
 });
 
@@ -88,4 +90,50 @@ test('yalnızca terim kartlarına açık/gizli gösterim seçilir', () => {
     if (x.card.type === 'term') assert.ok(['open', 'quiz'].includes(x.variant));
     else assert.equal(x.variant, null);
   }
+});
+
+test('önden yüklenen ama ekranda gösterilmeyen kartlar görülmüş sayılmaz', () => {
+  const cards = makeCards(20);
+  const feed = new Feed(cards, { rng: mulberry32(11) });
+  const served = take(feed, 5).map((x) => x.card.id); // görüntüleyici 5 kart önden yükler
+  feed.markShown(served[0]); // kullanıcı yalnızca ilk kartı gördü
+  assert.deepEqual(feed.seenIds, [served[0]]);
+  const next = new Feed(cards, { rng: mulberry32(12), seen: feed.seenIds });
+  const ids = take(next, 19).map((x) => x.card.id);
+  for (const id of served.slice(1)) assert.ok(ids.includes(id), `${id} sonraki oturumda gelmeli`);
+});
+
+test('kısa oturumlarda bile her kart, herhangi bir kart ikinci kez gösterilmeden önce gösterilir', () => {
+  const AHEAD = 4; // site/js/viewer.js ile aynı önden yükleme düzeni
+  const cards = makeCards(40);
+  let seen = [];
+  let carry = [];
+  const shown = [];
+  for (let s = 0; s < 30; s++) {
+    const feed = new Feed(cards, { rng: mulberry32(100 + s), seen, carry });
+    const served = [];
+    const serve = (n) => { for (let k = 0; k < n; k++) served.push(feed.next().card.id); };
+    serve(AHEAD + 1);
+    for (let i = 0; i < 3; i++) { // her oturumda 3 kart görülür
+      if (served.length - 1 - i < AHEAD) serve(AHEAD);
+      feed.markShown(served[i]);
+      shown.push(served[i]);
+    }
+    seen = feed.seenIds;
+    carry = feed.carryIds;
+  }
+  const firstRepeat = shown.findIndex((id, i) => shown.indexOf(id) !== i);
+  const distinctBefore = new Set(shown.slice(0, firstRepeat === -1 ? shown.length : firstRepeat)).size;
+  assert.equal(distinctBefore, cards.length);
+});
+
+test('tur geçişinde gösterilmeden kalan kartlar sonraki oturumda ilk sırada gelir', () => {
+  const cards = makeCards(10);
+  const feed = new Feed(cards, { rng: mulberry32(21) });
+  const served = take(feed, 10).map((x) => x.card.id);
+  served.slice(0, 7).forEach((id) => feed.markShown(id));
+  take(feed, 2); // önden yükleme yeni turu başlatır
+  assert.deepEqual([...feed.carryIds].sort(), served.slice(7).sort());
+  const next = new Feed(cards, { rng: mulberry32(22), seen: feed.seenIds, carry: feed.carryIds });
+  assert.deepEqual(take(next, 3).map((x) => x.card.id).sort(), served.slice(7).sort());
 });

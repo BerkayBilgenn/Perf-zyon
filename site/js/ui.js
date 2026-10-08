@@ -20,6 +20,7 @@ export function createUI() {
   };
   let toastTimer = 0;
   let resetTimer = 0;
+  let copyTimer = 0;
 
   for (const dlg of [els.filterSheet, els.menuSheet]) {
     dlg.addEventListener('click', (e) => {
@@ -138,6 +139,13 @@ export function createUI() {
       els.menuSheet.showModal();
     },
 
+    // Menü açıkken sayfa bildirimi menünün arkasında kalır; geri bildirim düğmenin kendisinde verilir.
+    copyFeedback(text) {
+      clearTimeout(copyTimer);
+      els.copyFlags.textContent = text;
+      copyTimer = setTimeout(() => { els.copyFlags.textContent = 'Listeyi kopyala'; }, 2000);
+    },
+
     showCopyFallback(text) {
       els.flagsText.value = text;
       els.flagsText.hidden = false;
@@ -177,9 +185,15 @@ export function createUI() {
       toastTimer = setTimeout(() => { els.toast.hidden = true; }, 2800);
     },
 
-    showHint() {
+    showHint(onHidden) {
       els.hint.hidden = false;
-      const hide = () => { els.hint.hidden = true; };
+      let done = false;
+      const hide = () => {
+        if (done) return;
+        done = true;
+        els.hint.hidden = true;
+        onHidden?.();
+      };
       els.feed.addEventListener('scroll', hide, { once: true });
       setTimeout(hide, 7000);
     },
