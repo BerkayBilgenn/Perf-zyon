@@ -16,6 +16,10 @@ npm run build:data  # content/ → site/data/
 npm run serve       # http://localhost:5173
 ```
 
+## Vercel'de yayınlama
+
+Repoyu Vercel'e aktarırken Root Directory alanını repo kökü olarak bırakın. Repodaki `vercel.json`, kart verilerini `npm run build:data` ile hazırlar ve `site/` klasörünü yayınlar. Böylece ana sayfa, stiller, JavaScript dosyaları ve kart verileri doğrudan site adresinden yüklenir. `npm run serve` yalnızca yerel önizleme içindir.
+
 ## Kart yazımı
 
 Kartların nasıl yazılacağı, hedef sayılar (ders başına ~500, toplam 3.000+), doğrulama turu ve güncel durum: **[docs/KART-YAZIM-SPEC.md](docs/KART-YAZIM-SPEC.md)**
