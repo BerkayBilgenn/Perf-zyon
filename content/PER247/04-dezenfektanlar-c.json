@@ -2,6 +2,7 @@
   "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
   "cards": [
     {
+      "id": "PER247-14tkshu",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +17,7 @@
       "explanation": "Kuatlar genellikle **sporisidal ve tüberkülosidal değildir**; düşük düzey yüzey dezenfektanı olarak kullanılır."
     },
     {
+      "id": "PER247-09fsse9",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +32,7 @@
       "explanation": "OPA, **aktivasyon gerektirmeyen** yüksek düzey dezenfektandır."
     },
     {
+      "id": "PER247-0r9bubm",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +47,7 @@
       "explanation": "Mikrobisidal etki büyük ölçüde **HOCl** ile ilişkilidir; pH yükselince daha az etkin OCl⁻ oranı artar."
     },
     {
+      "id": "PER247-0821rme",
       "type": "mcq",
       "importance": 3,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -58,6 +62,7 @@
       "explanation": "Olumsuz minimum etkin konsantrasyonda çözeltiye ekleme yapılmaz; **yenisi hazırlanır**."
     },
     {
+      "id": "PER247-1ud9abd",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -72,6 +77,7 @@
       "explanation": "OPA, proteinlerle reaksiyon vererek korunmasız deri veya yeterince durulanmamış cihazla temas eden mukozayı boyayabilir."
     },
     {
+      "id": "PER247-0wsrkyl",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -80,6 +86,7 @@
       "explanation": "Kan ve organik yük hipokloritin etkinliğini düşürebilir; temizlik ve uygun etiket koşulları önemlidir."
     },
     {
+      "id": "PER247-0fcjurp",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -88,6 +95,7 @@
       "explanation": "Fenolikler gözenekli materyalce emilebilir; **kalıntıları dokuyu irrite edebilir**."
     },
     {
+      "id": "PER247-0xr5od0",
       "type": "tf",
       "importance": 2,
       "source": "Sağlık Bakanlığı SKS 2021",

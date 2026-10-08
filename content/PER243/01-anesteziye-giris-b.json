@@ -2,6 +2,7 @@
   "topic": "Anesteziye giriş ve temel kavramlar",
   "cards": [
     {
+      "id": "PER243-1peban7",
       "type": "fact",
       "importance": 2,
       "title": "Anestezinin geri dönüşlülüğü",
@@ -9,6 +10,7 @@
       "source": "Genel kabul (PER243 araştırması)"
     },
     {
+      "id": "PER243-1gpebui",
       "type": "fact",
       "importance": 2,
       "title": "Dengeli anestezide klinik belirtiler",
@@ -16,6 +18,7 @@
       "source": "OpenAnesthesia: anestezi evreleri"
     },
     {
+      "id": "PER243-0halieq",
       "type": "fact",
       "importance": 2,
       "title": "TİVA'da ölçüm sınırı",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1ujf4ya",
       "type": "fact",
       "importance": 2,
       "title": "Guedel evrelerinin bağlamı",
@@ -30,6 +34,7 @@
       "source": "OpenAnesthesia: anestezi evreleri"
     },
     {
+      "id": "PER243-0dpg9r4",
       "type": "flip",
       "importance": 2,
       "question": "Guedel evre 1 hangi olayla sona erer?",
@@ -37,6 +42,7 @@
       "source": "OpenAnesthesia: anestezi evreleri"
     },
     {
+      "id": "PER243-0p8k0ma",
       "type": "flip",
       "importance": 1,
       "question": "Guedel evre 3 hangi klinik olayla başlar?",
@@ -44,6 +50,7 @@
       "source": "OpenAnesthesia: anestezi evreleri"
     },
     {
+      "id": "PER243-135gicq",
       "type": "flip",
       "importance": 2,
       "question": "Guedel evre 4 neden tehlikeli kabul edilir?",
@@ -51,6 +58,7 @@
       "source": "OpenAnesthesia: anestezi evreleri"
     },
     {
+      "id": "PER243-1atbeu7",
       "type": "remember",
       "importance": 3,
       "title": "Eksitasyonda havayolu",

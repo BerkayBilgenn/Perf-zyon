@@ -2,6 +2,7 @@
   "topic": "Kriz yönetimi",
   "cards": [
     {
+      "id": "PER207-0yez9nz",
       "type": "fact",
       "importance": 2,
       "title": "Oksijenatör değişimi tek seçenek değildir",
@@ -9,6 +10,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-1wevi1b",
       "type": "fact",
       "importance": 2,
       "title": "Kriz algoritması devreye uyarlanır",
@@ -16,6 +18,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-0ea27vn",
       "type": "flip",
       "importance": 3,
       "question": "Oksijenatör yetmezliği sanılan durumda önce hangi gaz yolu sorunları araştırılır?",
@@ -23,6 +26,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-1x679cj",
       "type": "flip",
       "importance": 3,
       "question": "Kurtarma oksijenatörü yöntemi neden ekipçe önceden çalışılmalıdır?",
@@ -30,6 +34,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-1ppcjvi",
       "type": "remember",
       "importance": 3,
       "title": "Devrede hava hasta bağlantısına tehdit",
@@ -37,6 +42,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0ovtbh0",
       "type": "remember",
       "importance": 3,
       "title": "Elektrik kaybı için yedek güç",

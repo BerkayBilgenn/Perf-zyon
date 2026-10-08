@@ -2,6 +2,7 @@
   "topic": "Obstrüktif konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-1rt1y7i",
       "type": "mcq",
       "importance": 3,
       "question": "IAA tip A'da aortik kesinti hangi bölgededir?",
@@ -16,6 +17,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0tq2ij8",
       "type": "mcq",
       "importance": 2,
       "question": "Biküspit aort kapağıyla sık birlikte görülen obstrüktif lezyon hangisidir?",
@@ -30,6 +32,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1xvuypn",
       "type": "mcq",
       "importance": 2,
       "question": "Aort kapağının altında membran varsa darlığın anatomik adı nedir?",
@@ -44,6 +47,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1cxt04d",
       "type": "mcq",
       "importance": 2,
       "question": "Pulmoner kapak darlığı hangi ventrikülde basınç yükü oluşturur?",
@@ -58,6 +62,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1rjvk62",
       "type": "tf",
       "importance": 2,
       "statement": "Koarktasyonda kollateral damarlar kol-bacak basınç farkının yorumunu etkileyebilir.",
@@ -66,6 +71,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0evyytt",
       "type": "tf",
       "importance": 2,
       "statement": "Pulmoner darlığın valvüler tipi aort kapağı düzeyindedir.",

@@ -2,6 +2,7 @@
   "topic": "Endikasyonlar, skorlar ve ECPR",
   "cards": [
     {
+      "id": "PER207-04d6hyn",
       "type": "term",
       "importance": 3,
       "term": "ECPR",
@@ -10,6 +11,7 @@
       "source": "ELSO ECPR 2021"
     },
     {
+      "id": "PER207-0jwnzdt",
       "type": "term",
       "importance": 2,
       "term": "Mekanik dolaşım desteği",
@@ -18,6 +20,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0aikdpj",
       "type": "term",
       "importance": 2,
       "term": "İyileşmeye köprü",
@@ -26,6 +29,7 @@
       "source": "ELSO Maastricht 2019"
     },
     {
+      "id": "PER207-0e9djlc",
       "type": "term",
       "importance": 1,
       "term": "Karara köprü",
@@ -34,6 +38,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1dghjm6",
       "type": "term",
       "importance": 2,
       "term": "Transplantasyona köprü",
@@ -42,6 +47,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-0ij2da8",
       "type": "term",
       "importance": 1,
       "term": "Adaylığa köprü",
@@ -50,6 +56,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-14tzjut",
       "type": "term",
       "importance": 1,
       "term": "Kalıcı cihaza köprü",
@@ -58,6 +65,7 @@
       "source": "ELSO Maastricht 2019"
     },
     {
+      "id": "PER207-1hzj8qp",
       "type": "term",
       "importance": 1,
       "term": "Destinasyon tedavisi",
@@ -66,6 +74,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-0v609jf",
       "type": "term",
       "importance": 3,
       "term": "Futilite",
@@ -74,6 +83,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1pi63xr",
       "type": "term",
       "importance": 2,
       "term": "Postkardiyotomi şoku",
@@ -82,6 +92,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0qq4nj8",
       "type": "term",
       "importance": 3,
       "term": "Kardiyojenik şok",
@@ -90,6 +101,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0ww9c7j",
       "type": "term",
       "importance": 3,
       "term": "ARDS",
@@ -98,6 +110,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0uewl6y",
       "type": "term",
       "importance": 2,
       "term": "Hiperkapni",
@@ -106,6 +119,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0164z9m",
       "type": "term",
       "importance": 2,
       "term": "Hipoksemi",
@@ -114,6 +128,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1pepbb5",
       "type": "term",
       "importance": 2,
       "term": "PaO2/FiO2 oranı",
@@ -122,6 +137,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1dhzhrn",
       "type": "term",
       "importance": 1,
       "term": "Murray skoru",
@@ -130,6 +146,7 @@
       "source": "Murray 1988"
     },
     {
+      "id": "PER207-0i0xodh",
       "type": "term",
       "importance": 1,
       "term": "RESP skoru",
@@ -138,6 +155,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0cech9q",
       "type": "term",
       "importance": 1,
       "term": "SAVE skoru",
@@ -146,6 +164,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1d4ax5d",
       "type": "term",
       "importance": 2,
       "term": "No-flow süresi",
@@ -154,11 +173,12 @@
       "source": "ELSO ECPR 2021"
     },
     {
+      "id": "PER207-0ov0916",
       "type": "term",
       "importance": 2,
       "term": "Low-flow süresi",
       "en": "Low-flow interval",
-      "definition": "KPR’nin başlaması ile etkin ECMO dolaşımının kurulması arasında düşük akımlı resüsitasyon dönemi.",
+      "definition": "ELSO ECPR 2021’in örnek seçim tablosunda kardiyak arrestin başlangıcından ECMO akımına kadar geçen süre. Kompresyonların başlamasından ECMO’ya kadar geçen düşük akımlı KPR dönemiyle aynı zaman aralığı değildir.",
       "source": "ELSO ECPR 2021"
     }
   ]

@@ -2,6 +2,7 @@
   "topic": "Kardiyovasküler embriyoloji",
   "cards": [
     {
+      "id": "PER241-0mb46pn",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -11,6 +12,7 @@
       "origin": "Yun. kardia + genes = oluşturan"
     },
     {
+      "id": "PER241-1esmfsv",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -19,6 +21,7 @@
       "definition": "Embriyoda endokardiyal tüplerin birleşmesiyle oluşan, daha sonra kalp odacıklarına ve çıkış yollarına farklılaşan yapı."
     },
     {
+      "id": "PER241-02c5ymo",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -28,6 +31,7 @@
       "origin": "Lat. sinus + vena"
     },
     {
+      "id": "PER241-1p6tgqm",
       "type": "term",
       "importance": 1,
       "source": "OpenStax A&P 2e",
@@ -37,6 +41,7 @@
       "origin": "Lat. bulbus = soğan, cor = kalp"
     },
     {
+      "id": "PER241-0kdx4of",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -46,6 +51,7 @@
       "origin": "Lat. truncus = gövde"
     },
     {
+      "id": "PER241-1krhuyo",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -54,6 +60,7 @@
       "definition": "Primitif kalp tüpünün sağa kıvrılıp odacıkların yerleşimine katkıda bulunduğu gelişim süreci."
     },
     {
+      "id": "PER241-01o31su",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -62,6 +69,7 @@
       "definition": "atriyoventriküler kanalı bölen ve membranöz septuma katılan dokular; gelişim bozukluğu AVSD'dir."
     },
     {
+      "id": "PER241-1wqkapr",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -71,6 +79,7 @@
       "origin": "Lat. primus = birinci"
     },
     {
+      "id": "PER241-0adp07c",
       "type": "term",
       "importance": 1,
       "source": "Kenhub embriyoloji",
@@ -80,6 +89,7 @@
       "origin": "Lat. ostium = ağız, giriş"
     },
     {
+      "id": "PER241-1nd6bs2",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -89,6 +99,7 @@
       "origin": "Lat. secundus = ikinci"
     },
     {
+      "id": "PER241-1vkri9l",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -97,6 +108,7 @@
       "definition": "Septum primumun sağında gelişen kaslı septum; foramen sekundumu örter."
     },
     {
+      "id": "PER241-1cxr8m6",
       "type": "term",
       "importance": 3,
       "source": "Kenhub embriyoloji",
@@ -106,6 +118,7 @@
       "origin": "Lat. foramen = delik"
     },
     {
+      "id": "PER241-1aaf3c4",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -114,6 +127,7 @@
       "definition": "Embriyonik çıkış yolunu aort ve pulmoner trunkusa ayıran, spiral seyirli septum."
     },
     {
+      "id": "PER241-1z0i0su",
       "type": "term",
       "importance": 1,
       "source": "Kenhub embriyoloji",
@@ -122,6 +136,7 @@
       "definition": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu; bozukluğu konotrunkal anomalilerle (22q11) ilişkili."
     },
     {
+      "id": "PER241-0rortt0",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -130,6 +145,7 @@
       "definition": "Embriyonik dönemde gelişen ve karotisler, aortik ark, pulmoner arterler ile duktusun oluşumuna katılan damarlar."
     },
     {
+      "id": "PER241-1eahzra",
       "type": "compare",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -150,6 +166,7 @@
       }
     },
     {
+      "id": "PER241-11xz33s",
       "type": "compare",
       "importance": 2,
       "source": "OpenStax A&P 2e",

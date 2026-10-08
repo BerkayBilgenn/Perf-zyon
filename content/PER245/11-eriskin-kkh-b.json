@@ -2,6 +2,7 @@
   "topic": "Erişkin konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-0y789ei",
       "type": "fact",
       "importance": 2,
       "title": "ASD'de sağ kalp yükü",
@@ -9,6 +10,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1i6mz1a",
       "type": "fact",
       "importance": 2,
       "title": "Sinüs venozus birlikteliği",
@@ -16,6 +18,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0edzjue",
       "type": "fact",
       "importance": 2,
       "title": "VSD'de doğum sonrası değişim",
@@ -23,6 +26,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1inaddh",
       "type": "fact",
       "importance": 2,
       "title": "Onarılmış TOF'de geç yük",
@@ -30,6 +34,7 @@
       "source": "ESC Erişkin KKH 2020"
     },
     {
+      "id": "PER245-1in5m6o",
       "type": "fact",
       "importance": 2,
       "title": "Fontan'ın uzun dönem izlemi",
@@ -37,6 +42,7 @@
       "source": "ESC Erişkin KKH 2020"
     },
     {
+      "id": "PER245-0qk1fbv",
       "type": "flip",
       "importance": 2,
       "question": "Sekundum ASD'nin tipik anatomik bölgesi neresidir?",
@@ -44,6 +50,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1vzant2",
       "type": "flip",
       "importance": 2,
       "question": "Komplet AVSD'de atriyoventriküler kapak yapısı nasıl tarif edilir?",
@@ -51,6 +58,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-092jd8f",
       "type": "flip",
       "importance": 2,
       "question": "Erişkinde ccTGA'nın sistemik ventrikülü hangisidir?",
@@ -58,6 +66,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0o241mz",
       "type": "remember",
       "importance": 3,
       "title": "Eisenmenger'de kapatma",

@@ -2,6 +2,7 @@
   "topic": "Palyatif ve düzeltici operasyonlar",
   "cards": [
     {
+      "id": "PER241-1o5ch99",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -9,6 +10,7 @@
       "body": "Pulmoner arter bandının **yer değiştirmesi ve arterde distorsiyon** oluşturması takipte önem taşır."
     },
     {
+      "id": "PER241-1sb34ly",
       "type": "remember",
       "importance": 3,
       "source": "Merck Manual",
@@ -16,6 +18,7 @@
       "body": "Büyük arterler değiştirilirken **koroner ağızlar neo-aortaya aktarılır**; koroner transfer onarımın temel adımıdır."
     },
     {
+      "id": "PER241-1dj3ebq",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -23,6 +26,7 @@
       "body": "Sağ ventrikül–pulmoner arter kondüitinde **darlık** gelişmesi veya büyümeyle uyumsuzluk, yeniden girişim gerektirebilir."
     },
     {
+      "id": "PER241-0pzdcnq",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -30,6 +34,7 @@
       "body": "Pulmoner otogreft **çocukla birlikte büyüyebilir**; pediatrik aort kapak cerrahisinde önemli avantajdır."
     },
     {
+      "id": "PER241-02hkhqs",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -37,6 +42,7 @@
       "body": "Aort pozisyonundaki otogreft dilatasyonu ve pulmoner homogreft darlığıyla **iki kapak yatağında sorun** gelişebilir."
     },
     {
+      "id": "PER241-0jwrerb",
       "type": "flip",
       "importance": 2,
       "source": "Wikipedia",
@@ -44,6 +50,7 @@
       "answer": "Pasif pulmoner akım için **düşük pulmoner direnç** ve iyi ventrikül fonksiyonu gerekir."
     },
     {
+      "id": "PER241-037g1br",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -51,6 +58,7 @@
       "body": "Fenestrasyon, yüksek venöz basınç için **basınç boşaltma açıklığı** görevi görür; dolaşımın anatomik bir düzeltmesi değildir."
     },
     {
+      "id": "PER241-0m1gz3b",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -58,6 +66,7 @@
       "body": "Triküspit yapraklarının mobilizasyonuna ek olarak **atriyalize sağ ventrikül plikasyonu** uygulanır."
     },
     {
+      "id": "PER241-07mu4if",
       "type": "fact",
       "importance": 2,
       "source": "Wang ve An 2025",
@@ -65,6 +74,7 @@
       "body": "Aortopulmoner pencere ve **pulmoner arter içi tünel**, aortik kanı anormal koroner ağza yönlendirir."
     },
     {
+      "id": "PER241-0611ler",
       "type": "remember",
       "importance": 3,
       "source": "Merck Manual",

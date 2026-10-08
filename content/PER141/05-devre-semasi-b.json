@@ -2,6 +2,7 @@
   "topic": "KPB devresi ve kan akış yolu",
   "cards": [
     {
+      "id": "PER141-0ix631i",
       "type": "fact",
       "importance": 3,
       "title": "Konvansiyonel devrede sıra",
@@ -9,6 +10,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-028pat4",
       "type": "fact",
       "importance": 2,
       "title": "Pompadan geçen kan",
@@ -16,6 +18,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-16frotr",
       "type": "fact",
       "importance": 2,
       "title": "Kardiyopleji yan devresi",
@@ -23,6 +26,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1b4xexm",
       "type": "fact",
       "importance": 2,
       "title": "Hemofiltre şantı",
@@ -30,6 +34,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-13nmk6s",
       "type": "fact",
       "importance": 2,
       "title": "Bileşenlerin izlenebilirliği",
@@ -37,6 +42,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0ur8ggf",
       "type": "flip",
       "importance": 3,
       "question": "Isı değiştiricinin oksijenatöre göre proksimal konumu neden önemlidir?",
@@ -44,6 +50,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-0xfpl81",
       "type": "flip",
       "importance": 2,
       "question": "Kardiyotomi aspirasyon hattı devrenin hangi bölümüne kan taşır?",
@@ -51,6 +58,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1dk853n",
       "type": "flip",
       "importance": 2,
       "question": "Gaz hattındaki karıştırıcıdan sonra gaz nereye gider?",
@@ -58,6 +66,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0d6481j",
       "type": "remember",
       "importance": 3,
       "title": "Şemayı hastadan hastaya izle",

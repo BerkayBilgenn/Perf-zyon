@@ -2,6 +2,7 @@
   "topic": "Hipotermi, kan gazı ve kardiyopleji",
   "cards": [
     {
+      "id": "PER245-0lt7koh",
       "type": "mcq",
       "importance": 2,
       "question": "del Nido'daki lidokainin başlıca kanal etkisi hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Boston Children’s, del Nido 2012"
     },
     {
+      "id": "PER245-1es2zb1",
       "type": "mcq",
       "importance": 2,
       "question": "Aort kökü yerine koroner ağızlara doğrudan solüsyon verilmesi hangi yoldur?",
@@ -30,20 +32,22 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0zwcx9q",
       "type": "mcq",
       "importance": 2,
-      "question": "Isıtma sırasında oksijenatör çıkış sıcaklığı beynin gerçek sıcaklığını nasıl yansıtabilir?",
+      "question": "Isıtma sırasında oksijenatör çıkış sıcaklığı serebral perfüzat sıcaklığını nasıl yansıtabilir?",
       "options": [
         "Her zaman eşittir",
-        "Beyin sıcaklığını daima fazla gösterir",
+        "Serebral perfüzat sıcaklığını daima fazla gösterir",
         "Yalnız miyokard sıcaklığını gösterir",
-        "Beyin sıcaklığını olduğundan düşük gösterebilir"
+        "Serebral perfüzat sıcaklığını olduğundan düşük gösterebilir"
       ],
       "correct": 3,
       "explanation": "2015 STS/SCA/AmSECT, oksijenatör arteriyel çıkış sıcaklığının ısıtma sırasında serebral perfüzat sıcaklığını olduğundan düşük gösterebileceğini belirtir.",
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER245-1761zev",
       "type": "mcq",
       "importance": 3,
       "question": "Venting hangi mekanik sorunu önlemeyi amaçlar?",
@@ -58,6 +62,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0qy2k4u",
       "type": "mcq",
       "importance": 2,
       "question": "Aort klemp süresi kaydı hangi temel süreyi izlemede kullanılır?",
@@ -72,6 +77,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1wi01fz",
       "type": "tf",
       "importance": 2,
       "statement": "Hipotermi, pıhtılaşma ve trombosit işlevlerini olumsuz etkileyebilir.",
@@ -80,6 +86,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0kjo0un",
       "type": "tf",
       "importance": 2,
       "statement": "Kardiyoplejide yüksek potasyum kalbi fizyolojik olarak sistolde durdurmayı amaçlar.",
@@ -88,6 +95,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0vfjsov",
       "type": "tf",
       "importance": 2,
       "statement": "De-airing, kalbin içindeki havayı bırakıp ejeksiyonu başlatma işlemidir.",

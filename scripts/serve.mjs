@@ -33,4 +33,4 @@ http
       res.writeHead(404, { 'content-type': 'text/plain; charset=utf-8' }).end('Bulunamadı');
     }
   })
-  .listen(port, () => console.log(`Önizleme: http://localhost:${port}`));
+  .listen(port, '127.0.0.1', () => console.log(`Önizleme: http://localhost:${port}`));

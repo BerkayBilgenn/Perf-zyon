@@ -2,6 +2,7 @@
   "topic": "İABP, Impella ve TandemHeart",
   "cards": [
     {
+      "id": "PER207-1bu0p8n",
       "type": "mcq",
       "importance": 3,
       "question": "İABP’de diyastolik şişme hangi yararı hedefler?",
@@ -16,6 +17,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0lm0ks2",
       "type": "mcq",
       "importance": 3,
       "question": "İABP balonu sistol başladığında şişik kalıyorsa hangi zamanlama hatası vardır?",
@@ -30,6 +32,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1igl45h",
       "type": "mcq",
       "importance": 3,
       "question": "İABP’nin erken şişmesi hangi fazdaki akımı engelleyebilir?",
@@ -44,6 +47,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1opkue4",
       "type": "mcq",
       "importance": 3,
       "question": "İABP gaz hattında kan görülmesi hangi arızayı düşündürür?",
@@ -58,6 +62,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0ovk7dr",
       "type": "mcq",
       "importance": 3,
       "question": "Impella’daki LV boşaltma etkisi ventrikülün basınç–hacim döngüsünde hangi sonucu hedefler?",
@@ -72,6 +77,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0gvk8os",
       "type": "mcq",
       "importance": 3,
       "question": "TandemHeart için sol atriyuma erişimde hangi yöntem kullanılır?",
@@ -86,6 +92,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-142mprm",
       "type": "tf",
       "importance": 2,
       "statement": "İABP’nin diyastolde sönmesi, standart karşı-atımın temel zamanlamasıdır.",
@@ -94,6 +101,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1jrbf6z",
       "type": "tf",
       "importance": 2,
       "statement": "TandemHeart çalışırken sol atriyal drenajın kesilmesi pompanın dolumunu bozabilir.",
@@ -102,6 +110,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1jx3k0n",
       "type": "tf",
       "importance": 2,
       "statement": "TandemHeart drenaj kanülünün yan deliklerinin sağ atriyuma kayması sol atriyal drenajı güvenle sürdürür.",

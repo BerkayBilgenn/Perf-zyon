@@ -2,6 +2,7 @@
   "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
   "cards": [
     {
+      "id": "PER247-1e4ax3q",
       "type": "mcq",
       "importance": 3,
       "source": "CDC İzolasyon 2007/2024",
@@ -16,6 +17,7 @@
       "explanation": "**Standart önlemler** tüm hastalara uygulanır; bilinen enfeksiyon tanısına bağlı değildir."
     },
     {
+      "id": "PER247-0ndecpg",
       "type": "mcq",
       "importance": 3,
       "source": "CDC İzolasyon 2007/2024",
@@ -30,6 +32,7 @@
       "explanation": "Hava yolu bulaşında **AIIR ve uygun respiratör** gerekir; cerrahi maskeyle aynı amaç değildir."
     },
     {
+      "id": "PER247-03oazhu",
       "type": "mcq",
       "importance": 3,
       "source": "Tıbbi Atık Yönetmeliği 2017",
@@ -44,6 +47,7 @@
       "explanation": "Torba **en fazla ¾** doldurulur; sıkıştırılıp boşaltılarak tekrar kullanılmaz."
     },
     {
+      "id": "PER247-1w9t325",
       "type": "mcq",
       "importance": 3,
       "source": "CDC KKE sıralaması",
@@ -58,6 +62,7 @@
       "explanation": "Örnek 1 sırası eldiven, gözlük/siper, önlük, maske/respiratör ve el hijyenidir; diğer güvenli örnekler de vardır."
     },
     {
+      "id": "PER247-0yx9oer",
       "type": "tf",
       "importance": 2,
       "source": "CDC KKE sıralaması",
@@ -66,6 +71,7 @@
       "explanation": "El hijyeni yalnız son adıma bırakılmaz; **ara kontaminasyonda hemen** uygulanır."
     },
     {
+      "id": "PER247-0dcj7b7",
       "type": "tf",
       "importance": 2,
       "source": "CDC İzolasyon 2007/2024",
@@ -74,6 +80,7 @@
       "explanation": "Eldiven el hijyeninin yerine geçmez; çıkarıldıktan sonra ilgili el hijyeni endikasyonu devam eder."
     },
     {
+      "id": "PER247-1s52bsu",
       "type": "tf",
       "importance": 2,
       "source": "Tıbbi Atık Yönetmeliği 2017",

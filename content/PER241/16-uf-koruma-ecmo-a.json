@@ -2,6 +2,7 @@
   "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
   "cards": [
     {
+      "id": "PER241-1cl44a5",
       "type": "term",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -10,6 +11,7 @@
       "definition": "KPB sırasında hemokonsantratörle sıvı uzaklaştırma; rezervuar minimum hacmiyle sınırlı."
     },
     {
+      "id": "PER241-1puaadr",
       "type": "term",
       "importance": 3,
       "source": "Naik ve ark. 1991",
@@ -18,6 +20,7 @@
       "definition": "Kardiyopulmoner bypass sonlandıktan sonra, protamin verilmeden önce uygulanan ultrafiltrasyon yöntemi."
     },
     {
+      "id": "PER241-1ioi57t",
       "type": "term",
       "importance": 2,
       "source": "Journois ve ark. 1996",
@@ -26,6 +29,7 @@
       "definition": "KPB'de ultrafiltrat kadar kristaloid ekleyerek volüm nötr şekilde mediatör uzaklaştırma."
     },
     {
+      "id": "PER241-1yhpwa3",
       "type": "term",
       "importance": 2,
       "source": "Hendrix ve ark. 2021",
@@ -34,6 +38,7 @@
       "definition": "Ultrafiltrasyon için yarı geçirgen membranlı filtre."
     },
     {
+      "id": "PER241-093uw2s",
       "type": "term",
       "importance": 3,
       "source": "Matte ve del Nido 2012",
@@ -43,6 +48,7 @@
       "origin": "Yun. kardia + plege = darbe/felç"
     },
     {
+      "id": "PER241-12fu63n",
       "type": "term",
       "importance": 1,
       "source": "Matte ve del Nido 2012",
@@ -52,6 +58,7 @@
       "origin": "P. del Nido (eponim)"
     },
     {
+      "id": "PER241-19n082q",
       "type": "term",
       "importance": 2,
       "source": "Ghiragosian ve ark. 2022",
@@ -60,6 +67,7 @@
       "definition": "Düşük Na'lı, histidin tamponlu, hiperpolarize arrest yapan kristaloid kardiyopleji."
     },
     {
+      "id": "PER241-14ggd4d",
       "type": "term",
       "importance": 2,
       "source": "Matte ve del Nido 2012",
@@ -68,6 +76,7 @@
       "definition": "Yüksek K ile membranın depolarize tutularak kalbin durdurulması (del Nido, kan kardiyoplejisi)."
     },
     {
+      "id": "PER241-0in5e74",
       "type": "term",
       "importance": 2,
       "source": "Ghiragosian ve ark. 2022",
@@ -76,6 +85,7 @@
       "definition": "Ekstraselüler Na deplesyonu ile hızlı depolarizasyon fazının engellenmesi (HTK)."
     },
     {
+      "id": "PER241-1uvofvq",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -85,6 +95,7 @@
       "origin": "Yun. hepar = karaciğer"
     },
     {
+      "id": "PER241-1id08sk",
       "type": "term",
       "importance": 1,
       "source": "Wikipedia",
@@ -93,6 +104,7 @@
       "definition": "Heparinin etki gösterebilmesi için gerekli doğal pıhtılaşma inhibitörü."
     },
     {
+      "id": "PER241-0rjdbtx",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -101,6 +113,7 @@
       "definition": "Heparinin etkisini nötralize eden ilaç."
     },
     {
+      "id": "PER241-1hqevfr",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -109,6 +122,7 @@
       "definition": "Heparin etkisinin izlenmesinde kullanılan tam kan pıhtılaşma zamanı testi."
     },
     {
+      "id": "PER241-15ppt5q",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -117,6 +131,7 @@
       "definition": "Heparine karşı immün reaksiyonla gelişen ciddi trombositopeni."
     },
     {
+      "id": "PER241-1i3yhih",
       "type": "term",
       "importance": 2,
       "source": "Groom ve ark. 2005",
@@ -125,6 +140,7 @@
       "definition": "Fibrinolizi azaltarak kanamayı azaltan ajan (aprotinin, traneksamik asit)."
     },
     {
+      "id": "PER241-00oje1p",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -133,6 +149,7 @@
       "definition": "Günler-haftalar sürebilen ekstrakorporeal kalp ve/veya akciğer desteği."
     },
     {
+      "id": "PER241-1hzuk6w",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -141,6 +158,7 @@
       "definition": "Venöz kanın arteriyel sisteme döndürüldüğü, kalp ve akciğer desteği sağlayan ekstrakorporeal membran oksijenasyonu biçimi."
     },
     {
+      "id": "PER241-1avcy3j",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -149,6 +167,7 @@
       "definition": "Yenidoğanın solunum yetmezliği şiddetini değerlendirmede kullanılan oksijenlenme ölçütü."
     },
     {
+      "id": "PER241-0i9851v",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -157,6 +176,7 @@
       "definition": "Pulmoner damarları seçici olarak genişleten, solunum yoluyla uygulanan nitrik oksit."
     },
     {
+      "id": "PER241-04nmh9j",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -165,6 +185,7 @@
       "definition": "Venöz kanın oksijenlendirilip yeniden venöz sisteme verildiği, kalp fonksiyonu yeterliyken solunum desteği sağlayan yöntem."
     },
     {
+      "id": "PER241-0uexo8e",
       "type": "compare",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -185,6 +206,7 @@
       }
     },
     {
+      "id": "PER241-1x0uley",
       "type": "compare",
       "importance": 2,
       "source": "Draaisma 2009",

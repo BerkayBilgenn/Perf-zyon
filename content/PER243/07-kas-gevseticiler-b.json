@@ -2,6 +2,7 @@
   "topic": "Kas gevşeticiler ve antagonistleri",
   "cards": [
     {
+      "id": "PER243-0fuojes",
       "type": "fact",
       "importance": 3,
       "title": "Süksinilkolin ve denervasyon",
@@ -9,6 +10,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-1y4bdp8",
       "type": "fact",
       "importance": 2,
       "title": "Roküronyumun eliminasyonu",
@@ -16,6 +18,7 @@
       "source": "DailyMed: roküronyum"
     },
     {
+      "id": "PER243-1p8bome",
       "type": "fact",
       "importance": 1,
       "title": "Veküronyumun aktif metaboliti",
@@ -23,6 +26,7 @@
       "source": "DailyMed: veküronyum"
     },
     {
+      "id": "PER243-1srhli1",
       "type": "fact",
       "importance": 2,
       "title": "Sisatraküryum ve sugammadeks",
@@ -30,6 +34,7 @@
       "source": "Bridion ürün bilgisi"
     },
     {
+      "id": "PER243-0bjupi7",
       "type": "fact",
       "importance": 1,
       "title": "Hipotermide kas gevşetici",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-02r5u6u",
       "type": "fact",
       "importance": 2,
       "title": "Adduktor pollisis ve soğuma",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1nnunhc",
       "type": "flip",
       "importance": 2,
       "question": "Post-tetanik sayım hangi blok durumunda bilgi sağlar?",
@@ -51,6 +58,7 @@
       "source": "Bridion ürün bilgisi"
     },
     {
+      "id": "PER243-1tbhhcd",
       "type": "flip",
       "importance": 2,
       "question": "Sugammadeks dozunu neden yalnız ilaç adı belirlemez?",
@@ -58,6 +66,7 @@
       "source": "Bridion ürün bilgisi"
     },
     {
+      "id": "PER243-1hg59oi",
       "type": "flip",
       "importance": 3,
       "question": "Süksinilkolinden sonra görülen kas seğirmeleri hangi terimle adlandırılır?",
@@ -65,6 +74,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-1t4yjuw",
       "type": "remember",
       "importance": 3,
       "title": "Neostigminle antimuskarinik",
@@ -72,6 +82,7 @@
       "source": "DailyMed: neostigmin"
     },
     {
+      "id": "PER243-1dpfaeb",
       "type": "remember",
       "importance": 3,
       "title": "Sugammadeks ve ciddi reaksiyon",

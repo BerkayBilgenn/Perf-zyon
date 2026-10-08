@@ -2,6 +2,7 @@
   "topic": "Koroner damarlar ve ileti sistemi",
   "cards": [
     {
+      "id": "PER241-0kwibvm",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -10,6 +11,7 @@
       "definition": "Sol koronerin ön interventriküler oluk boyunca inen dalı."
     },
     {
+      "id": "PER241-0gv29vl",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -19,6 +21,7 @@
       "origin": "Lat. circumflexus = çevresinde bükülmüş"
     },
     {
+      "id": "PER241-1fflpnq",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -27,6 +30,7 @@
       "definition": "Posterior interventriküler arter; hangi koronerden çıktığı dominansı belirler. Patent duktus arteriyozus ile karıştırma."
     },
     {
+      "id": "PER241-0jo0t8i",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -35,6 +39,7 @@
       "definition": "PDA'yı veren koronere göre tanımlama; çoğunluk sağ dominanttır."
     },
     {
+      "id": "PER241-0ybwzqc",
       "type": "term",
       "importance": 1,
       "source": "Wikipedia",
@@ -44,6 +49,7 @@
       "origin": "A. Thebesius (eponim)"
     },
     {
+      "id": "PER241-19hn9gj",
       "type": "term",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -52,6 +58,7 @@
       "definition": "Sağ atriyum üst duvarında, vena kava superior ağzına yakın, fizyolojik pacemaker."
     },
     {
+      "id": "PER241-1mvq8gg",
       "type": "term",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -60,6 +67,7 @@
       "definition": "Koch üçgeninde bulunan ve atriyumlardan gelen uyarıyı ventriküllere iletmeden önce geciktiren düğüm."
     },
     {
+      "id": "PER241-1p2dmwf",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -69,6 +77,7 @@
       "origin": "W. His Jr. (eponim)"
     },
     {
+      "id": "PER241-0qrx7b2",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -78,6 +87,7 @@
       "origin": "J. Purkyně (eponim)"
     },
     {
+      "id": "PER241-1x6ww65",
       "type": "term",
       "importance": 1,
       "source": "OpenStax A&P 2e",

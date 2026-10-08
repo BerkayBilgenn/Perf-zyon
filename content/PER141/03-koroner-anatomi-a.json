@@ -2,6 +2,7 @@
   "topic": "Koroner sistem anatomisi ve fizyolojisi",
   "cards": [
     {
+      "id": "PER141-0kwibvm",
       "type": "term",
       "importance": 3,
       "term": "LAD",
@@ -10,6 +11,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0iof7bw",
       "type": "term",
       "importance": 2,
       "term": "LCx",
@@ -18,6 +20,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0dkp0kd",
       "type": "term",
       "importance": 2,
       "term": "RCA",
@@ -26,6 +29,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0jo0t8i",
       "type": "term",
       "importance": 3,
       "term": "Koroner dominans",
@@ -34,6 +38,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1xdj4yu",
       "type": "term",
       "importance": 3,
       "term": "Koroner sinüs",
@@ -42,6 +47,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0n0zyxu",
       "type": "term",
       "importance": 2,
       "term": "Thebesian venler",
@@ -50,6 +56,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0q2c1i5",
       "type": "term",
       "importance": 2,
       "term": "Anterior kardiyak venler",
@@ -58,6 +65,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1fayg8p",
       "type": "term",
       "importance": 1,
       "term": "Koroner",
@@ -66,6 +74,7 @@
       "source": "Wiktionary: Tıp etimolojisi"
     },
     {
+      "id": "PER141-17ao9hz",
       "type": "term",
       "importance": 2,
       "term": "İskemi",
@@ -74,6 +83,7 @@
       "source": "Wiktionary: Tıp etimolojisi"
     },
     {
+      "id": "PER141-01u94in",
       "type": "term",
       "importance": 2,
       "term": "Diyastol ve sistol",
@@ -82,6 +92,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1bo8bpv",
       "type": "term",
       "importance": 3,
       "term": "Sol ana koroner arter",
@@ -90,6 +101,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0karni6",
       "type": "term",
       "importance": 2,
       "term": "Posterior desendan arter",
@@ -98,6 +110,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1j08h5k",
       "type": "term",
       "importance": 1,
       "term": "Ramus intermedius",

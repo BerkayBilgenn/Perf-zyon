@@ -2,6 +2,7 @@
   "topic": "Koroner damarlar ve ileti sistemi",
   "cards": [
     {
+      "id": "PER241-1ntdyhb",
       "type": "mcq",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -16,6 +17,7 @@
       "explanation": "Normal uyarı SA düğümde başlar ve ileti sistemi boyunca yayılır."
     },
     {
+      "id": "PER241-0q8r61s",
       "type": "mcq",
       "importance": 2,
       "source": "Koch üçgeni anatomisi",
@@ -30,6 +32,7 @@
       "explanation": "atriyoventriküler düğüm Koch üçgeninin tepesinde bulunur."
     },
     {
+      "id": "PER241-1x8yfue",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -44,6 +47,7 @@
       "explanation": "Bachmann demeti atriyumlar arası iletimi sağlar."
     },
     {
+      "id": "PER241-04maulw",
       "type": "mcq",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -58,6 +62,7 @@
       "explanation": "Purkinje lifleri uyarıyı subendokardiyal ağdan ventrikül kasına yayar."
     },
     {
+      "id": "PER241-1dxxi0l",
       "type": "mcq",
       "importance": 2,
       "source": "Wikipedia",
@@ -72,6 +77,7 @@
       "explanation": "Dominans, posterior inen koroner arteri veren koronere göre tanımlanır."
     },
     {
+      "id": "PER241-1cl885l",
       "type": "tf",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -80,6 +86,7 @@
       "explanation": "atriyoventriküler düğümden gelen uyarı His demeti ve dalları üzerinden ventriküllere iletilir."
     },
     {
+      "id": "PER241-1k3n8ky",
       "type": "tf",
       "importance": 2,
       "source": "OpenStax A&P 2e",

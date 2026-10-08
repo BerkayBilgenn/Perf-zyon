@@ -2,6 +2,7 @@
   "topic": "ECMO devresi ve basınçlar",
   "cards": [
     {
+      "id": "PER207-1tsi251",
       "type": "term",
       "importance": 3,
       "term": "Santrifüj pompa",
@@ -10,6 +11,7 @@
       "source": "Lequier, devreler 2013"
     },
     {
+      "id": "PER207-1x5r5om",
       "type": "term",
       "importance": 1,
       "term": "Roller pompa",
@@ -18,6 +20,7 @@
       "source": "Lequier, devreler 2013"
     },
     {
+      "id": "PER207-0vyjaaf",
       "type": "term",
       "importance": 3,
       "term": "Membran oksijenatör",
@@ -26,6 +29,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0qbcx9a",
       "type": "term",
       "importance": 1,
       "term": "PMP",
@@ -34,6 +38,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-04gvku6",
       "type": "term",
       "importance": 1,
       "term": "Mikroporöz membran",
@@ -42,6 +47,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1frwolc",
       "type": "term",
       "importance": 1,
       "term": "Silikon membran",
@@ -50,6 +56,7 @@
       "source": "Lequier, devreler 2013"
     },
     {
+      "id": "PER207-0oyzxgb",
       "type": "term",
       "importance": 2,
       "term": "Rated flow",
@@ -58,6 +65,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0do26ph",
       "type": "term",
       "importance": 3,
       "term": "Sweep gaz",
@@ -66,6 +74,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-03or9aa",
       "type": "term",
       "importance": 2,
       "term": "FDO2",
@@ -74,6 +83,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1mba4gc",
       "type": "term",
       "importance": 1,
       "term": "Gaz blenderi",
@@ -82,6 +92,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1jgdz3b",
       "type": "term",
       "importance": 1,
       "term": "Karbojen",
@@ -90,6 +101,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1ae7n5q",
       "type": "term",
       "importance": 1,
       "term": "Isı değiştirici",
@@ -98,6 +110,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0e4wwuu",
       "type": "term",
       "importance": 1,
       "term": "Köprü",
@@ -106,6 +119,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1x8j8ch",
       "type": "term",
       "importance": 1,
       "term": "Servo-hazne",
@@ -114,6 +128,7 @@
       "source": "Lequier, devreler 2013"
     },
     {
+      "id": "PER207-0yzjni1",
       "type": "term",
       "importance": 1,
       "term": "Servo-regülasyon",
@@ -122,6 +137,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1u8hdfe",
       "type": "term",
       "importance": 3,
       "term": "Kabarcık dedektörü",
@@ -130,6 +146,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1qw22ge",
       "type": "term",
       "importance": 1,
       "term": "El krankı",
@@ -138,6 +155,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-06sadna",
       "type": "term",
       "importance": 2,
       "term": "Drenaj basıncı",
@@ -146,6 +164,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0fvcpw4",
       "type": "term",
       "importance": 1,
       "term": "Pre-oksijenatör basıncı",
@@ -154,6 +173,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1vzpy6d",
       "type": "term",
       "importance": 1,
       "term": "Post-oksijenatör basıncı",
@@ -162,6 +182,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-05m18vc",
       "type": "term",
       "importance": 2,
       "term": "Transmembran basınç gradyanı",
@@ -170,6 +191,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1gvkrqf",
       "type": "term",
       "importance": 1,
       "term": "Priming",
@@ -178,6 +200,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0jw1xme",
       "type": "term",
       "importance": 1,
       "term": "Kan prime",
@@ -186,6 +209,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-174ejjg",
       "type": "term",
       "importance": 2,
       "term": "Hemodilüsyon",
@@ -194,6 +218,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1ps6pkm",
       "type": "term",
       "importance": 2,
       "term": "Heparin kaplı yüzey",
@@ -202,6 +227,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-01x73sq",
       "type": "term",
       "importance": 2,
       "term": "Plazma sızıntısı",
@@ -210,6 +236,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-16g5p3e",
       "type": "term",
       "importance": 2,
       "term": "Su yoğuşması",
@@ -218,6 +245,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0coupia",
       "type": "term",
       "importance": 1,
       "term": "Hemofiltre / CRRT",
@@ -226,6 +254,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0yhmseq",
       "type": "term",
       "importance": 1,
       "term": "Acil devre",
@@ -234,6 +263,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-02qh6vz",
       "type": "compare",
       "importance": 2,
       "title": "Membran malzemesi",
@@ -254,6 +284,7 @@
       "source": "Lequier, devreler 2013"
     },
     {
+      "id": "PER207-1nttrgj",
       "type": "compare",
       "importance": 2,
       "title": "Pompanın giriş ve çıkış tıkanması",

@@ -9,7 +9,7 @@ export const AHEAD = 4;
 export const KEEP = 12;
 export const IDLE_MS = 150;
 
-export function createViewer({ root, feed, handlers, onActive, onComplete, dwellMs = DWELL_MS }) {
+export function createViewer({ root, feed, handlers, onActive, onComplete, resume = null, dwellMs = DWELL_MS }) {
   const records = [];
   const slides = [];
   let active = -1;
@@ -44,7 +44,7 @@ export function createViewer({ root, feed, handlers, onActive, onComplete, dwell
       const item = feed.next();
       if (!item) return;
       const index = records.length;
-      records.push(createRecord(item));
+      records.push(createRecord(item, Math.random, index === 0 ? resume : null));
       const slide = document.createElement('section');
       slide.className = 'slide';
       slide.dataset.index = String(index);

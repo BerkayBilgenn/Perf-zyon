@@ -2,6 +2,7 @@
   "topic": "Anestezi cihazı ve mekanik ventilasyon",
   "cards": [
     {
+      "id": "PER243-13pjl94",
       "type": "mcq",
       "importance": 2,
       "question": "Oksijen flaş valfinin uygunsuz kullanımı hangi fiziksel hasar riskini artırır?",
@@ -16,6 +17,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1tmo8i6",
       "type": "mcq",
       "importance": 2,
       "question": "Thorpe tüpündeki bobin biçimli şamandıra hangi noktadan okunur?",
@@ -30,6 +32,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1or6j1m",
       "type": "mcq",
       "importance": 2,
       "question": "Atık gaz uzaklaştırma sistemi hangi riski azaltmayı amaçlar?",
@@ -44,6 +47,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-146wyc4",
       "type": "mcq",
       "importance": 2,
       "question": "Oksijen silindirinde yanlış bağlantıyı önleyen düzenek hangisidir?",
@@ -58,6 +62,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0vdabpk",
       "type": "mcq",
       "importance": 2,
       "question": "Hacim kontrollü ventilasyonda hangi büyüklük sabit hedeflenir?",
@@ -72,6 +77,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1flxohh",
       "type": "tf",
       "importance": 1,
       "statement": "Sıvılaştırılmış nitröz oksit silindirinde kalan miktar yalnız basınç göstergesinden güvenilir biçimde okunur.",
@@ -80,6 +86,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1yevedx",
       "type": "tf",
       "importance": 2,
       "statement": "Ajana özgü vaporizatör dolum bağlantısı yanlış anestezikle doldurma riskini azaltır.",
@@ -88,6 +95,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0a99k4l",
       "type": "tf",
       "importance": 2,
       "statement": "Basınç kontrollü ventilasyonda tidal volüm sabit, havayolu basıncı değişkendir.",

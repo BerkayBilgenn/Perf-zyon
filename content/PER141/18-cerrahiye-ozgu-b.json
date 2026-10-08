@@ -2,6 +2,7 @@
   "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
   "cards": [
     {
+      "id": "PER141-0edwvg5",
       "type": "fact",
       "importance": 3,
       "title": "Aort yetmezliğinde kök uygulaması",
@@ -9,6 +10,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-02s6rb4",
       "type": "fact",
       "importance": 3,
       "title": "Aort yetmezliğinde vent gereği",
@@ -16,6 +18,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-168ix3o",
       "type": "fact",
       "importance": 2,
       "title": "Mitral transseptal yaklaşım",
@@ -23,6 +26,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-0dvm71b",
       "type": "flip",
       "importance": 2,
       "question": "Minimal invaziv mitral cerrahide uzun venöz kanül neden yardımlı drenaj gerektirebilir?",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-008ao9e",
       "type": "flip",
       "importance": 2,
       "question": "Ağır koroner hastalıkta kardiyopleji dağılımını iyileştirmek için hangi yollar birleştirilebilir?",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1m5x1cp",
       "type": "remember",
       "importance": 3,
       "title": "KPB'siz işlemde hazırlık sürer",
@@ -44,6 +50,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0g09c1i",
       "type": "flip",
       "importance": 2,
       "question": "Basics of CPB'de ciddi aort darlığı ve LV hipertrofisiyle klemp kaldırılması sonrası hangi aritmi ilişkilendirilir?",

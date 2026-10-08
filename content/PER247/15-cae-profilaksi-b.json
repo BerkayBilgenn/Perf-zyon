@@ -2,6 +2,7 @@
   "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
   "cards": [
     {
+      "id": "PER247-08qnc68",
       "type": "fact",
       "importance": 2,
       "source": "CDC NHSN 2026",
@@ -9,6 +10,7 @@
       "body": "CDC NHSN 2026’da yüzeysel insizyonel cerrahi alan enfeksiyonu **tüm işlem kategorilerinde 30 gün** izlenir; işlem günü birinci gündür."
     },
     {
+      "id": "PER247-0zod1xj",
       "type": "fact",
       "importance": 2,
       "source": "CDC NHSN 2026",
@@ -16,6 +18,7 @@
       "body": "Derin insizyonel ve organ/boşluk cerrahi alan enfeksiyonlarında izlem **30 veya 90 gündür**; süreyi işlem kategorisi belirler. Yüzeysel CAE’nin penceresi bununla karıştırılmaz."
     },
     {
+      "id": "PER247-1gcudd5",
       "type": "fact",
       "importance": 2,
       "source": "WHO 2018",
@@ -23,6 +26,7 @@
       "body": "WHO 2018, endike cerrahi profilaksiyi **insizyondan önceki 120 dk içinde**, ilacın yarılanma ömrü gözetilerek önerir. Kontrol listesindeki 60 dk sorusu aynı bağlamda tek evrensel kural değildir."
     },
     {
+      "id": "PER247-0210umv",
       "type": "fact",
       "importance": 3,
       "source": "CDC CAE 2017",
@@ -30,6 +34,7 @@
       "body": "CDC 2017’de temiz ve temiz-kontamine cerrahide insizyon kapandıktan sonra, **dren bulunsa bile**, ek profilaktik antibiyotik dozu önerilmez."
     },
     {
+      "id": "PER247-148s1v2",
       "type": "fact",
       "importance": 2,
       "source": "CDC CAE 2017",
@@ -37,6 +42,7 @@
       "body": "CDC 2017 cerrahi alan enfeksiyonu kılavuzu, ameliyat sırasında glisemik kontrol için **<200 mg/dL** hedefini verir. Bu, ders kapsamındaki kılavuz önerisidir."
     },
     {
+      "id": "PER247-0it5np3",
       "type": "flip",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -44,6 +50,7 @@
       "answer": "**Alet, spanç ve iğne sayımları**. Bu kontrol hasta ameliyathaneden çıkmadan önceki Sign Out aşamasındadır."
     },
     {
+      "id": "PER247-1wkcfox",
       "type": "flip",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -51,6 +58,7 @@
       "answer": "Hemşire ekibi, **indikatör sonuçları dâhil steriliteyi** ve ekipman sorunlarını sözlü doğrular. Bu işlem cilt insizyonundan önce yapılır."
     },
     {
+      "id": "PER247-0vpl2z5",
       "type": "remember",
       "importance": 3,
       "source": "CDC CAE 2017",

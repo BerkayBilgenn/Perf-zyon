@@ -2,6 +2,7 @@
   "topic": "Hipotermi, DHCA ve serebral perfüzyon",
   "cards": [
     {
+      "id": "PER241-1falzfg",
       "type": "term",
       "importance": 2,
       "source": "Yan ve ark. 2013",
@@ -11,6 +12,7 @@
       "origin": "Yun. hypo + therme = ısı"
     },
     {
+      "id": "PER241-1sqinhl",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -19,6 +21,7 @@
       "definition": "Derin hipotermide KPB akımının tamamen durdurulması."
     },
     {
+      "id": "PER241-1yn831n",
       "type": "term",
       "importance": 2,
       "source": "Groom ve ark. 2005",
@@ -27,6 +30,7 @@
       "definition": "Hipotermi sırasında tüm vücuda azaltılmış pompa akımının sürdürüldüğü kardiyopulmoner bypass tekniği."
     },
     {
+      "id": "PER241-19bg8xy",
       "type": "term",
       "importance": 2,
       "source": "Groom ve ark. 2005",
@@ -35,6 +39,7 @@
       "definition": "Ark cerrahisinde beyne seçici antegrad akım verilmesi."
     },
     {
+      "id": "PER241-15k44my",
       "type": "term",
       "importance": 2,
       "source": "Groom ve ark. 2005",
@@ -44,6 +49,7 @@
       "origin": "α = imidazol iyonlaşma oranı"
     },
     {
+      "id": "PER241-0b8gx0m",
       "type": "term",
       "importance": 1,
       "source": "Groom ve ark. 2005",
@@ -52,6 +58,7 @@
       "definition": "Kan gazını hastanın sıcaklığına düzeltilmiş değerlerle değerlendiren yaklaşım. Karbondioksit eklenmesi serebral vazodilatasyona katkıda bulunur."
     },
     {
+      "id": "PER241-0gzy96o",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -60,6 +67,7 @@
       "definition": "Elektroensefalogramda beyin elektriksel aktivitesinin saptanamaz düzeye inmesi."
     },
     {
+      "id": "PER241-01nxm37",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -68,6 +76,7 @@
       "definition": "Yakın kızılötesi ışıkla doku (serebral/somatik) oksijen satürasyonunun invaziv olmadan ölçümü."
     },
     {
+      "id": "PER241-1eayq9h",
       "type": "term",
       "importance": 2,
       "source": "Yan ve ark. 2013",
@@ -76,6 +85,7 @@
       "definition": "Beyin sıcaklığını izlemek için kullanılan nazofarinks bölgesinden sıcaklık ölçümü."
     },
     {
+      "id": "PER241-1fwm7rs",
       "type": "compare",
       "importance": 2,
       "source": "Groom ve ark. 2005",
@@ -96,6 +106,7 @@
       }
     },
     {
+      "id": "PER241-0aa3ugz",
       "type": "compare",
       "importance": 2,
       "source": "Groom ve ark. 2005",

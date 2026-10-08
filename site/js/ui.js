@@ -8,6 +8,13 @@ const fmt = (n) => n.toLocaleString('tr-TR');
 const make = (tag, className, text) => Object.assign(document.createElement(tag), { className, textContent: text ?? '' });
 
 export function createUI() {
+  let currentTheme = 'system';
+  const systemTheme = matchMedia('(prefers-color-scheme: dark)');
+  function syncThemeColor() {
+    const dark = currentTheme === 'dark' || (currentTheme === 'system' && systemTheme.matches);
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', dark ? '#1a0c29' : '#fff0f6');
+  }
+  systemTheme.addEventListener('change', syncThemeColor);
   const els = {
     feed: $('#feed'), latte: $('#latte'), bar: $('#latte-bar'), level: $('#latte-level'), count: $('#latte-count'), won: $('#latte-won-n'), delta: $('#latte-delta'),
     filterBtn: $('#filter-btn'), filterLabel: $('#filter-label'), filterSheet: $('#filter-sheet'), filterList: $('#filter-list'),
@@ -230,8 +237,10 @@ export function createUI() {
     },
 
     applyTheme(choice) {
+      currentTheme = choice;
       if (choice === 'light' || choice === 'dark') document.documentElement.dataset.theme = choice;
       else delete document.documentElement.dataset.theme;
+      syncThemeColor();
     },
 
     paintSky() {

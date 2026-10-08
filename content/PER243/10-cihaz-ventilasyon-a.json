@@ -2,6 +2,7 @@
   "topic": "Anestezi cihazı ve mekanik ventilasyon",
   "cards": [
     {
+      "id": "PER243-0lbpt2a",
       "type": "term",
       "importance": 2,
       "term": "Anestezi cihazı",
@@ -10,6 +11,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0o7hwky",
       "type": "term",
       "importance": 2,
       "term": "Pin indeks güvenlik sistemi",
@@ -18,6 +20,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1d5jinl",
       "type": "term",
       "importance": 1,
       "term": "Çap indeks güvenlik sistemi",
@@ -26,6 +29,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-11dq1gc",
       "type": "term",
       "importance": 1,
       "term": "Basınç regülatörü",
@@ -34,6 +38,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0mb3rp5",
       "type": "term",
       "importance": 3,
       "term": "Akış ölçer",
@@ -42,6 +47,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0cxrwi4",
       "type": "term",
       "importance": 3,
       "term": "Oksijen flaş valfi",
@@ -50,6 +56,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1n2srb2",
       "type": "term",
       "importance": 3,
       "term": "Oksijen yetmezlik güvenlik sistemi",
@@ -58,6 +65,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0dqp6zi",
       "type": "term",
       "importance": 2,
       "term": "Hipoksik karışım önleyici",
@@ -66,6 +74,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1g8ht1r",
       "type": "term",
       "importance": 3,
       "term": "Vaporizatör",
@@ -74,6 +83,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1nvcz9z",
       "type": "term",
       "importance": 2,
       "term": "Halka sistem",
@@ -82,6 +92,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-09jql9h",
       "type": "term",
       "importance": 2,
       "term": "Soda lime",
@@ -90,6 +101,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0wx72yq",
       "type": "term",
       "importance": 2,
       "term": "APL valfi",
@@ -98,6 +110,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1h3pff0",
       "type": "term",
       "importance": 1,
       "term": "Atık gaz uzaklaştırma",
@@ -106,6 +119,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-0vyoo80",
       "type": "term",
       "importance": 1,
       "term": "Düşük akım anestezisi",
@@ -114,6 +128,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-06f72z4",
       "type": "term",
       "importance": 3,
       "term": "Kendiliğinden şişen balon",
@@ -122,6 +137,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1g3m3ph",
       "type": "term",
       "importance": 3,
       "term": "Tidal volüm",
@@ -130,6 +146,7 @@
       "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
     },
     {
+      "id": "PER243-00qossv",
       "type": "term",
       "importance": 3,
       "term": "PEEP",
@@ -138,6 +155,7 @@
       "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
     },
     {
+      "id": "PER243-0rcigwr",
       "type": "term",
       "importance": 2,
       "term": "Hacim / basınç kontrollü ventilasyon",

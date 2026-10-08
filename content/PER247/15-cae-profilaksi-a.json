@@ -2,6 +2,7 @@
   "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
   "cards": [
     {
+      "id": "PER247-0gyiifp",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -10,6 +11,7 @@
       "en": "Normothermia"
     },
     {
+      "id": "PER247-1wl18fu",
       "type": "term",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -18,6 +20,7 @@
       "en": "WHO Surgical Safety Checklist"
     },
     {
+      "id": "PER247-1py14xj",
       "type": "term",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -26,6 +29,7 @@
       "en": "Sign In"
     },
     {
+      "id": "PER247-1ykdi8s",
       "type": "term",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -34,6 +38,7 @@
       "en": "Time Out"
     },
     {
+      "id": "PER247-0fzk6v8",
       "type": "term",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -42,6 +47,7 @@
       "en": "Sign Out"
     },
     {
+      "id": "PER247-0hnfm9x",
       "type": "term",
       "importance": 3,
       "source": "CDC NHSN 2026",
@@ -50,6 +56,7 @@
       "en": "Surgical site infection (SSI)"
     },
     {
+      "id": "PER247-0s84su9",
       "type": "term",
       "importance": 3,
       "source": "CDC NHSN 2026",
@@ -58,6 +65,7 @@
       "en": "Superficial incisional SSI"
     },
     {
+      "id": "PER247-19ka494",
       "type": "term",
       "importance": 3,
       "source": "CDC NHSN 2026",
@@ -66,6 +74,7 @@
       "en": "Deep incisional SSI"
     },
     {
+      "id": "PER247-1ioj4qs",
       "type": "term",
       "importance": 3,
       "source": "CDC NHSN 2026",
@@ -74,6 +83,7 @@
       "en": "Organ/space SSI"
     },
     {
+      "id": "PER247-15tisnx",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -82,14 +92,16 @@
       "en": "Clean wound"
     },
     {
+      "id": "PER247-10moiwu",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
       "term": "Temiz-kontamine yara",
-      "definition": "Bu sistemlere kontrollü koşullarda, olağandışı kontaminasyonsuz girilen yara.",
+      "definition": "Solunum, sindirim, genital veya üriner sisteme **kontrollü koşullarda**, olağandışı kontaminasyon olmadan girilen cerrahi yara.",
       "en": "Clean-contaminated"
     },
     {
+      "id": "PER247-01h5lau",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -98,6 +110,7 @@
       "en": "Contaminated"
     },
     {
+      "id": "PER247-067b9jm",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -106,6 +119,7 @@
       "en": "Dirty/infected"
     },
     {
+      "id": "PER247-0dj2gwe",
       "type": "term",
       "importance": 3,
       "source": "WHO 2018",
@@ -114,6 +128,7 @@
       "en": "Surgical antibiotic prophylaxis (SAP)"
     },
     {
+      "id": "PER247-1fspugj",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -122,6 +137,7 @@
       "en": "Mupirocin decolonization"
     },
     {
+      "id": "PER247-0k6o7ea",
       "type": "term",
       "importance": 2,
       "source": "CDC NHSN 2026",
@@ -130,6 +146,7 @@
       "en": "Mediastinitis"
     },
     {
+      "id": "PER247-0n459kn",
       "type": "compare",
       "importance": 2,
       "source": "WHO 2018",

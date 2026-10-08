@@ -2,6 +2,7 @@
   "topic": "Preoperatif değerlendirme ve risk skorları",
   "cards": [
     {
+      "id": "PER243-0b10sz1",
       "type": "fact",
       "importance": 2,
       "title": "Risk tahmininin sınırı",
@@ -9,6 +10,7 @@
       "source": "STS risk hesaplayıcısı"
     },
     {
+      "id": "PER243-1v4j368",
       "type": "fact",
       "importance": 2,
       "title": "EuroSCORE'da böbrek işlevi",
@@ -16,6 +18,7 @@
       "source": "EuroSCORE II"
     },
     {
+      "id": "PER243-1wtelyw",
       "type": "fact",
       "importance": 3,
       "title": "Elektif cerrahi ve P2Y12 arası",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1dpis7k",
       "type": "fact",
       "importance": 2,
       "title": "Aspirin ve KABG",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1ugd0bh",
       "type": "fact",
       "importance": 1,
       "title": "Antikoagülan köprülemenin kapsamı",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-10u51gf",
       "type": "fact",
       "importance": 2,
       "title": "Preoperatif aneminin anlamı",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-14wxqkg",
       "type": "fact",
       "importance": 2,
       "title": "Rutin testlerin öngörü sınırı",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-062qzjn",
       "type": "flip",
       "importance": 2,
       "question": "EuroSCORE II'de ürjan cerrahi nasıl tanımlanır?",
@@ -58,6 +66,7 @@
       "source": "EuroSCORE II"
     },
     {
+      "id": "PER243-1ex8abz",
       "type": "flip",
       "importance": 3,
       "question": "EuroSCORE II'de salvage cerrahiyi belirleyen olay nedir?",
@@ -65,6 +74,7 @@
       "source": "EuroSCORE II"
     },
     {
+      "id": "PER243-18x2k3j",
       "type": "flip",
       "importance": 2,
       "question": "Varfarinin acil geri çevrilmesinde 2024 PBM'nin öncelikli ürünü nedir?",
@@ -72,6 +82,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-09b7u13",
       "type": "remember",
       "importance": 3,
       "title": "Andeksanet ve KPB",
@@ -79,6 +90,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-0bnrxst",
       "type": "remember",
       "importance": 3,
       "title": "Kronik beta-bloker",
@@ -86,6 +98,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-15hk4m9",
       "type": "fact",
       "importance": 2,
       "title": "ASA III ve IV örnekleri",

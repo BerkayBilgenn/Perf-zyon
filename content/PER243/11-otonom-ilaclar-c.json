@@ -2,6 +2,7 @@
   "topic": "Otonom sinir sistemi ve ilaçlar",
   "cards": [
     {
+      "id": "PER243-1rn40o3",
       "type": "mcq",
       "importance": 2,
       "question": "Kalpte kalp hızı ve kontraktiliteyi artıran ana adrenerjik reseptör hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-0gbwj6g",
       "type": "mcq",
       "importance": 2,
       "question": "Damar ve bronş düz kasında gevşemeyle ilişkili adrenerjik reseptör hangisidir?",
@@ -30,6 +32,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-0cbi9x7",
       "type": "mcq",
       "importance": 2,
       "question": "Presinaptik noradrenalin salınımını inhibe eden reseptör hangisidir?",
@@ -44,6 +47,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-1t6n04w",
       "type": "mcq",
       "importance": 2,
       "question": "Kalp debisini artırırken vazodilatasyon yapan ilaç grubu hangisidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1oxfxcu",
       "type": "mcq",
       "importance": 2,
       "question": "Esmololü yıkan başlıca enzim sistemi hangisidir?",
@@ -72,6 +77,7 @@
       "source": "DailyMed: esmolol"
     },
     {
+      "id": "PER243-0lj1wex",
       "type": "tf",
       "importance": 1,
       "statement": "İzoproterenol nonselektif β-agonisttir; sistemik vasküler direnci azaltabilir.",
@@ -80,6 +86,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-1u9p6e2",
       "type": "tf",
       "importance": 2,
       "statement": "Fenilefrinin temel reseptör etkisi saf β2 agonizmasıdır.",
@@ -88,6 +95,7 @@
       "source": "DailyMed: fenilefrin"
     },
     {
+      "id": "PER243-14x6nvi",
       "type": "tf",
       "importance": 2,
       "statement": "Vazopressin, adrenerjik reseptör yerine V1 reseptörü üzerinden vazokonstriksiyon oluşturur.",

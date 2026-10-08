@@ -2,6 +2,7 @@
   "topic": "Hemostaz ve pıhtılaşma testleri",
   "cards": [
     {
+      "id": "PER243-0i464ed",
       "type": "fact",
       "importance": 1,
       "title": "Faktör adında aktif form",
@@ -9,6 +10,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-00ppaaq",
       "type": "fact",
       "importance": 2,
       "title": "Trombosit sayısı ve fonksiyonu",
@@ -16,6 +18,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-07qg132",
       "type": "fact",
       "importance": 2,
       "title": "Hücre yüzeyinde trombin patlaması",
@@ -23,6 +26,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0m8smqc",
       "type": "fact",
       "importance": 2,
       "title": "TEG ve ROTEM aralıkları",
@@ -30,6 +34,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-1jrbxaq",
       "type": "flip",
       "importance": 2,
       "question": "Glanzmann trombastenisinde hangi trombosit reseptörü etkilenir?",
@@ -37,6 +42,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0ksdc29",
       "type": "flip",
       "importance": 1,
       "question": "Bernard-Soulier sendromunda hangi reseptör eksiktir?",
@@ -44,6 +50,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0tq7xrp",
       "type": "flip",
       "importance": 2,
       "question": "FIBTEM trombosit katkısını nasıl ayırır?",
@@ -51,6 +58,7 @@
       "source": "Asian J Transfus Sci 2025: ROTEM"
     },
     {
+      "id": "PER243-1u1hbbn",
       "type": "flip",
       "importance": 2,
       "question": "APTEM ile EXTEM karşılaştırması hangi süreci tanımaya yardım eder?",

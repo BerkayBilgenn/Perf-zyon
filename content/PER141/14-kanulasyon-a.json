@@ -2,6 +2,7 @@
   "topic": "Kanülasyon teknikleri ve kanüller",
   "cards": [
     {
+      "id": "PER141-1bqo2bd",
       "type": "term",
       "importance": 3,
       "term": "Kanül",
@@ -10,6 +11,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-10crdq4",
       "type": "term",
       "importance": 3,
       "term": "French (Fr)",
@@ -18,6 +20,7 @@
       "source": "Medtronic / LivaNova kanüller"
     },
     {
+      "id": "PER141-06yerod",
       "type": "term",
       "importance": 2,
       "term": "Basınç düşüşü",
@@ -26,6 +29,7 @@
       "source": "Pediatrik kanül çalışması 2024"
     },
     {
+      "id": "PER141-0oneeqz",
       "type": "term",
       "importance": 2,
       "term": "Arteriyel (aort) kanülü",
@@ -34,6 +38,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0bdkvrt",
       "type": "term",
       "importance": 2,
       "term": "Dispersiyon uçlu kanül",
@@ -42,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1f7otj3",
       "type": "term",
       "importance": 2,
       "term": "İnce duvarlı kanül",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-07o9opg",
       "type": "term",
       "importance": 2,
       "term": "Venöz kanül",
@@ -58,6 +65,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-12anqbl",
       "type": "term",
       "importance": 3,
       "term": "İki kademeli venöz kanül",
@@ -66,6 +74,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-174rigl",
       "type": "term",
       "importance": 3,
       "term": "Bikaval kanülasyon",
@@ -74,6 +83,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-11ij84e",
       "type": "term",
       "importance": 2,
       "term": "Kaval turnike",
@@ -82,6 +92,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-0n108e1",
       "type": "term",
       "importance": 2,
       "term": "Femoral kanülasyon",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-04tcp6e",
       "type": "term",
       "importance": 2,
       "term": "Aksiller kanülasyon",
@@ -98,6 +110,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0ocl44h",
       "type": "term",
       "importance": 1,
       "term": "Bi-flow kanül",
@@ -106,6 +119,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-02gvbze",
       "type": "term",
       "importance": 2,
       "term": "Retrograd perfüzyon",
@@ -114,6 +128,7 @@
       "source": "MIMVS kanülasyon çalışmaları 2026"
     },
     {
+      "id": "PER141-1ujz4eh",
       "type": "term",
       "importance": 2,
       "term": "Epiaortik ultrason",
@@ -122,6 +137,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1795n8f",
       "type": "compare",
       "importance": 2,
       "title": "Venöz kanülasyon düzeni",

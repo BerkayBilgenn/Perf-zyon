@@ -2,6 +2,7 @@
   "topic": "Obstrüktif konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-07ko0bd",
       "type": "fact",
       "importance": 2,
       "title": "Koarktasyonda basınç yükü",
@@ -9,6 +10,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0uq5edb",
       "type": "fact",
       "importance": 2,
       "title": "Ark kesintisi ve duktus",
@@ -16,6 +18,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0z6mjm1",
       "type": "fact",
       "importance": 2,
       "title": "Darlığın üç düzeyi",
@@ -23,6 +26,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0wx0t9d",
       "type": "fact",
       "importance": 2,
       "title": "Kritik pulmoner darlık",
@@ -30,6 +34,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-16hnbsx",
       "type": "fact",
       "importance": 2,
       "title": "Balon ve açık cerrahi",
@@ -37,6 +42,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1glx06b",
       "type": "flip",
       "importance": 2,
       "question": "Koarktasyonda kosta çentiklenmesi hangi damar değişimiyle ilişkilidir?",
@@ -44,6 +50,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0yrikeo",
       "type": "flip",
       "importance": 2,
       "question": "Kesintili aortik ark tip B'de kesinti hangi dallar arasındadır?",
@@ -51,6 +58,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1chko7x",
       "type": "flip",
       "importance": 2,
       "question": "Supravalvüler aort darlığının kapak darlığından anatomik farkı nedir?",
@@ -58,6 +66,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-17al2lh",
       "type": "remember",
       "importance": 3,
       "title": "Duktusun kapanması tehlike yaratabilir",

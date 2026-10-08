@@ -2,6 +2,7 @@
   "topic": "Pediatrik kalp cerrahisinde KPB",
   "cards": [
     {
+      "id": "PER207-19dyvji",
       "type": "fact",
       "importance": 2,
       "title": "Yüksek akım stratejisinin kaynak sınırı",
@@ -9,6 +10,7 @@
       "source": "Ramakrishnan, pediatrik KPB 2023"
     },
     {
+      "id": "PER207-1qzpowk",
       "type": "fact",
       "importance": 2,
       "title": "Pediatrik akım ağırlığa göre",
@@ -16,6 +18,7 @@
       "source": "Ramakrishnan, pediatrik KPB 2023"
     },
     {
+      "id": "PER207-0u3bxj1",
       "type": "fact",
       "importance": 2,
       "title": "Pediatrik hematokrit stratejileri",
@@ -23,6 +26,7 @@
       "source": "Ramakrishnan, pediatrik KPB 2023"
     },
     {
+      "id": "PER207-0qgne5n",
       "type": "fact",
       "importance": 2,
       "title": "del Nido karışım oranı",
@@ -30,6 +34,7 @@
       "source": "Matte–del Nido, JECT 2012"
     },
     {
+      "id": "PER207-0rpjqtx",
       "type": "flip",
       "importance": 2,
       "question": "Bebekte devreyi kısaltmak hemodilüsyonu neden azaltabilir?",
@@ -37,6 +42,7 @@
       "source": "Pediatrik devre çalışması 2018"
     },
     {
+      "id": "PER207-1o2ugz4",
       "type": "flip",
       "importance": 2,
       "question": "Pediatrik KPB’de yalnız pompa akımını izlemek neden yeterli değildir?",
@@ -44,6 +50,7 @@
       "source": "Ramakrishnan, pediatrik KPB 2023"
     },
     {
+      "id": "PER207-0d7llrk",
       "type": "remember",
       "importance": 3,
       "title": "Ultrafiltrasyonda uzaklaştırılan ve korunan",

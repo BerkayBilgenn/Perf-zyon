@@ -2,6 +2,7 @@
   "topic": "ECMO yönetimi, ayırma ve transport",
   "cards": [
     {
+      "id": "PER207-0z6xbvr",
       "type": "fact",
       "importance": 3,
       "title": "VV’de hemodinamik hedefler",
@@ -9,6 +10,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1e9puxg",
       "type": "fact",
       "importance": 3,
       "title": "VV ayırmada oksijenasyon",
@@ -16,13 +18,15 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1n6l69t",
       "type": "fact",
       "importance": 3,
       "title": "VV ayırmada ventilasyon",
-      "body": "ELSO VV 2021, ayırma değerlendirmesinde Vt ≤ 6 mL/kg, plato basıncı ≤ 28 cmH2O ve solunum sayısı ≤ 28/dk ile kabul edilebilir ventilasyonu arar.",
+      "body": "ELSO VV 2021, ayırma değerlendirmesinde Vt ≤ 6 mL/kg **öngörülen vücut ağırlığı (PBW)**, plato basıncı ≤ 28 cmH2O ve solunum sayısı ≤ 28/dk ile kabul edilebilir ventilasyonu arar.",
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0gcdo7p",
       "type": "fact",
       "importance": 3,
       "title": "Sweep kapalı denemenin süresi",
@@ -30,6 +34,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1kknxwq",
       "type": "fact",
       "importance": 3,
       "title": "VA ayırmada akım basamakları",
@@ -37,6 +42,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0c5y4ev",
       "type": "fact",
       "importance": 3,
       "title": "VA ayırmada ekokardiyografi",
@@ -44,6 +50,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0oq4lcb",
       "type": "fact",
       "importance": 3,
       "title": "Dekanülasyon sonrası tromboz taraması",
@@ -51,6 +58,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1mny7me",
       "type": "flip",
       "importance": 2,
       "question": "VV ECMO desteği azaltılırken solunum yükü neden izlenir?",
@@ -58,6 +66,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-10a09jk",
       "type": "flip",
       "importance": 2,
       "question": "VA ECMO ayırma denemesinde neden ekokardiyografi kullanılır?",
@@ -65,6 +74,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1h5y5vk",
       "type": "flip",
       "importance": 2,
       "question": "Hastaneler arası ECMO transportunda ekibin kendine yeterli olması ne anlama gelir?",
@@ -72,6 +82,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1jwdeg2",
       "type": "flip",
       "importance": 2,
       "question": "ECMO sırasında sıvı yönetimi neden başlangıç ve stabil dönemde farklıdır?",
@@ -79,6 +90,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-11tmh45",
       "type": "remember",
       "importance": 3,
       "title": "Dinlenme ventilasyonunun amacı",
@@ -86,6 +98,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0jxat8z",
       "type": "remember",
       "importance": 3,
       "title": "Transporttan önce kaynakları dene",

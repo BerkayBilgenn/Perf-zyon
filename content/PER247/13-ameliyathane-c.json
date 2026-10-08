@@ -2,6 +2,7 @@
   "topic": "Ameliyathane ortamı",
   "cards": [
     {
+      "id": "PER247-0hwcqkn",
       "type": "mcq",
       "importance": 2,
       "source": "ISID Ameliyathane 2018",
@@ -16,6 +17,7 @@
       "explanation": "ISID rehberinin **yarı kısıtlı destek alanları** içinde steril depolar, işleme odaları ve scrub istasyonları bulunur. Bölgeleme kaynağı belirtilerek değerlendirilir."
     },
     {
+      "id": "PER247-1yoxg9y",
       "type": "mcq",
       "importance": 3,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -30,6 +32,7 @@
       "explanation": "Kurum politikasında açık steril malzeme veya steril ekip varlığında **maske** gerekir."
     },
     {
+      "id": "PER247-1f9l8nx",
       "type": "mcq",
       "importance": 3,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -44,6 +47,7 @@
       "explanation": "HEPA filtrasyon **partikülleri uzaklaştırır**; basınç farkı ve hava yönü ayrı sistem özellikleridir."
     },
     {
+      "id": "PER247-1908hkv",
       "type": "mcq",
       "importance": 3,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -58,6 +62,7 @@
       "explanation": "CDC, cerrahi alan enfeksiyonunu önlemek için **UV lamba kullanılmasını önermez**."
     },
     {
+      "id": "PER247-1u2z93h",
       "type": "tf",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -66,6 +71,7 @@
       "explanation": "CDC havanın bu yönde dağıtılmasını tarif eder; uygun basınç ve filtrasyon da gereklidir."
     },
     {
+      "id": "PER247-06p9xlq",
       "type": "tf",
       "importance": 2,
       "source": "Children’s Wisconsin steril alan politikası",

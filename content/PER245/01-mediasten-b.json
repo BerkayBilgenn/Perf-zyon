@@ -2,6 +2,7 @@
   "topic": "Mediasten anatomisi",
   "cards": [
     {
+      "id": "PER245-0lxt873",
       "type": "fact",
       "importance": 2,
       "title": "Mediastenin dış sınırları",
@@ -9,6 +10,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-0esrsp6",
       "type": "fact",
       "importance": 2,
       "title": "Üst-alt ayırıcı düzlem",
@@ -16,6 +18,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-1bnagm1",
       "type": "fact",
       "importance": 2,
       "title": "Ön bölmenin yaşla değişimi",
@@ -23,6 +26,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-0y20ny7",
       "type": "fact",
       "importance": 2,
       "title": "Arkusun dalları",
@@ -30,6 +34,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-18f4awd",
       "type": "fact",
       "importance": 2,
       "title": "Tekrar sternotomi",
@@ -37,6 +42,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1b4d8ak",
       "type": "flip",
       "importance": 2,
       "question": "Mediastenin ön ve arka anatomik sınırları nelerdir?",
@@ -44,6 +50,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-02t62ee",
       "type": "flip",
       "importance": 2,
       "question": "Alt mediastenin üç bölümünü ayırmada hangi yapı referans alınır?",
@@ -51,6 +58,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-183avhc",
       "type": "flip",
       "importance": 2,
       "question": "Kalp cerrahisinde frenik sinir hasarı neden önemlidir?",
@@ -58,6 +66,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-0tbciku",
       "type": "remember",
       "importance": 3,
       "title": "Kalp orta mediastendedir",

@@ -2,13 +2,15 @@
   "topic": "ECCO2R ve neonatal/pediatrik ECMO",
   "cards": [
     {
+      "id": "PER207-0em4mqs",
       "type": "fact",
       "importance": 2,
       "title": "Oksijenasyon indeksi formülü",
-      "body": "**Oİ = (ortalama hava yolu basıncı × FiO2 × 100) / PaO2**. FiO2 hesapta kesir olarak kullanılır; PaO2 postduktal arteriyel örnekten alınır.",
+      "body": "**Oİ = (ortalama hava yolu basıncı × FiO2 × 100) / PaO2**. Ortalama hava yolu basıncı cmH2O, PaO2 mmHg ve FiO2 0–1 kesir olarak kullanılır; PaO2 postduktal arteriyel örnekten alınır.",
       "source": "ELSO Neonatal 2017"
     },
     {
+      "id": "PER207-1ulki0o",
       "type": "fact",
       "importance": 2,
       "title": "Neonatal Oİ eşiğinin bağlamı",
@@ -16,6 +18,7 @@
       "source": "ELSO Neonatal 2017"
     },
     {
+      "id": "PER207-131gqfl",
       "type": "fact",
       "importance": 2,
       "title": "Neonatal beyin izlemi",
@@ -23,6 +26,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-0cq2nd4",
       "type": "fact",
       "importance": 2,
       "title": "Gestasyon sınırı tarihsel olarak değişti",
@@ -30,6 +34,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-071cw42",
       "type": "fact",
       "importance": 2,
       "title": "REST çalışmasının sonucu",
@@ -37,6 +42,7 @@
       "source": "REST, JAMA 2021"
     },
     {
+      "id": "PER207-0y394zk",
       "type": "flip",
       "importance": 2,
       "question": "ECCO2R ile daha düşük tidal hacim kullanmanın fizyolojik amacı nedir?",
@@ -44,6 +50,7 @@
       "source": "ECCO2R cihaz çalışmaları"
     },
     {
+      "id": "PER207-0kiwtkb",
       "type": "flip",
       "importance": 2,
       "question": "Neonatal ECMO’da aşırı oksijenasyondan neden kaçınılır?",
@@ -51,6 +58,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-1bb3fkh",
       "type": "remember",
       "importance": 3,
       "title": "Trizomi 21 ile ölümcül anomaliler ayrı",
@@ -58,6 +66,7 @@
       "source": "ELSO Neonatal 2017"
     },
     {
+      "id": "PER207-0bhz4lp",
       "type": "fact",
       "importance": 2,
       "title": "Neonatal eski dışlama ölçütlerinin bağlamı",
@@ -65,6 +74,7 @@
       "source": "ELSO Neonatal 2017"
     },
     {
+      "id": "PER207-1mupgxs",
       "type": "fact",
       "importance": 2,
       "title": "Tanıya göre neonatal sonuçlar",

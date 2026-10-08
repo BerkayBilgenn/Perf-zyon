@@ -2,6 +2,7 @@
   "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
   "cards": [
     {
+      "id": "PER241-15bg9nz",
       "type": "mcq",
       "importance": 3,
       "source": "Radiopaedia",
@@ -16,6 +17,7 @@
       "explanation": "Kordaların tek papiller kasta birleşmesi paraşüt görünümünü oluşturur."
     },
     {
+      "id": "PER241-1w67w25",
       "type": "mcq",
       "importance": 3,
       "source": "Radiopaedia",
@@ -30,6 +32,7 @@
       "explanation": "Shone sol kalbin seri obstrüktif lezyonlarıdır; mitral halka temel bileşenlerdendir."
     },
     {
+      "id": "PER241-1a6immw",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -44,6 +47,7 @@
       "explanation": "Tipik jukstaduktal daralma, sol subklavyen çıkışının distalinde duktus karşısındadır."
     },
     {
+      "id": "PER241-0nb48jw",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -58,6 +62,7 @@
       "explanation": "Biküspit aort kapak darlık, yetersizlik, aortopati ve endokarditle ilişkilidir."
     },
     {
+      "id": "PER241-056f2yc",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -72,6 +77,7 @@
       "explanation": "Kore, kardit, poliartrit, eritema marjinatum ve subkutan nodüller majör kriterlerdir."
     },
     {
+      "id": "PER241-0rol67w",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",
@@ -80,6 +86,7 @@
       "explanation": "Biküspit kapakta iki kusp bulunur."
     },
     {
+      "id": "PER241-1q2w5e6",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",

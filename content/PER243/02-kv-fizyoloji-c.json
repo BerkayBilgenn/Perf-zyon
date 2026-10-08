@@ -2,6 +2,7 @@
   "topic": "Kardiyovasküler fizyoloji",
   "cards": [
     {
+      "id": "PER243-1wci6sj",
       "type": "mcq",
       "importance": 3,
       "question": "Atım hacmi 70 mL, kalp hızı 70/dk olan hastanın debisi kaçtır?",
@@ -16,6 +17,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-06mtog0",
       "type": "mcq",
       "importance": 2,
       "question": "Diyastol sonu hacmi 120 mL, sistol sonu hacmi 50 mL ise atım hacmi kaçtır?",
@@ -30,6 +32,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-036zbem",
       "type": "mcq",
       "importance": 2,
       "question": "Kalp debisi 5 L/dk, vücut yüzey alanı 2 m² ise kardiyak indeks kaçtır?",
@@ -44,6 +47,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1yix64h",
       "type": "mcq",
       "importance": 2,
       "question": "Sistolik basınç 120 mmHg, diyastolik basınç 60 mmHg ise yaklaşık OAB kaçtır?",
@@ -58,6 +62,7 @@
       "source": "Edwards hemodinamik değerler 2022"
     },
     {
+      "id": "PER243-0qzcyqb",
       "type": "mcq",
       "importance": 3,
       "question": "EKG'de ventrikül repolarizasyonunu hangi dalga gösterir?",
@@ -72,6 +77,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1156w9g",
       "type": "mcq",
       "importance": 1,
       "question": "Sol ana koroner arterin başlıca dalları hangi çifttir?",
@@ -86,6 +92,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-16794e9",
       "type": "tf",
       "importance": 2,
       "statement": "Frank-Starling mekanizması, kalbin venöz dönüşe yanıt veren intrinsik bir özelliğidir.",
@@ -94,6 +101,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1dooi6k",
       "type": "tf",
       "importance": 2,
       "statement": "EKG'de P dalgası ventrikül depolarizasyonunu gösterir.",
@@ -102,6 +110,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-17taa29",
       "type": "tf",
       "importance": 3,
       "statement": "Vagal uyarı AV düğüm iletisini yavaşlatabilir.",

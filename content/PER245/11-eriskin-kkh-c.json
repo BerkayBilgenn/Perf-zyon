@@ -2,9 +2,10 @@
   "topic": "Erişkin konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-0v6gj4v",
       "type": "mcq",
       "importance": 3,
-      "question": "Sinüs venozus ASD ile hangi venöz anomali birlikte olabilir?",
+      "question": "Üst sinüs venozus ASD'de sağ pulmoner venlerin bir bölümünün VCS/sağ atriyuma açılması hangi anomalidir?",
       "options": [
         "PAPVR",
         "Persistan sol üst vena kava",
@@ -12,10 +13,11 @@
         "Kesintili inferior vena kava"
       ],
       "correct": 0,
-      "explanation": "Parsiyel anormal pulmoner venöz dönüş, özellikle sinüs venozus ASD ile ilişkilidir.",
-      "source": "UMN Kalp Anatomisi Atlası"
+      "explanation": "Bu bağlantı parsiyel anormal pulmoner venöz dönüş (PAPVR) olarak adlandırılır.",
+      "source": "ESC Erişkin KKH 2020"
     },
     {
+      "id": "PER245-1mny0n6",
       "type": "mcq",
       "importance": 2,
       "question": "Aort kapağı prolapsusuyla ilişkili VSD grubu hangisidir?",
@@ -30,6 +32,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ncc6fz",
       "type": "mcq",
       "importance": 2,
       "question": "Primum ASD ile sol AV kapak kleftı hangi spektrumun parsiyel formudur?",
@@ -44,6 +47,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1wgeahv",
       "type": "mcq",
       "importance": 2,
       "question": "Fontan dolaşımında uzun dönem kardiyak dışı hangi organ tutulumu izlenir?",
@@ -58,6 +62,7 @@
       "source": "ESC Erişkin KKH 2020"
     },
     {
+      "id": "PER245-1npqr0w",
       "type": "tf",
       "importance": 2,
       "statement": "Musküler VSD birden fazla septal açıklık biçiminde olabilir.",
@@ -66,6 +71,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0bkmx2b",
       "type": "tf",
       "importance": 2,
       "statement": "Unroofed koroner sinüste eksik duvar sağ ventrikül ile aorta arasındadır.",

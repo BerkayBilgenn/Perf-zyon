@@ -2,6 +2,7 @@
   "topic": "Otonom sinir sistemi ve ilaçlar",
   "cards": [
     {
+      "id": "PER243-0i2mbiu",
       "type": "term",
       "importance": 2,
       "term": "Otonom sinir sistemi",
@@ -10,6 +11,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-0t0iucw",
       "type": "term",
       "importance": 2,
       "term": "Sempatik sinir sistemi",
@@ -18,6 +20,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-13wsjca",
       "type": "term",
       "importance": 1,
       "term": "Parasempatik sinir sistemi",
@@ -26,6 +29,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-0aypwku",
       "type": "term",
       "importance": 1,
       "term": "Preganglionik / postganglionik nöron",
@@ -34,6 +38,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-07oti2x",
       "type": "term",
       "importance": 3,
       "term": "Adrenerjik reseptör",
@@ -42,6 +47,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-0g2vjly",
       "type": "term",
       "importance": 3,
       "term": "Muskarinik reseptör",
@@ -50,6 +56,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1mfktp9",
       "type": "term",
       "importance": 3,
       "term": "Katekolamin",
@@ -58,6 +65,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-0m96vmb",
       "type": "term",
       "importance": 2,
       "term": "Adrenalin",
@@ -66,6 +74,7 @@
       "source": "DailyMed: adrenalin"
     },
     {
+      "id": "PER243-0cmoqqw",
       "type": "term",
       "importance": 3,
       "term": "Noradrenalin",
@@ -74,6 +83,7 @@
       "source": "DailyMed: noradrenalin"
     },
     {
+      "id": "PER243-08w80fp",
       "type": "term",
       "importance": 2,
       "term": "Dopamin",
@@ -82,6 +92,7 @@
       "source": "DailyMed: dopamin"
     },
     {
+      "id": "PER243-0maxwpy",
       "type": "term",
       "importance": 2,
       "term": "Dobutamin",
@@ -90,6 +101,7 @@
       "source": "DailyMed: dobutamin"
     },
     {
+      "id": "PER243-0qbmnjt",
       "type": "term",
       "importance": 2,
       "term": "İzoproterenol",
@@ -98,6 +110,7 @@
       "source": "DailyMed: izoproterenol"
     },
     {
+      "id": "PER243-1jvbgni",
       "type": "term",
       "importance": 3,
       "term": "İnotrop",
@@ -106,6 +119,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-1xomxzx",
       "type": "term",
       "importance": 3,
       "term": "Vazopresör",
@@ -114,6 +128,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-0ziq1ad",
       "type": "term",
       "importance": 3,
       "term": "İnodilatör",
@@ -122,6 +137,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1q08nhv",
       "type": "term",
       "importance": 3,
       "term": "Milrinon",
@@ -130,6 +146,7 @@
       "source": "DailyMed: milrinon"
     },
     {
+      "id": "PER243-10r6u0a",
       "type": "term",
       "importance": 3,
       "term": "Levosimendan",
@@ -138,6 +155,7 @@
       "source": "Eur Cardiol 2024: levosimendan"
     },
     {
+      "id": "PER243-1giylep",
       "type": "term",
       "importance": 3,
       "term": "Vazopressin",
@@ -146,6 +164,7 @@
       "source": "DailyMed: vazopressin"
     },
     {
+      "id": "PER243-1redwxt",
       "type": "term",
       "importance": 2,
       "term": "Fenilefrin",
@@ -154,6 +173,7 @@
       "source": "DailyMed: fenilefrin"
     },
     {
+      "id": "PER243-1e14wz0",
       "type": "term",
       "importance": 2,
       "term": "Efedrin",
@@ -162,6 +182,7 @@
       "source": "DailyMed: efedrin"
     },
     {
+      "id": "PER243-0kdigp1",
       "type": "term",
       "importance": 2,
       "term": "Taşifilaksi",
@@ -170,6 +191,7 @@
       "source": "DailyMed: efedrin"
     },
     {
+      "id": "PER243-1cxhnrg",
       "type": "term",
       "importance": 2,
       "term": "Refleks bradikardi",
@@ -178,6 +200,7 @@
       "source": "DailyMed: fenilefrin"
     },
     {
+      "id": "PER243-1h6aj04",
       "type": "term",
       "importance": 1,
       "term": "Nitrogliserin",
@@ -186,6 +209,7 @@
       "source": "DailyMed: nitrogliserin"
     },
     {
+      "id": "PER243-0gli2so",
       "type": "term",
       "importance": 3,
       "term": "Sodyum nitroprussid",
@@ -194,6 +218,7 @@
       "source": "DailyMed: nitroprussid"
     },
     {
+      "id": "PER243-16l2b6o",
       "type": "term",
       "importance": 3,
       "term": "Siyanür toksisitesi",
@@ -202,6 +227,7 @@
       "source": "DailyMed: nitroprussid"
     },
     {
+      "id": "PER243-0bgjb6c",
       "type": "term",
       "importance": 3,
       "term": "Fentolamin",
@@ -210,6 +236,7 @@
       "source": "DailyMed: noradrenalin"
     },
     {
+      "id": "PER243-19atedk",
       "type": "term",
       "importance": 3,
       "term": "Esmolol",
@@ -218,6 +245,7 @@
       "source": "DailyMed: esmolol"
     },
     {
+      "id": "PER243-0o5uyfj",
       "type": "term",
       "importance": 2,
       "term": "Amiodaron",
@@ -226,6 +254,7 @@
       "source": "DailyMed: amiodaron"
     },
     {
+      "id": "PER243-1kzqkr5",
       "type": "term",
       "importance": 2,
       "term": "Adenozin",
@@ -234,6 +263,7 @@
       "source": "DailyMed: adenozin"
     },
     {
+      "id": "PER243-02cshwm",
       "type": "term",
       "importance": 2,
       "term": "Atropin",
@@ -242,6 +272,7 @@
       "source": "DailyMed: atropin"
     },
     {
+      "id": "PER243-11kl7kn",
       "type": "compare",
       "importance": 2,
       "title": "Doğal ve sentetik inotrop",
@@ -262,6 +293,7 @@
       "source": "Klabunde: kardiyovasküler farmakoloji"
     },
     {
+      "id": "PER243-01dnai1",
       "type": "compare",
       "importance": 2,
       "title": "Reseptörden bağımsız inotropi",
@@ -282,6 +314,7 @@
       "source": "DailyMed: milrinon / Eur Cardiol 2024: levosimendan"
     },
     {
+      "id": "PER243-10t7utn",
       "type": "compare",
       "importance": 2,
       "title": "Vazodilatörlerin riskleri",
@@ -302,6 +335,7 @@
       "source": "DailyMed: nitrogliserin / nitroprussid"
     },
     {
+      "id": "PER243-19ro8zb",
       "type": "compare",
       "importance": 2,
       "title": "Vazopresör mekanizmaları",

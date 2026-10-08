@@ -2,6 +2,7 @@
   "topic": "Koroner sistem anatomisi ve fizyolojisi",
   "cards": [
     {
+      "id": "PER141-0220hz4",
       "type": "mcq",
       "importance": 3,
       "question": "Koroner dominansın anatomik ölçütü hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-137zlla",
       "type": "mcq",
       "importance": 3,
       "question": "Koroner sinüs hangi boşluğa açılır?",
@@ -30,6 +32,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1ukipcm",
       "type": "mcq",
       "importance": 2,
       "question": "Anterior kardiyak venlerin karakteristik drenajı hangisidir?",
@@ -44,6 +47,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1evab4o",
       "type": "mcq",
       "importance": 2,
       "question": "Taşikardi koroner perfüzyon süresini hangi mekanizmayla kısaltır?",
@@ -58,6 +62,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0x53yis",
       "type": "tf",
       "importance": 2,
       "statement": "Koroner sinüs sol atriyumun arka tarafı boyunca sol atriyoventriküler olukta seyreder.",
@@ -66,6 +71,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0k8wmps",
       "type": "tf",
       "importance": 2,
       "statement": "Thebesian venlerin tamamı koroner sinüste birleşir.",

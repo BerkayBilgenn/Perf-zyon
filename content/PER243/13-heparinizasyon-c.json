@@ -2,6 +2,7 @@
   "topic": "Heparinizasyon ve ACT",
   "cards": [
     {
+      "id": "PER243-0qexftj",
       "type": "mcq",
       "importance": 3,
       "question": "ACT ölçümünde kullanılan örnek hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-1170inf",
       "type": "mcq",
       "importance": 2,
       "question": "Heparin hangi doğal antikoagülanın etkisini güçlendirir?",
@@ -30,6 +32,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-0s91q0m",
       "type": "mcq",
       "importance": 2,
       "question": "Heparinizasyon sonrası ACT yeterli yükselmiyorsa hangi eksiklik öncelikle değerlendirilir?",
@@ -44,6 +47,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-1489l0z",
       "type": "mcq",
       "importance": 2,
       "question": "Hepcon HMS güncel heparin konsantrasyonunu hangi yöntemle değerlendirir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-14jn7d4",
       "type": "tf",
       "importance": 3,
       "statement": "KPB sırasında ACT sonucu trombosit sayısı ve fonksiyonundan etkilenebilir.",
@@ -66,6 +71,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-1yqx175",
       "type": "tf",
       "importance": 1,
       "statement": "KPB öncesi değerlendirme formu yalnız sözlü bildirimle tutulur ve kayda gerek yoktur.",
@@ -74,6 +80,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1fcomve",
       "type": "tf",
       "importance": 2,
       "statement": "Hepcon ile bireyselleştirilmiş heparin yönetiminin kanama ve transfüzyon sonuçları çalışmalar arasında tutarsızdır.",

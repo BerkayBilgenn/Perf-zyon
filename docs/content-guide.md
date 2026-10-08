@@ -27,7 +27,7 @@ Dosya: `content/<DERS>/NN-konu-slug-<harf>.json` — `a`: terim ve karşılaşt�
 ```
 
 - `topic` sana verilen konu adıdır (en fazla 48 karakter), ekranda kartın üstünde görünür.
-- Her kartta `type` ve `importance` zorunludur. `id` ve `course` yazılmaz; derleme ekler.
+- Her kartta `type` ve `importance` zorunludur. `course` derlemede eklenir. Mevcut `id` alanı metin düzeltmelerinde korunur; yeni kartın ilk derlemede verilen kimliği kaynak dosyasına eklenir (spec §4.2).
 
 | type | alanlar ve karakter sınırları |
 |---|---|

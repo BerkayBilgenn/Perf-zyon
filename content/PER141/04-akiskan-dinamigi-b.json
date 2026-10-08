@@ -2,6 +2,7 @@
   "topic": "Akışkan dinamiği ve hemodinami",
   "cards": [
     {
+      "id": "PER141-09khspf",
       "type": "fact",
       "importance": 3,
       "title": "Sürücü basınç",
@@ -9,6 +10,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1haonw4",
       "type": "fact",
       "importance": 3,
       "title": "Çapın büyük etkisi",
@@ -16,6 +18,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0dh3frd",
       "type": "fact",
       "importance": 2,
       "title": "Kan için model sınırlaması",
@@ -23,6 +26,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1yig2ce",
       "type": "fact",
       "importance": 2,
       "title": "Süreklilik ilişkisi",
@@ -30,6 +34,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-131o8rq",
       "type": "fact",
       "importance": 2,
       "title": "Hipotermi ve viskozite",
@@ -37,6 +42,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-0mzy2ej",
       "type": "flip",
       "importance": 2,
       "question": "Poiseuille modelinde Newtonyen sıvının düz, dairesel tüpte tam gelişmiş laminer akım hız profili nasıldır?",
@@ -44,6 +50,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-013iny8",
       "type": "flip",
       "importance": 2,
       "question": "Reynolds sayısında hangi değişkenler yer alır?",
@@ -51,6 +58,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0xq7bt0",
       "type": "flip",
       "importance": 2,
       "question": "Laplace ilişkisine göre ventrikül duvar stresi kalınlıkla nasıl değişir?",
@@ -58,6 +66,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1p0j9iv",
       "type": "remember",
       "importance": 3,
       "title": "Akım ile hız aynı büyüklük değildir",

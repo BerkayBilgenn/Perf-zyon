@@ -2,6 +2,7 @@
   "topic": "Pediatrik KPB'nin temelleri",
   "cards": [
     {
+      "id": "PER241-174ejjg",
       "type": "term",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -11,6 +12,7 @@
       "origin": "Yun. haima + Lat. dilutio"
     },
     {
+      "id": "PER241-0fl3so8",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -19,6 +21,7 @@
       "definition": "Kalp ve akciğer işlevinin kalp-akciğer makinesi (pompa + oksijenatör) ile geçici üstlenilmesi."
     },
     {
+      "id": "PER241-0uorstl",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -28,6 +31,7 @@
       "origin": "Lat. extra + corpus = beden dışı"
     },
     {
+      "id": "PER241-1q9pqok",
       "type": "term",
       "importance": 3,
       "source": "Hendrix ve ark. 2021",
@@ -37,6 +41,7 @@
       "origin": "İng. prime = hazırlamak"
     },
     {
+      "id": "PER241-0rvohjh",
       "type": "term",
       "importance": 2,
       "source": "Hendrix ve ark. 2021",
@@ -45,6 +50,7 @@
       "definition": "Hemodilüsyonu sınırlamak için ES ve/veya TDP içeren prime."
     },
     {
+      "id": "PER241-0iwvxy8",
       "type": "term",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -53,6 +59,7 @@
       "definition": "Devre bileşenlerinin küçültülüp hatların kısaltılarak prime hacminin azaltılması."
     },
     {
+      "id": "PER241-0eehinc",
       "type": "term",
       "importance": 2,
       "source": "Hagedorn ve ark. 2019",
@@ -61,6 +68,7 @@
       "definition": "Prime'ın hastanın kendi kanıyla geriye doğru itilip uzaklaştırılması."
     },
     {
+      "id": "PER241-1l2gsb0",
       "type": "term",
       "importance": 1,
       "source": "Valleley ve ark. 2007",
@@ -69,6 +77,7 @@
       "definition": "Kanlı prime'ın KPB öncesi ultrafiltrasyonla \"yıkanması\" (K, laktat, glukoz düşer; pH düzelir)."
     },
     {
+      "id": "PER241-00fe0lf",
       "type": "term",
       "importance": 1,
       "source": "Hendrix ve ark. 2021",
@@ -77,6 +86,7 @@
       "definition": "Pıhtılaşma faktörlerini içeren plazma ürünü; neonatal prime'da kullanılır."
     },
     {
+      "id": "PER241-0sdwfgi",
       "type": "term",
       "importance": 2,
       "source": "Valleley ve ark. 2007",
@@ -85,6 +95,7 @@
       "definition": "Prime'da Hct'yi yükseltmek için kullanılan ürün; metabolik yük nedeniyle yıkanabilir."
     },
     {
+      "id": "PER241-0a8f1lj",
       "type": "term",
       "importance": 2,
       "source": "Valleley ve ark. 2007",
@@ -93,6 +104,7 @@
       "definition": "Koagülasyon faktörleri ve trombositleri de içeren, tazelik süresi çalışmanın protokolünde tanımlanan tam kan ürünü."
     },
     {
+      "id": "PER241-1b1sttq",
       "type": "term",
       "importance": 2,
       "source": "Groom ve ark. 2005",
@@ -101,6 +113,7 @@
       "definition": "Venöz rezervuara kontrollü negatif basınç uygulayarak drenajı artırma."
     },
     {
+      "id": "PER241-0b63frb",
       "type": "term",
       "importance": 2,
       "source": "Ramakrishnan ve ark. 2023",
@@ -109,6 +122,7 @@
       "definition": "Birim zamanda dokulara taşınan oksijen miktarı. Pompa akımı ve kanın oksijen taşıma kapasitesiyle ilişkilidir."
     },
     {
+      "id": "PER241-0zle485",
       "type": "term",
       "importance": 1,
       "source": "Ramakrishnan ve ark. 2023",
@@ -117,6 +131,7 @@
       "definition": "Kardiyak debinin BSA'ya bölünmesi (L/dk/m²)."
     },
     {
+      "id": "PER241-007e9ul",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -125,6 +140,7 @@
       "definition": "Boy ve kilodan hesaplanabilen, kardiyak indeks ve pompa akımını değerlendirmede kullanılan vücut büyüklüğü ölçütü."
     },
     {
+      "id": "PER241-1v2nsm1",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",

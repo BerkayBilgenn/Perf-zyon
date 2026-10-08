@@ -2,6 +2,7 @@
   "topic": "Embriyoloji ve fetal dolaşım",
   "cards": [
     {
+      "id": "PER245-17jvyq7",
       "type": "term",
       "importance": 2,
       "term": "Kalp tüpü",
@@ -10,6 +11,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-14pr08z",
       "type": "term",
       "importance": 2,
       "term": "Kardiyak looping",
@@ -18,6 +20,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1qkcds6",
       "type": "term",
       "importance": 3,
       "term": "Sinus venosus",
@@ -26,6 +29,7 @@
       "source": "OpenStax ve UMN Embriyoloji"
     },
     {
+      "id": "PER245-0v5uph2",
       "type": "term",
       "importance": 1,
       "term": "Bulbus cordis",
@@ -34,6 +38,7 @@
       "source": "OpenStax ve UMN Embriyoloji"
     },
     {
+      "id": "PER245-1pg2m2p",
       "type": "term",
       "importance": 2,
       "term": "Truncus arteriosus (embriyolojik)",
@@ -42,6 +47,7 @@
       "source": "OpenStax ve UMN Embriyoloji"
     },
     {
+      "id": "PER245-1wqkapr",
       "type": "term",
       "importance": 2,
       "term": "Septum primum",
@@ -50,6 +56,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0adp07c",
       "type": "term",
       "importance": 3,
       "term": "Ostium primum",
@@ -58,6 +65,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1nd6bs2",
       "type": "term",
       "importance": 2,
       "term": "Ostium sekundum",
@@ -66,6 +74,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1vkri9l",
       "type": "term",
       "importance": 1,
       "term": "Septum sekundum",
@@ -74,6 +83,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1cxr8m6",
       "type": "term",
       "importance": 2,
       "term": "Foramen ovale",
@@ -82,6 +92,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1mqrmv3",
       "type": "term",
       "importance": 3,
       "term": "Endokardiyal yastık",
@@ -90,6 +101,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1xyyayp",
       "type": "term",
       "importance": 2,
       "term": "Aortik (faringeal) ark arterleri",
@@ -98,6 +110,7 @@
       "source": "Aortik arklar, eğitim kaynağı"
     },
     {
+      "id": "PER245-0gxowb4",
       "type": "term",
       "importance": 2,
       "term": "Duktus arteriyozus",
@@ -106,6 +119,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0py5cdp",
       "type": "term",
       "importance": 3,
       "term": "Duktus venozus",
@@ -114,6 +128,7 @@
       "source": "GLOWM Fetal dolaşım"
     },
     {
+      "id": "PER245-0ibay7t",
       "type": "term",
       "importance": 2,
       "term": "Prostaglandin E1",

@@ -2,6 +2,7 @@
   "topic": "ECMO fizyolojisi",
   "cards": [
     {
+      "id": "PER207-1t3bq0i",
       "type": "fact",
       "importance": 2,
       "title": "Devre ne kadar oksijen sağlar?",
@@ -9,6 +10,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0v8pkch",
       "type": "fact",
       "importance": 2,
       "title": "VV devre hangi O2 sunumuna göre planlanır?",
@@ -16,6 +18,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-09eni1c",
       "type": "fact",
       "importance": 2,
       "title": "DO2/VO2 oranı",
@@ -23,6 +26,7 @@
       "source": "ELSO VV 2021; ELSO VA 2021"
     },
     {
+      "id": "PER207-0igtejf",
       "type": "fact",
       "importance": 2,
       "title": "PaCO2 yavaş düşürülür",
@@ -30,6 +34,7 @@
       "source": "ELSO 2017; ELSO VV 2021"
     },
     {
+      "id": "PER207-1dj221o",
       "type": "fact",
       "importance": 2,
       "title": "VV ECMO'da SaO2 neden %100 olmaz?",
@@ -37,6 +42,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1u2mhzg",
       "type": "fact",
       "importance": 1,
       "title": "VA ECMO'da alt vücut hiperoksemisi",
@@ -44,6 +50,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-025md6r",
       "type": "mcq",
       "importance": 3,
       "question": "VV ECMO'daki hastada oksijenasyon yeterli ama PaCO2 yüksek. CO2 temizliğini artırmak için hangi ayar değiştirilir?",
@@ -58,6 +65,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-17e2aoh",
       "type": "mcq",
       "importance": 3,
       "question": "Femoral VA ECMO'da diferansiyel hipoksemiyi (Harlequin sendromu) saptamak için kan gazı en doğru nereden alınır?",
@@ -72,6 +80,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-03m1ziw",
       "type": "mcq",
       "importance": 2,
       "question": "VV ECMO'da aşağıdakilerden hangisi resirkülasyonu düşündüren bir bulgudur?",
@@ -86,6 +95,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-111b69q",
       "type": "mcq",
       "importance": 2,
       "question": "ELSO 2017 kılavuzuna göre VA ECMO'da doku perfüzyonunun yeterliliğini en iyi gösteren parametre hangisidir?",
@@ -100,6 +110,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0pnotn2",
       "type": "flip",
       "importance": 3,
       "question": "Femoral VA ECMO'da diferansiyel hipoksemi saptanırsa hangi çözümler uygulanabilir?",
@@ -107,6 +118,7 @@
       "source": "ELSO 2017; ELSO VA 2021"
     },
     {
+      "id": "PER207-003gne9",
       "type": "flip",
       "importance": 2,
       "question": "VV ECMO'da resirkülasyon nasıl azaltılır ve hangi konfigürasyonda daha sık görülür?",
@@ -114,6 +126,7 @@
       "source": "ELSO VV 2021; ELSO neonatal 2020"
     },
     {
+      "id": "PER207-0kclcup",
       "type": "flip",
       "importance": 1,
       "question": "VV ECMO’da resirkülasyon sonrası efektif kan akımı nasıl hesaplanır?",
@@ -121,6 +134,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1hw07fj",
       "type": "tf",
       "importance": 2,
       "statement": "ARDS'de VV ECMO akımı kalp debisinin %60'ından azsa arteriyel satürasyon sıklıkla %90'ın altında kalır.",
@@ -129,6 +143,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-013hdi3",
       "type": "tf",
       "importance": 2,
       "statement": "Diferansiyel hipoksemi en çok santral (aort + sağ atriyum) kanülasyonlu VA ECMO'da görülür.",
@@ -137,6 +152,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1n3kr5j",
       "type": "remember",
       "importance": 3,
       "title": "VV ECMO'da satürasyon tek başına yeterli değil",

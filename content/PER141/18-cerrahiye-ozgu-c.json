@@ -2,6 +2,7 @@
   "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
   "cards": [
     {
+      "id": "PER141-1as6csl",
       "type": "mcq",
       "importance": 2,
       "question": "Kalp boşlukları açılmayan tipik CABG'de hangi venöz kanül düzeni kullanılır?",
@@ -16,6 +17,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0mkcwnt",
       "type": "mcq",
       "importance": 2,
       "question": "Minimal invaziv mitral cerrahide femoral venöz kanül ucunun konumu neyle doğrulanır?",
@@ -30,6 +32,7 @@
       "source": "MIMVS kanülasyon çalışmaları 2026"
     },
     {
+      "id": "PER141-17maabj",
       "type": "mcq",
       "importance": 2,
       "question": "CABG'de epiaortik ultrasonun başlıca amacı nedir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1jp9uzw",
       "type": "tf",
       "importance": 2,
       "statement": "OPCAB, KPB kullanılarak durmuş kalpte yapılan koroner cerrahidir.",
@@ -52,6 +56,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0gacgks",
       "type": "tf",
       "importance": 2,
       "statement": "Sol kalp boşlukları açılan kapak cerrahisinde de-airing önemlidir.",

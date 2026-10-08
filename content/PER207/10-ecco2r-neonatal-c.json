@@ -2,6 +2,7 @@
   "topic": "ECCO2R ve neonatal/pediatrik ECMO",
   "cards": [
     {
+      "id": "PER207-0vewa6x",
       "type": "mcq",
       "importance": 2,
       "question": "PPHN’de doğumdan sonra hangi fizyolojik değişim gerçekleşmez?",
@@ -16,6 +17,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-12lcju2",
       "type": "mcq",
       "importance": 2,
       "question": "Konjenital diyafragma hernisinde ECMO gereksinimine katkıda bulunan ikili hangisidir?",
@@ -30,6 +32,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-1x101ah",
       "type": "mcq",
       "importance": 2,
       "question": "Mekonyum aspirasyonu akciğeri hangi mekanizmayla etkileyebilir?",
@@ -44,6 +47,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-05idu90",
       "type": "mcq",
       "importance": 2,
       "question": "EXIT-to-ECMO sırasında ECMO kurulurken hangi destek henüz sürmektedir?",
@@ -58,6 +62,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-0xp5rgl",
       "type": "mcq",
       "importance": 2,
       "question": "Düşük akımlı ECCO2R’de hedeflenen gaz değişimi hangisidir?",
@@ -72,6 +77,7 @@
       "source": "ECCO2R cihaz çalışmaları"
     },
     {
+      "id": "PER207-1leik84",
       "type": "tf",
       "importance": 2,
       "statement": "ELSO Neonatal 2020’de başlangıç gaz akımı kan akımına eşit ayarlanıp PaCO2 40–45 mmHg olacak biçimde titre edilebilir.",
@@ -80,6 +86,7 @@
       "source": "ELSO Neonatal 2020"
     },
     {
+      "id": "PER207-12cfwhb",
       "type": "tf",
       "importance": 2,
       "statement": "Eski neonatal ELSO kılavuzunda trizomi 21, trizomi 13 ve 18 ile aynı ölümcül anomali dışlama grubundadır.",

@@ -2,6 +2,7 @@
   "topic": "Siyanotik konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-0lc0x7x",
       "type": "mcq",
       "importance": 3,
       "question": "Fallot tetralojisinde çıkış obstrüksiyonu hangi ventriküldedir?",
@@ -16,6 +17,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1u0hqr3",
       "type": "mcq",
       "importance": 2,
       "question": "Pulmoner akımı artıran modifiye BT şantı hangi damarları bağlar?",
@@ -30,6 +32,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-044hgxl",
       "type": "mcq",
       "importance": 2,
       "question": "Ebstein anomalisinde yer değiştiren kapak hangisidir?",
@@ -44,6 +47,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ogb1km",
       "type": "mcq",
       "importance": 2,
       "question": "Her iki büyük arterin sağ ventrikülden çıktığı anomali hangisidir?",
@@ -58,6 +62,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1e4q4q7",
       "type": "tf",
       "importance": 2,
       "statement": "TAPVR'nin infradiyafragmatik tipi ağır venöz obstrüksiyonla birlikte olabilir.",
@@ -66,6 +71,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0vf8ss9",
       "type": "tf",
       "importance": 2,
       "statement": "HLHS'nin ağır biçiminde sistemik kan akımı duktusun kapanmasıyla güçlenir.",

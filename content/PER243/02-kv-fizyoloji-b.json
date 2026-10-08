@@ -2,6 +2,7 @@
   "topic": "Kardiyovasküler fizyoloji",
   "cards": [
     {
+      "id": "PER243-0ok7qvr",
       "type": "fact",
       "importance": 2,
       "title": "Frank-Starling eğrisinin kayması",
@@ -9,6 +10,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-0804f99",
       "type": "fact",
       "importance": 2,
       "title": "Duvar kalınlığı ve stres",
@@ -16,6 +18,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-09kqxs7",
       "type": "fact",
       "importance": 2,
       "title": "Ardyük artışında kalan kan",
@@ -23,6 +26,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-08loogl",
       "type": "fact",
       "importance": 2,
       "title": "Diyastolik yetersizlikte EF",
@@ -30,6 +34,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1fuok2i",
       "type": "fact",
       "importance": 1,
       "title": "Metabolik koroner düzenleme",
@@ -37,6 +42,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1bkvoum",
       "type": "flip",
       "importance": 1,
       "question": "Kalp hızı artarken koroner oksijen dengesi neden bozulabilir?",
@@ -44,6 +50,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1takm6q",
       "type": "flip",
       "importance": 2,
       "question": "Atriyal fibrilasyon önyükü hangi mekanizmayla azaltabilir?",
@@ -51,6 +58,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-12bccvc",
       "type": "flip",
       "importance": 2,
       "question": "Kontraktilite artışı sistol sonu hacmi nasıl etkiler?",
@@ -58,6 +66,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-0j5wk8m",
       "type": "flip",
       "importance": 3,
       "question": "AV düğümdeki ileti gecikmesinin işlevi nedir?",
@@ -65,6 +74,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1edjmrq",
       "type": "remember",
       "importance": 3,
       "title": "Subendokardı koru",
@@ -72,6 +82,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1csaffs",
       "type": "remember",
       "importance": 3,
       "title": "Akım artışı neden gerekli?",
@@ -79,6 +90,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-1uwepxv",
       "type": "fact",
       "importance": 1,
       "title": "Edwards: hemodinamik aralıklar",
@@ -86,6 +98,7 @@
       "source": "Edwards hemodinamik değerler 2022"
     },
     {
+      "id": "PER243-0te35r3",
       "type": "fact",
       "importance": 2,
       "title": "Edwards: vasküler direnç",

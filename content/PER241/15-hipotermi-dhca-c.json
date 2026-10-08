@@ -2,6 +2,7 @@
   "topic": "Hipotermi, DHCA ve serebral perfüzyon",
   "cards": [
     {
+      "id": "PER241-0hia1c8",
       "type": "mcq",
       "importance": 3,
       "source": "Yan ve ark. 2013",
@@ -16,6 +17,7 @@
       "explanation": "DHCA derin hipotermi altında tüm dolaşım akımının durdurulmasıdır."
     },
     {
+      "id": "PER241-09sdidg",
       "type": "mcq",
       "importance": 3,
       "source": "Yan ve ark. 2013",
@@ -30,6 +32,7 @@
       "explanation": "EEG, serebral elektriksel aktivitenin baskılanmasını ve sessizliği gösterir."
     },
     {
+      "id": "PER241-13g1o7z",
       "type": "mcq",
       "importance": 3,
       "source": "Groom ve ark. 2005",
@@ -44,6 +47,7 @@
       "explanation": "Düşük akımda tüm vücuda azaltılmış akım devam eder; DHCA'da akım durur."
     },
     {
+      "id": "PER241-0k6g5sc",
       "type": "tf",
       "importance": 3,
       "source": "Wikipedia",
@@ -52,6 +56,7 @@
       "explanation": "NIRS yakın kızılötesi ışıkla dokunun oksijenlenmesini izler; ritim ölçümü değildir."
     },
     {
+      "id": "PER241-0zckwf7",
       "type": "tf",
       "importance": 3,
       "source": "Groom ve ark. 2005",

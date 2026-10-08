@@ -2,6 +2,7 @@
   "topic": "Temel kavramlar ve tarihçe",
   "cards": [
     {
+      "id": "PER247-1unyf35",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "\"**Kısmen steril**\" ifadesi doğru değildir. Sterilizasyon hedefi tüm mikrobiyal yaşamı ortadan kaldırmaktır; işlemin güvencesi ise olasılıkla değerlendirilir."
     },
     {
+      "id": "PER247-1ruqrbq",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "**SAL 10⁻⁶**, işlem sonrası bir ürün biriminde canlı mikroorganizma bulunma olasılığının milyonda bir düzeyinde olmasıdır; mikrobiyal sayının yüzde azalmasıyla aynı ölçüt değildir."
     },
     {
+      "id": "PER247-00yrofa",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "CDC’de kullanılmış alet biyoyükü **10⁰–10³** mikroorganizma düzeyinde; biyolojik indikatörler ise **10⁵–10⁶ spor** ile tanımlanır. Test, doğal kir yükünden daha dirençli bir zorluk oluşturur."
     },
     {
+      "id": "PER247-19782kg",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +34,7 @@
       "body": "Mikroorganizmaların alet üzerindeki **yerleşimi**, aynı sayıdaki mikroorganizmanın öldürülmesini zorlaştırabilir. Lümen ve birleşim yerleri germisitin ulaşmasını sınırlar."
     },
     {
+      "id": "PER247-0fvggsa",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -37,6 +42,7 @@
       "body": "CDC’nin tarihsel açıklamasında Joseph Lister’in cerrahi antisepside kullandığı ajan **fenol, yani karbolik asittir**."
     },
     {
+      "id": "PER247-08ws7pb",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "Organik/inorganik kalıntılar **germisiti inaktive edebilir veya mikroorganizmayla temasını engelleyebilir**. Bu nedenle yüksek düzey dezenfeksiyon ve sterilizasyon öncesinde temizlik gerekir."
     },
     {
+      "id": "PER247-0hbxyj6",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "Önceden tanımlanan işlem koşullarının **tekrarlanabilir biçimde hedeflenen sterilite güvencesini sağlamasını**; yalnız tek bir örnekte üreme görülmemesini değil."
     },
     {
+      "id": "PER247-1q6qz4e",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +66,7 @@
       "answer": "Yüzeye bağlı mikroorganizmaları hücre dışı matriks içinde korur ve **germisitin temasını/penetrasyonunu sınırlar**. Temizlik ve fiziksel uzaklaştırma önem kazanır."
     },
     {
+      "id": "PER247-02iugba",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -65,6 +74,7 @@
       "body": "Gözle temiz görünme, aletin işlem için yeterince temiz olduğunu tek başına göstermez. Eklemler, oluklar ve kanallar **temizlik/inceleme sürecinde** değerlendirilir."
     },
     {
+      "id": "PER247-0sofl25",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

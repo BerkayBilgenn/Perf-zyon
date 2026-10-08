@@ -2,6 +2,7 @@
   "topic": "Alet setleri, paketleme ve izlenebilirlik",
   "cards": [
     {
+      "id": "PER247-12s8p5x",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -10,6 +11,7 @@
       "en": "Sterilization wrap (woven/nonwoven)"
     },
     {
+      "id": "PER247-0ttjx17",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -18,6 +20,7 @@
       "en": "Muslin"
     },
     {
+      "id": "PER247-1tmpakx",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -26,6 +29,7 @@
       "en": "Peel pouch"
     },
     {
+      "id": "PER247-0mvp3q3",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -34,6 +38,7 @@
       "en": "Roll stock / reel"
     },
     {
+      "id": "PER247-051myik",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -42,6 +47,7 @@
       "en": "Rigid container system"
     },
     {
+      "id": "PER247-1uzf27o",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -50,6 +56,7 @@
       "en": "Sequential wrapping"
     },
     {
+      "id": "PER247-1te19vf",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +65,7 @@
       "en": "Simultaneous wrapping"
     },
     {
+      "id": "PER247-1ucgvkx",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +74,7 @@
       "en": "Tenting and gapping"
     },
     {
+      "id": "PER247-1xdpwwg",
       "type": "term",
       "importance": 3,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -74,6 +83,7 @@
       "en": "Traceability"
     },
     {
+      "id": "PER247-06hy4kp",
       "type": "compare",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",

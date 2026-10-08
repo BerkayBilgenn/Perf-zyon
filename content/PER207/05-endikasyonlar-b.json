@@ -2,6 +2,7 @@
   "topic": "Endikasyonlar, skorlar ve ECPR",
   "cards": [
     {
+      "id": "PER207-1tggmco",
       "type": "fact",
       "importance": 3,
       "title": "ECLS'nin temel endikasyonu",
@@ -9,6 +10,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-06mrelh",
       "type": "fact",
       "importance": 2,
       "title": "Kardiyojenik şokta VA ECMO zamanlaması",
@@ -16,6 +18,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1tizpv8",
       "type": "fact",
       "importance": 2,
       "title": "VA ECMO kontrendikasyonları",
@@ -23,6 +26,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1w5tq3n",
       "type": "fact",
       "importance": 2,
       "title": "CESAR çalışması (Lancet 2009)",
@@ -30,6 +34,7 @@
       "source": "CESAR, Lancet 2009"
     },
     {
+      "id": "PER207-1xm8835",
       "type": "fact",
       "importance": 2,
       "title": "EOLIA çalışması (NEJM 2018)",
@@ -37,6 +42,7 @@
       "source": "EOLIA, NEJM 2018"
     },
     {
+      "id": "PER207-16g4lqz",
       "type": "fact",
       "importance": 2,
       "title": "ECPR için örnek dahil etme kriterleri",
@@ -44,6 +50,7 @@
       "source": "ELSO ECPR 2021"
     },
     {
+      "id": "PER207-1v0hmdp",
       "type": "mcq",
       "importance": 3,
       "question": "ELSO 2021 VV kılavuzuna göre optimal tedavi ve prone pozisyon denemesine rağmen süren hipoksemik yetmezlikte VV ECMO eşiği hangisidir?",
@@ -58,6 +65,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0d1jimm",
       "type": "mcq",
       "importance": 3,
       "question": "ELSO 2021 VV ECMO kılavuzunda belirtilen tek mutlak kontrendikasyon hangisidir?",
@@ -72,6 +80,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1seataz",
       "type": "mcq",
       "importance": 2,
       "question": "ELSO'ya göre ECLS hangi mortalite riskinde düşünülür ve hangi riskte çoğu durumda endikedir?",
@@ -86,6 +95,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-1do98vq",
       "type": "mcq",
       "importance": 2,
       "question": "CESAR çalışmasında (2009) test edilen strateji ve birincil sonuç hangisidir?",
@@ -100,6 +110,7 @@
       "source": "CESAR, Lancet 2009"
     },
     {
+      "id": "PER207-1ev60uz",
       "type": "mcq",
       "importance": 2,
       "question": "ELSO ECPR kılavuzuna göre arrestten ECMO akımının başlamasına kadar geçen \"low-flow\" süresi için hedef hangisidir?",
@@ -114,6 +125,7 @@
       "source": "ELSO ECPR 2021"
     },
     {
+      "id": "PER207-1suzq5n",
       "type": "flip",
       "importance": 3,
       "question": "ELSO 2021'e göre hiperkapnik solunum yetmezliğinde VV ECMO eşiği nedir?",
@@ -121,6 +133,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0yrfzd3",
       "type": "flip",
       "importance": 2,
       "question": "ECPR'de kanülasyona ne zaman başlanmalıdır? ELSO verisinde erişkin ECPR sağkalımı nedir?",
@@ -128,6 +141,7 @@
       "source": "ELSO ECPR 2021"
     },
     {
+      "id": "PER207-01msfvq",
       "type": "flip",
       "importance": 2,
       "question": "VA ECMO'nun sık endikasyonu olan klinik durumlar nelerdir?",
@@ -135,6 +149,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-03hqj2x",
       "type": "tf",
       "importance": 3,
       "statement": "EOLIA çalışmasında erken VV ECMO, ağır ARDS'de 60. gün mortaliteyi istatistiksel olarak anlamlı biçimde azalttı.",
@@ -143,6 +158,7 @@
       "source": "EOLIA, NEJM 2018"
     },
     {
+      "id": "PER207-0hosw8b",
       "type": "tf",
       "importance": 2,
       "statement": "Akut solunum yetmezliğine bağlı pulmoner hipertansiyon ve sağ ventrikül disfonksiyonu genellikle VV ECMO ile düzelir.",
@@ -151,6 +167,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1pgd2o6",
       "type": "tf",
       "importance": 1,
       "statement": "SAVE skoru, postkardiyotomi şokundaki hastalarda VA ECMO sağkalımını öngörmek için kullanılır.",
@@ -159,6 +176,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1s5ze8t",
       "type": "remember",
       "importance": 3,
       "title": "VV ECMO başlama eşikleri (ELSO 2021)",
@@ -166,6 +184,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-16w5za8",
       "type": "flip",
       "importance": 2,
       "question": "VV ECMO değerlendirmesinde akciğer hasarının geri dönüşebilirliği neden önemlidir?",

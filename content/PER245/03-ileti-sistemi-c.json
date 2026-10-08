@@ -2,6 +2,7 @@
   "topic": "Kalbin ileti sistemi",
   "cards": [
     {
+      "id": "PER245-0a9ukrz",
       "type": "mcq",
       "importance": 3,
       "question": "Normal ileti akışında AV düğümden hemen sonra hangi yapı yer alır?",
@@ -16,6 +17,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-1i8ux8b",
       "type": "mcq",
       "importance": 2,
       "question": "Atriyal uyarının ventriküle geçişini geciktiren yapı hangisidir?",
@@ -30,6 +32,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-15gz0ez",
       "type": "mcq",
       "importance": 2,
       "question": "Ventrikülde hızlı ileti ağı çoğunlukla hangi katmanda yerleşir?",
@@ -44,6 +47,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-1potfpj",
       "type": "mcq",
       "importance": 2,
       "question": "Doğal pacemaker topluluğu normal anatomide hangi bileşkede bulunur?",
@@ -58,6 +62,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-0vspx8k",
       "type": "tf",
       "importance": 2,
       "statement": "His demeti sağ ve sol dallara ayrılarak ventriküler iletiyi sürdürür.",
@@ -66,6 +71,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-0rsqdb3",
       "type": "tf",
       "importance": 2,
       "statement": "Parasempatik aktivite SA düğümünün uyarı üretme hızını artırır.",

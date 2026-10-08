@@ -2,6 +2,7 @@
   "topic": "Kanülasyon teknikleri ve kanüller",
   "cards": [
     {
+      "id": "PER141-1454ajg",
       "type": "mcq",
       "importance": 3,
       "question": "Santral arteriyel kanülasyon için tercih edilen bölge hangisidir?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0hserwt",
       "type": "mcq",
       "importance": 2,
       "question": "Dispersiyon uçlu arteriyel kanülün hedeflediği etki hangisidir?",
@@ -30,6 +32,7 @@
       "source": "Medtronic / LivaNova kanüller"
     },
     {
+      "id": "PER141-08zjnfv",
       "type": "mcq",
       "importance": 2,
       "question": "Femoral arteriyel bi-flow kanülün ek amacı nedir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-09s4z2h",
       "type": "mcq",
       "importance": 3,
       "question": "Bikaval drenajda iki venöz kanül hangi damarlara yerleştirilir?",
@@ -58,6 +62,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-03hline",
       "type": "mcq",
       "importance": 2,
       "question": "Retrograd kardiyopleji kanülünün balonu hangi damarda yer alır?",
@@ -72,6 +77,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-09hvtd8",
       "type": "tf",
       "importance": 2,
       "statement": "İki kademeli venöz kanülün ince ucu superior vena kavaya yerleşir.",
@@ -80,6 +86,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-19ik24l",
       "type": "tf",
       "importance": 2,
       "statement": "Epiaortik ultrason çıkan aortadaki ateromların belirlenmesine yardım eder.",

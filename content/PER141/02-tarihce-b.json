@@ -2,6 +2,7 @@
   "topic": "KPB ve perfüzyonun tarihçesi",
   "cards": [
     {
+      "id": "PER141-1bnqda4",
       "type": "fact",
       "importance": 3,
       "title": "Gibbon'un başarısı",
@@ -9,6 +10,7 @@
       "source": "Jefferson Magazine 2020"
     },
     {
+      "id": "PER141-0u6pvp7",
       "type": "fact",
       "importance": 2,
       "title": "Elekten membrana",
@@ -16,6 +18,7 @@
       "source": "Jefferson Magazine 2020"
     },
     {
+      "id": "PER141-1kobj3f",
       "type": "fact",
       "importance": 1,
       "title": "DeBakey ve roller pompa",
@@ -23,6 +26,7 @@
       "source": "Passaroni 2015"
     },
     {
+      "id": "PER141-11woxq5",
       "type": "fact",
       "importance": 2,
       "title": "Heparinin teknolojik katkısı",
@@ -30,6 +34,7 @@
       "source": "JECT 2025: EKD tarihçesi"
     },
     {
+      "id": "PER141-0c0zohg",
       "type": "fact",
       "importance": 2,
       "title": "Türkiye tarihindeki iki farklı başlangıç",
@@ -37,6 +42,7 @@
       "source": "Aytaç: Kalp cerrahisi tarihi"
     },
     {
+      "id": "PER141-141hdzl",
       "type": "flip",
       "importance": 3,
       "question": "Lillehei'nin kontrollü çapraz dolaşımında gaz değişimini hangi yapı sağlıyordu?",
@@ -44,6 +50,7 @@
       "source": "Gott 2005"
     },
     {
+      "id": "PER141-1f31um8",
       "type": "flip",
       "importance": 2,
       "question": "Kirklin'in KPB tarihindeki katkısı nasıl özetlenir?",
@@ -51,6 +58,7 @@
       "source": "JECT 2025: EKD tarihçesi"
     },
     {
+      "id": "PER141-1qvsiwu",
       "type": "flip",
       "importance": 2,
       "question": "PMP membranlar uzamış ekstrakorporeal destekte hangi teknik soruna yanıt verdi?",
@@ -58,6 +66,7 @@
       "source": "JECT 2025: EKD tarihçesi"
     },
     {
+      "id": "PER141-17sl4kd",
       "type": "remember",
       "importance": 3,
       "title": "Tarih sorusunun klasik eşleşmesi",

@@ -2,6 +2,7 @@
   "topic": "Transfüzyon ve kan koruma",
   "cards": [
     {
+      "id": "PER243-0cu0gke",
       "type": "mcq",
       "importance": 3,
       "question": "Akut hemolitik transfüzyon reaksiyonunun en sık nedeni hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
     },
     {
+      "id": "PER243-0is2r5g",
       "type": "mcq",
       "importance": 2,
       "question": "Hücre kurtarıcıda yıkama sonrası esas olarak hangi bileşen geri verilir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1pz88ym",
       "type": "mcq",
       "importance": 2,
       "question": "Otolog priming işlemi hemodilüsyonu nasıl azaltır?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1bcotp0",
       "type": "mcq",
       "importance": 2,
       "question": "Transfüzyon sırasında hipotermiyi önlemek için uygun araç hangisidir?",
@@ -58,6 +62,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
     },
     {
+      "id": "PER243-12u7yno",
       "type": "tf",
       "importance": 3,
       "statement": "Transfüzyondaki sitrat iyonize kalsiyumu artırarak hiperkalsemi oluşturur.",
@@ -66,6 +71,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
     },
     {
+      "id": "PER243-0t21bma",
       "type": "tf",
       "importance": 1,
       "statement": "2024 PBM kılavuzunda kanamayı azaltmak için profilaktik TDP kullanımı desteklenmez.",

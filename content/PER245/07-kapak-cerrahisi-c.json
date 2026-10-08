@@ -2,6 +2,7 @@
   "topic": "Kapak hastalıklarının cerrahisi",
   "cards": [
     {
+      "id": "PER245-0b5zcsg",
       "type": "mcq",
       "importance": 3,
       "question": "Kendi pulmoner kapağını aort pozisyonuna taşıyan işlem hangisidir?",
@@ -16,6 +17,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-09e69qn",
       "type": "mcq",
       "importance": 2,
       "question": "Hastanın kendi dokusundan alınan greft hangi adla anılır?",
@@ -30,6 +32,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1ko72r6",
       "type": "mcq",
       "importance": 2,
       "question": "Diyastolde aorttan sol ventriküle kan kaçışı hangi kapak bozukluğudur?",
@@ -44,6 +47,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-00qohfz",
       "type": "mcq",
       "importance": 2,
       "question": "Sağ kalp boşluğu açılacak işlemde venöz izolasyona en uygun düzen hangisidir?",
@@ -58,6 +62,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1gmm5x1",
       "type": "tf",
       "importance": 2,
       "statement": "Pulmoner arter venti aort yetersizliğinden gelen sol ventrikül yükünü tam karşılamayabilir.",
@@ -66,6 +71,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1xd52mv",
       "type": "tf",
       "importance": 2,
       "statement": "Aort darlığı sol ventrikülün sistolik çıkışında direnç azalması oluşturur.",

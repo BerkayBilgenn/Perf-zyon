@@ -2,6 +2,7 @@
   "topic": "Kardiyopleji ve miyokard koruma",
   "cards": [
     {
+      "id": "PER141-093uw2s",
       "type": "term",
       "importance": 3,
       "term": "Kardiyopleji",
@@ -10,6 +11,7 @@
       "source": "Francica ve ark. 2021"
     },
     {
+      "id": "PER141-13qdris",
       "type": "term",
       "importance": 2,
       "term": "Aort kros klempi",
@@ -18,6 +20,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-0sjg9x2",
       "type": "term",
       "importance": 3,
       "term": "Antegrad kardiyopleji",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0w9e4ag",
       "type": "term",
       "importance": 3,
       "term": "Retrograd kardiyopleji",
@@ -34,6 +38,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-13gtp5y",
       "type": "term",
       "importance": 2,
       "term": "Ostial kardiyopleji",
@@ -42,6 +47,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1nffqi2",
       "type": "term",
       "importance": 2,
       "term": "Kan kardiyoplejisi",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1j7724s",
       "type": "term",
       "importance": 2,
       "term": "Kristaloid kardiyopleji",
@@ -58,6 +65,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-12fu63n",
       "type": "term",
       "importance": 2,
       "term": "del Nido kardiyoplejisi",
@@ -66,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1x5igcl",
       "type": "term",
       "importance": 2,
       "term": "HTK (Custodiol)",
@@ -74,6 +83,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0up299c",
       "type": "term",
       "importance": 2,
       "term": "St Thomas solüsyonu",
@@ -82,6 +92,7 @@
       "source": "Francica ve ark. 2021"
     },
     {
+      "id": "PER141-0775qzs",
       "type": "term",
       "importance": 2,
       "term": "Hot shot",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-14ggd4d",
       "type": "term",
       "importance": 2,
       "term": "Depolarize arrest",
@@ -98,6 +110,7 @@
       "source": "Francica ve ark. 2021"
     },
     {
+      "id": "PER141-0ium8kc",
       "type": "term",
       "importance": 2,
       "term": "Polarize arrest",
@@ -106,6 +119,7 @@
       "source": "Francica ve ark. 2021"
     },
     {
+      "id": "PER141-12fapxe",
       "type": "term",
       "importance": 3,
       "term": "Miyokard koruma",
@@ -114,6 +128,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-17h2dgb",
       "type": "term",
       "importance": 2,
       "term": "Fibrilasyonlu kalp tekniği",
@@ -122,6 +137,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-044gufs",
       "type": "compare",
       "importance": 2,
       "title": "Kardiyoplejinin giriş yolu",
@@ -142,6 +158,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1mqa0i9",
       "type": "compare",
       "importance": 2,
       "title": "Arrest mekanizması",

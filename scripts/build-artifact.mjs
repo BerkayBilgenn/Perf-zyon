@@ -7,7 +7,10 @@ import { fileURLToPath } from 'node:url';
 export function toArtifactHtml(html) {
   return `${html
     .replace(/<!doctype html>\s*/i, '')
-    .replace(/<\/?(html|head|body)(\s[^>]*)?>\s*/gi, '')
+    .replace(/<html\b[^>]*>\s*|<\/html>\s*/gi, '')
+    .replace(/<\/?head(\s[^>]*)?>\s*/gi, '')
+    .replace(/<body(\s[^>]*)?>\s*/gi, '<div lang="tr">\n')
+    .replace(/<\/body>\s*/gi, '</div>\n')
     .replace(/<meta\s+(charset|name="viewport")[^>]*>\s*/gi, '')
     .trim()}\n`;
 }

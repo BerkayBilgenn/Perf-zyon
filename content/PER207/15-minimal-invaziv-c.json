@@ -2,6 +2,7 @@
   "topic": "Minimal invaziv cerrahide KPB ve MiECC",
   "cards": [
     {
+      "id": "PER207-1ydvad4",
       "type": "mcq",
       "importance": 2,
       "question": "MiECC Tip II’nin Tip I’e eklediği güvenlik bileşeni hangisidir?",
@@ -16,6 +17,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-16jvv7d",
       "type": "mcq",
       "importance": 2,
       "question": "MiECC Tip III’te hacim yönetimini hangi bileşen kolaylaştırır?",
@@ -30,6 +32,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-1wddzcl",
       "type": "mcq",
       "importance": 2,
       "question": "MiECTiS 2016, başlangıçtaki Tip I devrenin ağırlıklı olarak hangi işlemde kullanıldığını belirtir?",
@@ -44,6 +47,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-1urwbmv",
       "type": "mcq",
       "importance": 2,
       "question": "Endoaortik balon migrasyonunda hangi basınç çifti birlikte izlenir?",
@@ -58,6 +62,7 @@
       "source": "Endoaortik balon serisi 2021"
     },
     {
+      "id": "PER207-1v6rsz0",
       "type": "tf",
       "importance": 2,
       "statement": "MiECTiS 2016 tanımında devre bileşenlerinin biyouyumlu kaplaması MiECC yaklaşımına dahildir.",
@@ -66,6 +71,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-0podej3",
       "type": "tf",
       "importance": 2,
       "statement": "MiECC yalnızca sternotomi kesisini küçültme stratejisidir.",

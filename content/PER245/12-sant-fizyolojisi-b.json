@@ -2,6 +2,7 @@
   "topic": "Şantlı KKH ve şant fizyolojisi",
   "cards": [
     {
+      "id": "PER245-1260evm",
       "type": "fact",
       "importance": 2,
       "title": "Şant yönünü etkileyenler",
@@ -9,6 +10,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-0b2e0ce",
       "type": "fact",
       "importance": 2,
       "title": "Eisenmenger'de tersine dönüş",
@@ -16,6 +18,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-04u4g8v",
       "type": "fact",
       "importance": 2,
       "title": "PDA'nın KPB'de çalma etkisi",
@@ -23,6 +26,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0mwnm3d",
       "type": "fact",
       "importance": 2,
       "title": "Satürasyon örnekleme tuzağı",
@@ -30,6 +34,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-0wkhwbf",
       "type": "fact",
       "importance": 2,
       "title": "Oksijen içeriği ve satürasyon",
@@ -37,6 +42,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-10fewd7",
       "type": "flip",
       "importance": 2,
       "question": "Şant varlığında pulmoner vasküler direnç hesabında hangi akım kullanılmalıdır?",
@@ -44,6 +50,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-1m0c4p4",
       "type": "remember",
       "importance": 3,
       "title": "Sistemik-pulmoner bağlantıları tanı",
@@ -51,6 +58,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1c7f3ke",
       "type": "remember",
       "importance": 3,
       "title": "Havayı küçük görme",

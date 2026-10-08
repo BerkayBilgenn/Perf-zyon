@@ -2,6 +2,7 @@
   "topic": "Rezervuarlar, aspiratörler ve vent",
   "cards": [
     {
+      "id": "PER141-1izpnda",
       "type": "mcq",
       "importance": 3,
       "question": "Yaygın sol ventrikül venti hangi giriş yolunu kullanır?",
@@ -16,6 +17,7 @@
       "source": "Kumamoto ve ark. 2023"
     },
     {
+      "id": "PER141-12kjkqv",
       "type": "mcq",
       "importance": 2,
       "question": "Antegrad kardiyopleji verilirken aort kökü venti neden durdurulur?",
@@ -30,6 +32,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-1chg6z2",
       "type": "mcq",
       "importance": 3,
       "question": "Vent hattındaki tek yönlü valfin temel görevi nedir?",
@@ -44,6 +47,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-1tu2kg1",
       "type": "mcq",
       "importance": 2,
       "question": "Vent ucunun yanlış yerleşmesi hangi komplikasyonu doğurabilir?",
@@ -58,6 +62,7 @@
       "source": "Kumamoto ve ark. 2023"
     },
     {
+      "id": "PER141-18d05zt",
       "type": "tf",
       "importance": 2,
       "statement": "Venöz rezervuarda kan seviyesi görünürlüğü yalnızca kullanım kolaylığı sağlar.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-04aaopx",
       "type": "tf",
       "importance": 2,
       "statement": "Kapalı torba rezervuar kan-hava temasını azaltır.",

@@ -2,6 +2,7 @@
   "topic": "Soldan sağa şantlı lezyonlar",
   "cards": [
     {
+      "id": "PER241-07tz1gw",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -16,6 +17,7 @@
       "explanation": "Sekundum defekt fossa ovalis bölgesinde yer alır."
     },
     {
+      "id": "PER241-1xivy57",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -30,6 +32,7 @@
       "explanation": "Musküler defektin bütün kenarları ventriküler kas dokusudur."
     },
     {
+      "id": "PER241-1vanhts",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -44,6 +47,7 @@
       "explanation": "Membranöz septum çevresindeki defekt en sık tiptir."
     },
     {
+      "id": "PER241-1mkx3z8",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -58,6 +62,7 @@
       "explanation": "PDA tipik olarak sürekli makine üfürümüyle ilişkilidir."
     },
     {
+      "id": "PER241-17qvcm8",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -72,6 +77,7 @@
       "explanation": "Geçiş AVSD'de inlet VSD küçük veya orta boyutlu ve restriktiftir."
     },
     {
+      "id": "PER241-0m1l4rh",
       "type": "mcq",
       "importance": 3,
       "source": "Wikipedia",
@@ -86,6 +92,7 @@
       "explanation": "Lutembacher sendromu sekundum ASD ile edinsel mitral stenoz birlikteliğidir."
     },
     {
+      "id": "PER241-0kucf11",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",
@@ -94,6 +101,7 @@
       "explanation": "Komplet form primum ASD, inlet VSD ve ortak atriyoventriküler kapağı içerir."
     },
     {
+      "id": "PER241-14o1cbv",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",
@@ -102,6 +110,7 @@
       "explanation": "İzole PDA'da tipik şant aortadan pulmoner artere, yani soldan sağadır."
     },
     {
+      "id": "PER241-12gm3wt",
       "type": "tf",
       "importance": 3,
       "source": "Radiopaedia",

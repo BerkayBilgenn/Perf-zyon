@@ -2,6 +2,7 @@
   "topic": "Direnç sıralaması ve Spaulding",
   "cards": [
     {
+      "id": "PER247-1ccpar6",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -10,6 +11,7 @@
       "en": "Spore"
     },
     {
+      "id": "PER247-0tnumsd",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -18,6 +20,7 @@
       "en": "Vegetative bacteria"
     },
     {
+      "id": "PER247-11ukx33",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -26,6 +29,7 @@
       "en": "Lipid/enveloped virus"
     },
     {
+      "id": "PER247-1ldmjo6",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -34,6 +38,7 @@
       "en": "Nonlipid/nonenveloped virus"
     },
     {
+      "id": "PER247-1hkwncf",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -42,6 +47,7 @@
       "en": "Mycobacteria"
     },
     {
+      "id": "PER247-0tzg2oc",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -50,6 +56,7 @@
       "en": "Spaulding classification"
     },
     {
+      "id": "PER247-199ucbg",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +65,7 @@
       "en": "Critical item"
     },
     {
+      "id": "PER247-1uda253",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +74,7 @@
       "en": "Semicritical item"
     },
     {
+      "id": "PER247-0nirv0v",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -74,6 +83,7 @@
       "en": "Noncritical item"
     },
     {
+      "id": "PER247-13cpe47",
       "type": "compare",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",

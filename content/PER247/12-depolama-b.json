@@ -2,6 +2,7 @@
   "topic": "Depolama, raf ömrü ve taşıma",
   "cards": [
     {
+      "id": "PER247-1241dbo",
       "type": "fact",
       "importance": 2,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -9,6 +10,7 @@
       "body": "SKS değerlendirmesinde steril depo **22 °C’yi ve %60 nemi aşmamalıdır**; değerler günlük izlenir. CDC’nin daha farklı sınırları bulunduğundan kaynağın adı belirtilmelidir."
     },
     {
+      "id": "PER247-1urdhm3",
       "type": "fact",
       "importance": 2,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -16,6 +18,7 @@
       "body": "SKS’de raflar **zeminden 30 cm**, **tavandan 50 cm**, duvardan 5 cm uzak düzenlenir. CDC/WHO farklı mesafeler verir; bu değerler Türkiye’deki SKS bağlamıdır."
     },
     {
+      "id": "PER247-1hp8m2h",
       "type": "fact",
       "importance": 2,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -23,6 +26,7 @@
       "body": "Steril malzemede **ilk giren ilk çıkar** ilkesi uygulanır. SKS’ye göre depo ve kullanım yerlerinde son kullanma tarihi geçmiş steril malzeme bulundurulmaz."
     },
     {
+      "id": "PER247-0t3g7ar",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +34,7 @@
       "body": "Yere düşen paket hasar yönünden incelenir. CDC’ye göre geçirimsiz plastikle **ısıyla kapatılmış ve mührü sağlam** paket, yalnız düşmesi nedeniyle otomatik kontamine sayılmaz."
     },
     {
+      "id": "PER247-175zpki",
       "type": "fact",
       "importance": 1,
       "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
@@ -37,6 +42,7 @@
       "body": "ÇOMÜ 2024 prosedüründe poşet için **en fazla 6 ay**, çift wrap/tekstil için **30 gün** verilir. Bu süreler bütün kurumlar için ulusal standart değildir."
     },
     {
+      "id": "PER247-0uxo6qb",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "**Yırtılma, delinme, ıslanma veya kapatmanın bozulması**. Paket bütünlüğünün korunması, yalnız geçen gün sayısından daha doğrudan bir kontaminasyon göstergesidir."
     },
     {
+      "id": "PER247-092c0r8",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "**Su, sızıntı ve nem riski** yüksektir. Depolama yeri, ambalajı çevresel sudan ve kirden koruyacak şekilde seçilir."
     },
     {
+      "id": "PER247-133a37r",
       "type": "flip",
       "importance": 2,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -58,6 +66,7 @@
       "answer": "SKS’ye göre **24 saatten fazla** bekletiliyorsa sıcaklık, nem ve depo koşulları burada da sağlanır. MSÜ dışında olması steriliteyi koruma sorumluluğunu kaldırmaz."
     },
     {
+      "id": "PER247-1ygkstg",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

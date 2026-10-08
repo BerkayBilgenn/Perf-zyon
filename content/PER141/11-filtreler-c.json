@@ -2,6 +2,7 @@
   "topic": "Filtreler",
   "cards": [
     {
+      "id": "PER141-0nrnqrr",
       "type": "mcq",
       "importance": 2,
       "question": "Venöz rezervuarı olmayan MiECC'de venöz hava için hangi bileşen kullanılır?",
@@ -16,6 +17,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-1ou6eli",
       "type": "mcq",
       "importance": 2,
       "question": "EACTS 2024'ün filtre sınıflamasında gazdan ayrı deforme olabilen mikroemboli örneği hangisidir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1kibhra",
       "type": "mcq",
       "importance": 2,
       "question": "Elek filtrasyonunun temel özelliği hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-09o84lx",
       "type": "mcq",
       "importance": 2,
       "question": "Derinlik filtresi parçacığı nerede tutar?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1mbae31",
       "type": "tf",
       "importance": 2,
       "statement": "Kaplamasız elek filtreler trombosit aktivasyonuna katkı yapabilir.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-05pmiqr",
       "type": "tf",
       "importance": 2,
       "statement": "Gazlı mikroemboli tutma verimi filtre gözenekleri büyüdükçe artar.",

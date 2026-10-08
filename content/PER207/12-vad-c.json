@@ -2,6 +2,7 @@
   "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
   "cards": [
     {
+      "id": "PER207-11ofuzj",
       "type": "mcq",
       "importance": 2,
       "question": "LVAD’de çıkan aorta bağlanan bileşen hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-1963pno",
       "type": "mcq",
       "importance": 2,
       "question": "Sol ventrikül desteğinden sonra sağ kalp yetmezliğinde ek hangi cihaz seçeneği değerlendirilebilir?",
@@ -30,6 +32,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-0c6bcv5",
       "type": "mcq",
       "importance": 2,
       "question": "Pulsatil birinci kuşak VAD’nin temel pompalama mekanizması hangisidir?",
@@ -44,6 +47,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-09ggv7o",
       "type": "mcq",
       "importance": 2,
       "question": "HeartMate 3 kontrolöründe gösterilen pompa akımı hangi yöntemle elde edilir?",
@@ -58,6 +62,7 @@
       "source": "FDA HeartMate 3 kullanım talimatı"
     },
     {
+      "id": "PER207-1hkbvxj",
       "type": "mcq",
       "importance": 2,
       "question": "INTERMACS profil 3 hangi klinik durumu tanımlar?",
@@ -72,6 +77,7 @@
       "source": "INTERMACS sınıflaması 2010"
     },
     {
+      "id": "PER207-0qq51yo",
       "type": "tf",
       "importance": 2,
       "statement": "HeartMate 3’ün tam manyetik askılı rotoru mekanik yatak teması olmadan döner.",
@@ -80,6 +86,7 @@
       "source": "FDA HeartMate 3 kullanım talimatı"
     },
     {
+      "id": "PER207-0f7yxpp",
       "type": "tf",
       "importance": 2,
       "statement": "Her BiVAD sistemi gaz değişimi için zorunlu olarak membran oksijenatör içerir.",

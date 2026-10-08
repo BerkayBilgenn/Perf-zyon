@@ -2,6 +2,7 @@
   "topic": "Akışkan dinamiği ve hemodinami",
   "cards": [
     {
+      "id": "PER141-0b1hca3",
       "type": "term",
       "importance": 2,
       "term": "Akışkan dinamiği",
@@ -10,6 +11,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1mw2tcd",
       "type": "term",
       "importance": 2,
       "term": "Laminer akım",
@@ -18,6 +20,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-08cbydw",
       "type": "term",
       "importance": 2,
       "term": "Türbülan akım",
@@ -26,6 +29,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1uu9511",
       "type": "term",
       "importance": 2,
       "term": "Reynolds sayısı",
@@ -34,6 +38,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1ytrx5e",
       "type": "term",
       "importance": 3,
       "term": "Poiseuille yasası",
@@ -42,6 +47,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0yikm6t",
       "type": "term",
       "importance": 2,
       "term": "Viskozite",
@@ -50,6 +56,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1fl10ju",
       "type": "term",
       "importance": 2,
       "term": "Newtonyen olmayan sıvı",
@@ -58,6 +65,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-12x40n8",
       "type": "term",
       "importance": 2,
       "term": "Bernoulli ilkesi",
@@ -66,6 +74,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0pcahll",
       "type": "term",
       "importance": 2,
       "term": "Laplace yasası",
@@ -74,6 +83,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0lf2efz",
       "type": "compare",
       "importance": 2,
       "title": "Akım düzeni",
@@ -94,6 +104,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-14vuanh",
       "type": "compare",
       "importance": 2,
       "title": "Akımın fiziksel açıklaması",

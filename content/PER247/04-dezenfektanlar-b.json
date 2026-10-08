@@ -2,6 +2,7 @@
   "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
   "cards": [
     {
+      "id": "PER247-0iess4u",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "Klasik sulu glutaraldehit çözeltisi, alkali ajanlarla **pH 7,5–8,5** aralığına aktive edildiğinde sporisidal özellik kazanır. Ürün formülasyonu ve talimatı esas alınır."
     },
     {
+      "id": "PER247-0k2q4zs",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "CDC tablosunda **%0,55 OPA** için ABD’de yüksek düzey dezenfeksiyon koşulu **20 °C’de 12 dk** olarak yer alır. Otomatik sistem/ülke etiketleri farklı olabilir."
     },
     {
+      "id": "PER247-0uh1r7j",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "CDC Tablo 4’te **%7,5 H2O2**, 20 °C’de **30 dk** ile yüksek düzey dezenfeksiyon; **6 saat** ile sterilizasyon koşulu olarak verilir. Süre hedeflenen işleme göre değişir."
     },
     {
+      "id": "PER247-1ctml9l",
       "type": "fact",
       "importance": 3,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -30,6 +34,7 @@
       "body": "Yüksek düzey dezenfektanın minimum etkin konsantrasyonu, **ürüne özel etkinlik test şeridiyle** izlenir. SKS değerlendirmesinde **pH metre** bu amaçla kullanılmaz."
     },
     {
+      "id": "PER247-07qszzv",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -37,6 +42,7 @@
       "body": "Pamuk ve gazlı bez, kuaterner amonyum bileşiklerinin **aktif maddesini emerek** etkinliği azaltabilir. Uygulama malzemesi dezenfektanla uyumlu seçilir."
     },
     {
+      "id": "PER247-0e5xpk0",
       "type": "flip",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "Daha etkin **hipokloröz asit (HOCl)**, daha az mikrobisidal hipoklorit iyonuna dönüşür. Bu nedenle pH değişimi kimyasal etkinliği etkiler."
     },
     {
+      "id": "PER247-1l7dei1",
       "type": "flip",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "Bazı **gram-negatif bakteriler** kontamine kuat çözeltisinde yaşayabilir veya üreyebilir. Dezenfektanın adı, kirlenmiş çözeltinin güvenli olduğu anlamına gelmez."
     },
     {
+      "id": "PER247-1kchg9w",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +66,7 @@
       "answer": "Kalıntı OPA proteinlerle reaksiyona girip **cilt/mukoza boyanmasına ve reaksiyonlara** yol açabilir. Cihaz ve ürün talimatındaki durulama koşulları uygulanır."
     },
     {
+      "id": "PER247-0wdxua6",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -65,6 +74,7 @@
       "body": "Hipoklorit **amonyak veya asitle karıştırılmaz**; toksik gaz oluşabilir. Kimyasalların ürün talimatı dışı birleştirilmesi güvenli dezenfeksiyon yöntemi değildir."
     },
     {
+      "id": "PER247-06cwtto",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

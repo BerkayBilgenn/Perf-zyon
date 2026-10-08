@@ -2,6 +2,7 @@
   "topic": "Pediatrik kalp yetmezliği",
   "cards": [
     {
+      "id": "PER241-19mac27",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -11,6 +12,7 @@
       "origin": "Lat. congestio = birikme"
     },
     {
+      "id": "PER241-1vkelog",
       "type": "term",
       "importance": 1,
       "source": "Draaisma 2009",

@@ -2,6 +2,7 @@
   "topic": "Kan koruma, biyouyumluluk ve MiECC",
   "cards": [
     {
+      "id": "PER141-1x9srbo",
       "type": "term",
       "importance": 2,
       "term": "MiECC",
@@ -10,6 +11,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1mvoh5s",
       "type": "term",
       "importance": 3,
       "term": "Ultrafiltrasyon",
@@ -18,6 +20,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1yhpwa3",
       "type": "term",
       "importance": 2,
       "term": "Hemokonsantratör",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1cl44a5",
       "type": "term",
       "importance": 2,
       "term": "CUF",
@@ -34,6 +38,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1puaadr",
       "type": "term",
       "importance": 3,
       "term": "MUF",
@@ -42,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0p8tfkm",
       "type": "term",
       "importance": 2,
       "term": "ZBUF",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0jzt924",
       "type": "term",
       "importance": 3,
       "term": "Cell saver",
@@ -58,6 +65,7 @@
       "source": "Cell salvage çalışması 2026"
     },
     {
+      "id": "PER141-1tau0ml",
       "type": "term",
       "importance": 2,
       "term": "Biyouyumluluk",
@@ -66,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0jen3af",
       "type": "term",
       "importance": 2,
       "term": "Heparin kaplı devre",
@@ -74,6 +83,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1w8212p",
       "type": "term",
       "importance": 2,
       "term": "Fosforilkolin (PC) kaplama",
@@ -82,6 +92,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0t3lfc4",
       "type": "term",
       "importance": 1,
       "term": "PMEA",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1o4t2gb",
       "type": "compare",
       "importance": 2,
       "title": "Kanı yoğunlaştırmak veya yıkamak",

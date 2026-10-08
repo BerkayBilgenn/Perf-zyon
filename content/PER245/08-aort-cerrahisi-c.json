@@ -2,6 +2,7 @@
   "topic": "Aort cerrahisinde perfüzyon",
   "cards": [
     {
+      "id": "PER245-1g3mgv1",
       "type": "mcq",
       "importance": 3,
       "question": "Arrest sırasında beyne arteriyel yönde kan veren yöntem hangisidir?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1pcdwur",
       "type": "mcq",
       "importance": 2,
       "question": "Çıkan aorta tutulmayan diseksiyon Stanford'da hangi tipe girer?",
@@ -30,6 +32,7 @@
       "source": "Diseksiyon, Korean J Radiol"
     },
     {
+      "id": "PER245-0jgmb7h",
       "type": "mcq",
       "importance": 2,
       "question": "David ameliyatında korunması amaçlanan nativ yapı hangisidir?",
@@ -44,6 +47,7 @@
       "source": "Aort kökü onarımı, Europe PMC"
     },
     {
+      "id": "PER245-0zabhvd",
       "type": "mcq",
       "importance": 2,
       "question": "İnen aort klempi altında distal organ dolaşımını destekleyen yöntem hangisidir?",
@@ -58,6 +62,7 @@
       "source": "Sol kalp baypası, Front CVM 2022"
     },
     {
+      "id": "PER245-0kys12r",
       "type": "tf",
       "importance": 2,
       "statement": "İnkomplet Willis poligonu, tek taraflı serebral perfüzyonun dağılımını etkileyebilir.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0teflo8",
       "type": "tf",
       "importance": 2,
       "statement": "Sistemik soğutma, KPB kurulmadan önce perfüzyon devresi üzerinden başlatılır.",

@@ -2,6 +2,7 @@
   "topic": "Prionlar ve CJD",
   "cards": [
     {
+      "id": "PER247-0d2sb20",
       "type": "fact",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -9,6 +10,7 @@
       "body": "CDC’de yöntem 1: **1 N NaOH içinde, gravite otoklavda 121 °C–30 dk**; ardından temizlik, suyla durulama ve rutin sterilizasyon. Bu sıra rutin cihaz işlemiyle karıştırılmaz."
     },
     {
+      "id": "PER247-1974aeu",
       "type": "fact",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -16,13 +18,15 @@
       "body": "CDC’de yöntem 2: **1 N NaOH veya 20.000 ppm klorda 1 saat**, sonra suya aktarma ve **121 °C gravitede 1 saat**; ardından temizlik ve rutin sterilizasyon."
     },
     {
+      "id": "PER247-01ziqnj",
       "type": "fact",
       "importance": 2,
       "source": "CDC CJD 2026",
       "title": "CJD aleti: yöntem 3",
-      "body": "CDC’de yöntem 3: kimyasalda 1 saat → **suyla durulama** → açık kapta **121 °C gravite veya 134 °C gözenekli yükte 1 saat** → temizlik ve rutin sterilizasyon. Üretici uyumu gözetilir."
+      "body": "CDC’de yöntem 3: **1 N NaOH veya 20.000 ppm serbest klorlu hipokloritte 1 saat** → suyla durulama → açık kapta **121 °C gravite veya 134 °C gözenekli yükte 1 saat** → temizlik ve rutin sterilizasyon. Üretici uyumu gözetilir."
     },
     {
+      "id": "PER247-1nw46jt",
       "type": "fact",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -30,6 +34,7 @@
       "body": "CDC, ilgili yüzey ve ısıya duyarlı yeniden kullanılabilir malzemede **2 N NaOH veya seyreltilmemiş hipokloritle 1 saat** temas ve ardından suyla durulamayı tarif eder. Özel prion protokolüdür."
     },
     {
+      "id": "PER247-1s6jzje",
       "type": "fact",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -37,6 +42,7 @@
       "body": "CDC, yüksek enfektiviteli dokuyla temas eden ısıya dayanıklı cerrahi aletler için **imhanın en güvenli seçenek** olduğunu belirtir; uygulanamıyorsa tanımlı özel yeniden işleme yöntemleri kullanılır."
     },
     {
+      "id": "PER247-01gvco6",
       "type": "flip",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -44,6 +50,7 @@
       "answer": "**Beyin, omurilik ve gözler**. Beyin-omurilik sıvısı gibi bazı diğer dokular CDC listesinde düşük enfektiviteli gruptadır."
     },
     {
+      "id": "PER247-1ttmt1r",
       "type": "flip",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -51,6 +58,7 @@
       "answer": "İşlem sırasında aletler **su veya uygun solüsyonda nemli** tutulur. Kuruma, kontaminasyonun yüzeye bağlanmasını ve özel dekontaminasyonu güçleştirebilir."
     },
     {
+      "id": "PER247-0mwnkyc",
       "type": "remember",
       "importance": 3,
       "source": "CDC CJD 2026",

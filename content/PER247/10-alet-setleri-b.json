@@ -2,6 +2,7 @@
   "topic": "Alet setleri, paketleme ve izlenebilirlik",
   "cards": [
     {
+      "id": "PER247-1pck9fn",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "Menteşeli aletler **açık**; üretici aksini belirtmedikçe sökülebilir parçalar **demonte** hazırlanır. Sterilanın temas etmesi gereken yüzeyler kapalı bırakılmaz."
     },
     {
+      "id": "PER247-06z3luh",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "İçbükey alet ve kaplar, **suyun boşalmasına izin verecek** konumda yerleştirilir. Su birikimi kurutmayı ve paket niteliğini bozar."
     },
     {
+      "id": "PER247-0k6hm75",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "Soyulabilir poşetler uygun delikli veya tel raf/sepet içinde **kenarı üzerine dik** yerleştirilir. Yerleşim sterilan dolaşımına izin vermelidir."
     },
     {
+      "id": "PER247-0rruqq1",
       "type": "fact",
       "importance": 3,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -30,6 +34,7 @@
       "body": "SKS etiketinde sterilizasyon tarihi, cihaz, **döngü/şarj bilgisi**, son kullanma tarihi ve içerik bulunur. Bu alanlar barkodla tutuluyorsa kullanıcı bilgilere erişebilmelidir."
     },
     {
+      "id": "PER247-07v6wfy",
       "type": "fact",
       "importance": 1,
       "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
@@ -37,6 +42,7 @@
       "body": "ÇOMÜ prosedüründe işlemeyen eklem yerleri **suda çözünen yağlarla** yağlanır. Kusurlu aletler tutanakla kullanım dışı bırakılır."
     },
     {
+      "id": "PER247-0coh6u7",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "İşlem sırasında **sterilan geçişine izin verir**, işlem sonrasında ise mikroorganizmaların girişine karşı **bariyer oluşturur**."
     },
     {
+      "id": "PER247-0iorhdn",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "Kurutma güçlüğü ve **ıslak paket** oluşumu. Set tasarımı ve metal kütlesinin dağılımı, tek başına toplam ağırlık kadar önemlidir."
     },
     {
+      "id": "PER247-1kwo7nm",
       "type": "flip",
       "importance": 1,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -58,6 +66,7 @@
       "answer": "Kullanıcı, etiketin temsil ettiği **bilgilere tanımlı sistemden ulaşabilmelidir**. Barkodun basılması, erişilemeyen dijital kaydı tek başına yeterli yapmaz."
     },
     {
+      "id": "PER247-15oeery",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

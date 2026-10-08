@@ -2,6 +2,7 @@
   "topic": "Embriyoloji ve fetal dolaşım",
   "cards": [
     {
+      "id": "PER245-0zxtu06",
       "type": "fact",
       "importance": 2,
       "title": "Kalp tüpünün duvarı",
@@ -9,6 +10,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-10h4opn",
       "type": "fact",
       "importance": 2,
       "title": "Kalbin ilk kasılması",
@@ -16,6 +18,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-05k8nrs",
       "type": "fact",
       "importance": 2,
       "title": "Konotrunkal ayrılma",
@@ -23,6 +26,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0cw9g9x",
       "type": "fact",
       "importance": 2,
       "title": "Doğumda basınç geçişi",
@@ -30,6 +34,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1ku7l1x",
       "type": "fact",
       "importance": 2,
       "title": "Fetal kalıntılar",
@@ -37,6 +42,7 @@
       "source": "OpenStax ve UMN Embriyoloji"
     },
     {
+      "id": "PER245-1idj72m",
       "type": "flip",
       "importance": 2,
       "question": "Primitif ventrikül ve bulbus cordis hangi ventriküllere katkı sağlar?",
@@ -44,6 +50,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-15yhth4",
       "type": "flip",
       "importance": 2,
       "question": "Fetal umbilikal kanın karaciğeri kısmen atladığı yol hangisidir?",
@@ -51,6 +58,7 @@
       "source": "GLOWM Fetal dolaşım"
     },
     {
+      "id": "PER245-0st6sqa",
       "type": "flip",
       "importance": 2,
       "question": "Duktusa bağımlı konjenital lezyonlarda PGE1'in eğitimde vurgulanan rolü nedir?",
@@ -58,6 +66,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1ckmmes",
       "type": "remember",
       "importance": 3,
       "title": "Fetal üç bağlantı",

@@ -2,6 +2,7 @@
   "topic": "Heparinizasyon ve ACT",
   "cards": [
     {
+      "id": "PER243-0btpp9l",
       "type": "fact",
       "importance": 3,
       "title": "Heparine bağlanma bölgesi",
@@ -9,6 +10,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-1y8bm6t",
       "type": "fact",
       "importance": 3,
       "title": "Heparin başlangıç dozu değişkenliği",
@@ -16,6 +18,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-10zlnl9",
       "type": "fact",
       "importance": 2,
       "title": "ACT hedefinin bağlamı",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1tirlfa",
       "type": "fact",
       "importance": 3,
       "title": "Heparin ve priming",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-147exgn",
       "type": "fact",
       "importance": 3,
       "title": "Heparinde doğrusal olmayan yanıt",
@@ -37,6 +42,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-1acmdzz",
       "type": "fact",
       "importance": 2,
       "title": "ACT ve konsantrasyon ayrışması",
@@ -44,6 +50,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-0hinwup",
       "type": "flip",
       "importance": 2,
       "question": "Hepcon HMS heparin doz-yanıtını nasıl değerlendirir?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-19o03fp",
       "type": "flip",
       "importance": 2,
       "question": "KPB kontrol listesi tamamlandığında ekip bunu nasıl doğrular?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-17fdiqi",
       "type": "flip",
       "importance": 3,
       "question": "Hipotermi ACT'yi heparinden bağımsız nasıl değiştirebilir?",
@@ -65,6 +74,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-0ljy3cx",
       "type": "remember",
       "importance": 3,
       "title": "Ölçmeden bypass başlatma",

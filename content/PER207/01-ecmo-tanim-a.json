@@ -2,6 +2,7 @@
   "topic": "ECMO: tanım, tarihçe ve ELSO",
   "cards": [
     {
+      "id": "PER207-0pygkre",
       "type": "term",
       "importance": 3,
       "term": "Ekstrakorporeal yaşam desteği",
@@ -10,6 +11,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-00oje1p",
       "type": "term",
       "importance": 3,
       "term": "ECMO",
@@ -18,6 +20,7 @@
       "source": "ELSO Maastricht 2019"
     },
     {
+      "id": "PER207-1lgkruy",
       "type": "term",
       "importance": 1,
       "term": "Maastricht Antlaşması",
@@ -26,6 +29,7 @@
       "source": "ELSO Maastricht 2019"
     },
     {
+      "id": "PER207-1h0n7fm",
       "type": "term",
       "importance": 1,
       "term": "ELSO",
@@ -34,6 +38,7 @@
       "source": "ECMO tarihçesi 2022"
     },
     {
+      "id": "PER207-19e8dhx",
       "type": "term",
       "importance": 1,
       "term": "Red Book",

@@ -2,6 +2,7 @@
   "topic": "Büyük damarlar ve varyasyonları",
   "cards": [
     {
+      "id": "PER241-0wrqwsx",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -11,6 +12,7 @@
       "origin": "Yun. isthmos = dar geçit"
     },
     {
+      "id": "PER241-1b3sidx",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -20,6 +22,7 @@
       "origin": "Yun. brakhion = kol + kephale = baş"
     },
     {
+      "id": "PER241-0uoyp0j",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -29,6 +32,7 @@
       "origin": "Lat. ligare = bağlamak"
     },
     {
+      "id": "PER241-1oila1u",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -37,6 +41,7 @@
       "definition": "Embriyonik sol ön kardinal venin kalıcı olmasıyla oluşan venöz varyasyon. Genellikle koroner sinüse açılır; kanülasyon ve retrograd kardiyoplejiyi etkiler."
     },
     {
+      "id": "PER241-11sphr3",
       "type": "term",
       "importance": 1,
       "source": "Radiopaedia",
@@ -46,6 +51,7 @@
       "origin": "Lat. bos = sığır"
     },
     {
+      "id": "PER241-1x375ms",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",

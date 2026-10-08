@@ -2,6 +2,7 @@
   "topic": "Koroner arter cerrahisi (KABG)",
   "cards": [
     {
+      "id": "PER245-1uplx89",
       "type": "mcq",
       "importance": 3,
       "question": "LIMA greftinin sık kullanılan koroner hedefi hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Arteriyel greftler, Ann CTS"
     },
     {
+      "id": "PER245-1e6w18l",
       "type": "mcq",
       "importance": 2,
       "question": "Koroner baypasta arteriyel greft olarak kullanılan damar hangisidir?",
@@ -30,6 +32,7 @@
       "source": "Arteriyel greftler, Ann CTS"
     },
     {
+      "id": "PER245-18c3nvd",
       "type": "mcq",
       "importance": 2,
       "question": "Koroner greftte spazma eğilimi özellikle hangi damarda dikkate alınır?",
@@ -44,6 +47,7 @@
       "source": "Arteriyel greftler, Ann CTS"
     },
     {
+      "id": "PER245-0buv0ab",
       "type": "mcq",
       "importance": 2,
       "question": "KPB kullanılmadan yapılan koroner baypası ifade eden kısaltma hangisidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-031aim3",
       "type": "tf",
       "importance": 2,
       "statement": "Off-pump koroner baypasta intrakoroner şant kullanılabilir.",
@@ -66,6 +71,7 @@
       "source": "KABG, BMC 2026"
     },
     {
+      "id": "PER245-1lyyji6",
       "type": "tf",
       "importance": 2,
       "statement": "On-pump koroner baypas terimi KPB kullanılmayan ameliyatı ifade eder.",

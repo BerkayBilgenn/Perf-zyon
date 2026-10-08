@@ -2,6 +2,7 @@
   "topic": "Preoperatif değerlendirme ve risk skorları",
   "cards": [
     {
+      "id": "PER243-0vq5a22",
       "type": "mcq",
       "importance": 3,
       "question": "ASA'nın normal sağlıklı hasta sınıfı hangisidir?",
@@ -16,6 +17,7 @@
       "source": "ASA fiziksel durum sınıflaması"
     },
     {
+      "id": "PER243-0ecupgr",
       "type": "mcq",
       "importance": 3,
       "question": "Yaşamı sürekli tehdit eden ağır sistemik hastalık hangi ASA sınıfıdır?",
@@ -30,6 +32,7 @@
       "source": "ASA fiziksel durum sınıflaması"
     },
     {
+      "id": "PER243-0aom579",
       "type": "mcq",
       "importance": 2,
       "question": "Ameliyatsız yaşaması beklenmeyen moribund hasta hangi ASA sınıfındadır?",
@@ -44,6 +47,7 @@
       "source": "ASA fiziksel durum sınıflaması"
     },
     {
+      "id": "PER243-00s800v",
       "type": "mcq",
       "importance": 2,
       "question": "Beyin ölümü gerçekleşmiş organ donörü hangi ASA sınıfıyla belirtilir?",
@@ -58,6 +62,7 @@
       "source": "ASA fiziksel durum sınıflaması"
     },
     {
+      "id": "PER243-1qvjoko",
       "type": "mcq",
       "importance": 3,
       "question": "Olağan aktivitede semptomu olmayan kalp yetersizliği hastası hangi NYHA sınıfındadır?",
@@ -72,6 +77,7 @@
       "source": "NYHA / CCS sınıflamaları"
     },
     {
+      "id": "PER243-19moj45",
       "type": "mcq",
       "importance": 1,
       "question": "İstirahatte rahat olup olağandan az aktivitede kalp yetersizliği semptomu yaşayan hasta hangi NYHA sınıfındadır?",
@@ -86,6 +92,7 @@
       "source": "NYHA / CCS sınıflamaları"
     },
     {
+      "id": "PER243-13e3o5q",
       "type": "mcq",
       "importance": 2,
       "question": "Yalnız yoğun veya uzun eforla anjinası olan hasta hangi CCS sınıfındadır?",
@@ -100,6 +107,7 @@
       "source": "NYHA / CCS sınıflamaları"
     },
     {
+      "id": "PER243-0384t1j",
       "type": "tf",
       "importance": 2,
       "statement": "ASA sınıfındaki E eki elektif ameliyatı ifade eder.",
@@ -108,6 +116,7 @@
       "source": "ASA fiziksel durum sınıflaması"
     },
     {
+      "id": "PER243-0czd7ai",
       "type": "tf",
       "importance": 3,
       "statement": "2024 KPB kılavuzu kronik statin kullanıcılarında perioperatif tedavinin sürdürülmesini destekler.",
@@ -116,6 +125,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1nr0q7y",
       "type": "tf",
       "importance": 2,
       "statement": "EuroSCORE II'nin temel tahmin sonlanımı hastanın anjina sınıfıdır.",

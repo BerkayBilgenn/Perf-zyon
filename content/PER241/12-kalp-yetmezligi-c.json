@@ -2,6 +2,7 @@
   "topic": "Pediatrik kalp yetmezliği",
   "cards": [
     {
+      "id": "PER241-13ddqds",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -16,6 +17,7 @@
       "explanation": "Yapısal veya fonksiyonel bozukluk yeterli dolaşımın sağlanmasını engeller."
     },
     {
+      "id": "PER241-0gz5xtd",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -30,6 +32,7 @@
       "explanation": "Hepatomegali pediatrik konjesyon bulgularındandır."
     },
     {
+      "id": "PER241-1d5ui5b",
       "type": "mcq",
       "importance": 3,
       "source": "Draaisma 2009",
@@ -44,6 +47,7 @@
       "explanation": "İnflamatuvar yanıt kapiller geçirgenliği artırıp ekstravasküler sıvı birikimine neden olabilir."
     },
     {
+      "id": "PER241-0er9jx6",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -58,6 +62,7 @@
       "explanation": "Büyük VSD pulmoner aşırı akım ve özellikle sol kalpte hacim yükü oluşturur."
     },
     {
+      "id": "PER241-1qqpqnp",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -72,6 +77,7 @@
       "explanation": "Furosemid dekonjesyon için kullanılan loop diüretiktir; heparin ve protamin pıhtılaşma yönetimiyle ilgilidir."
     },
     {
+      "id": "PER241-0dw7yld",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",
@@ -80,6 +86,7 @@
       "explanation": "Vazodilatörlerle afterload azaltılması ventrikülün karşısındaki yükü düşürmeyi amaçlar."
     },
     {
+      "id": "PER241-19fg3tl",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",

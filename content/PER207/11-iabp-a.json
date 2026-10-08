@@ -2,6 +2,7 @@
   "topic": "İABP, Impella ve TandemHeart",
   "cards": [
     {
+      "id": "PER207-0am7m28",
       "type": "term",
       "importance": 1,
       "term": "Endokardiyal canlılık oranı",
@@ -10,6 +11,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-0dzrbjh",
       "type": "term",
       "importance": 1,
       "term": "Windkessel etkisi",
@@ -18,6 +20,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-0z5oew0",
       "type": "term",
       "importance": 3,
       "term": "İntraaortik balon pompası",
@@ -26,6 +29,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-1ytjqcb",
       "type": "term",
       "importance": 3,
       "term": "Karşı-atım",
@@ -34,6 +38,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-0rtpjzz",
       "type": "term",
       "importance": 2,
       "term": "Diyastolik augmentasyon",
@@ -42,6 +47,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-1rt0h8w",
       "type": "term",
       "importance": 2,
       "term": "Sistolik unloading",
@@ -50,6 +56,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-1di0ei6",
       "type": "term",
       "importance": 3,
       "term": "Dikrotik çentik",
@@ -58,6 +65,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1befz9m",
       "type": "term",
       "importance": 1,
       "term": "Tetik",
@@ -66,6 +74,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1vk9zxk",
       "type": "term",
       "importance": 1,
       "term": "Destek oranı",
@@ -74,6 +83,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0xxx14z",
       "type": "term",
       "importance": 1,
       "term": "Helyum",
@@ -82,6 +92,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-01m2a87",
       "type": "term",
       "importance": 3,
       "term": "Erken / geç şişme",
@@ -90,6 +101,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1nj9hkn",
       "type": "term",
       "importance": 3,
       "term": "Erken / geç sönme",
@@ -98,6 +110,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0sarafp",
       "type": "term",
       "importance": 3,
       "term": "Balon rüptürü",
@@ -106,6 +119,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-0sdqyu3",
       "type": "term",
       "importance": 3,
       "term": "Impella",
@@ -114,6 +128,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1kukpqe",
       "type": "term",
       "importance": 3,
       "term": "Purge solüsyonu",
@@ -122,6 +137,7 @@
       "source": "FDA Impella kullanım talimatı"
     },
     {
+      "id": "PER207-0ppgj1x",
       "type": "term",
       "importance": 1,
       "term": "ECPELLA",
@@ -130,6 +146,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0tmmr8a",
       "type": "term",
       "importance": 2,
       "term": "TandemHeart",
@@ -138,6 +155,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0howtag",
       "type": "compare",
       "importance": 2,
       "title": "İABP ile aktif sol kalp pompası",
@@ -158,6 +176,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1nhl96p",
       "type": "compare",
       "importance": 2,
       "title": "Perkütan destek kan yolları",

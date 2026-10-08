@@ -2,6 +2,7 @@
   "topic": "Transfüzyon ve kan koruma",
   "cards": [
     {
+      "id": "PER243-1xfve8s",
       "type": "fact",
       "importance": 2,
       "title": "Kan korumada priming",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-19qjx7n",
       "type": "fact",
       "importance": 2,
       "title": "Rezidüel pompa kanı",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1y5q988",
       "type": "fact",
       "importance": 2,
       "title": "Hemolizde laboratuvar yönü",
@@ -23,6 +26,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
     },
     {
+      "id": "PER243-1a5lvm1",
       "type": "fact",
       "importance": 2,
       "title": "Lökosit azaltımı ve deplesyon",
@@ -30,6 +34,7 @@
       "source": "Indian J Anaesth 2014: kan bileşenleri"
     },
     {
+      "id": "PER243-0ragslp",
       "type": "fact",
       "importance": 1,
       "title": "Transfüzyonda oksijen dengesi",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-0x1oatj",
       "type": "flip",
       "importance": 1,
       "question": "Sitrat içeren kan ürünleri hipokalsemiyi hangi mekanizmayla oluşturur?",
@@ -44,6 +50,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
     },
     {
+      "id": "PER243-1dtcd6s",
       "type": "flip",
       "importance": 2,
       "question": "Kriyopresipitatın kan koruma açısından temel bileşeni nedir?",
@@ -51,6 +58,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
     },
     {
+      "id": "PER243-170aab6",
       "type": "remember",
       "importance": 3,
       "title": "Işınlama hedefi",
@@ -58,6 +66,7 @@
       "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
     },
     {
+      "id": "PER243-0dgwi49",
       "type": "fact",
       "importance": 2,
       "title": "TRICS III'te restriktif eşik",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1ek7vfy",
       "type": "fact",
       "importance": 3,
       "title": "KPB'de hemoglobin ve sunum",

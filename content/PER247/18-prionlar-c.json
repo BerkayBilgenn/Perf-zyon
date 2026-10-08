@@ -2,6 +2,7 @@
   "topic": "Prionlar ve CJD",
   "cards": [
     {
+      "id": "PER247-0ufoo46",
       "type": "mcq",
       "importance": 3,
       "source": "CDC CJD 2026",
@@ -16,6 +17,7 @@
       "explanation": "Yöntem 3’te kimyasal temasın ardından **suyla durulama**, sonra açık kapta belirtilen otoklav işlemi vardır. Yöntem 2’de suya aktarılma ayrı adımdır."
     },
     {
+      "id": "PER247-1ivy74n",
       "type": "mcq",
       "importance": 3,
       "source": "CDC CJD 2026",
@@ -30,6 +32,7 @@
       "explanation": "CDC, şüpheli/doğrulanmış CJD dokusuyla temas eden **tek kullanımlıkları yakmayı** önerir."
     },
     {
+      "id": "PER247-0nqn94z",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +47,7 @@
       "explanation": "Prionlar direnç şemasının **en üstündedir**; rutin cihaz sınıflaması özel inaktivasyon sorununu çözmez."
     },
     {
+      "id": "PER247-1pj74aa",
       "type": "mcq",
       "importance": 3,
       "source": "CDC CJD 2026",
@@ -58,6 +62,7 @@
       "explanation": "Yöntem 2’de kimyasalda bekletme sonrası **suya aktarılır**, sonra 121 °C gravitede 1 saat işlenir."
     },
     {
+      "id": "PER247-022g69b",
       "type": "tf",
       "importance": 2,
       "source": "CDC CJD 2026",
@@ -66,6 +71,7 @@
       "explanation": "CDC’de BOS düşük; beyin, omurilik ve gözler yüksek enfektiviteli gruptadır."
     },
     {
+      "id": "PER247-1eybysj",
       "type": "tf",
       "importance": 2,
       "source": "CDC CJD 2026",

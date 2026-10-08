@@ -2,6 +2,7 @@
   "topic": "ECMO komplikasyonları ve LV venting",
   "cards": [
     {
+      "id": "PER207-0h1igj0",
       "type": "term",
       "importance": 3,
       "term": "Sol ventrikül distansiyonu",
@@ -10,6 +11,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1lvynik",
       "type": "term",
       "importance": 3,
       "term": "LV dekompresyonu",
@@ -18,6 +20,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1ait61u",
       "type": "term",
       "importance": 2,
       "term": "Atriyal septostomi",
@@ -26,6 +29,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0aak4hk",
       "type": "term",
       "importance": 3,
       "term": "Kazara dekanülasyon",
@@ -34,6 +38,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1elt6h1",
       "type": "term",
       "importance": 3,
       "term": "Hemoliz",
@@ -42,6 +47,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0k77fmy",
       "type": "term",
       "importance": 2,
       "term": "Plazma serbest hemoglobin",
@@ -50,6 +56,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1b37vbm",
       "type": "term",
       "importance": 2,
       "term": "Kavitasyon",
@@ -58,6 +65,7 @@
       "source": "Lequier, devreler 2013"
     },
     {
+      "id": "PER207-0s4v4ti",
       "type": "term",
       "importance": 3,
       "term": "Chattering",
@@ -66,6 +74,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1w7cvvy",
       "type": "term",
       "importance": 3,
       "term": "Suck-down",
@@ -74,6 +83,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-03c9wpn",
       "type": "term",
       "importance": 2,
       "term": "Pompa başı trombozu",
@@ -82,6 +92,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0xeb7wm",
       "type": "term",
       "importance": 2,
       "term": "Oksijenatör yetmezliği",
@@ -90,14 +101,16 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-03ufwaz",
       "type": "term",
       "importance": 3,
       "term": "Hava embolisi",
       "en": "Air embolism",
-      "definition": "Dolaşıma hava girmesi; dönüş (arteriyel) tarafta çok daha tehlikeli.",
+      "definition": "Dolaşıma hava girmesi; ECMO devresinin hastaya dönüş tarafındaki hava özellikle tehlikelidir. VA’da dönüş arteriyel, VV’de venözdür.",
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-11h8d04",
       "type": "term",
       "importance": 3,
       "term": "Ekstremite iskemisi",
@@ -106,6 +119,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0cr88fk",
       "type": "term",
       "importance": 3,
       "term": "Kompartman sendromu",
@@ -114,6 +128,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0jyuh7d",
       "type": "term",
       "importance": 2,
       "term": "Pnömotoraks",
@@ -122,6 +137,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1t7g3zh",
       "type": "compare",
       "importance": 2,
       "title": "Sol kalpte yük ve boşaltma",

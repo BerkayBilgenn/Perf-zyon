@@ -2,6 +2,7 @@
   "topic": "IV anestezikler, opioidler ve antagonistleri",
   "cards": [
     {
+      "id": "PER243-1qtyy1q",
       "type": "fact",
       "importance": 2,
       "title": "Etomidat ve analjezi",
@@ -9,6 +10,7 @@
       "source": "DailyMed: etomidat"
     },
     {
+      "id": "PER243-1snzm6t",
       "type": "fact",
       "importance": 2,
       "title": "Ketamin ve sekresyon",
@@ -16,6 +18,7 @@
       "source": "DailyMed: ketamin"
     },
     {
+      "id": "PER243-05bps8h",
       "type": "fact",
       "importance": 3,
       "title": "Tiyopentalin damar riski",
@@ -23,6 +26,7 @@
       "source": "Tiyopental SmPC"
     },
     {
+      "id": "PER243-1qjae2x",
       "type": "fact",
       "importance": 1,
       "title": "Midazolamın metabolizması",
@@ -30,6 +34,7 @@
       "source": "DailyMed: midazolam"
     },
     {
+      "id": "PER243-1itxleh",
       "type": "fact",
       "importance": 1,
       "title": "Deksmedetomidin yükleme yanıtı",
@@ -37,6 +42,7 @@
       "source": "DailyMed: deksmedetomidin"
     },
     {
+      "id": "PER243-1ve0zl7",
       "type": "fact",
       "importance": 3,
       "title": "Fentanilin metabolizması",
@@ -44,6 +50,7 @@
       "source": "DailyMed: fentanil"
     },
     {
+      "id": "PER243-16jqi97",
       "type": "fact",
       "importance": 2,
       "title": "KPB'de serbest ilaç fraksiyonu",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-08ygm4k",
       "type": "fact",
       "importance": 2,
       "title": "Akciğerde opioid tutulması",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0vmdp7j",
       "type": "flip",
       "importance": 3,
       "question": "Flumazenil sonrası yeniden sedasyon neden görülebilir?",
@@ -65,6 +74,7 @@
       "source": "DailyMed: flumazenil"
     },
     {
+      "id": "PER243-0o64sm5",
       "type": "flip",
       "importance": 2,
       "question": "Naloksonla opioid etkisini aniden geri çevirmek hangi dolaşım sorunlarını doğurabilir?",
@@ -72,6 +82,7 @@
       "source": "DailyMed: nalokson"
     },
     {
+      "id": "PER243-1py1ur5",
       "type": "flip",
       "importance": 2,
       "question": "Etomidat sonrasında kortizol yanıtı hangi mekanizmayla azalır?",
@@ -79,6 +90,7 @@
       "source": "DailyMed: etomidat"
     },
     {
+      "id": "PER243-15nv49c",
       "type": "flip",
       "importance": 1,
       "question": "Hipotermik KPB ilaç etkisini neden yalnız total düzeyle açıklayamaz?",
@@ -86,6 +98,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0jew2oj",
       "type": "remember",
       "importance": 3,
       "title": "Tiyopental ve porfiri",
@@ -93,6 +106,7 @@
       "source": "Tiyopental SmPC"
     },
     {
+      "id": "PER243-1dinndq",
       "type": "remember",
       "importance": 3,
       "title": "Remifentanil kesilmeden önce",
@@ -100,6 +114,7 @@
       "source": "DailyMed: remifentanil"
     },
     {
+      "id": "PER243-01she9h",
       "type": "remember",
       "importance": 3,
       "title": "Remifentanil uygulama yolu",
@@ -107,6 +122,7 @@
       "source": "DailyMed: remifentanil"
     },
     {
+      "id": "PER243-1bixp34",
       "type": "fact",
       "importance": 3,
       "title": "Tiyopental çözeltisinin pH'ı",
@@ -114,6 +130,7 @@
       "source": "Tiyopental SmPC"
     },
     {
+      "id": "PER243-1y29s11",
       "type": "fact",
       "importance": 3,
       "title": "Fentanil etiketindeki anestezik teknik",

@@ -2,6 +2,7 @@
   "topic": "Mediasten anatomisi",
   "cards": [
     {
+      "id": "PER245-1uvjjni",
       "type": "mcq",
       "importance": 3,
       "question": "Klasik üst mediastende hangi yapı yer alır?",
@@ -16,6 +17,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-0x0jp7z",
       "type": "mcq",
       "importance": 2,
       "question": "Azygos veninin terminal drenajı hangi damara olur?",
@@ -30,6 +32,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-19eowem",
       "type": "mcq",
       "importance": 2,
       "question": "Perikardın arkasında birlikte bulunması beklenen yapı grubu hangisidir?",
@@ -44,6 +47,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-1larrmy",
       "type": "mcq",
       "importance": 2,
       "question": "Toraksın iki plevra kesesi arasındaki bölmesi hangi adla anılır?",
@@ -58,6 +62,7 @@
       "source": "Kenhub Anatomi"
     },
     {
+      "id": "PER245-1yy4chd",
       "type": "tf",
       "importance": 2,
       "statement": "İnternal torasik damarların dalları ön mediasten içeriklerine katkı sağlar.",
@@ -66,6 +71,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1tzmvfa",
       "type": "tf",
       "importance": 2,
       "statement": "Mediastenin yan sınırını akciğer parankimi oluşturur.",

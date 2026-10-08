@@ -2,6 +2,7 @@
   "topic": "Palyatif ve düzeltici operasyonlar",
   "cards": [
     {
+      "id": "PER241-00zur9l",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -16,6 +17,7 @@
       "explanation": "Double switch, ccTGA'da sistemik sağ ventrikül yükünü değiştirmeyi amaçlayan seçenektir."
     },
     {
+      "id": "PER241-1eja5x9",
       "type": "mcq",
       "importance": 3,
       "source": "Wikipedia",
@@ -30,6 +32,7 @@
       "explanation": "Pulmoner arter bandı sol ventrikülün basınç yükünü artırarak hazırlık sağlayabilir."
     },
     {
+      "id": "PER241-0zula0c",
       "type": "mcq",
       "importance": 3,
       "source": "Wikipedia",
@@ -44,6 +47,7 @@
       "explanation": "Septektomi doku çıkarılmasıdır; septostomi açıklık oluşturulması veya genişletilmesidir."
     },
     {
+      "id": "PER241-1qn6mgj",
       "type": "mcq",
       "importance": 3,
       "source": "Wikipedia",
@@ -58,6 +62,7 @@
       "explanation": "Ross pulmoner otogreftle aort kapağının değiştirilmesidir."
     },
     {
+      "id": "PER241-08hnjg0",
       "type": "tf",
       "importance": 3,
       "source": "Wikipedia",
@@ -66,6 +71,7 @@
       "explanation": "Norwood neo-aorta ve ark rekonstrüksiyonuyla sistemik çıkış yolu sağlar."
     },
     {
+      "id": "PER241-0nyomuf",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",

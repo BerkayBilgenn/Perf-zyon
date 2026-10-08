@@ -2,6 +2,7 @@
   "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
   "cards": [
     {
+      "id": "PER241-1h0bdvb",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -16,6 +17,7 @@
       "explanation": "Çomak parmak kronik hipokseminin periferik bulgularındandır."
     },
     {
+      "id": "PER241-076p3cz",
       "type": "mcq",
       "importance": 3,
       "source": "Wikipedia",
@@ -30,6 +32,7 @@
       "explanation": "Qp pulmoner, Qs sistemik akımı ifade eder."
     },
     {
+      "id": "PER241-0d71muj",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -44,6 +47,7 @@
       "explanation": "Merck'e göre en sık neden büyük VSD'dir; kronik şant pulmoner damar hastalığına ilerler."
     },
     {
+      "id": "PER241-1t6om0b",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -58,6 +62,7 @@
       "explanation": "Fallot tetralojisi en sık siyanotik KKH olarak belirtilir."
     },
     {
+      "id": "PER241-0um4r2m",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -72,6 +77,7 @@
       "explanation": "HLHS'de sağ ventrikülün kanı açık duktus üzerinden sistemik dolaşıma ulaşır."
     },
     {
+      "id": "PER241-0p05ani",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",
@@ -80,6 +86,7 @@
       "explanation": "Merck sınıflaması soldan sağa şantların yanında obstrüktif grubu da ayırır."
     },
     {
+      "id": "PER241-1s4aupq",
       "type": "tf",
       "importance": 3,
       "source": "Merck Manual",

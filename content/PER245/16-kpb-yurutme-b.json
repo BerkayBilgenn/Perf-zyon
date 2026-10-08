@@ -2,6 +2,7 @@
   "topic": "Kanülasyon ve KPB'nin yürütülmesi",
   "cards": [
     {
+      "id": "PER245-1dof5dg",
       "type": "fact",
       "importance": 2,
       "title": "Arteriyel akım ve drenaj",
@@ -9,6 +10,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1he1uve",
       "type": "fact",
       "importance": 2,
       "title": "Drenaj aniden azalırsa",
@@ -16,6 +18,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-06d8j8w",
       "type": "fact",
       "importance": 2,
       "title": "VAVD'nin sınırı",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-07hgigt",
       "type": "fact",
       "importance": 2,
       "title": "Transfüzyonda oksijen dengesi",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-17skn6q",
       "type": "fact",
       "importance": 2,
       "title": "Cell saver'ın geri verdiği",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1ociv3n",
       "type": "flip",
       "importance": 2,
       "question": "Venöz rezervuar hastanın altında tutulduğunda drenajı hangi mekanizma destekler?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0tv7sk5",
       "type": "remember",
       "importance": 3,
       "title": "Aşırı vakum güvenlik değildir",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0xo0xr8",
       "type": "remember",
       "importance": 3,
       "title": "Dönüş azalınca rezervuarı izle",
@@ -58,6 +66,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0weo2ad",
       "type": "fact",
       "importance": 3,
       "title": "MAP için kılavuz çerçevesi",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1nc10o0",
       "type": "fact",
       "importance": 3,
       "title": "Hematokrit ve transfüzyon bağlamı",

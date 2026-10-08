@@ -2,6 +2,7 @@
   "topic": "Pediatrik kalp cerrahisinde KPB",
   "cards": [
     {
+      "id": "PER207-0wr993j",
       "type": "mcq",
       "importance": 2,
       "question": "Ramakrishnan 2023’te anlatılan merkez stratejisinde soğutma ve yeniden ısıtmanın kan gazı yaklaşımları hangi sıradadır?",
@@ -16,6 +17,7 @@
       "source": "Ramakrishnan, pediatrik KPB 2023"
     },
     {
+      "id": "PER207-11log0z",
       "type": "mcq",
       "importance": 2,
       "question": "SACP sırasında beyne kan hangi yönde verilir?",
@@ -30,6 +32,7 @@
       "source": "Frontiers in Pediatrics 2016"
     },
     {
+      "id": "PER207-0i2juba",
       "type": "mcq",
       "importance": 2,
       "question": "Küçük hastada prime hacminin kan hacmine oranı arttığında hangi etki belirginleşir?",
@@ -44,6 +47,7 @@
       "source": "Pediatrik devre çalışması 2018"
     },
     {
+      "id": "PER207-1khl6sq",
       "type": "tf",
       "importance": 2,
       "statement": "Ramakrishnan 2023’teki merkez stratejisinde derin hipotermiye soğutma en az 10 dakika olarak tarif edilir.",
@@ -52,6 +56,7 @@
       "source": "Ramakrishnan, pediatrik KPB 2023"
     },
     {
+      "id": "PER207-07qg8u5",
       "type": "tf",
       "importance": 2,
       "statement": "Ultrafiltrasyonun hemokonsantrasyon etkisi eritrositleri plazmadan uzaklaştırarak oluşur.",

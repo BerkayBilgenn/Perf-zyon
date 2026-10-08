@@ -2,6 +2,7 @@
   "topic": "Şantlı KKH ve şant fizyolojisi",
   "cards": [
     {
+      "id": "PER245-10trmy5",
       "type": "term",
       "importance": 2,
       "term": "Pulmoner vasküler direnç (PVR)",
@@ -10,6 +11,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-0fa234j",
       "type": "term",
       "importance": 2,
       "term": "Soldan-sağa şant",
@@ -17,6 +19,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0o9zpwx",
       "type": "term",
       "importance": 2,
       "term": "Sağdan-sola şant",
@@ -24,6 +27,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1gn4rp3",
       "type": "term",
       "importance": 2,
       "term": "Fick ilkesi",
@@ -31,6 +35,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-0g72f09",
       "type": "term",
       "importance": 2,
       "term": "Sistemik vasküler direnç",
@@ -38,6 +43,7 @@
       "source": "Kateterizasyon, IJCHD 2024"
     },
     {
+      "id": "PER245-12mrqpw",
       "type": "term",
       "importance": 2,
       "term": "Pulmoner aşırı dolaşım",
@@ -45,6 +51,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-19jbh1m",
       "type": "compare",
       "importance": 2,
       "title": "Şantın akım etkisi",

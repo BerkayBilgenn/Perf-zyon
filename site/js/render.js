@@ -78,6 +78,14 @@ function revealBlock(record, h, label, content) {
     btn.hidden = true;
     answer.hidden = false;
     answer.classList.add('pop-in');
+    requestAnimationFrame(() => {
+      const cardEl = answer.closest('.card');
+      const answerRect = answer.getBoundingClientRect();
+      const cardRect = cardEl.getBoundingClientRect();
+      if (answerRect.bottom <= cardRect.bottom && answerRect.top >= cardRect.top) return;
+      const smooth = !matchMedia('(prefers-reduced-motion: reduce)').matches;
+      cardEl.scrollTo({ top: cardEl.scrollTop + answerRect.top - cardRect.top - 20, behavior: smooth ? 'smooth' : 'auto' });
+    });
     h.onReveal(record);
   });
   return [btn, answer];

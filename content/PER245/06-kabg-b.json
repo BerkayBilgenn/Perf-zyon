@@ -2,6 +2,7 @@
   "topic": "Koroner arter cerrahisi (KABG)",
   "cards": [
     {
+      "id": "PER245-0k7g3yo",
       "type": "fact",
       "importance": 2,
       "title": "Greftin distal hedefi",
@@ -9,6 +10,7 @@
       "source": "Arteriyel greftler, Ann CTS"
     },
     {
+      "id": "PER245-1hxc61v",
       "type": "fact",
       "importance": 2,
       "title": "Arteriyel greftte rekabet",
@@ -16,6 +18,7 @@
       "source": "Arteriyel greftler, Ann CTS"
     },
     {
+      "id": "PER245-082thgj",
       "type": "fact",
       "importance": 2,
       "title": "OPCAB'da cerrahi alan",
@@ -23,6 +26,7 @@
       "source": "KABG, BMC 2026"
     },
     {
+      "id": "PER245-19gxhac",
       "type": "fact",
       "importance": 2,
       "title": "Koroner tıkanıklık ve dağılım",
@@ -30,6 +34,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0py8x2x",
       "type": "fact",
       "importance": 2,
       "title": "Epiaortik değerlendirme",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0agl3s5",
       "type": "flip",
       "importance": 2,
       "question": "KABG'de iki kademeli venöz kanül hangi cerrahi özellik nedeniyle sık kullanılır?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1w8jux9",
       "type": "flip",
       "importance": 2,
       "question": "Koroner baypas greftleri hangi iki ana doku grubundan seçilir?",
@@ -51,6 +58,7 @@
       "source": "Arteriyel greftler, Ann CTS"
     },
     {
+      "id": "PER245-1qvtq79",
       "type": "flip",
       "importance": 2,
       "question": "Aortaya dokunmama yaklaşımının kalsifik aortadaki amacı nedir?",

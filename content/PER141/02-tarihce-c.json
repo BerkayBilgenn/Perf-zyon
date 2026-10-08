@@ -2,6 +2,7 @@
   "topic": "KPB ve perfüzyonun tarihçesi",
   "cards": [
     {
+      "id": "PER141-1ra91z9",
       "type": "mcq",
       "importance": 3,
       "question": "Gibbon'un ilk başarılı makine destekli ameliyatında onarılan lezyon hangisiydi?",
@@ -16,6 +17,7 @@
       "source": "Jefferson Magazine 2020"
     },
     {
+      "id": "PER141-0zuohin",
       "type": "mcq",
       "importance": 2,
       "question": "Kolobow'un oksijenatörü hangi membran malzemesiyle ilişkilidir?",
@@ -30,6 +32,7 @@
       "source": "JECT 2025: EKD tarihçesi"
     },
     {
+      "id": "PER141-07cxqbk",
       "type": "mcq",
       "importance": 2,
       "question": "Kontrollü çapraz dolaşım yöntemiyle en çok ilişkilendirilen cerrah kimdir?",
@@ -44,6 +47,7 @@
       "source": "Gott 2005"
     },
     {
+      "id": "PER141-1riwskv",
       "type": "tf",
       "importance": 2,
       "statement": "Film oksijenatörler kanı ince bir film hâlinde gazla temas ettirir.",
@@ -52,6 +56,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-09gi9uw",
       "type": "tf",
       "importance": 2,
       "statement": "Bubble oksijenatörde gaz değişimi kanla gazı ayıran yoğun membran üzerinden gerçekleşir.",

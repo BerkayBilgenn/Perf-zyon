@@ -1,6 +1,6 @@
 # PER245 doğrulama izi — b
 
-2026-10-08. Yazar kontrolü; bağımsız inceleme henüz yapılmadı. Dosya sıra numaraları aşağıdaki son JSON metnine aittir. Kaynak açımı V1–V19 için `work/per245/kaynak-izleri.md`; kapsam ve kaynak sınırlamaları orada ve araştırma §8’de açıklanır.
+2026-10-08. Yazar kontrolü kaydı. 2026-10-08 tarihli bağımsız inceleme ve düzeltmeler: [_bagimsiz-inceleme.md](_bagimsiz-inceleme.md). Dosya sıra numaraları aşağıdaki son JSON metnine aittir. Kaynak açımı V1–V19 için `work/per245/kaynak-izleri.md`; kapsam ve kaynak sınırlamaları orada ve araştırma §8’de açıklanır.
 
 ## 01-mediasten-b.json
 
@@ -283,7 +283,7 @@ Konu: KPB'den çıkış ve komplikasyonlar; 10 kart.
 |---|---|---|---|
 | #1 | fact: Ayrılmada ventilasyon | §2.18 | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
 | #2 | fact: Zor ayrılmayı değerlendirme | §2.18 | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
-| #3 | fact: Oksijenatörde ilk kontrol | §2.18 | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
+| #3 | fact: Oksijenatörde ilk kontrol | §2.18 | K9: National Heart Center 2026; bağımsız inceleme, kaynak sayfadan arama aracının döndürdüğü Oxygenator failure / Water-to-blood leak pasajları |
 | #4 | fact: Hava kilidinin mekanizması | §2.18 | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
 | #5 | fact: KPB sonrası koagülopati | §2.18 | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
 | #6 | flip: Protamin sonrası acil yeniden KPB için hangi koşul tekrar doğrulanır? | §2.18 | K6: STS/SCA/AmSECT 2018; V5, ilgili heparin/ACT/HIT/protamin alt başlığı |

@@ -2,6 +2,7 @@
   "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
   "cards": [
     {
+      "id": "PER241-0djznch",
       "type": "term",
       "importance": 2,
       "source": "LITFL fetal dolaşım",
@@ -11,6 +12,7 @@
       "origin": "Lat. = yassı kek"
     },
     {
+      "id": "PER241-167fd1i",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -20,6 +22,7 @@
       "origin": "Lat. umbilicus = göbek"
     },
     {
+      "id": "PER241-05k2qm0",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -28,6 +31,7 @@
       "definition": "Fetustan plasentaya oksijeni daha düşük kanı taşıyan damarlar."
     },
     {
+      "id": "PER241-0py5cdp",
       "type": "term",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -37,6 +41,7 @@
       "origin": "Lat. ductus + vena"
     },
     {
+      "id": "PER241-0gxowb4",
       "type": "term",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -46,6 +51,7 @@
       "origin": "L. Botallo (eponim)"
     },
     {
+      "id": "PER241-1dqnb7d",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -54,6 +60,7 @@
       "definition": "Erişkin hemoglobinine göre oksijen afinitesi daha yüksek olan fetal hemoglobin. Gama zincirlerinin 2,3-BPG bağlaması daha azdır."
     },
     {
+      "id": "PER241-0ubedvi",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -62,6 +69,7 @@
       "definition": "Duktus venozusun kalıntısı."
     },
     {
+      "id": "PER241-1dvs953",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -71,6 +79,7 @@
       "origin": "Lat. teres = yuvarlak"
     },
     {
+      "id": "PER241-08rjmo9",
       "type": "term",
       "importance": 1,
       "source": "LITFL fetal dolaşım",
@@ -79,6 +88,7 @@
       "definition": "Doğumda fetal (paralel/şantlı) dolaşımdan erişkin tipi seri dolaşıma geçiş: pulmoner vasküler direnç düşer, sistemik vasküler direnç artar, şantlar kapanır."
     },
     {
+      "id": "PER241-0mvv8wh",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -87,6 +97,7 @@
       "definition": "Bir yapının akımı durduracak şekilde kapanması. Doku düzeyindeki kalıcı kapanmadan önce gerçekleşebilir."
     },
     {
+      "id": "PER241-1r3n20n",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -95,6 +106,7 @@
       "definition": "Yüksek fetal pulmoner vasküler direnç'nin sürmesi/geri dönmesi; PFO/PDA'dan sağdan sola şantla oksijene yanıtsız hipoksemi."
     },
     {
+      "id": "PER241-04kx814",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -103,6 +115,7 @@
       "definition": "Duktus-bağımlı lezyonlarda duktusun açık tutulması için kullanılan prostaglandin E1."
     },
     {
+      "id": "PER241-0ubour4",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -111,6 +124,7 @@
       "definition": "Prostaglandin sentezini baskılayarak prematüre PDA'sını kapatan ilaçlar."
     },
     {
+      "id": "PER241-06fbmsz",
       "type": "compare",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -131,6 +145,7 @@
       }
     },
     {
+      "id": "PER241-1epqx4l",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",

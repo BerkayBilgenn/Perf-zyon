@@ -2,6 +2,7 @@
   "topic": "Hipotermi, kan gazı ve kardiyopleji",
   "cards": [
     {
+      "id": "PER245-1falzfg",
       "type": "term",
       "importance": 3,
       "term": "Hipotermi",
@@ -10,6 +11,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-15k44my",
       "type": "term",
       "importance": 2,
       "term": "Alfa-stat",
@@ -18,6 +20,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0b8gx0m",
       "type": "term",
       "importance": 2,
       "term": "pH-stat",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1mwbm4p",
       "type": "term",
       "importance": 2,
       "term": "Arteriyel çıkış sıcaklığı",
@@ -34,6 +38,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER245-093uw2s",
       "type": "term",
       "importance": 3,
       "term": "Kardiyopleji",
@@ -42,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1j7724s",
       "type": "term",
       "importance": 1,
       "term": "Kristaloid kardiyopleji",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1nffqi2",
       "type": "term",
       "importance": 2,
       "term": "Kan kardiyoplejisi",
@@ -58,6 +65,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-03vc7pn",
       "type": "term",
       "importance": 2,
       "term": "St. Thomas No.2 (Plegisol)",
@@ -66,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1x5igcl",
       "type": "term",
       "importance": 3,
       "term": "HTK (Custodiol)",
@@ -74,6 +83,7 @@
       "source": "HTK, J Cardiovasc Dev Dis 2022"
     },
     {
+      "id": "PER245-1bp1d5o",
       "type": "term",
       "importance": 2,
       "term": "del Nido solüsyonu",
@@ -82,6 +92,7 @@
       "source": "Boston Children’s, del Nido 2012"
     },
     {
+      "id": "PER245-1blmmgp",
       "type": "term",
       "importance": 1,
       "term": "Buckberg kardiyoplejisi",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0775qzs",
       "type": "term",
       "importance": 2,
       "term": "Hot shot",
@@ -98,14 +110,16 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0sjg9x2",
       "type": "term",
       "importance": 3,
       "term": "Antegrad kardiyopleji",
       "en": "Antegrade cardioplegia",
-      "definition": "Aort kökünden koronerlere doğal yönde verilen kardiyopleji.",
-      "source": "Kumar, J Thorac Dis 2020"
+      "definition": "Koroner arterlere doğal akım yönünde verilen kardiyopleji; aort kökünden veya doğrudan koroner ağızlarından uygulanabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0w9e4ag",
       "type": "term",
       "importance": 2,
       "term": "Retrograd kardiyopleji",
@@ -114,6 +128,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-13gtp5y",
       "type": "term",
       "importance": 2,
       "term": "Ostial kardiyopleji",
@@ -122,6 +137,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-12yiq5z",
       "type": "term",
       "importance": 1,
       "term": "Aort kros-klempi",
@@ -130,6 +146,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0oovofp",
       "type": "term",
       "importance": 2,
       "term": "De-airing",
@@ -138,6 +155,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-08irsk8",
       "type": "term",
       "importance": 2,
       "term": "Trendelenburg pozisyonu",
@@ -146,6 +164,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1fwm7rs",
       "type": "compare",
       "importance": 2,
       "title": "Kan gazını sıcaklıkla yorumlama",
@@ -166,6 +185,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-15fj3fp",
       "type": "compare",
       "importance": 2,
       "title": "Kardiyopleji yolları",
@@ -186,6 +206,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0e8ir5x",
       "type": "compare",
       "importance": 2,
       "title": "Kristaloid kardiyopleji tipleri",
@@ -206,6 +227,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0p7wk78",
       "type": "compare",
       "importance": 2,
       "title": "Kan-kristaloid oranı",

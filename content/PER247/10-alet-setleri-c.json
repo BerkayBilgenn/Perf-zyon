@@ -2,6 +2,7 @@
   "topic": "Alet setleri, paketleme ve izlenebilirlik",
   "cards": [
     {
+      "id": "PER247-06l0r2w",
       "type": "mcq",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +17,7 @@
       "explanation": "CDC, deliksiz kapları **kenarı üzerine** yerleştirir; su tahliyesi ve sterilan dolaşımı sağlanır."
     },
     {
+      "id": "PER247-0acwvzk",
       "type": "mcq",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +32,7 @@
       "explanation": "CDC, **folyo ve bazı gaz geçişini engelleyen plastik örtüleri** EtO ambalajı olarak uygun bulmaz. Ambalajın yöntem uyumu doğrulanır."
     },
     {
+      "id": "PER247-1x0mlkt",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +47,7 @@
       "explanation": "CDC, **ağır aletlerin hassas aletlere zarar vermeyecek** konumda yerleştirilmesini ister. Set yerleşimi mekanik bütünlüğü de korumalıdır."
     },
     {
+      "id": "PER247-09l8d1p",
       "type": "mcq",
       "importance": 3,
       "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
@@ -58,6 +62,7 @@
       "explanation": "Kusurlu veya hasarlı aletler kullanıma verilmez; kurum prosedürüyle **kullanım dışı** bırakılır."
     },
     {
+      "id": "PER247-0z8u68n",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +71,7 @@
       "explanation": "Metal kütlesi ve set tasarımı ıslak paket riskinde önemlidir; tek bir evrensel set ağırlığıyla açıklanmaz."
     },
     {
+      "id": "PER247-0wrb6nu",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",

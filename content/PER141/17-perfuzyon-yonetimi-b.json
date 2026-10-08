@@ -2,6 +2,7 @@
   "topic": "Perfüzyon yönetimi",
   "cards": [
     {
+      "id": "PER141-0jellqh",
       "type": "fact",
       "importance": 3,
       "title": "Kaplamasız devrede ACT hedefi",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0xi7j13",
       "type": "fact",
       "importance": 3,
       "title": "Oksijen sunumu hedefi",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-11vwl7q",
       "type": "fact",
       "importance": 2,
       "title": "Arter basıncı hedefi",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-00kg2a5",
       "type": "fact",
       "importance": 3,
       "title": "Transfüzyonun oksijenasyon bağlamı",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-08u6csa",
       "type": "flip",
       "importance": 3,
       "question": "Pompa akımı vücut yüzey alanından nasıl hesaplanır?",
@@ -37,6 +42,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1o58q5s",
       "type": "flip",
       "importance": 2,
       "question": "Heparin direnci antitrombin eksikliğine bağlıysa EACTS 2024 hangi yaklaşımı önceler?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-01nvx3j",
       "type": "flip",
       "importance": 3,
       "question": "KPB'den ayrılırken venöz dönüş ve pompa akımı birlikte nasıl değiştirilir?",
@@ -51,6 +58,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1ae1uvy",
       "type": "remember",
       "importance": 3,
       "title": "Protamin fazlası da sorun yaratır",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-10ye8d9",
       "type": "remember",
       "importance": 3,
       "title": "Ayrılmaya hazırlık çok bileşenlidir",

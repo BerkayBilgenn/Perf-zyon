@@ -2,6 +2,7 @@
   "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
   "cards": [
     {
+      "id": "PER241-1v0cfwz",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -9,6 +10,7 @@
       "body": "Konjenital kalp hastalıkları **siyanotik**, soldan sağa şantlı asiyanotik ve obstrüktif lezyonlar olarak gruplandırılır."
     },
     {
+      "id": "PER241-06g68oh",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -16,6 +18,7 @@
       "body": "Kromozomal anomaliler ve tek gen hastalıkları KKH ile ilişkili olabilir; **her olguda tanımlanabilir bir genetik neden bulunmaz**."
     },
     {
+      "id": "PER241-09on6ch",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -23,6 +26,7 @@
       "body": "**Komplet atriyoventriküler septal defekt**, Down sendromuyla güçlü birliktelik gösterir."
     },
     {
+      "id": "PER241-1u2rd48",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -30,6 +34,7 @@
       "body": "Turner sendromuyla ilişkili kardiyovasküler lezyonlardan biri **aort koarktasyonudur**."
     },
     {
+      "id": "PER241-0y1gub1",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -37,6 +42,7 @@
       "body": "**Persistan trunkus arteriyozus** ve diğer konotrunkal anomaliler, 22q11 delesyonuyla ilişkilidir."
     },
     {
+      "id": "PER241-0rf32ju",
       "type": "flip",
       "importance": 2,
       "source": "Merck Manual",
@@ -44,6 +50,7 @@
       "answer": "Kronik yüksek pulmoner akımın yol açtığı **pulmoner vasküler hastalık**, direnci artırarak net akımı sağdan sola çevirebilir."
     },
     {
+      "id": "PER241-0yeyzt2",
       "type": "remember",
       "importance": 3,
       "source": "Merck Manual",
@@ -51,6 +58,7 @@
       "body": "İleri geri dönüşsüz pulmoner vasküler hastalık gelişmiş **Eisenmenger sendromunda defekt kapatma uygun değildir**."
     },
     {
+      "id": "PER241-1stv0gn",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -58,6 +66,7 @@
       "body": "Uzun süreli hipoksemiye yanıt olarak **eritrosit kütlesi artabilir**; sekonder eritrositoz gelişir."
     },
     {
+      "id": "PER241-04ycu4v",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -65,6 +74,7 @@
       "body": "Büyük arter transpozisyonunda duktusun açıklığı yalnız akım için değil, **iki dolaşım arasında karışım** için de önemlidir."
     },
     {
+      "id": "PER241-0d186z2",
       "type": "remember",
       "importance": 3,
       "source": "Merck Manual",
@@ -72,6 +82,7 @@
       "body": "Hipoplastik sol kalp ve kritik aortik obstrüksiyonda duktusun kapanması **sistemik hipoperfüzyon ve şok** oluşturabilir."
     },
     {
+      "id": "PER241-0p8fz52",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",

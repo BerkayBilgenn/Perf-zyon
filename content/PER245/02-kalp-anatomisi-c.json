@@ -2,6 +2,7 @@
   "topic": "Kalp, büyük damarlar ve koroner dolaşım",
   "cards": [
     {
+      "id": "PER245-197xd4v",
       "type": "mcq",
       "importance": 3,
       "question": "Sağ ve sol koroner arter ağızları normalde hangi yapıdan çıkar?",
@@ -16,6 +17,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1c5e8m0",
       "type": "mcq",
       "importance": 2,
       "question": "Kalbin büyük venlerinin çoğunu birleştiren ve sağ atriyuma açılan ana toplayıcı hangisidir?",
@@ -30,6 +32,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-0mm6ih6",
       "type": "mcq",
       "importance": 2,
       "question": "Arka interventriküler olukta seyreden koroner dal hangisidir?",
@@ -44,6 +47,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1f7dtwy",
       "type": "mcq",
       "importance": 2,
       "question": "Aorta ile truncus pulmonalis çevresinden askı geçirmeye yarayan perikard geçidi hangisidir?",
@@ -58,6 +62,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-01qxv58",
       "type": "tf",
       "importance": 2,
       "statement": "Fibröz perikard diyaframın santral tendonuyla devamlılık gösterir.",
@@ -66,6 +71,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1h45vlv",
       "type": "tf",
       "importance": 2,
       "statement": "Sol ön inen koroner arter arka interventriküler olukta seyreder.",

@@ -2,6 +2,7 @@
   "topic": "Koroner damarlar ve ileti sistemi",
   "cards": [
     {
+      "id": "PER241-0s7rpg4",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -9,6 +10,7 @@
       "body": "Sol ana koroner arterin başlıca dalları **sol ön inen arter** ve **sirkumfleks arterdir**."
     },
     {
+      "id": "PER241-1grtmrh",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -16,6 +18,7 @@
       "body": "Sol ön inen koroner arter, **ön interventriküler oluk** boyunca ilerler."
     },
     {
+      "id": "PER241-016ubwf",
       "type": "flip",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -23,6 +26,7 @@
       "answer": "**Atriyoventriküler olukta**, sola ve arkaya doğru seyir gösterir."
     },
     {
+      "id": "PER241-16yn3oz",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -30,6 +34,7 @@
       "body": "Ön kardiyak venler ile en küçük kardiyak venlerin bir bölümü **koroner sinüse uğramadan** kalp boşluklarına açılır."
     },
     {
+      "id": "PER241-1usjv5v",
       "type": "remember",
       "importance": 3,
       "source": "Wikipedia",
@@ -37,6 +42,7 @@
       "body": "Sol ventrikülde koroner perfüzyon esas olarak **diyastolde** gerçekleşir; sistolde kas içi damarlar sıkışır."
     },
     {
+      "id": "PER241-0292v7s",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -44,6 +50,7 @@
       "body": "atriyoventriküler düğümdeki gecikme, ventrikül sistolünden önce **atriyumların boşalmasına** zaman sağlar."
     },
     {
+      "id": "PER241-12p7lm1",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -51,6 +58,7 @@
       "answer": "Uyarı **sağ ve sol dal** üzerinden subendokardiyal Purkinje liflerine, oradan ventrikül kasına yayılır."
     },
     {
+      "id": "PER241-00foqzd",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -58,6 +66,7 @@
       "body": "P dalgası **atriyal depolarizasyonu** gösterir."
     },
     {
+      "id": "PER241-0fssaej",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -65,6 +74,7 @@
       "body": "QRS kompleksi **ventriküler depolarizasyonu** gösterir."
     },
     {
+      "id": "PER241-0j96ia9",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",

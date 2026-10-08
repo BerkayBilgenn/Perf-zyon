@@ -2,6 +2,7 @@
   "topic": "Pediatrik koroner hastalıklar",
   "cards": [
     {
+      "id": "PER241-14acglj",
       "type": "term",
       "importance": 1,
       "source": "Radiopaedia",
@@ -10,6 +11,7 @@
       "definition": "Kanın düşük dirençli bir yola (ALCAPA'da pulmoner artere, fistülde sağ kalbe) kaçıp miyokardı iskemik bırakması."
     },
     {
+      "id": "PER241-19bd6wv",
       "type": "term",
       "importance": 3,
       "source": "Radiopaedia",
@@ -19,6 +21,7 @@
       "origin": "Bland, White, Garland (eponim)"
     },
     {
+      "id": "PER241-090hfjx",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -28,6 +31,7 @@
       "origin": "T. Kawasaki (eponim)"
     },
     {
+      "id": "PER241-1u0mgkt",
       "type": "term",
       "importance": 1,
       "source": "AHA Kawasaki 2017",
@@ -36,6 +40,7 @@
       "definition": "AHA 2017 sınıflamasında Z-skoru **≥10** veya mutlak çapı **≥8 mm** olan koroner anevrizma."
     },
     {
+      "id": "PER241-1k82ssx",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -45,6 +50,7 @@
       "origin": "Lat. fistula = boru"
     },
     {
+      "id": "PER241-0em6n2k",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",

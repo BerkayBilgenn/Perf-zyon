@@ -2,6 +2,7 @@
   "topic": "KPB'den çıkış ve komplikasyonlar",
   "cards": [
     {
+      "id": "PER245-096vjv5",
       "type": "term",
       "importance": 2,
       "term": "Weaning (KPB'den ayrılma)",
@@ -10,6 +11,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1akitv6",
       "type": "term",
       "importance": 3,
       "term": "Dekanülasyon",
@@ -18,6 +20,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-18eqyfy",
       "type": "term",
       "importance": 2,
       "term": "LCOS",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0ak3p55",
       "type": "term",
       "importance": 2,
       "term": "IABP",
@@ -34,6 +38,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-16yd8wp",
       "type": "term",
       "importance": 2,
       "term": "ECMO / ECLS",
@@ -42,6 +47,7 @@
       "source": "Resmî Gazete 2014"
     },
     {
+      "id": "PER245-15xi18i",
       "type": "term",
       "importance": 3,
       "term": "SIRS",
@@ -50,6 +56,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-1aakojy",
       "type": "term",
       "importance": 1,
       "term": "Kontakt aktivasyon",
@@ -58,6 +65,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-17o7dj1",
       "type": "term",
       "importance": 2,
       "term": "Kompleman aktivasyonu",
@@ -66,6 +74,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-15h0sla",
       "type": "term",
       "importance": 2,
       "term": "İskemi-reperfüzyon hasarı",
@@ -74,6 +83,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-0alwrg3",
       "type": "term",
       "importance": 3,
       "term": "Masif hava embolisi",
@@ -82,6 +92,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-077r9eb",
       "type": "term",
       "importance": 2,
       "term": "Ters kanülasyon",
@@ -90,22 +101,25 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0xeb7wm",
       "type": "term",
       "importance": 1,
       "term": "Oksijenatör yetmezliği",
       "en": "Oxygenator failure",
       "definition": "Yüksek FiO2 ve gaz akımına rağmen oksijenasyonun bozulması veya yüksek transmembran basınç.",
-      "source": "EACTS/EACTAIC/EBCP 2024"
+      "source": "National Heart Center 2026"
     },
     {
+      "id": "PER245-0fz5nbg",
       "type": "term",
       "importance": 2,
       "term": "Su–kan kaçağı",
       "en": "Water-to-blood leak",
       "definition": "Isı değiştiricideki sızıntıyla suyun kana karışması (volüm artışı, pH ve Hct düşüşü, hemoliz).",
-      "source": "EACTS/EACTAIC/EBCP 2024"
+      "source": "National Heart Center 2026"
     },
     {
+      "id": "PER245-1qw22ge",
       "type": "term",
       "importance": 3,
       "term": "El krankı",
@@ -114,6 +128,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-0dsr0zd",
       "type": "term",
       "importance": 2,
       "term": "Mycobacterium chimaera",
@@ -122,6 +137,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-02rmw2p",
       "type": "term",
       "importance": 2,
       "term": "Pump lung",

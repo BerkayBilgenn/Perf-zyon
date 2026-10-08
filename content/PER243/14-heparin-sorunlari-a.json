@@ -2,6 +2,7 @@
   "topic": "Heparin direnci, HİT ve protamin",
   "cards": [
     {
+      "id": "PER243-0v2yni2",
       "type": "term",
       "importance": 3,
       "term": "Heparin direnci",
@@ -10,6 +11,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-125keue",
       "type": "term",
       "importance": 3,
       "term": "HİT",
@@ -18,6 +20,7 @@
       "source": "BJA Education 2023: alternatifler"
     },
     {
+      "id": "PER243-0umljs7",
       "type": "term",
       "importance": 2,
       "term": "4T skoru",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1nlujjm",
       "type": "term",
       "importance": 3,
       "term": "Bivalirudin",
@@ -34,6 +38,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1j6240q",
       "type": "term",
       "importance": 2,
       "term": "Argatroban",
@@ -42,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0d533iz",
       "type": "term",
       "importance": 3,
       "term": "Protamin sülfat",
@@ -50,6 +56,7 @@
       "source": "DailyMed: protamin"
     },
     {
+      "id": "PER243-0k8uix9",
       "type": "term",
       "importance": 3,
       "term": "Heparin rebound",
@@ -58,6 +65,7 @@
       "source": "DailyMed: protamin"
     },
     {
+      "id": "PER243-1iipazi",
       "type": "term",
       "importance": 3,
       "term": "PIPH",
@@ -66,6 +74,7 @@
       "source": "DailyMed: protamin"
     },
     {
+      "id": "PER243-1i3yhih",
       "type": "term",
       "importance": 3,
       "term": "Antifibrinolitik",
@@ -74,6 +83,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1q1o1tw",
       "type": "term",
       "importance": 3,
       "term": "Traneksamik asit",
@@ -82,6 +92,7 @@
       "source": "DailyMed: traneksamik asit"
     },
     {
+      "id": "PER243-0dkcrfb",
       "type": "term",
       "importance": 2,
       "term": "EACA",
@@ -90,6 +101,7 @@
       "source": "DailyMed: aminokaproik asit"
     },
     {
+      "id": "PER243-0xgjibd",
       "type": "term",
       "importance": 2,
       "term": "Aprotinin",
@@ -98,6 +110,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-0gjhqc5",
       "type": "term",
       "importance": 2,
       "term": "Desmopressin",
@@ -106,6 +119,7 @@
       "source": "DailyMed: desmopressin"
     },
     {
+      "id": "PER243-0jd1qbd",
       "type": "term",
       "importance": 2,
       "term": "PKK",
@@ -114,6 +128,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-10ojlmu",
       "type": "term",
       "importance": 1,
       "term": "Fibrinojen konsantresi",
@@ -122,6 +137,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-106q3hy",
       "type": "term",
       "importance": 1,
       "term": "rFVIIa",
@@ -130,6 +146,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1m82dwx",
       "type": "term",
       "importance": 3,
       "term": "Doğrudan trombin inhibitörü",
@@ -138,6 +155,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1z11yjp",
       "type": "term",
       "importance": 3,
       "term": "Kardiyotomi aspiratörü",
@@ -146,6 +164,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0n7120z",
       "type": "compare",
       "importance": 2,
       "title": "Heparinle ilişkili sorunlar",
@@ -166,6 +185,7 @@
       "source": "BJA Education 2023: heparin / alternatifler"
     },
     {
+      "id": "PER243-1b1rpec",
       "type": "compare",
       "importance": 2,
       "title": "Protamin sonrası kanama",
@@ -186,6 +206,7 @@
       "source": "Ann Card Anaesth 2024: protamin"
     },
     {
+      "id": "PER243-08gsk3z",
       "type": "compare",
       "importance": 2,
       "title": "Pıhtının oluşması ve yıkılması",

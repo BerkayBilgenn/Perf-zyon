@@ -5,6 +5,7 @@ import { completeCard, createProgress, recordAnswer } from './progress.js';
 import { createStore } from './store.js';
 import { createUI } from './ui.js';
 import { createViewer } from './viewer.js';
+import { recordSnapshot } from './cardstate.js';
 
 const store = createStore();
 const ui = createUI();
@@ -24,6 +25,11 @@ let theme = THEMES.includes(store.get('theme')) ? store.get('theme') : 'system';
 let persistTimer = 0;
 
 const saveProgress = () => store.set('progress', progress);
+
+function persistRecord(record) {
+  if (viewer?.activeRecord !== record) return;
+  store.set(`record:${filter}`, recordSnapshot(record));
+}
 
 function cardsFor(f) {
   if (f === 'saved') return allCards.filter((c) => saved.has(c.id));
@@ -69,6 +75,7 @@ const handlers = {
   onAnswer(record, isCorrect, ahead) {
     progress = recordAnswer(progress, isCorrect);
     saveProgress();
+    persistRecord(record);
     if (!isCorrect) feed?.reportWrong(record.card.id, ahead);
   },
 };
@@ -76,6 +83,7 @@ const handlers = {
 function onActive(record) {
   feed?.markShown(record.card.id);
   store.set(`current:${filter}`, record.card.id);
+  persistRecord(record);
   persistSeen();
 }
 
@@ -83,6 +91,7 @@ function onComplete(record, points) {
   const result = completeCard(progress, { points });
   progress = result.state;
   saveProgress();
+  persistRecord(record);
   ui.setProgress(progress, { bump: true, delta: points });
   if (result.earnedLatte) ui.celebrate(progress.lattes);
 }
@@ -105,7 +114,7 @@ function startFeed() {
     carry: asArray(store.get(`carry:${filter}`)),
     startWith: store.get(`current:${filter}`),
   });
-  viewer = createViewer({ root: ui.feedEl, feed, handlers, onActive, onComplete });
+  viewer = createViewer({ root: ui.feedEl, feed, handlers, onActive, onComplete, resume: store.get(`record:${filter}`) });
   viewer.start();
 }
 
@@ -161,6 +170,7 @@ function resetProgress() {
     store.remove(`seen:${f}`);
     store.remove(`carry:${f}`);
     store.remove(`current:${f}`);
+    store.remove(`record:${f}`);
   }
   ui.setProgress(progress);
   ui.toast('İlerleme sıfırlandı. Yeni bir başlangıç ✨');

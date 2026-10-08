@@ -2,6 +2,7 @@
   "topic": "Venöz drenaj: gravite, VAVD, KAVD",
   "cards": [
     {
+      "id": "PER141-1mm1aei",
       "type": "fact",
       "importance": 3,
       "title": "Gravite drenajının düzeni",
@@ -9,6 +10,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1a8ga3b",
       "type": "fact",
       "importance": 2,
       "title": "VAVD'nin hacim kazancı",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1v79d15",
       "type": "fact",
       "importance": 3,
       "title": "Negatif basınçta kan hasarı",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0rrph3v",
       "type": "fact",
       "importance": 2,
       "title": "Kanül çevresinde ven kollapsı",
@@ -30,6 +34,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-1cylg42",
       "type": "flip",
       "importance": 3,
       "question": "Yetersiz venöz dönüşte ilk değerlendirilecek mekanik etkenler nelerdir?",
@@ -37,6 +42,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-0ip4r6e",
       "type": "flip",
       "importance": 3,
       "question": "VAVD devresinde basınç tahliye valfleri neden kontrol edilir?",
@@ -44,6 +50,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0q2i0nt",
       "type": "remember",
       "importance": 3,
       "title": "Vakum tek başına çözüm değildir",

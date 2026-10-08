@@ -2,6 +2,7 @@
   "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
   "cards": [
     {
+      "id": "PER241-1ckufrm",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -11,6 +12,7 @@
       "origin": "Yun. kyanos = koyu mavi"
     },
     {
+      "id": "PER241-0b2zhmv",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -20,6 +22,7 @@
       "origin": "a- = olumsuzluk + siyanotik"
     },
     {
+      "id": "PER241-1c7fagv",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -28,6 +31,7 @@
       "definition": "Pre- ve postduktal satürasyon farkı (alt vücudun daha siyanotik olması); PPHN, IAA, kritik koarktasyonda."
     },
     {
+      "id": "PER241-1xyr6qj",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -37,6 +41,7 @@
       "origin": "İng. shunt = saptırmak"
     },
     {
+      "id": "PER241-1mlh1jm",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -45,6 +50,7 @@
       "definition": "Oksijenli kanın sol kalpten sağ kalbe/pulmoner dolaşıma geçmesi; pulmoner aşırı dolaşım, siyanoz yok."
     },
     {
+      "id": "PER241-057j2co",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -53,6 +59,7 @@
       "definition": "Deoksijenize kanın akciğeri atlayarak sistemik dolaşıma geçmesi; siyanoz."
     },
     {
+      "id": "PER241-0fgbyzp",
       "type": "term",
       "importance": 3,
       "source": "Wikipedia",
@@ -62,6 +69,7 @@
       "origin": "Q = akım"
     },
     {
+      "id": "PER241-08bfdka",
       "type": "term",
       "importance": 3,
       "source": "LITFL fetal dolaşım",
@@ -70,6 +78,7 @@
       "definition": "Pulmoner dolaşımın akıma direnci; doğumda düşer, şantın yön ve miktarını belirler."
     },
     {
+      "id": "PER241-1s8zejw",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -79,6 +88,7 @@
       "origin": "V. Eisenmenger (eponim)"
     },
     {
+      "id": "PER241-1dxsm5q",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -87,6 +97,7 @@
       "definition": "Pulmoner veya sistemik akımın (ya da karışımın) açık duktusa bağlı olduğu lezyon; PGE1 gerektirir."
     },
     {
+      "id": "PER241-0672c6t",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -95,6 +106,7 @@
       "definition": "D-TGA'da sistemik ve pulmoner dolaşımın seri değil paralel çalışması; yaşam için karışım gerekir."
     },
     {
+      "id": "PER241-1ut4vy9",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -103,6 +115,7 @@
       "definition": "Tek fonksiyonel ventrikülün hem sistemik hem pulmoner akımı sağlaması; Qp/Qs dengesi kritiktir."
     },
     {
+      "id": "PER241-0d9s43w",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -111,6 +124,7 @@
       "definition": "Kronik siyanozda parmak uçları ve tırnak yatağının genişlemesi."
     },
     {
+      "id": "PER241-0tejjoy",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -120,6 +134,7 @@
       "origin": "Yun. polys + kytos + haima"
     },
     {
+      "id": "PER241-15sc2yh",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -128,6 +143,7 @@
       "definition": "Diyastolde aortadan düşük dirençli yatağa (PDA, şant) akım; diyastolik basınç ve koroner perfüzyon düşer."
     },
     {
+      "id": "PER241-15xi18i",
       "type": "term",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -136,6 +152,7 @@
       "definition": "KPB'nin tetiklediği nonspesifik sistemik inflamatuvar yanıt."
     },
     {
+      "id": "PER241-0u5ivce",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -145,6 +162,7 @@
       "origin": "A. DiGeorge (eponim)"
     },
     {
+      "id": "PER241-1f4u6gj",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",
@@ -165,6 +183,7 @@
       }
     },
     {
+      "id": "PER241-1qyn2r8",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",
@@ -185,6 +204,7 @@
       }
     },
     {
+      "id": "PER241-0drkx6h",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",

@@ -2,6 +2,7 @@
   "topic": "Direnç sıralaması ve Spaulding",
   "cards": [
     {
+      "id": "PER247-1df1ako",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "CDC direnç şemasında **Cryptosporidium gibi koksidiler**, bakteri sporları ile mikobakteriler arasında yer alır. Kısa ezber listeleri bu grubu atlayabilir."
     },
     {
+      "id": "PER247-1rqyz7m",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "Mikobakterilerin **mumsu hücre duvarı**, germisitin hücre içine girişini güçleştirerek kimyasal dezenfeksiyona dirence katkıda bulunur."
     },
     {
+      "id": "PER247-1qxlkhe",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "CDC, kritik malzemelerin çoğunun **steril olarak satın alınmasını** veya uygunsa buharla sterilize edilmesini belirtir. Seçimi kullanım yeri ve materyal uyumu belirler."
     },
     {
+      "id": "PER247-15qq8m1",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +34,7 @@
       "body": "Kritik olmayan malzemeler, **hasta bakım malzemeleri** ve **çevre yüzeyleri** olarak ayrılabilir. Tansiyon manşonu ilk gruba, yatak çevresi yüzeyleri ikinci gruba örnektir."
     },
     {
+      "id": "PER247-013zh63",
       "type": "fact",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -37,6 +42,7 @@
       "body": "Spaulding sınıflaması temel risk yaklaşımıdır; **prion inaktivasyonu** ve karmaşık, ısıya duyarlı cihazların işlenmesini tek başına çözmez."
     },
     {
+      "id": "PER247-1oia6tm",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "Cihazın **steril doku/damar, mukoza/bozuk deri veya sağlam deriyle** temas edip etmediği. Malzemenin fiyatı ya da görünür temizliği risk sınıfını belirlemez."
     },
     {
+      "id": "PER247-1x8xy4z",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "Sağlam mukoza yaygın bakteri sporlarına karşı dirençli bariyer oluşturur. Bu yüzden yarı kritik malzemede **en az yüksek düzey dezenfeksiyon** esastır; steril dokuya giren cihazla aynı hedef değildir."
     },
     {
+      "id": "PER247-1a7l59w",
       "type": "flip",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +66,7 @@
       "answer": "Hedef popülasyonun **en dirençli alt grubu**. Daha duyarlı mikroorganizmaların erken ölmesi, tüm hedef popülasyonun inaktivasyonu anlamına gelmez."
     },
     {
+      "id": "PER247-1q4c9x1",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

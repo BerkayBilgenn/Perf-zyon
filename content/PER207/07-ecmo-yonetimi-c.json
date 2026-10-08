@@ -2,6 +2,7 @@
   "topic": "ECMO yönetimi, ayırma ve transport",
   "cards": [
     {
+      "id": "PER207-023w0r2",
       "type": "mcq",
       "importance": 2,
       "question": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde FiO2 için hangi üst sınır verilir?",
@@ -16,6 +17,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1417x8q",
       "type": "mcq",
       "importance": 2,
       "question": "VV ECMO’da sweep kapalı ayırma denemesi sırasında ne izlenir?",
@@ -30,6 +32,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0eh9utn",
       "type": "mcq",
       "importance": 2,
       "question": "VA ECMO ayırma denemesinde düşük akım altında hangi inceleme özellikle nativ kalp işlevini gösterir?",
@@ -44,6 +47,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1qk3wcm",
       "type": "mcq",
       "importance": 2,
       "question": "ECMO transportunda tüp gerilimini azaltan hazırlık hangisidir?",
@@ -58,6 +62,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1dud08h",
       "type": "mcq",
       "importance": 2,
       "question": "Hemodinamik stabilizasyon sonrası ECMO’da fazla sıvının uzaklaştırılmasında hangi yöntem kullanılabilir?",
@@ -72,6 +77,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0kixugb",
       "type": "tf",
       "importance": 2,
       "statement": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde plato basıncı ≤ 28 cmH2O yer alır.",
@@ -80,6 +86,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-13eyk7s",
       "type": "tf",
       "importance": 2,
       "statement": "ECMO hastaneler arası transportunda gaz ve güç kaynaklarına ek yedek malzeme hazırlığı da gerekir.",

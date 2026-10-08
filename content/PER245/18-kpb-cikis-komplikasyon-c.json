@@ -2,6 +2,7 @@
   "topic": "KPB'den çıkış ve komplikasyonlar",
   "cards": [
     {
+      "id": "PER245-1hapjfa",
       "type": "mcq",
       "importance": 2,
       "question": "KPB'den ayrılmayı yapılandırmada hangi görüntüleme sık kullanılır?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1sbkztk",
       "type": "mcq",
       "importance": 2,
       "question": "Kanın yabancı yüzeyle temasıyla aktive olan sistemin başlangıç faktörü hangisidir?",
@@ -30,6 +32,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-17c0n1r",
       "type": "mcq",
       "importance": 3,
       "question": "KPB devre yüzeyleri komplemanın ağırlıkla hangi yolunu uyarır?",
@@ -44,6 +47,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-01gjw0c",
       "type": "mcq",
       "importance": 2,
       "question": "Düşük MAP ve yüksek CVP'nin hat bağlantısıyla açıklanan nedeni hangisidir?",
@@ -58,6 +62,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1mrfqox",
       "type": "mcq",
       "importance": 2,
       "question": "KPB sırasında güç kaybına karşı hangi araç mekanik yedek sağlar?",
@@ -72,6 +77,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-12zo4kx",
       "type": "tf",
       "importance": 2,
       "statement": "KPB sonrası böbrek hasarı düşük oksijen sunumuyla ilişkili olabilir.",
@@ -80,6 +86,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-05a9995",
       "type": "tf",
       "importance": 2,
       "statement": "Güç kesintisine hazırlık için yedek gaz kaynağı gereksizdir.",

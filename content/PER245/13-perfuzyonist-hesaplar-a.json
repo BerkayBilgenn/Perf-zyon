@@ -2,6 +2,7 @@
   "topic": "Perfüzyonistin görevi ve hesaplamalar",
   "cards": [
     {
+      "id": "PER245-0supoza",
       "type": "term",
       "importance": 2,
       "term": "Perfüzyon",
@@ -10,6 +11,7 @@
       "source": "Resmî Gazete 2014"
     },
     {
+      "id": "PER245-0s0pc2y",
       "type": "term",
       "importance": 3,
       "term": "Perfüzyonist",
@@ -18,6 +20,7 @@
       "source": "Resmî Gazete 2014"
     },
     {
+      "id": "PER245-1svqbgq",
       "type": "term",
       "importance": 2,
       "term": "Kardiyopulmoner baypas (KPB)",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0uorstl",
       "type": "term",
       "importance": 1,
       "term": "Ekstrakorporeal dolaşım",
@@ -34,6 +38,7 @@
       "source": "Resmî Gazete 2014"
     },
     {
+      "id": "PER245-0fv3wti",
       "type": "term",
       "importance": 2,
       "term": "Perfüzyon kaydı",
@@ -42,6 +47,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1fgqslt",
       "type": "term",
       "importance": 3,
       "term": "Kontrol listesi",
@@ -50,6 +56,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-043vgzw",
       "type": "term",
       "importance": 2,
       "term": "Vücut yüzey alanı (VYA)",
@@ -58,6 +65,7 @@
       "source": "VYA formülleri, J Clin Med 2024"
     },
     {
+      "id": "PER245-00642p3",
       "type": "term",
       "importance": 1,
       "term": "Tahmini kan hacmi (EBV)",
@@ -66,14 +74,16 @@
       "source": "Eritrosit kütlesi, Surg Pract Sci"
     },
     {
+      "id": "PER245-0qy8ro1",
       "type": "term",
       "importance": 2,
       "term": "DO2 / DO2i",
       "en": "Oxygen delivery (indexed)",
-      "definition": "Dokuya birim zamanda taşınan oksijen miktarı.",
+      "definition": "DO2, dokulara birim zamanda taşınan oksijen miktarıdır; DO2i bu değerin vücut yüzey alanına bölünmüş biçimidir.",
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1c2yupv",
       "type": "term",
       "importance": 2,
       "term": "Hedefe yönelik perfüzyon",

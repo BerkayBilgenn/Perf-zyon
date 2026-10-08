@@ -2,6 +2,7 @@
   "topic": "Testler, indikatörler ve geri çağırma",
   "cards": [
     {
+      "id": "PER247-0m4amca",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -10,6 +11,7 @@
       "en": "Mechanical indicator"
     },
     {
+      "id": "PER247-1dheuk6",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -18,6 +20,7 @@
       "en": "Chemical indicator"
     },
     {
+      "id": "PER247-0cr3cob",
       "type": "term",
       "importance": 2,
       "source": "STERIS Kİ teknik belgesi",
@@ -26,6 +29,7 @@
       "en": "Process indicator"
     },
     {
+      "id": "PER247-137rhqx",
       "type": "term",
       "importance": 2,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -34,6 +38,7 @@
       "en": "Exposure/autoclave tape"
     },
     {
+      "id": "PER247-0cai08w",
       "type": "term",
       "importance": 1,
       "source": "STERIS Kİ teknik belgesi",
@@ -42,6 +47,7 @@
       "en": "Specific-use / special test indicator"
     },
     {
+      "id": "PER247-0c9e1c4",
       "type": "term",
       "importance": 1,
       "source": "STERIS Kİ teknik belgesi",
@@ -50,6 +56,7 @@
       "en": "Single-variable indicator"
     },
     {
+      "id": "PER247-1gidoed",
       "type": "term",
       "importance": 1,
       "source": "STERIS Kİ teknik belgesi",
@@ -58,6 +65,7 @@
       "en": "Multi-variable indicator"
     },
     {
+      "id": "PER247-1ylh5rv",
       "type": "term",
       "importance": 2,
       "source": "STERIS Kİ teknik belgesi",
@@ -66,6 +74,7 @@
       "en": "Integrating indicator"
     },
     {
+      "id": "PER247-1sutyg9",
       "type": "term",
       "importance": 2,
       "source": "STERIS Kİ teknik belgesi",
@@ -74,6 +83,7 @@
       "en": "Emulating indicator"
     },
     {
+      "id": "PER247-1c7yyua",
       "type": "term",
       "importance": 1,
       "source": "STERIS Kİ teknik belgesi",
@@ -82,6 +92,7 @@
       "en": "Endpoint"
     },
     {
+      "id": "PER247-1k8vf9c",
       "type": "term",
       "importance": 1,
       "source": "STERIS Kİ teknik belgesi",
@@ -90,6 +101,7 @@
       "en": "Stated value"
     },
     {
+      "id": "PER247-1mtwo92",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -98,6 +110,7 @@
       "en": "Bowie-Dick test"
     },
     {
+      "id": "PER247-0aizl5d",
       "type": "term",
       "importance": 3,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -106,6 +119,7 @@
       "en": "Vacuum leak test"
     },
     {
+      "id": "PER247-1lykjbt",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -114,6 +128,7 @@
       "en": "Biological indicator"
     },
     {
+      "id": "PER247-0pj61a1",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -121,6 +136,7 @@
       "definition": "Buhar, hidrojen peroksit gaz plazma ve sıvı perasetik asit işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
     },
     {
+      "id": "PER247-0nzgq0w",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -128,6 +144,7 @@
       "definition": "Etilen oksit ve kuru ısı işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
     },
     {
+      "id": "PER247-1ko1kgk",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -136,6 +153,7 @@
       "en": "Self-contained BI"
     },
     {
+      "id": "PER247-134mba9",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -144,6 +162,7 @@
       "en": "Rapid-readout BI"
     },
     {
+      "id": "PER247-12s5lmx",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -152,6 +171,7 @@
       "en": "Positive control"
     },
     {
+      "id": "PER247-0uu20zr",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -160,6 +180,7 @@
       "en": "Spore strip"
     },
     {
+      "id": "PER247-08ejry8",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -168,6 +189,7 @@
       "en": "Process challenge device"
     },
     {
+      "id": "PER247-1w9e87w",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -176,6 +198,7 @@
       "en": "Huck towel"
     },
     {
+      "id": "PER247-0i1dl7o",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -184,6 +207,7 @@
       "en": "Recall"
     },
     {
+      "id": "PER247-0izhnio",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -192,6 +216,7 @@
       "en": "Quarantine"
     },
     {
+      "id": "PER247-1mkwdo5",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -200,6 +225,7 @@
       "en": "Load identification"
     },
     {
+      "id": "PER247-1od6zoo",
       "type": "term",
       "importance": 1,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -207,6 +233,7 @@
       "definition": "Kullanıcı birimlerden bildirilen steril malzeme sorunlarını kaydetmek ve dönemsel izlemek için kullanılan SKS kayıt aracı."
     },
     {
+      "id": "PER247-0m6uea9",
       "type": "compare",
       "importance": 1,
       "source": "STERIS Kİ teknik belgesi",
@@ -227,6 +254,7 @@
       }
     },
     {
+      "id": "PER247-1g51mvr",
       "type": "compare",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
