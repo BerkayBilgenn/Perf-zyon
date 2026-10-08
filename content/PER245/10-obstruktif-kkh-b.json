@@ -1,0 +1,68 @@
+{
+  "topic": "Obstrüktif konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Koarktasyonda basınç yükü",
+      "body": "Daralmanın proksimalinde basınç yükselmesi ve sol ventrikül hipertrofisi oluşabilir; üst-alt ekstremite dolaşımı birlikte değerlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ark kesintisi ve duktus",
+      "body": "Kesintili aortik arkta alt vücut kanlanması duktusa bağımlı olabilir; duktusun kapanması dolaşım çöküşüne yol açabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Darlığın üç düzeyi",
+      "body": "Konjenital aort çıkış obstrüksiyonu kapak altında, kapakta veya kapak üstünde olabilir; anatomik düzey cerrahi yöntemi etkiler.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kritik pulmoner darlık",
+      "body": "Ağır yenidoğan pulmoner darlığında atriyal sağdan-sola şant ve duktusa bağımlı pulmoner akım görülebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Balon ve açık cerrahi",
+      "body": "Konjenital valvüler darlıklarda balon dilatasyon seçenek olabilir; subvalvüler membran veya ağır anülüs hipoplazisinde yöntem farklılaşır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Koarktasyonda kosta çentiklenmesi hangi damar değişimiyle ilişkilidir?",
+      "answer": "Genişleyen interkostal kollateral arterlerin kostalar üzerinde oluşturduğu erozyonla.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kesintili aortik ark tip B'de kesinti hangi dallar arasındadır?",
+      "answer": "Sol ortak karotis ile sol subklavyen arter arasındadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Supravalvüler aort darlığının kapak darlığından anatomik farkı nedir?",
+      "answer": "Obstrüksiyon kapak yaprakçıklarında değil, aort kapağının üstündeki damar bölümündedir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Duktusun kapanması tehlike yaratabilir",
+      "body": "Kritik sol kalp obstrüksiyonunda duktus sistemik akımı sağlayabilir; kapanması **şok ve asidoza** yol açabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

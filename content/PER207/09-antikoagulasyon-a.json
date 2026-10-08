@@ -11,7 +11,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "aPTT",
       "en": "Activated partial thromboplastin time",
       "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren laboratuvar testi; anfraksiyone heparin ve direkt trombin inhibitörlerinin izleminde kullanılır.",
@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Anti-faktör Xa",
       "en": "Anti-Xa assay",
       "definition": "Heparinin antitrombin aracılığıyla faktör Xa üzerindeki inhibisyonunu ölçen kromojenik test.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Protamin",
       "en": "Protamine",
       "definition": "Heparinin antikoagülan etkisini nötralize eden ilaç. Aktif ECMO devresinde kullanımı devre trombozu riski nedeniyle ayrıca değerlendirilir.",
@@ -59,7 +59,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Heparin direnci",
       "en": "Heparin resistance",
       "definition": "Yüksek heparin dozuna rağmen hedef antikoagülasyona ulaşılamaması (sık neden AT eksikliği).",
@@ -75,7 +75,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "PF4",
       "en": "Platelet factor 4",
       "definition": "Trombositten salınan, heparinle kompleks yapan protein; HIT antijeni.",
@@ -83,7 +83,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "4T skoru",
       "en": "4Ts score",
       "definition": "HIT olasılığını trombosit düşüşü, zamanlama, tromboz ve diğer nedenler üzerinden değerlendiren klinik skor.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Serotonin salınım testi",
       "en": "Serotonin release assay",
       "definition": "Hasta antikorlarının trombositleri aktive edip etmediğini değerlendiren fonksiyonel HIT laboratuvar testi.",
@@ -99,7 +99,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Direkt trombin inhibitörü",
       "en": "Direct thrombin inhibitor",
       "definition": "AT'den bağımsız trombin inhibitörleri (bivalirudin, argatroban); HIT'te alternatif.",
@@ -107,7 +107,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Bivalirudin",
       "en": "Bivalirudin",
       "definition": "Antitrombinden bağımsız etki gösteren direkt trombin inhibitörü; proteolitik yıkım ve böbrek yoluyla uzaklaştırılır.",
@@ -115,7 +115,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Argatroban",
       "en": "Argatroban",
       "definition": "Antitrombinden bağımsız etki gösteren, başlıca karaciğerde metabolize edilen direkt trombin inhibitörü.",
@@ -123,7 +123,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Fondaparinuks",
       "en": "Fondaparinux",
       "definition": "Antitrombin aracılığıyla faktör Xa’yı seçici biçimde inhibe eden sentetik pentasakkarit; dolaylı antikoagülan etki gösterir.",
@@ -131,7 +131,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Antifibrinolitik",
       "en": "Antifibrinolytic",
       "definition": "Fibrin pıhtısının parçalanmasını azaltan ilaç grubu; örnekleri traneksamik asit ve aminokaproik asittir.",
@@ -155,7 +155,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Hiperkoagülabilite",
       "en": "Hypercoagulability",
       "definition": "Kanın pıhtı oluşturma eğiliminin artması.",
@@ -167,6 +167,66 @@
       "term": "Heparinaz",
       "en": "Heparinase",
       "definition": "Heparini parçalayan enzim; viskoelastik testte heparin etkisini diğer pıhtılaşma bozukluklarından ayırmaya yardım eder.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Antikoagülanın geri çevrilmesi",
+      "left": {
+        "title": "UFH",
+        "points": [
+          "Protamin etkisini nötralize edebilir",
+          "Doz ve klinik durum birlikte değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "DTİ",
+        "points": [
+          "Bivalirudin/argatroban için spesifik antidot yoktur",
+          "İlaç kesilmesi ve destek yaklaşımı değerlendirilir"
+        ]
+      },
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "İlaçların başlıca uzaklaştırılması",
+      "left": {
+        "title": "Bivalirudin",
+        "points": [
+          "Proteolitik yıkım ve renal uzaklaştırma",
+          "Staz alanları için ayrı dikkat gerekir"
+        ]
+      },
+      "right": {
+        "title": "Argatroban",
+        "points": [
+          "Başlıca hepatik metabolizma",
+          "Karaciğer yetmezliğinde birikme riski"
+        ]
+      },
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Pıhtılaşma örneği ve izlem",
+      "left": {
+        "title": "ACT",
+        "points": [
+          "Tam kanla çalışır",
+          "Trombosit ve hematokritten etkilenir"
+        ]
+      },
+      "right": {
+        "title": "aPTT",
+        "points": [
+          "Plazmayla çalışır",
+          "Faktör düzeyleri ve reaktiften etkilenir"
+        ]
+      },
       "source": "ELSO Antikoagülasyon 2021"
     }
   ]

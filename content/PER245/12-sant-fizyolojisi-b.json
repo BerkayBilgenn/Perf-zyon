@@ -1,0 +1,61 @@
+{
+  "topic": "Şantlı KKH ve şant fizyolojisi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Şant yönünü etkileyenler",
+      "body": "Defekt büyüklüğü, iki tarafın basıncı ve pulmoner-sistemik direnç ilişkisi şantın yönünü ve miktarını etkiler.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Eisenmenger'de tersine dönüş",
+      "body": "Uzun süreli büyük soldan-sağa şant pulmoner vasküler hastalıkla ilerleyebilir; artan pulmoner direnç sonunda sağdan-sola şanta yol açabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "PDA'nın KPB'de çalma etkisi",
+      "body": "Açık sistemik-pulmoner bağlantı, arteriyel pompa kanının pulmoner yatağa kaçmasına neden olabilir; sistemik sunum ve sol kalp yükü etkilenir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Satürasyon örnekleme tuzağı",
+      "body": "PDA varlığında sağ ve sol pulmoner arter satürasyonları farklı olabilir; örnekleme yeri şant hesabının yorumunu etkiler.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijen içeriği ve satürasyon",
+      "body": "Fick hesabında arteriyel–venöz oksijen içeriği farkı kullanılır. İçerik hemoglobin miktarını da içerdiği için salt satürasyon farkıyla özdeş değildir.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Şant varlığında pulmoner vasküler direnç hesabında hangi akım kullanılmalıdır?",
+      "answer": "Pulmoner kan akımı Qp; şantlı dolaşımda Qp ve Qs birbirine eşit olmayabilir.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Sistemik-pulmoner bağlantıları tanı",
+      "body": "Tanınmamış PDA veya cerrahi şant, KPB'de **sol kalp distansiyonu ve sistemik akım kaybı** yapabilir; bağlantıların kontrolü planlanır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Havayı küçük görme",
+      "body": "Sağdan-sola şant varsa venöz hava **sistemik dolaşıma** geçebilir. Perfüzyon ve damar yolu hazırlığında hava kontrolü önemlidir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    }
+  ]
+}

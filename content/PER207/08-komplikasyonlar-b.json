@@ -1,0 +1,82 @@
+{
+  "topic": "ECMO komplikasyonları ve LV venting",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanama ve tromboz aynı hastada",
+      "body": "ECMO devresi tromboz riskini artırırken antikoagülasyon ve hemostaz bozuklukları kanama riskini artırır. Bu nedenle iki risk birlikte izlenir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Femoral dönüşün ekstremite etkisi",
+      "body": "Arteriyel kanül damar lümenini daraltarak distal kan akımını azaltabilir. **Distal perfüzyon** ve klinik/doku oksijenasyon izlemi bacak güvenliği için birlikte kullanılır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hemolizin biyolojik etkisi",
+      "body": "Plazmaya çıkan serbest hemoglobin **nitrik oksidi tüketebilir** ve böbrek hasarına katkıda bulunabilir; hemoliz yalnızca laboratuvar anormalliği değildir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Drenaj kollapsı ve yüksek devir",
+      "body": "Venöz drenaj yetersizken pompa devrini artırmak daha fazla akım sağlamayabilir; aşırı emme, venöz kollaps ve kavitasyon riskini büyütebilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aort kapağı ve staz",
+      "body": "VA ECMO sırasında aort kapağının açılmaması, sol ventrikül ve aort kökünde **kan stazı** ve trombüs oluşumu açısından değerlendirilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulmoner ödem ve LV boşalması",
+      "body": "VA ECMO’da yeni pulmoner ödem, sol kalbin yeterince boşalamadığını düşündürebilir; ekokardiyografiyle ventrikül hacmi ve aort kapağı hareketi incelenir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Sol ventrikülde spontan eko kontrast görülmesi hangi mekanizmayı düşündürür?",
+      "answer": "Kan akımının yavaşlamasını ve **stazı** düşündürür; VA ECMO’da ventrikül boşalması ve trombüs riski değerlendirilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Atriyal septostomi sol kalp basıncını nasıl azaltabilir?",
+      "answer": "Sol atriyumdaki kanın sağ atriyuma geçebileceği açıklık oluşturarak **sol atriyal dekompresyon** sağlar.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Drenaj hattı titremesine neden yalnız sıvı eksikliği denmez?",
+      "answer": "Venöz kollaps; kanül malpozisyonu, drenaj engeli ve aşırı pompa emmesiyle de oluşabilir. Hız, pozisyon ve dolaşım dolumu birlikte değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kazara dekanülasyon acildir",
+      "body": "Kanül çıkması büyük kanama, hava girişi ve perfüzyon kaybı doğurabilir. Kurum acil algoritmasında **hatların güvene alınması ve kanama kontrolü** önceliklidir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kapalı aort kapağını izle",
+      "body": "VA ECMO’da **aort kapağının açılmaması**, LV genişlemesi ve pulmoner ödem sol kalp boşaltma gereksiniminin değerlendirilmesini gerektirir.",
+      "source": "ELSO VA 2021"
+    }
+  ]
+}

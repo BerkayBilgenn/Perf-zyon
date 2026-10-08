@@ -1,0 +1,125 @@
+{
+  "topic": "Asepsi, antisepsi ve antiseptikler",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Asepsi",
+      "definition": "Mikroorganizmalarla **temasın önlenmesi**. Steril malzeme ve alanın korunmasında temel amaçtır.",
+      "en": "Asepsis"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Aykan, Sterilizasyon 2023",
+      "term": "Aseptik",
+      "definition": "Mikroorganizma kontaminasyonundan arındırılmış ya da bu kontaminasyondan korunan ortam veya malzemeyi niteleyen terim.",
+      "en": "Aseptic"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Aykan, Sterilizasyon 2023",
+      "term": "Septik",
+      "definition": "Mikroorganizma içeren veya mikroorganizma bulaşıyla ilişkili ortamı ya da malzemeyi niteleyen terim.",
+      "en": "Septic"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Aykan, Sterilizasyon 2023",
+      "term": "Antisepsi",
+      "definition": "Canlı dokudaki mikroorganizmaların uygun kimyasallarla etkisizleştirilmesi veya yok edilmesi işlemi.",
+      "en": "Antisepsis"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Antiseptik",
+      "definition": "Canlı doku ve deriye uygulanan germisit.",
+      "en": "Antiseptic"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Dezenfektan",
+      "definition": "Yalnızca cansız nesnelere uygulanan, patojenleri yok eden (sporları öldürmeyebilen) ajan.",
+      "en": "Disinfectant"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Alkol",
+      "definition": "Etil veya izopropil alkolün protein denatürasyonuyla gösterdiği germisit etkiye dayanan antiseptik/dezenfektan grubu. **Bakteri sporlarını öldürmez.**",
+      "en": "Ethyl/isopropyl alcohol"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İyodofor",
+      "definition": "İyotun bir çözündürücü madde veya taşıyıcıyla oluşturduğu germisit kompleks. Povidon-iyot bu grubun bir örneğidir.",
+      "en": "Iodophor"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Povidon-iyot",
+      "definition": "Polivinilpirolidon-iyot kompleksi; en bilinen iyodofor antiseptik.",
+      "en": "Povidone-iodine"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Klorheksidin glukonat",
+      "definition": "Cerrahi cilt hazırlığında alkollü formülasyonu önerilen antiseptik. Beyin, meninks, göz ve orta kulakla temasından kaçınılır.",
+      "en": "Chlorhexidine gluconate (CHG)"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Asepsi ve antisepsi",
+      "left": {
+        "title": "Asepsi",
+        "points": [
+          "Mikroorganizmalarla teması önleme hedefi",
+          "Steril alan ve malzemenin korunmasıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Antisepsi",
+        "points": [
+          "Canlı dokudaki mikropları etkisizleştirme hedefi",
+          "Cilt ve el hazırlığıyla ilişkilidir"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İyodofor ve iyot tentürü",
+      "left": {
+        "title": "İyodofor",
+        "points": [
+          "İyot bir taşıyıcıyla kompleks oluşturur",
+          "Tentüre göre genellikle daha az irritan/toksiktir"
+        ]
+      },
+      "right": {
+        "title": "İyot tentürü",
+        "points": [
+          "İyotun alkol içeren çözelti formudur",
+          "İyodofora göre irritasyon ve boyanma daha belirgin olabilir"
+        ]
+      }
+    }
+  ]
+}

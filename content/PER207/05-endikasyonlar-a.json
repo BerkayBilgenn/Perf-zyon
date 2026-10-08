@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Karara köprü",
       "en": "Bridge to decision (BTD)",
       "definition": "Prognoz veya nakil adaylığı netleşene kadar destek.",
@@ -43,7 +43,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Adaylığa köprü",
       "en": "Bridge to candidacy (BTC)",
       "definition": "Hastayı nakil adayı olabilecek duruma getirmek için destek.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Kalıcı cihaza köprü",
       "en": "Bridge to destination / bridge to bridge",
       "definition": "Kısa süreli destekten uzun süreli cihaza geçişe kadar destek.",
@@ -59,7 +59,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Destinasyon tedavisi",
       "en": "Destination therapy (DT)",
       "definition": "Kalp nakli adayı olmayan hastada uzun süreli mekanik dolaşım desteğinin kalıcı tedavi olarak kullanılması.",
@@ -67,7 +67,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Futilite",
       "en": "Futility",
       "definition": "Anlamlı iyileşme ya da organ replasmanına ulaşma beklentisinin kalmaması. ECMO desteğinin amacı ve sürdürülmesi ekip tarafından yeniden değerlendirilir.",
@@ -83,7 +83,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Kardiyojenik şok",
       "en": "Cardiogenic shock",
       "definition": "Kalbin yeterli sistemik akım sağlayamamasına bağlı uç organ hipoperfüzyonu ve dolaşım yetersizliği.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "ARDS",
       "en": "Acute respiratory distress syndrome",
       "definition": "Akut, yaygın inflamatuvar akciğer hasarı ve hipoksemi; ağır formunda VV ECMO düşünülür.",
@@ -123,7 +123,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Murray skoru",
       "en": "Lung Injury Score",
       "definition": "Akciğer grafisi, oksijenasyon, PEEP ve statik kompliyansı birlikte değerlendiren akciğer hasarı skoru.",
@@ -131,7 +131,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "RESP skoru",
       "en": "RESP score",
       "definition": "VV ECMO başlanan hastada sağkalımı öngören skor.",
@@ -139,7 +139,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "SAVE skoru",
       "en": "SAVE score",
       "definition": "Kardiyojenik şokta VA ECMO sağkalımını öngören ELSO kayıt kaynaklı skor (postkardiyotomide geçersiz).",

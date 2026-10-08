@@ -1,0 +1,229 @@
+{
+  "topic": "Hipotermi, kan gazı ve kardiyopleji",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hipotermi",
+      "en": "Hypothermia",
+      "definition": "Vücut sıcaklığının düşürülmesi; kalp cerrahisinde metabolik oksijen gereksinimini azaltmak amacıyla uygulanabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Alfa-stat",
+      "en": "Alpha-stat",
+      "definition": "Hipotermide kan gazını standart laboratuvar sıcaklığındaki ölçümle, hasta sıcaklığına düzeltmeden yorumlama yaklaşımı.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "pH-stat",
+      "en": "pH-stat",
+      "definition": "Kan gazı hedeflerinin hastanın sıcaklığına düzeltilmiş değerlerle yönetildiği yaklaşım.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel çıkış sıcaklığı",
+      "en": "Arterial outlet temperature",
+      "definition": "Oksijenatörden hastaya dönen kanın sıcaklığı.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyopleji",
+      "en": "Cardioplegia",
+      "definition": "Kalbi diyastolde durdurup koruyan solüsyon ve uygulama yöntemi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Kristaloid kardiyopleji",
+      "en": "Crystalloid cardioplegia",
+      "definition": "Kan içermeyen, elektrolit ve metabolik koruyucu bileşenleri sıvı taşıyıcı içinde sunan miyokard koruma solüsyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kan kardiyoplejisi",
+      "en": "Blood cardioplegia",
+      "definition": "Hasta kanı ile kristaloid bileşenin karıştırıldığı miyokard koruma solüsyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "St. Thomas No.2 (Plegisol)",
+      "en": "St Thomas' Hospital solution No.2",
+      "definition": "Ekstrasellüler tip, hiperkalemik ve genellikle çok dozlu kullanılan kristaloid miyokard koruma solüsyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "HTK (Custodiol)",
+      "en": "Histidine-tryptophan-ketoglutarate (Bretschneider)",
+      "definition": "Histidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji.",
+      "source": "HTK, J Cardiovasc Dev Dis 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "del Nido solüsyonu",
+      "en": "del Nido cardioplegia",
+      "definition": "Lidokain ve magnezyum katkıları içeren kan-kristaloid miyokard koruma solüsyonu.",
+      "source": "Boston Children’s, del Nido 2012"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Buckberg kardiyoplejisi",
+      "en": "Buckberg (integrated) blood cardioplegia",
+      "definition": "Soğuk kan kardiyoplejisi indüksiyonu ve idamesini sıcak terminal reperfüzyonla birleştiren entegre miyokard koruma yaklaşımı.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hot shot",
+      "en": "Terminal warm reperfusion",
+      "definition": "Klemp kaldırılmadan hemen önce verilen sıcak, hiperkalemik, zenginleştirilmiş kan kardiyoplejisi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Antegrad kardiyopleji",
+      "en": "Antegrade cardioplegia",
+      "definition": "Aort kökünden koronerlere doğal yönde verilen kardiyopleji.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd kardiyopleji",
+      "en": "Retrograde cardioplegia",
+      "definition": "Koroner sinüsten venöz sistem yoluyla geriye doğru verilen kardiyopleji.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ostial kardiyopleji",
+      "en": "Ostial (direct coronary) cardioplegia",
+      "definition": "Kardiyoplejinin koroner ağızlarına doğrudan verilmesi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Aort kros-klempi",
+      "en": "Aortic cross-clamp",
+      "definition": "Çıkan aortanın klemplenmesi; kalp dolaşımdan ayrılır, iskemi süresi başlar.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "De-airing",
+      "en": "De-airing",
+      "definition": "Klemp kaldırma ve ejeksiyon öncesi kalp ve aortadan havanın çıkarılması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Trendelenburg pozisyonu",
+      "en": "Trendelenburg position",
+      "definition": "Başın gövdeye göre aşağıda tutulduğu pozisyon.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan gazını sıcaklıkla yorumlama",
+      "left": {
+        "title": "Alfa-stat",
+        "points": [
+          "Ölçüm 37 °C'de, sıcaklık düzeltmesi kullanılmaz",
+          "Soğumayla oluşan doğal pH değişimine izin verilir"
+        ]
+      },
+      "right": {
+        "title": "pH-stat",
+        "points": [
+          "Hasta sıcaklığına düzeltilmiş değerler kullanılır",
+          "Hedef pH için CO2 eklenmesi gerekebilir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kardiyopleji yolları",
+      "left": {
+        "title": "Antegrad kök yolu",
+        "points": [
+          "Aort kökünden koronerlere doğal yönde",
+          "Aort kapak yeterliliği dağılımı etkiler"
+        ]
+      },
+      "right": {
+        "title": "Retrograd yol",
+        "points": [
+          "Koroner sinüsten venöz sistem üzerinden",
+          "Sağ ventrikül dağılımı sınırlı olabilir"
+        ]
+      },
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kristaloid kardiyopleji tipleri",
+      "left": {
+        "title": "HTK",
+        "points": [
+          "İntrasellüler tip, düşük sodyumlu yaklaşım",
+          "Genellikle tek doz stratejisi"
+        ]
+      },
+      "right": {
+        "title": "St. Thomas No.2",
+        "points": [
+          "Ekstrasellüler tip, yüksek potasyumlu yaklaşım",
+          "Genellikle tekrarlanan doz stratejisi"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan-kristaloid oranı",
+      "left": {
+        "title": "del Nido",
+        "points": [
+          "Kan:kristaloid genellikle 1:4",
+          "Çoğu kez tek doz yaklaşımı"
+        ]
+      },
+      "right": {
+        "title": "Buckberg",
+        "points": [
+          "Kan:kristaloid tipik olarak 4:1",
+          "Çok dozlu entegre yaklaşım"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

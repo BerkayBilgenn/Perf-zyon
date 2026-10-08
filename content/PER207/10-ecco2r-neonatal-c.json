@@ -1,0 +1,91 @@
+{
+  "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "PPHN’de doğumdan sonra hangi fizyolojik değişim gerçekleşmez?",
+      "options": [
+        "Sağ ventrikülün kan pompalaması",
+        "Arteriyel kanın dokulara ulaşması",
+        "Pulmoner damar direncinin düşmesi",
+        "Sistemik venöz kanın kalbe dönmesi"
+      ],
+      "correct": 2,
+      "explanation": "Yenidoğanın persistan pulmoner hipertansiyonunda pulmoner direnç düşmez; sağdan sola şant sürdürülebilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Konjenital diyafragma hernisinde ECMO gereksinimine katkıda bulunan ikili hangisidir?",
+      "options": [
+        "Akciğer büyümesi ve pulmoner hipotansiyon",
+        "Bronş genişlemesi ve sistemik hipertansiyon",
+        "Plevral sıvı azalması ve renal hipotansiyon",
+        "Akciğer hipoplazisi ve pulmoner hipertansiyon"
+      ],
+      "correct": 3,
+      "explanation": "KDH’de akciğer gelişimi kısıtlanır ve yüksek pulmoner direnç ciddi solunum/dolaşım sorununa yol açabilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Mekonyum aspirasyonu akciğeri hangi mekanizmayla etkileyebilir?",
+      "options": [
+        "Hava yolu obstrüksiyonu ve sürfaktan bozukluğu",
+        "Hava yolu genişlemesi ve sürfaktan artışı",
+        "Pulmoner ven dilatasyonu ve hemoglobin artışı",
+        "Aort daralması ve eritrosit üretiminde artış"
+      ],
+      "correct": 0,
+      "explanation": "MAS’ta hava yolu tıkanması, sürfaktan bozukluğu ve pulmoner hipertansiyon gaz değişimini bozar.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "EXIT-to-ECMO sırasında ECMO kurulurken hangi destek henüz sürmektedir?",
+      "options": [
+        "İzole serebral perfüzyon",
+        "Plasental dolaşım",
+        "İABP karşı-atımı",
+        "LVAD destinasyon desteği"
+      ],
+      "correct": 1,
+      "explanation": "EXIT yaklaşımında kordon klemplenmeden plasental destek sürerken kanülasyon ve ECMO başlatılır.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Düşük akımlı ECCO2R’de hedeflenen gaz değişimi hangisidir?",
+      "options": [
+        "Nativ kardiyak ejeksiyonun yerine geçilmesi",
+        "Koroner arterlere pulsatif akım verilmesi",
+        "Esas olarak CO2 uzaklaştırılması",
+        "Tam sistemik oksijenasyon sağlanması"
+      ],
+      "correct": 2,
+      "explanation": "ECCO2R esas olarak CO2 uzaklaştırmak için planlanır; tam oksijenasyon desteğiyle aynı değildir.",
+      "source": "ECCO2R cihaz çalışmaları"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO Neonatal 2020’de başlangıç gaz akımı kan akımına eşit ayarlanıp PaCO2 40–45 mmHg olacak biçimde titre edilebilir.",
+      "isTrue": true,
+      "explanation": "Bu tarihli kılavuz neonatal başlangıç gaz yönetimini böyle tanımlar; hastanın kan gazı ve klinik durumu izlenir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Eski neonatal ELSO kılavuzunda trizomi 21, trizomi 13 ve 18 ile aynı ölümcül anomali dışlama grubundadır.",
+      "isTrue": false,
+      "explanation": "Trizomi 21 tek başına trizomi 13/18 gibi ölümcül anomali dışlama kategorisine girmez.",
+      "source": "ELSO Neonatal 2017"
+    }
+  ]
+}

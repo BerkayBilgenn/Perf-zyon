@@ -1,0 +1,96 @@
+{
+  "topic": "İABP, Impella ve TandemHeart",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "İABP ölçüsünün anatomik amacı",
+      "body": "Balon seçimi hastanın aort boyutlarıyla uyumlu olmalıdır; alt ucu renal arter çıkışlarını kapatmamalıdır. Boya göre hacim tabloları **üretici ve modele** bağlıdır; tek tablo bütün kateterlere genellenmez.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "İABP debi katkısının sınırı",
+      "body": "İABP’nin kalp debisine katkısı kaynaklarda yaklaşık **0,5–1,0 L/dk** olarak bildirilir. Etki; nativ kalp işlevine ve zamanlamaya bağlıdır; tam dolaşım desteği değildir.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "İABP ucunun anatomik sınırı",
+      "body": "İABP ucu sol subklavyen arter çıkışının distalinde bulunmalıdır; balon renal arterleri kapatmamalıdır. Çok proksimal veya distal yerleşim organ perfüzyonunu bozabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "IABP-SHOCK II sonucu",
+      "body": "IABP-SHOCK II’de revaskülarizasyon planlanan AMİ ve kardiyojenik şoklu 600 hastada **30 günlük mortalite azalmadı**: İABP %39,7; kontrol %41,3.",
+      "source": "IABP-SHOCK II, NEJM 2012"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "DanGer Shock: yarar ve güvenlik",
+      "body": "DanGer Shock 2024’te seçilmiş STEMI ve kardiyojenik şok hastalarında Impella CP ile 180 gün mortalite %45,8, standart tedavide %58,5 idi; ciddi güvenlik olayları cihaz grubunda daha fazlaydı.",
+      "source": "DanGer Shock, NEJM 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Purge reçetesi cihaz talimatına bağlıdır",
+      "body": "Impella’da purge, motoru kan girişinden korur. Kullanılan sıvı ve antikoagülan yaklaşımı **cihaz talimatı ve klinik duruma** bağlıdır; heparinli reçete tüm hastalara sabitlenmez.",
+      "source": "FDA Impella kullanım talimatı"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Orta-ağır aort yetmezliği İABP için neden sorun oluşturur?",
+      "answer": "Balonun diyastolik basıncı artırması aorttan sol ventriküle **regürjitan akımı** artırabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Mekanik aort kapağı sol ventrikül Impella’sıyla neden uyumsuzdur?",
+      "answer": "Sol ventrikül Impella kateteri **aort kapağını geçer**; mekanik kapak yapısı cihazın geçişi ve çalışmasıyla uyumsuzdur.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "TandemHeart kanülünün yan delikleri neden sol atriyumda kalmalıdır?",
+      "answer": "Sağ atriyuma kayan delikler yanlış kan kaynağından drenaj ve **istenmeyen şant** oluşturabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "İABP balonu çok distalde kalırsa hangi organlar risk altındadır?",
+      "answer": "Renal ve mezenterik arter çıkışları etkilenebilir; **böbrek ve bağırsak perfüzyonu** bozulabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Geç sönme art yükü artırır",
+      "body": "İABP balonu sistol başladığında hâlâ şişikse ventrikül **şişik balona karşı** ejekte eder; beklenen art yük azalması kaybolabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Erken şişme sistole karışır",
+      "body": "İABP’nin aort kapağı kapanmadan şişmesi sistolik ejeksiyonu engelleyebilir; zamanlama **dikrotik çentikle** ilişkilendirilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Sol ventrikülde trombüs ve Impella",
+      "body": "Sol ventrikül trombüsü, sol kalp Impella’sı için **kontrendikasyondur**; cihaz kanı ventrikül içinden alır ve trombüs embolisi riski doğar.",
+      "source": "FDA Impella kullanım talimatı"
+    }
+  ]
+}

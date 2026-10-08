@@ -3,7 +3,7 @@
   "cards": [
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Endokardiyal canlılık oranı",
       "en": "Endocardial viability ratio",
       "definition": "Diyastolik basınç-zaman indeksi ile sistolik gerilim-zaman indeksinin oranı; miyokardın oksijen sunumu–talep dengesini yansıtır.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Karşı-atım",
       "en": "Counterpulsation",
       "definition": "Kalp döngüsüne ters fazda basınç değişikliği yaratma ilkesi.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Dikrotik çentik",
       "en": "Dicrotic notch",
       "definition": "Aort kapağı kapanmasını gösteren arteriyel dalga çentiği; İABP şişme noktası.",
@@ -59,7 +59,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Tetik",
       "en": "Trigger",
       "definition": "İABP zamanlama sinyalinin kaynağı (EKG, basınç, pacemaker, iç/asenkron).",
@@ -83,7 +83,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Erken / geç şişme",
       "en": "Early / late inflation",
       "definition": "Balonun dikrotik çentikten önce (tehlikeli) veya sonra (etkisiz) şişmesi.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Erken / geç sönme",
       "en": "Early / late deflation",
       "definition": "Balonun diyastolün ortasında (yetersiz unloading) veya sistol başlangıcında hâlâ şişik (art yük artar) sönmesi.",
@@ -99,7 +99,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Balon rüptürü",
       "en": "Balloon rupture",
       "definition": "İABP balonunun bütünlüğünün bozulması; helyum hattında kan görülmesi önemli bir uyarı bulgusudur.",
@@ -115,7 +115,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Purge solüsyonu",
       "en": "Purge solution",
       "definition": "Impella motoruna kanın girmesini engellemek için basınç altında verilen yıkama sıvısı. Bileşimi cihaz talimatı ve klinik duruma göre seçilir.",
@@ -123,7 +123,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "ECPELLA",
       "en": "ECPELLA",
       "definition": "LV'yi boşaltmak için VA ECMO'ya Impella eklenmesi.",
@@ -135,6 +135,46 @@
       "term": "TandemHeart",
       "en": "TandemHeart",
       "definition": "Transseptal sol atriyum – femoral arter perkütan santrifüj destek (oksijenatörsüz).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "İABP ile aktif sol kalp pompası",
+      "left": {
+        "title": "İABP",
+        "points": [
+          "Balonla karşı-atım oluşturur",
+          "Nativ kalp döngüsüyle senkron çalışır"
+        ]
+      },
+      "right": {
+        "title": "Impella",
+        "points": [
+          "Ventrikülden aorta aktif kan taşır",
+          "Ventrikülü doğrudan boşaltır"
+        ]
+      },
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Perkütan destek kan yolları",
+      "left": {
+        "title": "Impella",
+        "points": [
+          "Kanı sol ventrikülden alır",
+          "Aort kapağını geçerek aorta verir"
+        ]
+      },
+      "right": {
+        "title": "TandemHeart",
+        "points": [
+          "Kanı sol atriyumdan alır",
+          "Transseptal girişle femoral artere verir"
+        ]
+      },
       "source": "ACC Destek Cihazları El Kitabı"
     }
   ]

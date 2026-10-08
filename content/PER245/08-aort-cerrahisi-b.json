@@ -1,0 +1,61 @@
+{
+  "topic": "Aort cerrahisinde perfüzyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arkus cerrahisinin sorunu",
+      "body": "Arkus açıkken sistemik akımın geçici kesilmesi gerekebilir; hipotermi ve seçilmiş serebral perfüzyon, beyin koruma planının parçalarıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ACP akım aralığı",
+      "body": "2024 EACTS, antegrad serebral perfüzyonda 10–15 mL/kg/dk akım ve sağ radiyal arterde 40–80 mmHg basınçla ayarlama tarif eder. Hedefler yönteme göre değişebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "RCP'nin basınç noktası",
+      "body": "2024 EACTS'te retrograd serebral perfüzyon için internal juguler ven basıncı yaklaşık 20 mmHg ve akım 100–500 mL/dk olarak tarif edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arrestte çift sıcaklık izlemi",
+      "body": "Arrest kullanılan aort cerrahisinde nazofaringeal ve çekirdek sıcaklıkları birlikte izlemek, beyin ve sistemik soğuma hakkında tamamlayıcı bilgi sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Spinal korumanın bileşenleri",
+      "body": "Torakoabdominal aort cerrahisinde BOS drenajı, distal perfüzyon ve kritik interkostal arterlerin korunması birlikte spinal kord korumasına katkı sağlar.",
+      "source": "BOS drenajı, Ann CTS 2023"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Arkus cerrahisinde bilateral NIRS neden kullanılır?",
+      "answer": "Sağ ve sol serebral oksijenasyon değişimlerini ayrı izlemeye yardımcı olur; özellikle selektif serebral perfüzyonda asimetri önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol kalp baypasında alınan kan genellikle nereye geri verilir?",
+      "answer": "Distal aortaya veya femoral artere; klemp altındaki organların perfüzyonunu desteklemek amaçlanır.",
+      "source": "Sol kalp baypası, Front CVM 2022"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "İzole arrest süresi kesin güvence değildir",
+      "body": "Arrestin tolere edilebilir süresi sıcaklık, hasta özellikleri ve ek beyin korumasıyla ilişkilidir. **Süre tek başına güvence değildir**; serebral perfüzyon ve metabolik koruma birlikte planlanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

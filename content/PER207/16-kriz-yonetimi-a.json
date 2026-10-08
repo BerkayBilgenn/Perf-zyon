@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Masif hava embolisi",
       "en": "Massive air embolism",
       "definition": "KPB sırasında arteriyel dolaşıma büyük hacimde hava girmesi.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Retrograd serebral perfüzyon",
       "en": "Retrograde cerebral perfusion",
       "definition": "SVC yoluyla beyne ters yönde soğuk kan verilmesi; hava embolisinde havanın yıkanması.",
@@ -35,7 +35,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Trendelenburg pozisyonu",
       "en": "Trendelenburg position",
       "definition": "Baş aşağı eğim; hava embolisinde ve juguler kanül çıkarılırken kullanılır.",
@@ -43,7 +43,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Kriz kaynak yönetimi",
       "en": "Crisis management drills",
       "definition": "Düşük sıklıklı-yüksek riskli olaylar için yazılı protokol ve düzenli simülasyon uygulaması.",
@@ -51,11 +51,11 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Anafilaktik reaksiyon",
       "en": "Anaphylactic reaction",
       "definition": "İlaç veya kan ürünü gibi bir maruziyet sonrası gelişebilen, dolaşım ve solunumu tehdit eden sistemik aşırı duyarlılık reaksiyonu.",
-      "source": "Hollanda perfüzyon olay araştırması"
+      "source": "WAO Anafilaksi Kılavuzu 2020"
     }
   ]
 }

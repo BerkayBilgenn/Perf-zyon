@@ -1,0 +1,96 @@
+{
+  "topic": "ECMO yönetimi, ayırma ve transport",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "VV’de hemodinamik hedefler",
+      "body": "ELSO VV 2021, yeterli dolaşım için **OAB ≥ 65 mmHg**, kardiyak indeks > 2,2 L/dk/m² ve normal laktatı birlikte değerlendirir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "VV ayırmada oksijenasyon",
+      "body": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde **FiO2 ≤ %60**, PEEP ≤ 10 cmH2O ve PaO2 ≥ 70 mmHg yer alır; akciğer iyileşmesi birlikte aranır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "VV ayırmada ventilasyon",
+      "body": "ELSO VV 2021, ayırma değerlendirmesinde Vt ≤ 6 mL/kg, plato basıncı ≤ 28 cmH2O ve solunum sayısı ≤ 28/dk ile kabul edilebilir ventilasyonu arar.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Sweep kapalı denemenin süresi",
+      "body": "ELSO VV 2021’de sweep kapalı deneme **2–3 saat veya daha uzun** sürdürülür; kan gazı ve solunum yükü izlenir. Bu süre evrensel tek merkez protokolü değildir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "VA ayırmada akım basamakları",
+      "body": "ELSO VA 2021’de akım **5–10 dakikada bir 500 mL/dk** azaltılarak nativ kalbin yanıtı değerlendirilir; hemodinami ve ekokardiyografi birlikte izlenir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "VA ayırmada ekokardiyografi",
+      "body": "ELSO VA 2021’de LVEF ≥ %25–30 ve lateral mitral anülüs sistolik hızı ≥ 6 cm/sn destekleyici bulgulardır. Tek ölçüm ayırma kararını belirlemez.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Dekanülasyon sonrası tromboz taraması",
+      "body": "ELSO VV 2021, dekanülasyondan **24 saat sonra** derin ven trombozunun değerlendirilmesini önerir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "VV ECMO desteği azaltılırken solunum yükü neden izlenir?",
+      "answer": "Kabul edilebilir kan gazı, hastanın aşırı solunum çabasıyla sağlanıyor olabilir. Ayırma değerlendirmesi gaz değişimini ve **solunum eforunu** birlikte kapsar.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "VA ECMO ayırma denemesinde neden ekokardiyografi kullanılır?",
+      "answer": "Azaltılmış destek altında **sol ve sağ ventrikül işlevi**, dolum ve ejeksiyon değerlendirilir; arter basıncı tek başına kalbin yeterliliğini göstermez.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Hastaneler arası ECMO transportunda ekibin kendine yeterli olması ne anlama gelir?",
+      "answer": "Gaz ve güç kaynakları yanında yedek devre parçaları, uygun kanüller, gerekli ilaçlar ve acil müdahale ekipmanı taşımasıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO sırasında sıvı yönetimi neden başlangıç ve stabil dönemde farklıdır?",
+      "answer": "Başlangıçta yeterli dolaşım ve venöz drenaj sağlanır. Stabilizasyon sonrası fazla sıvının uzaklaştırılması ve akciğer ödeminin azaltılması değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Dinlenme ventilasyonunun amacı",
+      "body": "ECMO gaz değişimini üstlenirken ventilasyon **akciğer hasarını azaltmak** için düzenlenir. Hipoksemide önce hasta ve devre nedenleri değerlendirilir; akciğer koruma yaklaşımı korunur.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Transporttan önce kaynakları dene",
+      "body": "Hareketten önce ECMO sistemi **taşınabilir güç ve gaz kaynaklarına** geçirilip çalıştığı doğrulanır; hatların çekilmesini önleyen ekip düzeni kurulmalıdır.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

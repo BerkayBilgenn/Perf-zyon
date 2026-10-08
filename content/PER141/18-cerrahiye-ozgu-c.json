@@ -18,20 +18,6 @@
     {
       "type": "mcq",
       "importance": 2,
-      "question": "Ciddi aort darlığı ve LV hipertrofisinde klemp kaldırılınca hangi ritim görülebilir?",
-      "options": [
-        "Ventrikül fibrilasyonu",
-        "Atriyal standstill",
-        "Sinüs arresti",
-        "Birinci derece AV blok"
-      ],
-      "correct": 0,
-      "explanation": "Basics of CPB, özellikle ciddi AS ve LVH'de klemp sonrası VF olabileceğini vurgular.",
-      "source": "Basics of CPB 2017"
-    },
-    {
-      "type": "mcq",
-      "importance": 2,
       "question": "Minimal invaziv mitral cerrahide femoral venöz kanül ucunun konumu neyle doğrulanır?",
       "options": [
         "Gaz oksijen analizörü",

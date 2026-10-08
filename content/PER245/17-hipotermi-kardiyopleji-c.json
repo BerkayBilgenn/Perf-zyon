@@ -1,0 +1,99 @@
+{
+  "topic": "Hipotermi, kan gazı ve kardiyopleji",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "del Nido'daki lidokainin başlıca kanal etkisi hangisidir?",
+      "options": [
+        "Kalsiyum kanal aktivasyonu",
+        "Sodyum kanal blokajı",
+        "Potasyum kanal açılması",
+        "Klor kanal blokajı"
+      ],
+      "correct": 1,
+      "explanation": "Lidokain sodyum kanal blokajıyla kardiyomiyosit elektriksel aktivitesini etkiler.",
+      "source": "Boston Children’s, del Nido 2012"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort kökü yerine koroner ağızlara doğrudan solüsyon verilmesi hangi yoldur?",
+      "options": [
+        "Aort kökünden antegrad kardiyopleji",
+        "Koroner sinüsten retrograd kardiyopleji",
+        "Ostial kardiyopleji",
+        "Koroner greft üzerinden antegrad kardiyopleji"
+      ],
+      "correct": 2,
+      "explanation": "Ostial uygulama koroner ağızlara doğrudandır; retrograd uygulama koroner sinüs yoludur.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isıtma sırasında oksijenatör çıkış sıcaklığı beynin gerçek sıcaklığını nasıl yansıtabilir?",
+      "options": [
+        "Her zaman eşittir",
+        "Beyin sıcaklığını daima fazla gösterir",
+        "Yalnız miyokard sıcaklığını gösterir",
+        "Beyin sıcaklığını olduğundan düşük gösterebilir"
+      ],
+      "correct": 3,
+      "explanation": "2015 STS/SCA/AmSECT, oksijenatör arteriyel çıkış sıcaklığının ısıtma sırasında serebral perfüzat sıcaklığını olduğundan düşük gösterebileceğini belirtir.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Venting hangi mekanik sorunu önlemeyi amaçlar?",
+      "options": [
+        "Ventrikül distansiyonu",
+        "Arteriyel kanül jet hasarı",
+        "Venöz kanül kollapsı",
+        "Koroner sinüs perforasyonu"
+      ],
+      "correct": 0,
+      "explanation": "Vent kalbe dönen kanı uzaklaştırarak distansiyon ve duvar gerilmesini sınırlar.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort klemp süresi kaydı hangi temel süreyi izlemede kullanılır?",
+      "options": [
+        "Toplam KPB destek süresi",
+        "Miyokard iskemi süresi",
+        "Sistemik dolaşım arresti süresi",
+        "Yeniden ısıtma süresi"
+      ],
+      "correct": 1,
+      "explanation": "Klemp miyokardı sistemik arteriyel dolaşımdan ayırır; iskemi ve koruma planı bu süreyle ilişkilidir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Hipotermi, pıhtılaşma ve trombosit işlevlerini olumsuz etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Soğutma metabolik gereksinimi düşürürken koagülopatiye katkıda bulunabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kardiyoplejide yüksek potasyum kalbi fizyolojik olarak sistolde durdurmayı amaçlar.",
+      "isTrue": false,
+      "explanation": "Hiperkalemik kardiyopleji diyastolik elektromekanik arest sağlamak için kullanılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "De-airing, kalbin içindeki havayı bırakıp ejeksiyonu başlatma işlemidir.",
+      "isTrue": false,
+      "explanation": "De-airing kalp ve aortadan havanın uzaklaştırılmasıdır; TEE gibi yöntemlerle değerlendirilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "topic": "KPB devresi, priming ve hemodilüsyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Hemodilüsyon",
+      "en": "Haemodilution",
+      "definition": "Kan hücresi eklemeden sıvı verilmesiyle hücre ve protein konsantrasyonlarının seyrelmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Priming (prime)",
+      "en": "Priming",
+      "definition": "KPB devresinin kullanım öncesi havasız sıvıyla doldurulması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "RAP (retrograd otolog priming)",
+      "en": "Retrograde autologous priming",
+      "definition": "Arteriyel taraftaki kristaloid prime'ın KPB başlarken hasta kanıyla geriye itilerek uzaklaştırılması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "VAP (venöz antegrad priming)",
+      "en": "Venous antegrade priming",
+      "definition": "Venöz taraftaki prime'ın hastanın venöz kanıyla ileri doğru yer değiştirmesi.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "MiECC",
+      "en": "Minimal invasive extracorporeal circulation",
+      "definition": "Küçük prime'lı, uçtan uca kaplı, kapalı ve santrifüj pompalı KPB sistemi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Roller pompa",
+      "en": "Roller pump",
+      "definition": "Esnek tüpü silindirlerle sıkıştırarak kanı ileri taşıyan oklüzif pompa.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Santrifüj pompa",
+      "en": "Centrifugal pump",
+      "definition": "Dönen koni/çarkla basınç gradyanı oluşturan, debisi afterload'a bağlı pompa.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Isıtıcı-soğutucu ünite (HCU)",
+      "en": "Heater-cooler unit",
+      "definition": "Oksijenatör ve kardiyopleji ısı değiştiricisine sıcaklığı ayarlı su gönderen cihaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Arteriyel hat filtresi",
+      "en": "Arterial line filter",
+      "definition": "Arteriyel hatta mikroembolileri tutan filtre.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyotomi rezervuarı",
+      "en": "Cardiotomy reservoir",
+      "definition": "Cerrahi sahadan aspiratörle veya ventle gelen kanı toplayan, filtreleme ve köpük giderme bölümleri içeren hazne.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz rezervuar",
+      "en": "Venous reservoir",
+      "definition": "Hastadan gelen venöz kanı toplayan açık (sert kabuklu) veya kapalı (torba) hazne.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Seviye sensörü",
+      "en": "Level sensor",
+      "definition": "Rezervuar seviyesi kritik düzeye inince alarm veren veya pompayı durduran sensör.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hava kabarcığı dedektörü",
+      "en": "Bubble detector",
+      "definition": "Arteriyel hatta havayı algılayıp alarm veren güvenlik cihazı.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Gaz mikroembolisi (GME)",
+      "en": "Gaseous microemboli",
+      "definition": "Devrede/kanda oluşan mikroskobik gaz kabarcıkları.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "CO2 yıkama / insüflasyon",
+      "en": "CO2 flush / insufflation",
+      "definition": "Devreyi priming öncesi CO2 ile yıkama veya cerrahi alana CO2 verme.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Hiperkloremik asidoz",
+      "en": "Hyperchloraemic acidosis",
+      "definition": "Salin veya dengesiz solüsyonlarla klor yüklenmesine bağlı metabolik asidoz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Akımı üreten mekanizma",
+      "left": {
+        "title": "Roller pompa",
+        "points": [
+          "Tüpü mekanik sıkıştırarak kanı ilerletir",
+          "Oklüzif pompa ilkesiyle çalışır"
+        ]
+      },
+      "right": {
+        "title": "Santrifüj pompa",
+        "points": [
+          "Dönen koni veya çarkla basınç gradyanı üretir",
+          "Nonoklüzif pompa ilkesiyle çalışır"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

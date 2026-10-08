@@ -1,0 +1,68 @@
+{
+  "topic": "Şantlı KKH ve şant fizyolojisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner vasküler direnç (PVR)",
+      "en": "Pulmonary vascular resistance",
+      "definition": "Pulmoner damar yatağının kan akımına karşı gösterdiği direnç.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Soldan-sağa şant",
+      "definition": "Oksijenlenmiş kanın sol kalp veya sistemik dolaşımdan sağ kalp veya pulmoner dolaşıma geçmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sağdan-sola şant",
+      "definition": "Oksijenlenmemiş kanın sağ kalp veya pulmoner dolaşımdan sistemik arteriyel dolaşıma geçmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fick ilkesi",
+      "definition": "Kan akımının oksijen tüketimi ile arteriyel–venöz oksijen içeriği farkından hesaplanması.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sistemik vasküler direnç",
+      "definition": "Sistemik damar yatağının kan akımına karşı gösterdiği direnç.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner aşırı dolaşım",
+      "definition": "Pulmoner kan akımının gereğinden fazla artması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Şantın akım etkisi",
+      "left": {
+        "title": "Soldan-sağa",
+        "points": [
+          "Oksijenlenmiş kan yeniden pulmoner yatağa gider",
+          "Pulmoner hacim yükü oluşturabilir"
+        ]
+      },
+      "right": {
+        "title": "Sağdan-sola",
+        "points": [
+          "Venöz kan sistemik yatağa geçer",
+          "Arteriyel oksijenlenme azalabilir"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

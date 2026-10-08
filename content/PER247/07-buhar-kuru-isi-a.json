@@ -1,0 +1,181 @@
+{
+  "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Pastörizasyon",
+      "definition": "Isıyla spor dışındaki patojenlerin azaltılması veya inaktive edilmesi. Sporları güvenilir biçimde ortadan kaldıran sterilizasyonla eş anlamlı değildir.",
+      "en": "Pasteurization"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Maruziyet süresi",
+      "definition": "Malzemenin işlem için belirlenen sıcaklık ve diğer koşullarda sterilana maruz bırakıldığı süre. Toplam döngü süresiyle aynı değildir.",
+      "en": "Exposure time"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Otoklav",
+      "definition": "Basınçlı doymuş buharla sterilizasyon sağlayan cihaz. Basınç, gereken yüksek sıcaklığa ulaşılmasını sağlar.",
+      "en": "Autoclave"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Doymuş buhar",
+      "definition": "Yoğuşma noktasındaki, gizli ısısını yüke bırakan buhar.",
+      "en": "Saturated steam"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Buhar kalitesi",
+      "definition": "Sterilizasyon buharının kuruluk oranı ve yoğuşmayan gazlar gibi özellikleri. Yüke uygun buhar temasını etkiler.",
+      "en": "Dryness fraction / steam quality"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yoğuşmayan gaz",
+      "definition": "Sterilizasyon koşullarında yoğuşmayan hava/gaz; buhar temasını engeller.",
+      "en": "Noncondensable gas"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "WHO 2018",
+      "term": "Bekleme süresi",
+      "definition": "Sterilizasyon yükünün gerekli buhar ve sıcaklık koşullarına maruz kaldığı süre. Isınma ve soğuma aşamalarından ayrıdır.",
+      "en": "Holding time"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Gravite sterilizatör",
+      "definition": "Giren buharın havayı alttaki tahliye deliğinden ittiği buhar sterilizatörü.",
+      "en": "Gravity-displacement sterilizer"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ön vakumlu sterilizatör",
+      "definition": "Döngü başında vakum-basınç dalgalarıyla havayı uzaklaştıran sterilizatör.",
+      "en": "Prevacuum (dynamic air removal) sterilizer"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Buharla süpürme-basınç puls sterilizatörü",
+      "definition": "Atmosfer basıncının üzerinde tekrarlanan **buharla süpürme ve basınç pulslarıyla** havayı uzaklaştıran yöntem. Vakum gerektirmeyen buhar sterilizasyonudur.",
+      "en": "Steam-flush pressure-pulse sterilizer"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Masaüstü buhar sterilizatörü",
+      "definition": "Kendi buharını üreten küçük hazneli buhar sterilizatörü. İşlenebilecek malzeme türü üretici talimatıyla belirlenir.",
+      "en": "Tabletop steam sterilizer"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Anında kullanım buhar sterilizasyonu",
+      "definition": "Malzemenin bekletilip depolanması yerine **hemen kullanım** amacıyla yapılan buhar sterilizasyonu. İngilizce IUSS kısaltmasıyla anılır.",
+      "en": "Flash / immediate-use steam sterilization"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kuru ısı sterilizasyonu",
+      "definition": "Yüksek sıcaklıktaki havayla, hücre bileşenlerinin oksidasyonu üzerinden sterilizasyon sağlayan yöntem. Isıya dayanıklı toz ve yağlar için kullanılabilir.",
+      "en": "Dry-heat sterilization"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Statik hava sterilizatörü",
+      "definition": "Isınan havanın doğal konveksiyonla dolaştığı kuru ısı cihazı. Zorlamalı havaya göre ısı aktarımı daha yavaş ve düzensizdir.",
+      "en": "Static-air sterilizer"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Zorlamalı hava sterilizatörü",
+      "definition": "Isınan havanın fanla dolaştırıldığı kuru ısı cihazı. Mekanik konveksiyon ısının yüke aktarılmasını hızlandırır.",
+      "en": "Forced-air sterilizer"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Islak paket",
+      "definition": "Döngü sonunda paket/tepsi içinde nem kalması; kontamine sayılır.",
+      "en": "Wet pack"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Cam boncuk cihazı",
+      "definition": "Isıtılmış cam boncuklarla küçük aletlerin işlenmesini amaçlayan cihaz. CDC kılavuzu, başarısızlık riski nedeniyle FDA onayı olmadan kullanımını önermez.",
+      "en": "Glass bead sterilizer"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuru ısı cihazında hava hareketi",
+      "left": {
+        "title": "Statik hava",
+        "points": [
+          "Doğal konveksiyonla dolaşım",
+          "Isı aktarımı daha yavaş ve düzensizdir"
+        ]
+      },
+      "right": {
+        "title": "Zorlamalı hava",
+        "points": [
+          "Fanla mekanik konveksiyon",
+          "Isı aktarımı daha hızlıdır"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuru ısıda süre-sıcaklık ilişkisi",
+      "left": {
+        "title": "170 °C örneği",
+        "points": [
+          "CDC’de 60 dk maruziyet",
+          "Daha yüksek sıcaklık, daha kısa örnek süre"
+        ]
+      },
+      "right": {
+        "title": "160 °C örneği",
+        "points": [
+          "CDC’de 120 dk maruziyet",
+          "Daha düşük sıcaklık, daha uzun örnek süre"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "topic": "KPB'den çıkış ve komplikasyonlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ayrılmada ventilasyon",
+      "body": "KPB'den ayrılma öncesi ventilasyonun yeniden başlatıldığı ve kalbin ritim-işlevinin yeterli olduğu ekipçe doğrulanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Zor ayrılmayı değerlendirme",
+      "body": "İlk ayrılma denemesinin başarısızlığı veya giderek artan vazoaktif destek gereksinimi, sistematik değerlendirme ve uygun mekanik destek planını gerektirebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijenatörde ilk kontrol",
+      "body": "Beklenmedik oksijenasyon kaybında gaz kaynağı, bağlantı ve gazın oksijenatöre ulaşması değerlendirilir; sorun yalnız membrana bağlanmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hava kilidinin mekanizması",
+      "body": "Venöz hattaki büyük hava birikimi sıvı kolonunu ve sifon etkisini kesebilir; sonuç venöz drenajın durmasıdır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB sonrası koagülopati",
+      "body": "Hemodilüsyon, hipotermi, trombosit işlev bozukluğu ve fibrinoliz kanamaya birlikte katkıda bulunabilir; tek bir neden varsayılmamalıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Protamin sonrası acil yeniden KPB için hangi koşul tekrar doğrulanır?",
+      "answer": "Yeterli antikoagülasyon sağlandığı; devre ve hastanın yeniden KPB için hazır olduğu ekipçe doğrulanır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "KPB'deki sistemik inflamatuvar yanıtın başlıca tetikleyicileri nelerdir?",
+      "answer": "Yabancı yüzey teması, cerrahi travma ve iskemi-reperfüzyon; kompleman, lökositler ve sitokinler sürece katılır.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Hava embolisi bir ekip acilidir",
+      "body": "Masif arteriyel hava embolisinde **pompanın durdurulması ve hatların kontrolü** acil protokolün başlangıcıdır; devamı ekip ve kurum prosedürüyle yürütülür.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kesintiye hazırlık",
+      "body": "KPB sırasında **el krankı, yedek güç ve yedek gaz** hazır bulunmalıdır; hazırlık, olay başladıktan sonra malzeme aramayı önler.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ayrılmada ritim ve dolum",
+      "body": "Pompa desteği azaltılırken kalp ritmi, dolum, ventrikül işlevi ve kapakların çalışması birlikte değerlendirilir. Ayrılmada tek bir basınç değeri yeterli kalp işlevini kanıtlamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

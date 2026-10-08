@@ -1,0 +1,250 @@
+{
+  "topic": "Testler, indikatörler ve geri çağırma",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Fiziksel indikatör",
+      "definition": "Süreci gösteren grafik, gösterge ve çıktılar (süre, sıcaklık, basınç).",
+      "en": "Mechanical indicator"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kimyasal indikatör",
+      "definition": "Sterilizasyon koşullarına renk vb. değişimle yanıt veren gösterge; sterilliği kanıtlamaz.",
+      "en": "Chemical indicator"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Proses indikatörü",
+      "definition": "İşleme girmiş paketleri işlem görmemişlerden ayıran dış gösterge. ISO tip sınıflamasında Tip 1 olarak adlandırılır.",
+      "en": "Process indicator"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Maruziyet bandı",
+      "definition": "Paketi kapalı tutan ve sterilizasyon işlemine maruziyeti gösteren bant. **Sterilizasyon etkinliğinin tek başına kanıtı değildir.**",
+      "en": "Exposure/autoclave tape"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Özel test indikatörü",
+      "definition": "Bowie-Dick gibi özel bir test prosedürü için tasarlanmış gösterge. ISO tip sınıflamasında Tip 2 olarak adlandırılır.",
+      "en": "Specific-use / special test indicator"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Tek değişkenli indikatör",
+      "definition": "Sterilizasyon sürecinin tek kritik değişkenine yanıt vermek üzere tasarlanmış kimyasal gösterge; ISO Tip 3.",
+      "en": "Single-variable indicator"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Çok değişkenli indikatör",
+      "definition": "Sterilizasyon sürecinin iki veya daha fazla kritik değişkenine yanıt veren kimyasal gösterge; ISO Tip 4.",
+      "en": "Multi-variable indicator"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Entegre indikatör",
+      "definition": "Tüm kritik değişkenlere yanıt veren, belirtilen değerleri biyolojik indikatör performansıyla ilişkili kimyasal gösterge; ISO Tip 5.",
+      "en": "Integrating indicator"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Emülasyon indikatörü",
+      "definition": "Belirli bir sterilizasyon döngüsünün tüm kritik değişkenlerine yanıt vermek üzere tasarlanmış döngü doğrulama göstergesi; ISO Tip 6.",
+      "en": "Emulating indicator"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Uç nokta",
+      "definition": "Kİ'de \"geçti\" renk değişiminin oluştuğu nokta.",
+      "en": "Endpoint"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Belirtilen değer",
+      "definition": "Kİ'nin uç noktaya ulaşmasını sağlayan maruziyet koşulları.",
+      "en": "Stated value"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bowie-Dick testi",
+      "definition": "Ön vakumlu otoklavın hava uzaklaştırma yeteneğini ve kaçakları gösteren günlük test; sterilizasyon testi değildir.",
+      "en": "Bowie-Dick test"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Vakum kaçak testi",
+      "definition": "Sterilizatör haznesinin vakum altında hava sızdırma hızını **mbar/dk** olarak ölçen test. Sonuç sayısal kaydedilir.",
+      "en": "Vacuum leak test"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Biyolojik indikatör",
+      "definition": "Sterilizasyona dirençli standardize spor popülasyonuyla öldürücülüğü doğrudan gösteren test.",
+      "en": "Biological indicator"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Geobacillus stearothermophilus",
+      "definition": "Buhar, hidrojen peroksit gaz plazma ve sıvı perasetik asit işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bacillus atrophaeus",
+      "definition": "Etilen oksit ve kuru ısı işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kendi içinde biyolojik indikatör",
+      "definition": "Spor taşıyıcısı ve besiyeri ampulünü tek flakonda birleştiren biyolojik izleme aracı.",
+      "en": "Self-contained BI"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hızlı okumalı biyolojik indikatör",
+      "definition": "Spor kaynaklı enzim aktivitesini floresan sinyalle değerlendirerek erken sonuç veren izleme aracı. Okuma süresi sisteme bağlıdır.",
+      "en": "Rapid-readout BI"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Pozitif kontrol",
+      "definition": "Aynı lottan, sterilizasyona girmeden inkübe edilip canlılığı doğrulayan BI.",
+      "en": "Positive control"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Spor şeridi",
+      "definition": "Bilinen sayıda dirençli bakteri sporunun emdirildiği taşıyıcı şerit. İşlem sonrasında kültürle değerlendirilir.",
+      "en": "Spore strip"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Proses zorlayıcı cihaz",
+      "definition": "Ürünü taklit eden, BI veya sınıf 5 Kİ içeren test paketi/tepsisi.",
+      "en": "Process challenge device"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Huck havlu",
+      "definition": "Bal peteği dokulu pamuklu havlu; BI test paketi yapımında kullanılır.",
+      "en": "Huck towel"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Geri çağırma",
+      "definition": "Şüpheli yük(ler)deki malzemenin steril değil kabul edilip toplatılması ve yeniden işlenmesi.",
+      "en": "Recall"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Karantina",
+      "definition": "Malzemenin (ör. implant) BI negatif çıkana kadar kullanılmadan bekletilmesi.",
+      "en": "Quarantine"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yük kimliği",
+      "definition": "Sterilizatör, döngü (şarj) numarası ve tarihten oluşan yük tanımı; izlenebilirlik ve geri çağırma için.",
+      "en": "Load identification"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Steril malzeme uygunsuzluk takip tablosu",
+      "definition": "Kullanıcı birimlerden bildirilen steril malzeme sorunlarını kaydetmek ve dönemsel izlemek için kullanılan SKS kayıt aracı."
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "title": "Tip 5 ve Tip 6 indikatör",
+      "left": {
+        "title": "Tip 5 entegre",
+        "points": [
+          "Tüm kritik değişkenlere yanıt verir",
+          "Belirtilen değerler BI performansıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Tip 6 emülasyon",
+        "points": [
+          "Belirli döngünün tüm kritik değişkenlerine yanıt verir",
+          "Değerlendirme tanımlı döngüye özgüdür"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Parametrik karar ve biyolojik izlem",
+      "left": {
+        "title": "Parametrik serbest bırakma",
+        "points": [
+          "Valide sürecin kritik fiziksel parametre kayıtlarına dayanır",
+          "Karar biyolojik kültür sonucunu beklemeden tanımlı koşullarla verilir"
+        ]
+      },
+      "right": {
+        "title": "Biyolojik indikatör izleme",
+        "points": [
+          "Dirençli sporların canlılığını değerlendirir",
+          "İnkübasyon/okuma sonucu süreç güvencesine bilgi sağlar"
+        ]
+      }
+    }
+  ]
+}

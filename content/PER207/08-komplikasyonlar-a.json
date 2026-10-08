@@ -3,7 +3,7 @@
   "cards": [
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Sol ventrikül distansiyonu",
       "en": "LV distension",
       "definition": "VA ECMO'da LV'nin boşalamayıp genişlemesi; pulmoner ödem ve trombüs riski.",
@@ -11,7 +11,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "LV dekompresyonu",
       "en": "LV unloading / venting",
       "definition": "LV basınç ve hacminin azaltılması (Impella, İABP, atriyal septostomi, vent kanülü).",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Kazara dekanülasyon",
       "en": "Accidental decannulation",
       "definition": "Kanülün istem dışı çıkması; ani kanama, drenajda hava ve basınç kaybıyla hayatı tehdit eder.",
@@ -59,7 +59,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Chattering",
       "en": "Chattering",
       "definition": "Drenaj kanülünün venöz kollapsla ritmik titremesi ve akım dalgalanması.",
@@ -67,7 +67,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Suck-down",
       "en": "Suck-down",
       "definition": "Yetersiz venöz drenajla pompa girişinde emmenin artması ve ECMO akımının aniden düşmesi.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Hava embolisi",
       "en": "Air embolism",
       "definition": "Dolaşıma hava girmesi; dönüş (arteriyel) tarafta çok daha tehlikeli.",
@@ -99,7 +99,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Ekstremite iskemisi",
       "en": "Limb ischemia",
       "definition": "Kan akımının azalması nedeniyle bir kol veya bacakta doku oksijenlenmesinin yetersiz kalması; femoral VA kanülasyonunun önemli riskidir.",
@@ -107,7 +107,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Kompartman sendromu",
       "en": "Compartment syndrome",
       "definition": "Kapalı fasya bölmesinde artan basıncın kapiller dolaşımı bozarak kas ve sinirleri tehdit etmesi.",
@@ -120,6 +120,26 @@
       "en": "Pneumothorax",
       "definition": "Plevral boşluğa hava girmesi; akciğerin genişlemesini ve solunum işlevini bozabilir.",
       "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Sol kalpte yük ve boşaltma",
+      "left": {
+        "title": "Distansiyon",
+        "points": [
+          "Sol ventrikül dolum basıncı/hacmi artar",
+          "Pulmoner ödem ve staz riski doğurur"
+        ]
+      },
+      "right": {
+        "title": "Dekompresyon",
+        "points": [
+          "Sol kalp basıncı/hacmi azaltılır",
+          "Duvar gerilimi ve stazı azaltmayı amaçlar"
+        ]
+      },
+      "source": "ELSO VA 2021"
     }
   ]
 }

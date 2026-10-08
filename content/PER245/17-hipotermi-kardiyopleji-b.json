@@ -1,0 +1,68 @@
+{
+  "topic": "Hipotermi, kan gazı ve kardiyopleji",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Sıcaklık için genel gradyan",
+      "body": "STS/SCA/AmSECT 2015, soğutma ve ısıtmada oksijenatör arteriyel çıkışı ile venöz giriş arasındaki sıcaklık farkının 10 °C'yi aşmamasını önerir.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Isıtmada daha dar sınır",
+      "body": "STS/SCA/AmSECT 2015'e göre arteriyel çıkış ≥30 °C iken ısıtma gradyanı ≤4 °C ve ısıtma hızı ≤0,5 °C/dk olmalıdır.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "del Nido karışım oranı",
+      "body": "Boston Children's tarifinde 4 kısım kristaloid, 1 kısım hasta kanıyla karıştırılır; kan:kristaloid oranı 1:4'tür.",
+      "source": "Boston Children’s, del Nido 2012"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Sıcak terminal reperfüzyon",
+      "body": "Hot shot, aort klempi kaldırılmadan hemen önce sıcak zenginleştirilmiş kan kardiyoplejisi verilmesidir; miyokard metabolik toparlanmasını desteklemeyi amaçlar.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Retrograd yöntemin sınırları",
+      "body": "Koroner sinüs yoluyla uygulamanın sağ ventriküle dağılımı yetersiz olabilir; persistan sol üst vena kava da solüsyon kaçışına yol açabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "pH-stat yönetiminde CO2 eklenmesi serebral dolaşımı nasıl etkiler?",
+      "answer": "Serebral vazodilatasyonu ve kan akımını artırabilir; soğutma daha homojen olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ventrikül ventinin duvar gerilimini azaltması ne sağlar?",
+      "answer": "Distansiyonu ve miyokard oksijen gereksinimini azaltmaya; subendokardiyal perfüzyonu kolaylaştırmaya yardımcı olur.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Serebral hipertermiden kaçın",
+      "body": "2024 EACTS, oksijenatör arteriyel çıkışını **en fazla 37 °C** ile sınırlamayı önerir; ısıtma kontrollü yürütülür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "HTK hiponatremisinde osmolalite",
+      "body": "HTK sonrası düşük sodyum, solüsyonun bileşimi nedeniyle **izo-ozmotik** olabilir. Sodyum sayısını tek başına değerlendirmek hatalı düzeltmeye yol açabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

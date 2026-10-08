@@ -1,0 +1,75 @@
+{
+  "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel akım ve drenaj",
+      "body": "Venöz drenaj sabitken arteriyel akım geçici azaltılırsa kan hastadan rezervuara kayar; dengesiz akımlar sürekli sürdürülemez.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Drenaj aniden azalırsa",
+      "body": "Venöz hava kilidi veya kanül manipülasyonu dönüşü azalttığında arteriyel çıkış da gözden geçirilir; rezervuarın boşalması hava riski yaratır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "VAVD'nin sınırı",
+      "body": "Artan negatif basınç drenajı desteklese de hemoliz ve gaz mikroembolisi riskini artırabilir; venöz basınç izlenmelidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Transfüzyonda oksijen dengesi",
+      "body": "KPB'de eritrosit transfüzyonu değerlendirmesi hematokritin yanında oksijen sunumu ve ekstraksiyonunu da dikkate alır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Cell saver'ın geri verdiği",
+      "body": "Hücre yıkama sistemi eritrositleri yoğunlaştırır; uzaklaştırılan plazmadaki pıhtılaşma faktörlerini aynı şekilde geri vermez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Venöz rezervuar hastanın altında tutulduğunda drenajı hangi mekanizma destekler?",
+      "answer": "Gravite ve sıvı kolonunun sifon etkisi; hatların havasız ve sıvı dolu olması önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Aşırı vakum güvenlik değildir",
+      "body": "Venöz drenajda daha büyük negatif basınç **hemoliz ve gaz mikroembolisi** riskini artırabilir; basınç sınırları ve izlem önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Dönüş azalınca rezervuarı izle",
+      "body": "Arteriyel pompa venöz dönüşten fazla kan gönderirse rezervuar boşalır; düşük seviye **hava gönderme riski** taşır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "MAP için kılavuz çerçevesi",
+      "body": "2024 EACTS Tablo 40, yeterli akım ve anestezi derinliği doğrulandıktan sonra MAP’ın 50–80 mmHg arasında tutulmasını önerir; bireysel serebral otoregülasyon verileri de hedefi etkileyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Hematokrit ve transfüzyon bağlamı",
+      "body": "2024 EACTS Tablo 45’te KPB sırasında Hct <%18 (Hb 6,0 g/dL) için eritrosit transfüzyonu önerilir. Hct %18–24 aralığında karar doku oksijenlenmesinin değerlendirmesiyle verilir; tek bir sayı bütün hastaları açıklamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

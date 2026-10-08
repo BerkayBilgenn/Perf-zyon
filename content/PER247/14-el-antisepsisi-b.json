@@ -1,0 +1,75 @@
+{
+  "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Cerrahi sabunla hazırlık süresi",
+      "body": "WHO, antimikrobiyal sabunla el-önkol hazırlığında üretici süresini, genellikle **2–5 dk**, esas alır. Kuruma/ürüne göre süre değişebilir; **10 dk** gibi uzun süreler gerekli değildir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Cerrahi ABHR kuru ele uygulanır",
+      "body": "Cerrahi **alkol bazlı el ovma ürünü (ABHR)**, temiz ve **kuru ellere** uygulanır. Eldiven takılmadan önce ellerin ve önkolların tamamen kuruması beklenir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Önlüğün ön yüzü",
+      "body": "Children’s Wisconsin politikasında steril önlüğün ön yüzü **göğüsten masa seviyesine** kadar steril kabul edilir. Boyun, omuz ve koltuk altları steril kabul edilmez."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Önlüğün kol bölgesi",
+      "body": "Kurum politikasında önlük kolları, **dirseğin yaklaşık 5 cm üzerinden manşete** kadar steril kabul edilir. Bu sınır, tüm önlüğün steril sayılması anlamına gelmez."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Ameliyat öncesi banyo",
+      "body": "WHO, ameliyattan önce banyo veya duşu iyi klinik uygulama sayar. **Düz veya antimikrobiyal sabun** kullanılabilir; tek bir sabun formülasyonu şart değildir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Sargılı steril paket hangi kanat sırasıyla açılır?",
+      "answer": "Önce **uzak kanat**, sonra **yan kanatlar**, en son **yakın kanat**. Bu sıra, açan kişinin steril içeriğin üzerinden uzanmasını azaltır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "İki steril ekip üyesi yer değiştirirken nasıl döner?",
+      "answer": "**Yüz yüze veya sırt sırta** yaklaşır. Birinin steril olmayan sırtı, diğerinin steril ön yüzünün üzerinden geçmemelidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Ameliyat bölgesi kılları hangi durumda ve nasıl alınır?",
+      "answer": "Rutin kıl alma önerilmez. Gerekiyorsa **kırpıcı kullanılır**; jiletle tıraşın oluşturduğu deri hasarı enfeksiyon riskini artırabilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Steril alan üzerinden uzanma",
+      "body": "Steril olmayan kişi steril alanın **üzerinden uzanmaz**. Malzemeye erişim yolu, alana ve steril ekibe temas ettirmeyecek biçimde düzenlenir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Kontamine steril eldiveni değiştir",
+      "body": "Steril eldiven kontamine olduğunda **güvenli olan en erken anda değiştirilir**. Diğer eldivenin sağlam görünmesi, kontamine eldivenle steril alana devam etme gerekçesi değildir."
+    }
+  ]
+}

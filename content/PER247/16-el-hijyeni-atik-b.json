@@ -1,0 +1,61 @@
+{
+  "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "title": "Rutin el ovma süresi",
+      "body": "WHO rutin alkol bazlı el ovmanın tamamı için **20–30 sn** belirtir. Bu süre, cerrahi el hazırlığı ürünü için otomatik süre değildir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "title": "Sabun-su süresi",
+      "body": "WHO el yıkama işleminin tamamı için **40–60 sn** belirtir. Görünür kir varsa el ovma yerine **sabun-su** kullanılır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC KKE sıralaması",
+      "title": "KKE giyme sırası",
+      "body": "CDC örneğinde kişisel koruyucu ekipman sırası: **önlük → maske/respiratör → gözlük/siper → eldiven**. Kullanılacak ekipman maruziyet ve izolasyon türüne bağlıdır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "title": "Tıbbi atık torbası ölçütleri",
+      "body": "2017 yönetmeliğinde torba **kırmızı**, çift kat kalınlığı **100 mikron**, taşıma kapasitesi en az 10 kg’dır. Biyotehlike amblemi ve \"DİKKAT! TIBBİ ATIK\" ibaresi bulunur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "title": "Geçici atık depolaması",
+      "body": "2017 yönetmeliğinde tıbbi atık **en fazla 48 saat** bekletilir. Geçici depo **+4 °C** olduğunda bu süre bir haftaya kadar uzatılabilir; koşul sayıdan ayrılmamalıdır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC KKE sıralaması",
+      "question": "Respiratör güvenli çıkarma örneğinde nerede çıkarılır?",
+      "answer": "Hasta odasından **çıkıp kapı kapatıldıktan sonra**. Kontamine ön yüzüne dokunulmaz; çıkarma sonrasında el hijyeni yapılır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC Mesleki Maruziyet 2001",
+      "question": "Kesici-delici yaralanmada ilk yerel bakım nedir?",
+      "answer": "Temas eden deri veya yara **sabun ve suyla**, mukoza **suyla** yıkanır. Kostik madde uygulama veya yaraya dezenfektan enjeksiyonu önerilmez."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "title": "Atık torbasını sıkıştırma",
+      "body": "Tıbbi atık torbası **sıkıştırılmaz, boşaltılmaz veya içeriği başka kaba aktarılmaz**. Torba/kap güvenliği yalnız renk seçmekten ibaret değildir."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "topic": "Alet setleri, paketleme ve izlenebilirlik",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sterilizasyon sargısı",
+      "definition": "Sterilanı geçiren, mikrobiyal bariyer sağlayan dokuma veya dokuma olmayan sargı.",
+      "en": "Sterilization wrap (woven/nonwoven)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Muslin",
+      "definition": "Sterilizasyon paketlemesinde tarihsel olarak kullanılan gevşek dokumalı **pamuklu kumaş**.",
+      "en": "Muslin"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Soyulabilir poşet",
+      "definition": "Kendinden yapışkanlı veya ısıyla kapatılan laminat poşet.",
+      "en": "Peel pouch"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Rulo ambalaj",
+      "definition": "Kesilip uçları kapatılarak poşet yapılan kağıt-plastik tüp.",
+      "en": "Roll stock / reel"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sert konteyner",
+      "definition": "Sterilizasyon, depolama, taşıma ve aseptik sunum için kapaklı kap.",
+      "en": "Rigid container system"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ardışık çift sarma",
+      "definition": "Malzemenin iki sargıyla birbiri ardına sarılması; **paket içinde paket** düzeni oluşturulur.",
+      "en": "Sequential wrapping"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Eşzamanlı çift sarma",
+      "definition": "İki sterilizasyon sargısının tek sarma işlemiyle birlikte uygulanması.",
+      "en": "Simultaneous wrapping"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Çadırlaşma ve boşluk",
+      "definition": "Sterilizasyon sargısının kabarıp açıklık bırakmasıyla oluşan paketleme hataları. Sargı düzgün ve bariyer bütünlüğünü koruyacak biçimde uygulanır.",
+      "en": "Tenting and gapping"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "İzlenebilirlik",
+      "definition": "Bir malzemenin **işlem ve kullanım yolunun kayıtlardan geriye doğru takip edilebilmesi**. Sterilizasyon kayıtlarıyla ilgili kullanım arasında bağlantı kurulur.",
+      "en": "Traceability"
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İki çift sarma biçimi",
+      "left": {
+        "title": "Ardışık çift sarma",
+        "points": [
+          "İki sargı birbiri ardına uygulanır",
+          "Paket içinde paket düzeni oluşur"
+        ]
+      },
+      "right": {
+        "title": "Eşzamanlı çift sarma",
+        "points": [
+          "İki sargı tek sarma adımında uygulanır",
+          "Katlar aynı işlemde birlikte yerleştirilir"
+        ]
+      }
+    }
+  ]
+}

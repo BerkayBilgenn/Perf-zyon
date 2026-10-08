@@ -1,0 +1,143 @@
+{
+  "topic": "Koagülasyon ve antikoagülasyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "UFH’nin trombin ve faktör Xa inhibisyonu için hangi plazma proteini gerekir?",
+      "options": [
+        "Fibrinojen",
+        "Albumin",
+        "Trombosit faktör 4",
+        "Antitrombin"
+      ],
+      "correct": 3,
+      "explanation": "Heparin antitrombin üzerinden etki gösterir; düşük AT heparin yanıtını azaltabilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yüksek UFH dozuna rağmen yeterli antikoagülan etki oluşmuyorsa hangi eksiklik heparin direncine katkıda bulunabilir?",
+      "options": [
+        "Antitrombin eksikliği",
+        "Faktör VIII eksikliği",
+        "Fibrinojen eksikliği",
+        "Protrombin eksikliği"
+      ],
+      "correct": 0,
+      "explanation": "UFH antitrombinin etkisini güçlendirir; AT düşüklüğü heparin yanıtını azaltabilir. Diğer faktör eksiklikleri pıhtılaşma bozukluğu oluşturur.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021’de FIBTEM ve FF-TEG kanallarının pıhtı oluşumunda özellikle değerlendirdiği bileşen hangisidir?",
+      "options": [
+        "Antitrombin aktivitesi",
+        "Fibrinojen katkısı",
+        "Trombosit sayısı",
+        "Heparin plazma konsantrasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Bu kanallar fibrinojenin pıhtı oluşumuna katkısını değerlendirir; heparinazlı kanallar heparin etkisini ayırmaya yöneliktir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "HIT antikorlarının oluşumunda hangi trombosit proteini heparinle kompleks oluşturur?",
+      "options": [
+        "Trombosit glikoprotein Ib",
+        "Trombosit glikoprotein IIb/IIIa",
+        "Trombosit faktör 4",
+        "von Willebrand faktörü"
+      ],
+      "correct": 2,
+      "explanation": "PF4–heparin kompleksi immün HIT’in tipik antijenidir; seçenekler farklı trombosit proteinlerini gösterir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "HIT olasılığını değerlendiren 4T skoru hangi başlığı içerir?",
+      "options": [
+        "Yaşa göre kreatinin klirensi",
+        "Hepatik bilirubin klirensi",
+        "Arteriyel oksijenasyon indeksi",
+        "Yeni tromboz varlığı"
+      ],
+      "correct": 3,
+      "explanation": "4T; trombositopeni, zamanlama, tromboz ve trombosit düşüşünün diğer nedenlerini değerlendirir. Diğer başlıklar organ işlevi göstergeleridir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021 tablosunda DTİ düzeyiyle daha doğrusal yanıtı olan araştırma testi hangisidir?",
+      "options": [
+        "Ekarin pıhtılaşma zamanı",
+        "Anti-Xa aktivitesi",
+        "Protrombin zamanı",
+        "Trombosit sayımı"
+      ],
+      "correct": 0,
+      "explanation": "Ekarin testi DTİ konsantrasyonuyla doğrusal ilişki gösterir; rutin erişimi sınırlıdır. Anti-Xa UFH etkisine, trombosit sayımı hücre sayısına yöneliktir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021’e göre kromojenik anti-Xa ölçümünde renk girişimiyle yalancı düşük sonuca hangi durum yol açabilir?",
+      "options": [
+        "Hiperkalsemi",
+        "Hiperbilirubinemi",
+        "Hipokalemi",
+        "Hipernatremi"
+      ],
+      "correct": 1,
+      "explanation": "Bilirubin artışı plazmanın rengini etkileyerek kromojenik ölçüme girişim yapabilir; bu nedenle anti-Xa ve klinik bulgular birlikte yorumlanır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Heparin kaplı ECMO devresi, sistemik hemostaz izlemi gereksinimini ortadan kaldırır.",
+      "isTrue": false,
+      "explanation": "Kaplama yüzey etkileşimini azaltabilir; sistemik antikoagülasyon değerlendirmesi ve hemostaz izlemi sürer.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO 2021’e göre VA ECMO’da antikoagülasyonsuz rutin yönetim önerilir.",
+      "isTrue": false,
+      "explanation": "2021 kılavuzu VA ECMO için antikoagülasyonu önerir; kanama gibi özel durumlarda karar bireyselleştirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "HIT’te trombositopeniye tromboz eğilimi eşlik edebilir.",
+      "isTrue": true,
+      "explanation": "HIT pro-trombotik bir immün ilaç reaksiyonudur; trombosit düşüşü pıhtılaşma riskini ortadan kaldırmaz.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Anti-Xa testi bivalirudin etkisinin standart doğrudan izlem testidir.",
+      "isTrue": false,
+      "explanation": "Anti-Xa heparinin AT aracılı Xa inhibisyonunu ölçer; DTİ izlemi için kullanılmaz.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fondaparinuks antitrombin üzerinden dolaylı faktör Xa inhibisyonu sağlar.",
+      "isTrue": true,
+      "explanation": "Sentetik pentasakkarit AT’ye bağlanarak Xa inhibisyonunu güçlendirir; direkt Xa inhibitörü değildir.",
+      "source": "DailyMed ARIXTRA"
+    }
+  ]
+}

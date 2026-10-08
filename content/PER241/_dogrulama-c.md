@@ -193,3 +193,7 @@
 - Her dosya kaydından sonra `node scripts/build-data.mjs PER241` hatasız çalıştırıldı. Son durumda 524kart: term216/fact102/flip47/mcq76/tf36/remember27/compare20; dağılım uyarısı yok.
 - 16konu kapsandı; en az konu12de17kart. MCQ doğru konumları 19/19/19/19, TF18doğru/18yanlış. Bütün kartlarda source var; şema, sınırlar ve kalıcı kimlik eşsizliği derleyiciyle kontrol edildi.
 - Ana bilgi terimden sonra ikinci kullanımda farklı soru biçimiyle işlendi; karşılaştırmalarda tekrar eden ilgili kavramların ilişkileri birlikte sunuldu. Eş anlamlı terim, aynalı soru ve otomatik olumsuzlaştırma dizisi oluşturulmadı.
+
+## 2026-10-08 devam incelemesi
+
+Root, 76 MCQ yanında 36 doğru/yanlış kartını da bağımsız okudu; yeni tek-doğru-cevap veya dil düzeltmesi gerekmedi. Doğru/yanlış dağılımı 18/18. Bu okuma bütün kaynakların veya bütün kart türlerinin yeniden doğrulandığı anlamına gelmez; yukarıdaki kaynak erişim sınırları korunur.

@@ -1,0 +1,77 @@
+{
+  "topic": "Erişkin konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Sinüs venozus ASD ile hangi venöz anomali birlikte olabilir?",
+      "options": [
+        "PAPVR",
+        "Persistan sol üst vena kava",
+        "Total anormal pulmoner venöz dönüş",
+        "Kesintili inferior vena kava"
+      ],
+      "correct": 0,
+      "explanation": "Parsiyel anormal pulmoner venöz dönüş, özellikle sinüs venozus ASD ile ilişkilidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort kapağı prolapsusuyla ilişkili VSD grubu hangisidir?",
+      "options": [
+        "İzole musküler apikal",
+        "Subarteriyel infundibuler",
+        "İzole musküler orta septal",
+        "İzole inlet"
+      ],
+      "correct": 1,
+      "explanation": "Subarteriyel VSD aort kapağına yakınlığı nedeniyle prolapsus ve yetersizlikle ilişkili olabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Primum ASD ile sol AV kapak kleftı hangi spektrumun parsiyel formudur?",
+      "options": [
+        "TAPVR",
+        "d-TGA",
+        "AVSD",
+        "DORV"
+      ],
+      "correct": 2,
+      "explanation": "Parsiyel AVSD'de primum ASD ve sol AV kapak kleftı bulunabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fontan dolaşımında uzun dönem kardiyak dışı hangi organ tutulumu izlenir?",
+      "options": [
+        "Böbrek üstü bezi",
+        "Hipofiz",
+        "Tiroid",
+        "Karaciğer"
+      ],
+      "correct": 3,
+      "explanation": "Fontan dolaşımının kronik venöz yükü karaciğer sorunlarıyla ilişkili olabilir.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Musküler VSD birden fazla septal açıklık biçiminde olabilir.",
+      "isTrue": true,
+      "explanation": "Musküler septal defektler tek veya çok sayıda bulunabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Unroofed koroner sinüste eksik duvar sağ ventrikül ile aorta arasındadır.",
+      "isTrue": false,
+      "explanation": "Eksik duvar koroner sinüs ile sol atriyum arasındadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
       "type": "fact",
       "importance": 2,
       "title": "Devre ne kadar oksijen sağlar?",
-      "body": "Devrenin hastaya kattığı O2 = devre akımı × (çıkış − giriş O2 içeriği). Arteriyel O2 içeriği ise **CaO2 = Hb × 1,39 × SaO2 + 0,0034 × PaO2** formülüyle hesaplanır.",
+      "body": "Devrenin O2 katkısı = kan akımı × (çıkış − giriş O2 içeriği); birimler uyumlu tutulur. **CaO2 = Hb × 1,39 × SaO2 + 0,0034 × PaO2**: Hb g/dL, SaO2 0–1 kesir, PaO2 mmHg kullanılır; sonuç mL O2/dL’dir. Akım L/dk ise mL O2/dk için içerik farkı ayrıca 10 ile çarpılır.",
       "source": "ELSO VV 2021"
     },
     {
@@ -54,8 +54,8 @@
         "Ventilatörde FiO2 artırılır"
       ],
       "correct": 0,
-      "explanation": "CO2 eliminasyonunu sweep gaz akımı belirler; sweep'i artırmak oksijenasyonu değiştirmez. Oksijenasyonu ise kan akımı belirler.",
-      "source": "ELSO 2017; ELSO VV 2021"
+      "explanation": "CO2 uzaklaştırılması esas olarak sweep ile ayarlanır. Oksijenasyon kan akımı/kalp debisi oranı, Hb, resirkülasyon ve nativ akciğerden etkilenir; oksijenasyon yeterliyken yüksek PaCO2 için sweep titre edilir.",
+      "source": "ELSO VV 2021"
     },
     {
       "type": "mcq",
@@ -82,7 +82,7 @@
         "Transmembran basınç farkının artması"
       ],
       "correct": 2,
-      "explanation": "Resirkülasyonda oksijenli kan drenaj kanülüne geri emilir: drenaj satürasyonu yükselir, kanın rengi açılır, akım artınca sistemik satürasyon paradoks olarak düşer. ΔP artışı oksijenatör pıhtısını gösterir.",
+      "explanation": "Resirkülasyonda oksijenli kan drenaja geri emilir; drenaj satürasyonu yükselir ve akım artınca sistemik satürasyon düşebilir. Benzer kan akımında ΔP artışı oksijenatör direnci/trombozunu düşündürür; resirkülasyon belirtisi değildir.",
       "source": "ELSO VV 2021"
     },
     {
@@ -116,8 +116,8 @@
     {
       "type": "flip",
       "importance": 1,
-      "question": "VV ECMO'da efektif akım nasıl hesaplanır?",
-      "answer": "Efektif akım = (toplam ECMO akımı − resirkülasyon akımı) / kalp debisi.",
+      "question": "VV ECMO’da resirkülasyon sonrası efektif kan akımı nasıl hesaplanır?",
+      "answer": "**Efektif akım = toplam ECMO akımı − resirkülasyon akımı** (aynı akım birimi). Bu değerin kalp debisine bölünmesi boyutsuz efektif ECMO akımı/kalp debisi oranını verir; oran bir kan akımı değildir.",
       "source": "ELSO VV 2021"
     },
     {
@@ -133,7 +133,7 @@
       "importance": 2,
       "statement": "Diferansiyel hipoksemi en çok santral (aort + sağ atriyum) kanülasyonlu VA ECMO'da görülür.",
       "isTrue": false,
-      "explanation": "Diferansiyel hipoksemi periferik (femoral) VA ECMO'ya özgüdür. Santral kanülasyonda akım antegrad olduğu için daha az görülür.",
+      "explanation": "Diferansiyel hipoksemi özellikle retrograd femoral VA akım ile nativ kalbin desatüre kanı ileri pompalaması birleştiğinde oluşur. Santral antegrad dönüşte bu mekanizma daha az belirgindir; tek bir erişime mutlak olarak özgü değildir.",
       "source": "ELSO VA 2021"
     },
     {

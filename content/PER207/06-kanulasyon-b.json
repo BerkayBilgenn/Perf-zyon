@@ -53,7 +53,7 @@
     {
       "type": "mcq",
       "importance": 2,
-      "question": "Erişkin femoral VA ECMO'da çoğu zaman yeterli olan arteriyel kanül boyutu hangisidir?",
+      "question": "ELSO VA 2021’de erişkin femoral dönüş için çoğu zaman yeterli olabileceği belirtilen arteriyel kanül boyutu hangisidir?",
       "options": [
         "8–10 Fr",
         "15–17 Fr",
@@ -61,7 +61,7 @@
         "6–8 Fr"
       ],
       "correct": 1,
-      "explanation": "19–21 Fr nadiren gerekir (ör. sepsis). 6–8 Fr distal perfüzyon kanülünün, 25–29 Fr VV drenaj kanülünün, 8–10 Fr yenidoğan arteriyel kanülünün boyutudur.",
+      "explanation": "Kılavuz 15–17 Fr kanüllerin sıklıkla yeterli olabileceğini, yüksek debi ihtiyacında daha büyük boyutların gerekebileceğini belirtir. Bu tarihli genel örnek damar anatomisi ve gereken akıma göre bireyselleştirilir.",
       "source": "ELSO VA 2021"
     },
     {
@@ -95,7 +95,7 @@
     {
       "type": "mcq",
       "importance": 2,
-      "question": "VV ECMO'da 180 cm boyundaki erişkin erkekte çoğu zaman yeterli olan drenaj kanülü boyutu hangisidir?",
+      "question": "ELSO VV 2021’in yaklaşık 180 cm boyundaki erişkin örneğinde çoğu zaman uygun görülen drenaj kanülü boyutu hangisidir?",
       "options": [
         "25 Fr",
         "15 Fr",
@@ -103,7 +103,7 @@
         "8 Fr"
       ],
       "correct": 0,
-      "explanation": "Ağır yetmezlikte ~29 Fr daha iyi akım sağlar. Aşırı büyük kanül venöz konjesyon, damar hasarı ve DVT riskini artırır; VV akımı tipik olarak 5–6 L/dk ile sınırlıdır.",
+      "explanation": "ELSO 2021’in örneğinde 25 Fr drenaj kanülü kullanılır; daha ağır hastalıkta daha büyük kanül gerekebilir. Boyut hastanın damar anatomisi, gereken akım ve cihaz özellikleriyle birlikte seçilir.",
       "source": "ELSO VV 2021"
     },
     {
@@ -147,8 +147,15 @@
       "type": "remember",
       "importance": 2,
       "title": "Kanülasyonda spontan solunum riski",
-      "body": "Kanülasyon sırasında hastanın spontan solunumu **hava embolisine** yol açabilir; bu nedenle derin sedasyon ± kas gevşetici gerekir.",
-      "source": "ELSO 2017"
+      "body": "Damarın açık olduğu kanülasyon aşamasında inspiratuvar negatif basınç **hava girişini** kolaylaştırabilir. Sedasyon, ventilasyon ve gerektiğinde kas gevşetici yaklaşımı işlem tekniği ve hastanın durumuna göre planlanır; bütün hastalar için tek zorunlu reçete değildir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Çift lümenli kanülün dönüş jetini ekokardiyografide izlemek neyi doğrular?",
+      "answer": "Oksijenli kan jetinin **triküspit kapağa yöneldiğini** doğrular; uygunsuz yön, etkin destek kaybı ve resirkülasyon oluşturabilir.",
+      "source": "ELSO VV 2021"
     }
   ]
 }

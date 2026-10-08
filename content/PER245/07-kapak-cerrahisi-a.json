@@ -1,0 +1,89 @@
+{
+  "topic": "Kapak hastalıklarının cerrahisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Aort darlığı (AS)",
+      "en": "Aortic stenosis",
+      "definition": "Aort kapağı açıklığının daralmasıyla sol ventrikülden aortaya kan çıkışının engellenmesi.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Aort yetersizliği (AY)",
+      "en": "Aortic regurgitation",
+      "definition": "Diyastolde aort kapağından sol ventriküle patolojik kan geri kaçışı.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mitral darlığı (MS)",
+      "en": "Mitral stenosis",
+      "definition": "Mitral kapak açıklığının daralmasıyla sol atriyumdan sol ventriküle kan geçişinin zorlaşması.",
+      "source": "Mitral darlığı, Diagnostics"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mekanik protez kapak",
+      "en": "Mechanical valve prosthesis",
+      "definition": "Dayanıklı, ömür boyu oral antikoagülasyon gerektiren yapay kapak.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Biyoprotez",
+      "en": "Bioprosthetic valve",
+      "definition": "Biyolojik dokudan üretilen protez kapak; yapısal dejenerasyon riski ve antikoagülasyon gereksinimi hastaya göre değerlendirilir.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TAVI",
+      "en": "Transcatheter aortic valve implantation",
+      "definition": "Kateter aracılığıyla aort kapağına protez yerleştirilmesi.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Konno ameliyatı",
+      "en": "Konno procedure",
+      "definition": "Aort kapak replasmanı ile sol ventrikül çıkış yolunun yama ile genişletilmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Otogreft ve homogreft",
+      "en": "Autograft / homograft",
+      "definition": "Hastanın kendi dokusundan / aynı türden donörden alınan greft.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Aort kökünde kapak yaklaşımı",
+      "left": {
+        "title": "Bentall",
+        "points": [
+          "Kök kompozit kapak-greftle değiştirilir",
+          "Nativ aort kapağı değiştirilir"
+        ]
+      },
+      "right": {
+        "title": "David",
+        "points": [
+          "Kök greftle yeniden oluşturulur",
+          "Nativ aort kapağı korunur"
+        ]
+      },
+      "source": "Aort kökü onarımı, Europe PMC"
+    }
+  ]
+}

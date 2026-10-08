@@ -6,7 +6,7 @@
       "importance": 3,
       "term": "Total yapay kalp",
       "en": "Total artificial heart (TAH)",
-      "definition": "Yetmezlikteki **her iki ventrikülü** çıkarıp yerine konan, implante edilebilir pompa. Başlıca kullanımı, ciddi biventriküler yetmezlikte transplantasyona köprüdür.",
+      "definition": "Nativ ventriküllerin işlevini, onları çıkarıp yerine yerleştirilen yapay pompa sistemiyle karşılayan total kalp replasmanı.",
       "source": "TAH derlemesi, PMC 2023"
     },
     {
@@ -20,28 +20,28 @@
     {
       "type": "compare",
       "importance": 3,
-      "title": "LVAD ile TAH",
+      "title": "Uzun süreli destekte seçenekler",
       "left": {
         "title": "LVAD",
         "points": [
-          "Nativ kalp yerinde kalır",
-          "Yalnızca sol ventrikülü destekler",
-          "Sağ ventrikül yetmezliği önemli bir sorundur"
+          "Sol ventrikül boşaltılması hedeflenir",
+          "Nakle köprü veya destinasyon tedavisi olarak kullanılabilir",
+          "Sağ kalp işlevi aday seçiminde değerlendirilir"
         ]
       },
       "right": {
-        "title": "Total yapay kalp",
+        "title": "TAH",
         "points": [
-          "Her iki ventrikül çıkarılır",
-          "İki ventrikülün yerini alır",
-          "Ciddi biventriküler yetmezlikte kullanılır"
+          "Total kalp replasmanı amaçlanır",
+          "SynCardia geçici sisteminde FDA 2004 endikasyonu nakle köprüdür",
+          "Göğüs içi anatomik uygunluk ayrıca değerlendirilir"
         ]
       },
-      "source": "J Thorac Dis 2016; TAH derlemesi 2023"
+      "source": "TAH derlemesi, PMC 2023"
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Pnömatik sürücü",
       "en": "Pneumatic driver",
       "definition": "Basınçlı gazla diyafram hareketi oluşturarak pnömatik yapay kalp pompalarını çalıştıran dış ünite.",
@@ -49,19 +49,19 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "AbioCor",
       "en": "AbioCor",
       "definition": "Transkütan enerji aktarımı kullanan, tamamen implante edilebilir total yapay kalp tasarımı.",
-      "source": "TAH derlemesi, PMC 2023"
+      "source": "FDA AbioCor HDE 2006"
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Aeson",
       "en": "CARMAT Aeson",
       "definition": "Biyoprotez kan temas yüzeyleri kullanan pulsatil total yapay kalp sistemi.",
-      "source": "TAH derlemesi, PMC 2023"
+      "source": "CARMAT Aeson teknik tanımı 2021"
     }
   ]
 }

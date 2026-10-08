@@ -1,0 +1,68 @@
+{
+  "topic": "Embriyoloji ve fetal dolaşım",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalp tüpünün duvarı",
+      "body": "Primitif kalp tüpünde içte endotel, dışta miyokard ve aralarında hücresiz kardiyak jel bulunur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalbin ilk kasılması",
+      "body": "UMN atlası, primitif kalp tüpünün yaklaşık 22. günde peristaltik dalgalarla atmaya başladığını belirtir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Konotrunkal ayrılma",
+      "body": "Çıkış yolunun aort ve pulmoner gövdeye ayrılmasında nöral krest hücreleri rol oynar; bu sürecin bozulması konotrunkal anomalilerle ilişkilidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Doğumda basınç geçişi",
+      "body": "Akciğer kan akımı arttığında sol atriyum basıncı yükselir ve foramen ovalenin flap'i septuma bastırılır; fonksiyonel kapanma böyle başlar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Fetal kalıntılar",
+      "body": "Kapanmış duktus arteriyozus ligamentum arteriosuma; umbilikal ven ligamentum teres hepatis'e dönüşür.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Primitif ventrikül ve bulbus cordis hangi ventriküllere katkı sağlar?",
+      "answer": "Primitif ventrikül sol ventriküle; bulbus cordis sağ ventrikülün büyük bölümüne katkı sağlar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Fetal umbilikal kanın karaciğeri kısmen atladığı yol hangisidir?",
+      "answer": "Duktus venozus, umbilikal ven kanının bir bölümünü inferior vena kavaya iletir.",
+      "source": "GLOWM Fetal dolaşım"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Duktusa bağımlı konjenital lezyonlarda PGE1'in eğitimde vurgulanan rolü nedir?",
+      "answer": "Duktus arteriyozusun açık kalmasını sağlayarak gereken pulmoner veya sistemik kan akımını desteklemek.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Fetal üç bağlantı",
+      "body": "Fetal dolaşımın üç şantı **duktus venozus, foramen ovale ve duktus arteriyozustur**; birbirinin yerine kullanılmaz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

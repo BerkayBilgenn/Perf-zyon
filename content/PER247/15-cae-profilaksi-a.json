@@ -1,0 +1,153 @@
+{
+  "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Normotermi",
+      "definition": "Ameliyat çevresindeki dönemde **normal vücut sıcaklığının korunması**. Cerrahi alan enfeksiyonunu önleme yaklaşımının bir parçasıdır.",
+      "en": "Normothermia"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Güvenli Cerrahi Kontrol Listesi",
+      "definition": "Sign In – Time Out – Sign Out aşamalı 19 maddelik DSÖ listesi.",
+      "en": "WHO Surgical Safety Checklist"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Sign In",
+      "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **anestezi indüksiyonundan önceki** giriş kontrol aşaması.",
+      "en": "Sign In"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Time Out",
+      "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **cilt insizyonundan önceki** ekip doğrulama aşaması.",
+      "en": "Time Out"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Sign Out",
+      "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **hasta ameliyathaneden çıkmadan önceki** çıkış kontrol aşaması.",
+      "en": "Sign Out"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Cerrahi alan enfeksiyonu",
+      "definition": "Cerrahi insizyon veya ameliyatta açılan organ/boşlukla ilişkili, tanımlanmış sürveyans ölçütlerini karşılayan enfeksiyon.",
+      "en": "Surgical site infection (SSI)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Yüzeysel insizyonel CAE",
+      "definition": "30 gün içinde yalnız deri ve deri altını tutan CAE.",
+      "en": "Superficial incisional SSI"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Derin insizyonel CAE",
+      "definition": "Fasya ve kası tutan CAE (30/90 gün).",
+      "en": "Deep incisional SSI"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Organ/boşluk CAE",
+      "definition": "Fasya/kasın derinindeki, ameliyatta açılan bölgenin CAE'si (ör. mediastinit).",
+      "en": "Organ/space SSI"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Temiz yara",
+      "definition": "Enflamasyonsuz, solunum-sindirim-genital-üriner sisteme girilmeyen yara.",
+      "en": "Clean wound"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Temiz-kontamine yara",
+      "definition": "Bu sistemlere kontrollü koşullarda, olağandışı kontaminasyonsuz girilen yara.",
+      "en": "Clean-contaminated"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Kontamine yara",
+      "definition": "Açık taze kaza yarası, büyük asepsi ihlali veya GİS döküntüsü.",
+      "en": "Contaminated"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Kirli-enfekte yara",
+      "definition": "Devitalize dokulu eski travma yarası veya mevcut enfeksiyon/perforasyon.",
+      "en": "Dirty/infected"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "WHO 2018",
+      "term": "Cerrahi antibiyotik profilaksisi",
+      "definition": "İnsizyon anında dokuda etkin düzey sağlayacak şekilde insizyondan önce verilen antibiyotik.",
+      "en": "Surgical antibiotic prophylaxis (SAP)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Mupirosin dekolonizasyonu",
+      "definition": "Nazal S. aureus taşıyıcılığında kullanılan topikal antibiyotik. WHO, kardiyotorasik ve ortopedik cerrahi geçiren bilinen taşıyıcılarda **%2 burun merhemiyle** dekolonizasyon önerir; diğer cerrahiler ayrı koşullu bağlamdır.",
+      "en": "Mupirocin decolonization"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "term": "Mediastinit",
+      "definition": "Kalp cerrahisi sonrası önemli organ/boşluk CAE türü (NHSN kodu MED).",
+      "en": "Mediastinitis"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Temiz ve kontamine yara",
+      "left": {
+        "title": "Temiz yara",
+        "points": [
+          "Enfeksiyon ve enflamasyon yoktur",
+          "Solunum/sindirim/genital/üriner sisteme girilmez"
+        ]
+      },
+      "right": {
+        "title": "Kontamine yara",
+        "points": [
+          "Taze travma veya büyük steril teknik ihlali vardır",
+          "Belirgin gastrointestinal döküntü bu sınıfa girebilir"
+        ]
+      }
+    }
+  ]
+}

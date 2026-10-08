@@ -1,0 +1,68 @@
+{
+  "topic": "Antikoagülasyon: heparin, ACT, protamin",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT ve cihaz farkı",
+      "body": "2018 STS/SCA/AmSECT, KPB'de ACT >480 sn'yi makul bulur; maksimal aktivasyonlu veya mikroküvet cihazlarda >400 sn sıklıkla terapötik kabul edilir. Eşik cihazla ilişkilidir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT'nin heparin dışı etkenleri",
+      "body": "Hipotermi, hemodilüsyon ve trombosit değişimleri ACT'yi etkileyebilir; uzamış ACT yalnızca yüksek heparin konsantrasyonu anlamına gelmez.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "HIT olasılığında zamanlama",
+      "body": "2018 kılavuzu, heparinden 5–14 gün sonra >%50 trombosit düşüşü veya trombozu HIT değerlendirmesinde dikkate alır; yakın maruziyette seyir farklı olabilir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Protamin fazlası ve kanama",
+      "body": "Gereğinden fazla protamin pıhtılaşmayı bozabilir. Kanama ve uzamış ACT'nin nedeni değerlendirilmeden ek protamin verilmesi uygun değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Bivalirudin ve durgun kan",
+      "body": "Bivalirudin kullanılan KPB'de durgun kanın pıhtılaşması önemli bir sorundur; kapalı devre bölümleri ve infüzyonun sonlandırılma zamanı planlanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Aynı kiloya göre heparin dozu neden her hastada aynı ACT yanıtını sağlamaz?",
+      "answer": "Hastanın heparin duyarlılığı değişebilir; verilen dozun yeterli olduğu işlevsel antikoagülasyon ölçümüyle doğrulanır. Kilo hesabı ölçümün yerini almaz.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "HIT şüphesinde yalnız PF4 antikoru neden yeterli olmayabilir?",
+      "answer": "Antikor varlığı klinik HIT ile aynı değildir; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin ve kardiyotomi aspirasyonu",
+      "body": "2024 EACTS'e göre protamin verilmeye başlanırken **kardiyotomi aspirasyonu durdurulur**; nötralize kanın devrede pıhtılaşması acil dönüşü engelleyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Ciddi protamin reaksiyonu",
+      "body": "Şiddetli hipotansiyon veya sağ kalp bozulmasında protamin reaksiyonu değerlendirilir; **uygulamanın durdurulması** ve gerektiğinde yeterli antikoagülasyonla KPB'ye dönüş kılavuzda yer alır.",
+      "source": "STS/SCA/AmSECT 2018"
+    }
+  ]
+}

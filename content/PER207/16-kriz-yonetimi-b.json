@@ -1,0 +1,47 @@
+{
+  "topic": "Kriz yönetimi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijenatör değişimi tek seçenek değildir",
+      "body": "Gaz yolu nedenleri dışlanıp cihaz yetmezliği doğrulanınca, paralel veya piggyback oksijenatör yöntemleri akımın sürdürülmesine yardım edebilir. Seçim devre yapısı ve kurum protokolüne bağlıdır.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kriz algoritması devreye uyarlanır",
+      "body": "Oksijenatör kurtarma algoritmaları, merkezin devre konfigürasyonuna göre hazırlanır; cihaz değişimi, paralel oksijenatör ve piggyback yöntemleri aynı bağlantıları kullanmaz.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Oksijenatör yetmezliği sanılan durumda önce hangi gaz yolu sorunları araştırılır?",
+      "answer": "Gaz kaynağı bağlantısı, gaz akımı, blender ve gaz/kan oranı kontrol edilir; dış gaz yolu sorunu cihaz içi yetmezlikle karıştırılmaz.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Kurtarma oksijenatörü yöntemi neden ekipçe önceden çalışılmalıdır?",
+      "answer": "Bağlantı noktaları ve klemp sırası devreye göre değişir. **Simülasyon**, acilde görevlerin ve malzeme hazırlığının açık olmasını sağlar.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Devrede hava hasta bağlantısına tehdit",
+      "body": "ECMO devresinde hava görüldüğünde kurum algoritmasına göre **pompa durdurulur ve hastaya yakın hatlar klemplenir**; destek ve hava kaynağı ekipçe değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Elektrik kaybı için yedek güç",
+      "body": "Pompanın **bataryası ve el krankı** erişilebilir olmalıdır. Güç kesintisinde gereksiz enerji tüketimi azaltılır ve akımın sürmesi doğrulanır.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

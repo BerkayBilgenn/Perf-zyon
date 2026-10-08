@@ -1,0 +1,61 @@
+{
+  "topic": "Koroner arter cerrahisi (KABG)",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Greftin distal hedefi",
+      "body": "Koroner baypasın hedefi darlığın distalindeki miyokarda kan ulaştırmaktır; greft seçimi ve hedef damar değerlendirmesi birlikte yapılır.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel greftte rekabet",
+      "body": "Hedef koroner darlığı hafif olduğunda nativ damar akımı greft akımıyla rekabet edebilir; bu durum greft açıklığını olumsuz etkileyebilir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "OPCAB'da cerrahi alan",
+      "body": "Atan kalpte baypasta mekanik stabilizatör ve kalp pozisyonlayıcıları kullanılır; hareketsiz alan kalbin tamamen durdurulmasıyla sağlanmaz.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Koroner tıkanıklık ve dağılım",
+      "body": "Koroner obstrüksiyon antegrad kardiyoplejinin tüm bölgelere ulaşmasını sınırlayabilir; bu nedenle ek uygulama yolu planlanabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Epiaortik değerlendirme",
+      "body": "Epiaortik ultrason, çıkan aortada kanül veya klemp yerini etkileyebilecek plakları değerlendirmek için kullanılabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "KABG'de iki kademeli venöz kanül hangi cerrahi özellik nedeniyle sık kullanılır?",
+      "answer": "Kalp boşluklarının genellikle açılmaması; tek kavoatriyal kanül venöz dönüşü toplayabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Koroner baypas greftleri hangi iki ana doku grubundan seçilir?",
+      "answer": "Arteriyel greftler ve venöz greftler; hedef damar ve hasta özellikleri seçimde değerlendirilir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Aortaya dokunmama yaklaşımının kalsifik aortadaki amacı nedir?",
+      "answer": "Aort üzerindeki klemp ve diğer manipülasyonları azaltarak emboli riskini sınırlamak.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

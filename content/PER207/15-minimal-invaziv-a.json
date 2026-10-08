@@ -11,7 +11,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "VAVD",
       "en": "Vacuum-assisted venous drainage",
       "definition": "Kapalı venöz rezervuara kontrollü vakum uygulayarak venöz dönüşü artırma.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Endoaortik balon oklüzyonu",
       "en": "Endoaortic balloon occlusion",
       "definition": "Çıkan aortun içten balonla tıkanması; kardiyopleji, kök venti ve basınç ölçümü aynı kateterden.",
@@ -35,7 +35,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Transtorasik aort klempi",
       "en": "Transthoracic aortic clamp",
       "definition": "Ayrı küçük göğüs girişinden yerleştirilen aort kros-klempi (ör. Chitwood).",
@@ -56,6 +56,26 @@
       "en": "Venous bubble trap",
       "definition": "Kapalı devrede venöz hattaki havayı ayıran ve MiECC Tip II'nin asgari şartı olan bileşen.",
       "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Aortun tıkanma yöntemi",
+      "left": {
+        "title": "Transtorasik klemp",
+        "points": [
+          "Aortu dıştan sıkıştırır",
+          "Ek göğüs girişinden yerleştirilir"
+        ]
+      },
+      "right": {
+        "title": "Endoaortik balon",
+        "points": [
+          "Aortu lümen içinden tıkar",
+          "Arteriyel yoldan ilerletilir"
+        ]
+      },
+      "source": "Endoaortik balon serisi 2021"
     }
   ]
 }

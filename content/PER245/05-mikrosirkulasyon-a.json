@@ -1,0 +1,83 @@
+{
+  "topic": "Mikrosirkülasyon ve KPB",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mikrosirkülasyon",
+      "en": "Microcirculation",
+      "definition": "Arteriyol, kapiller, glikokaliks ve venülden oluşan, O2 sunumu ve madde alışverişinin yapıldığı damar ağı.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Endotelyal glikokaliks",
+      "en": "Endothelial glycocalyx",
+      "definition": "Damar endotelinin kanla temas eden yüzeyini kaplayan, sıvı ve protein geçişini düzenleyen jel benzeri tabaka.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Starling ilkesi (revize)",
+      "en": "(Revised) Starling principle",
+      "definition": "Kapiller sıvı hareketinde glikokaliksi ve subglikokaliks onkotik gradyanını dikkate alan yaklaşım.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Onkotik basınç",
+      "en": "Oncotic (colloid osmotic) pressure",
+      "definition": "Plazma proteinlerinin (özellikle albümin) suyu damar içinde tutan ozmotik basıncı.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Otoregülasyon",
+      "en": "Autoregulation",
+      "definition": "Perfüzyon basıncındaki değişime rağmen bir organın kan akımını belli sınırlar içinde düzenleyebilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Kızılötesine yakın ışıkla bölgesel (ör. serebral) doku O2 satürasyonunu ölçen noninvaziv izlem.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Oksijen ekstraksiyon oranı (O2ER)",
+      "en": "Oxygen extraction ratio",
+      "definition": "Dokuların kendilerine sunulan oksijenin ne kadarını kullandığını gösteren oran.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kapiller kaçak",
+      "en": "Capillary leak",
+      "definition": "Endotel/glikokaliks hasarıyla sıvı ve proteinin interstisyuma kaçması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sublingual videomikroskopi",
+      "definition": "Dil altı küçük damarların görüntülenmesiyle mikrosirkülasyonun değerlendirilmesi.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İşlevsel şant",
+      "definition": "Kanın dokudaki etkin oksijen alışverişine yeterli katkı sağlamadan mikrodolaşımdan geçmesi.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    }
+  ]
+}

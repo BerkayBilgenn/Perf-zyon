@@ -1,0 +1,133 @@
+{
+  "topic": "Antikoagülasyon: heparin, ACT, protamin",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin (UFH)",
+      "en": "Unfractionated heparin",
+      "definition": "Antitrombini aktive ederek trombin ve faktör Xa'yı inhibe eden antikoagülan.",
+      "source": "EACTS/EACTA/EBCP 2019"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Antitrombin (AT III)",
+      "en": "Antithrombin",
+      "definition": "Trombin ve bazı pıhtılaşma faktörlerini baskılayan doğal inhibitör.",
+      "source": "Heparin direnci, JCVA 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Heparin etkisini izleyen, aktivatörlü tam kan pıhtılaşma testi.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Heparin direnci",
+      "en": "Heparin resistance",
+      "definition": "Heparin verilmesine rağmen yeterli antikoagülasyon yanıtının sağlanamaması.",
+      "source": "Heparin direnci, JCVA 2022"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "PF4",
+      "en": "Platelet factor 4",
+      "definition": "Trombosit alfa granül proteini; heparinle kompleksine karşı HIT antikorları gelişir.",
+      "source": "HIT, J Clin Med 2025"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "4T skoru",
+      "en": "4Ts score",
+      "definition": "HIT olasılığını trombositopeni, zamanlama, tromboz ve başka neden ölçütleriyle puanlayan skor.",
+      "source": "HIT, J Clin Med 2025"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bivalirudin",
+      "en": "Bivalirudin",
+      "definition": "Doğrudan trombini inhibe eden antikoagülan; aktif HIT bağlamında acil KPB için kullanılan heparin alternatiflerinden biridir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Argatroban",
+      "en": "Argatroban",
+      "definition": "Karaciğerde elimine edilen doğrudan trombin inhibitörü.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Protamin",
+      "en": "Protamine",
+      "definition": "Somon spermasından elde edilen, heparini elektrostatik bağlanmayla nötralize eden bazik protein.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Protamin:heparin oranı",
+      "en": "Protamine-to-heparin ratio",
+      "definition": "Heparin nötralizasyonunda kullanılan protamin miktarının heparin miktarına göre ifadesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin rebound",
+      "en": "Heparin rebound",
+      "definition": "Nötralizasyondan sonra dokulardaki heparinin yeniden dolaşıma çıkması.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Heparinle ilişkili trombosit düşüşü",
+      "left": {
+        "title": "Erken nonimmün düşüş",
+        "points": [
+          "İmmün antikor mekanizması yoktur",
+          "Tipik olarak hafif ve geçicidir"
+        ]
+      },
+      "right": {
+        "title": "İmmün HIT",
+        "points": [
+          "PF4–heparin antikorlarıyla ilişkilidir",
+          "Tromboz riski taşıyan tablodur"
+        ]
+      },
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Antikoagülasyon sorununun türü",
+      "left": {
+        "title": "Heparin direnci",
+        "points": [
+          "Heparine yeterli antikoagülasyon yanıtı alınamaz",
+          "Antitrombin yetersizliği araştırılabilir"
+        ]
+      },
+      "right": {
+        "title": "İmmün HIT",
+        "points": [
+          "Heparinle ilişkili antikor aracılı tablo vardır",
+          "Heparin yerine alternatif strateji gerekebilir"
+        ]
+      },
+      "source": "STS/SCA/AmSECT 2018"
+    }
+  ]
+}

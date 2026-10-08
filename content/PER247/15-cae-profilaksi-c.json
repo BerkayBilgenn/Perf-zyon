@@ -1,0 +1,77 @@
+{
+  "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "question": "Yalnız deri ve deri altını tutan CAE hangi anatomik sınıftadır?",
+      "options": [
+        "Derin insizyonel",
+        "Organ/boşluk",
+        "Mediastinal organ/boşluk",
+        "Yüzeysel insizyonel"
+      ],
+      "correct": 3,
+      "explanation": "**Yüzeysel** CAE deri/deri altıyla sınırlıdır; fasya-kas tutulumu derin sınıftadır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Bağırsak sistemine kontrollü, olağandışı kontaminasyonsuz giriş hangi yara sınıfıdır?",
+      "options": [
+        "Temiz-kontamine",
+        "Temiz",
+        "Kontamine",
+        "Kirli-enfekte"
+      ],
+      "correct": 0,
+      "explanation": "Sistemlere kontrollü giriş **Sınıf II temiz-kontamine** yarayı tanımlar; belirgin döküntü varsa sınıf değişir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Mevcut enfeksiyon ve perfore organ hangi yara sınıfına örnektir?",
+      "options": [
+        "Temiz",
+        "Kirli-enfekte",
+        "Temiz-kontamine",
+        "Kontamine"
+      ],
+      "correct": 1,
+      "explanation": "**Sınıf IV kirli-enfekte** yarada etkenler ameliyattan önce alanda bulunur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "question": "Anestezi indüksiyonundan önceki kontrol listesi aşaması hangisidir?",
+      "options": [
+        "Time Out",
+        "Sign Out",
+        "Sign In",
+        "Ameliyat sonrası servis kontrolü"
+      ],
+      "correct": 2,
+      "explanation": "**Sign In**, anestezi indüksiyonundan öncedir; Time Out insizyon, Sign Out çıkış öncesindedir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "statement": "Time Out’ta gerekli görüntülemenin ekranda bulunması doğrulanır.",
+      "isTrue": true,
+      "explanation": "Kontrol listesi insizyon öncesi aşamada **gerekli görüntülemenin gösterimini** sorar."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "statement": "İnsizyonun fasya ve kasını tutan CAE, yüzeysel insizyonel sınıftadır.",
+      "isTrue": false,
+      "explanation": "Fasya/kas tutulumu **derin insizyonel CAE** sınıfına girer; yüzeysel sınıf deri/deri altıyla sınırlıdır."
+    }
+  ]
+}

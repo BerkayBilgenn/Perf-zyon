@@ -1,0 +1,53 @@
+{
+  "topic": "Koroner arter cerrahisi (KABG)",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "KABG",
+      "en": "CABG (coronary artery bypass grafting)",
+      "definition": "Koroner darlığın distaline arteriyel/venöz greftle kan akımı sağlayan ameliyat.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "LIMA / LITA",
+      "en": "Left internal mammary/thoracic artery",
+      "definition": "Koroner baypasta kullanılan sol internal torasik arter.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Safen ven grefti (SVG)",
+      "en": "Saphenous vein graft",
+      "definition": "Bacaktaki safen venden alınarak koroner darlığın distalini beslemek için kullanılan venöz greft.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Rekabetçi akım",
+      "en": "Competitive flow",
+      "definition": "Hedef damar darlığı hafifse doğal akımın greftle yarışıp greft açıklığını azaltması.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aorta dokunmama (no-touch)",
+      "en": "Aortic no-touch technique",
+      "definition": "Kalsifik aortada klemp/kanül kullanmadan yapılan OPCAB stratejisi.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Epiaortik ultrason",
+      "en": "Epiaortic ultrasound",
+      "definition": "Kanülasyon/klemp öncesi çıkan aortadaki plakların doğrudan ultrasonla taranması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

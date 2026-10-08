@@ -1,0 +1,197 @@
+{
+  "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kimyasal sterilan",
+      "definition": "Uygun konsantrasyon ve yeterli uzun temasla bakteri sporları dâhil mikroorganizmaları yok etmek için kullanılan kimyasal ajan.",
+      "en": "Chemical sterilant"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kullanım ömrü",
+      "definition": "Seyreltilmiş ürünün etkin kaldığı süre.",
+      "en": "Use-life"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Temas süresi",
+      "definition": "Dezenfektanın yüzeyle doğrudan temasta kaldığı süre (uygulamadan kurumaya).",
+      "en": "Contact time"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Minimum etkin konsantrasyon",
+      "definition": "Sıvı germisitin iddia edilen etkiyi gösterdiği en düşük aktif madde konsantrasyonu.",
+      "en": "Minimum effective concentration (MEC)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Aktivasyon",
+      "definition": "Ayrı kaplardaki aktivatör ve kimyasalın kullanım öncesi karıştırılması (ör. glutaraldehit).",
+      "en": "Activation"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yüksek düzey dezenfeksiyon",
+      "definition": "Çok sayıda bakteri sporu dışında tüm mikroorganizmaları öldüren işlem.",
+      "en": "High-level disinfection"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Orta düzey dezenfektan",
+      "definition": "Tüberküloz basili dâhil vejetatif bakteri, lipid ve bazı lipid olmayan virüs ve mantarları öldüren; sporları öldürmeyen ajan.",
+      "en": "Intermediate-level disinfectant"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Düşük düzey dezenfektan",
+      "definition": "Tüberküloz basili hariç vejetatif bakteri, lipid virüs, bazı zarfsız virüs ve bazı mantarları öldüren ajan.",
+      "en": "Low-level disinfectant"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hastane dezenfektanı",
+      "definition": "Salmonella, S. aureus ve P. aeruginosa'ya etkinliği gösterilmiş kayıtlı dezenfektan.",
+      "en": "Hospital disinfectant"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sodyum hipoklorit",
+      "definition": "Klor salarak germisit etki gösteren dezenfektan. Organik madde etkinliğini azaltabilir; yüksek konsantrasyonları metalleri aşındırabilir.",
+      "en": "Sodium hypochlorite (bleach)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hipokloröz asit",
+      "definition": "Klorun mikrobisidal etkisinden büyük ölçüde sorumlu **ayrışmamış HOCl formu**.",
+      "en": "Hypochlorous acid (HOCl)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "ppm",
+      "definition": "Bir karışımda **milyonda bir kısım** anlamına gelen konsantrasyon birimi. Seyreltik sulu çözeltilerde yaklaşık mg/L olarak ifade edilebilir.",
+      "en": "Parts per million"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Glutaraldehit",
+      "definition": "Dialdehit yapılı kimyasal germisit. Klasik sulu formülasyonu alkali aktivasyonla sporisidal özellik kazanır; yüksek düzey dezenfeksiyonda kullanılır.",
+      "en": "Glutaraldehyde"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Orto-ftalaldehit",
+      "definition": "Aktivasyon gerektirmeyen aldehit yapılı **yüksek düzey dezenfektan**; OPA kısaltmasıyla anılır.",
+      "en": "Ortho-phthalaldehyde"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hidrojen peroksit",
+      "definition": "Hidroksil serbest radikalleriyle hücre bileşenlerini hasarlayan oksidan. Formülasyon ve yönteme göre dezenfeksiyon veya sterilizasyonda kullanılır.",
+      "en": "Hydrogen peroxide"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Perasetik asit",
+      "definition": "Düşük sıcaklıkta da sporisidal etki gösterebilen oksidan germisit. Otomatik sıvı işleme sistemlerinde kullanılabilir.",
+      "en": "Peracetic (peroxyacetic) acid"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kuaterner amonyum bileşiği",
+      "definition": "Azota dört organik grup bağlı yüzey aktif düşük düzey dezenfektan; sporisid/tüberkülosid değil.",
+      "en": "Quaternary ammonium compound"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Fenolik",
+      "definition": "Fenol türevi dezenfektan; protoplazmik zehir; gözenekli malzemeye emilir.",
+      "en": "Phenolic"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sodyum dikloroizosiyanürat",
+      "definition": "Kloru daha uzun süre tutan, tablet formu stabil klor salıcı bileşik.",
+      "en": "Sodium dichloroisocyanurate (NaDCC)"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Temas süresi ve MEK",
+      "left": {
+        "title": "Temas süresi",
+        "points": [
+          "Germisitin nesneyle temasta kaldığı süre",
+          "Zamanla tanımlanan işlem koşuludur"
+        ]
+      },
+      "right": {
+        "title": "Minimum etkin konsantrasyon",
+        "points": [
+          "İddia edilen etki için gereken en düşük aktif madde düzeyi",
+          "Konsantrasyonla tanımlanan işlem koşuludur"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "YDD ve sıvı kimyasal sterilizasyon",
+      "left": {
+        "title": "Yüksek düzey dezenfeksiyon",
+        "points": [
+          "Çok sayıda bakteri sporu hedefin dışında kalabilir",
+          "Aynı kimyasalın daha kısa uygun temasını kullanabilir"
+        ]
+      },
+      "right": {
+        "title": "Sıvı kimyasal sterilizasyon",
+        "points": [
+          "Sporları da yok edecek uzun temas hedeflenir",
+          "Daldırılabilen cihazın tüm yüzeyleri sterilana ulaşmalıdır"
+        ]
+      }
+    }
+  ]
+}

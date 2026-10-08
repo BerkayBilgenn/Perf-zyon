@@ -1,0 +1,125 @@
+{
+  "topic": "Embriyoloji ve fetal dolaşım",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kalp tüpü",
+      "en": "Heart tube",
+      "definition": "Embriyonik endokardiyal tüplerin orta hatta birleşmesiyle oluşan, gelişen kalbin ilk tübüler yapısı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyak looping",
+      "en": "Cardiac looping",
+      "definition": "Kalp tüpünün kıvrılıp dönerek gelecekteki kalp odacıklarının uzamsal yerleşimini oluşturması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sinus venosus",
+      "en": "Sinus venosus",
+      "definition": "Kalp tüpünün kaudal segmenti; sağ atriyumun düz kısmını, SA düğümü ve koroner sinüsü oluşturur.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Bulbus cordis",
+      "en": "Bulbus cordis",
+      "definition": "Primitif kalp tüpü segmenti; sağ ventrikülü oluşturur.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Truncus arteriosus (embriyolojik)",
+      "en": "Truncus arteriosus",
+      "definition": "Kalp tüpünün kraniyal segmenti; çıkan aorta ve truncus pulmonalise ayrılır.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Septum primum",
+      "en": "Septum primum",
+      "definition": "Ortak atriyumdan atriyoventriküler kanala doğru büyüyen ilk ince atriyal septum.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Ostium primum",
+      "en": "Ostium primum",
+      "definition": "Septum primumun alt kenarı ile AV bölge arasında kalan ilk açıklık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ostium sekundum",
+      "en": "Ostium secundum",
+      "definition": "Septum primumun üst kısmında programlı hücre ölümüyle oluşan ikinci açıklık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Septum sekundum",
+      "en": "Septum secundum",
+      "definition": "Septum primumun sağında gelişen, daha kalın ikinci atriyal septum.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Foramen ovale",
+      "en": "Foramen ovale",
+      "definition": "Fetüste sağdan sola akıma izin veren, septum primumun flap-kapak gibi örttüğü atriyal açıklık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Endokardiyal yastık",
+      "en": "Endocardial cushion",
+      "definition": "AV kanalı bölen ve septumlara katılan mezenkimal kabartılar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aortik (faringeal) ark arterleri",
+      "en": "Aortic arch arteries",
+      "definition": "Embriyonik yutak arklarında oluşan ve yeniden şekillenerek büyük arterlerin bölümlerine katkıda bulunan damar çiftleri.",
+      "source": "Aortik arklar, eğitim kaynağı"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Duktus arteriyozus",
+      "en": "Ductus arteriosus",
+      "definition": "Fetüste pulmoner arteri inen aortaya bağlayan damar (sol 6. ark).",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Duktus venozus",
+      "en": "Ductus venosus",
+      "definition": "Umbilikal ven kanının bir kısmını karaciğeri atlatarak VCI'ya ileten fetal şant.",
+      "source": "GLOWM Fetal dolaşım"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Prostaglandin E1",
+      "en": "Prostaglandin E1 (alprostadil)",
+      "definition": "Duktus arteriyozusun kapanmasını geciktirmek için kullanılan prostaglandin ilacı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

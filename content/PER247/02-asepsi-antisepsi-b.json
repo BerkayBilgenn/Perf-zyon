@@ -1,0 +1,68 @@
+{
+  "topic": "Asepsi, antisepsi ve antiseptikler",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Alkolün konsantrasyonu",
+      "body": "CDC, alkolün optimum bakterisid aralığını hacim/hacim **%60–90** olarak verir. Konsantrasyon **%50’nin altına** indiğinde öldürücü etkinlik belirgin düşer."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Suyun alkol etkisindeki rolü",
+      "body": "Mutlak alkol, su-alkol karışımından daha güçlü bakterisid sayılmaz. **Proteinler su varlığında daha hızlı denatüre olur.**"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İyodoforun rezervuarı",
+      "body": "İyot ve taşıyıcı kompleksi, **serbest iyotu yavaş salan** bir rezervuar oluşturur. Ürünün antiseptik veya yüzey kullanımına uygunluğu kendi formülasyonuna bağlıdır."
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "WHO 2018",
+      "title": "Klorheksidinde hassas dokular",
+      "body": "Cerrahi cilt hazırlığı ürünleri seçilirken klorheksidinin **beyin, meninks, göz ve orta kulakla** temas riski gözetilir; bu alanlara temas ettirilmez."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Alkolün temas süresi sorunu",
+      "body": "Alkolün **hızlı buharlaşması**, uzun ve kesintisiz yüzey temasını güçleştirir. Ürün etiketindeki temas koşulları sağlanmalıdır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Alkol cerrahi alet sterilizasyonu için neden uygun değildir?",
+      "answer": "**Sporisidal değildir** ve proteinden zengin materyale yeterince nüfuz edemez. Küçük yüzeylerde dezenfeksiyon kullanımı, kritik alet sterilizasyonu anlamına gelmez."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Alkollü cilt hazırlığında koterden önce hangi koşul sağlanır?",
+      "answer": "Antiseptik **tamamen kurumuş** olmalıdır. Örtüler ıslatılmamalı ve hastanın altında alkol göllenmesi önlenmelidir; amaç yangın riskini azaltmaktır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Antiseptik iyodofor ile yüzey iyodoforu niçin değiştirilemez?",
+      "answer": "Formülasyon ve serbest iyot düzeyleri kullanım amacına göre farklı olabilir. **Antiseptik ve dezenfektan ürünün etiketi** kendi kullanım yerini belirler."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Yanıcı alkolü uygun sakla",
+      "body": "Alkoller **yanıcıdır**. CDC, serin ve iyi havalandırılan yerde saklanmalarını belirtir; kullanım ve depolama koşulları birlikte düşünülür."
+    }
+  ]
+}

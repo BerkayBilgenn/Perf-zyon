@@ -1,0 +1,37 @@
+{
+  "topic": "Prionlar ve CJD",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Prion",
+      "definition": "Normal prion proteininin anormal konformasyonlu izoformundan oluşan, sterilizasyona en dirençli ajan.",
+      "en": "Prion"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Creutzfeldt-Jakob hastalığı",
+      "definition": "Prionların yol açtığı insan nörodejeneratif hastalığı.",
+      "en": "Creutzfeldt-Jakob disease"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "term": "Yüksek enfektiviteli doku",
+      "definition": "CJD'de beyin, omurilik ve göz.",
+      "en": "High-infectivity tissue"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC CJD 2026",
+      "term": "Düşük enfektiviteli doku",
+      "definition": "CJD'de BOS, böbrek, karaciğer, akciğer, lenf nodu, dalak, plasenta.",
+      "en": "Low-infectivity tissue"
+    }
+  ]
+}

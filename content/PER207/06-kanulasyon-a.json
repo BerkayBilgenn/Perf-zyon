@@ -3,7 +3,7 @@
   "cards": [
     {
       "type": "term",
-      "importance": 3,
+      "importance": 1,
       "term": "Kanül",
       "en": "Cannula",
       "definition": "ECLS'de doğrudan damara yerleştirilen büyük kateter.",
@@ -11,7 +11,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Drenaj kanülü",
       "en": "Drainage (access) cannula",
       "definition": "Hastadan devreye kan alan kanül; adlandırmada tireden önce yazılır.",
@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Dönüş kanülü",
       "en": "Return cannula",
       "definition": "Devreden hastaya kan veren kanül; tireden sonra yazılır.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "French",
       "en": "French gauge",
       "definition": "Kanül veya kateterin dış çapını ifade eden ölçü birimi. Maastricht adlandırmasında kanül boyutu bu birimle bildirilebilir.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Cut-down",
       "en": "Surgical cut-down",
       "definition": "Damarın cerrahi olarak açılıp doğrudan kanüle edilmesi.",
@@ -83,7 +83,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Distal perfüzyon kanülü",
       "en": "Distal perfusion cannula",
       "definition": "Femoral arteriyel ECMO kanülünün distalindeki ekstremiteye kan ulaştırmak amacıyla yerleştirilen ek kanül.",
@@ -112,6 +112,26 @@
       "en": "Near-infrared spectroscopy",
       "definition": "Yakın kızılötesi ışıkla beyin/bacak doku oksijenasyonunun izlenmesi.",
       "source": "ELSO VA 2021"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kanülasyonun anatomik yeri",
+      "left": {
+        "title": "Periferik",
+        "points": [
+          "Femoral, juguler veya aksiller damarlar",
+          "Göğüs boşluğu dışında erişim"
+        ]
+      },
+      "right": {
+        "title": "Santral",
+        "points": [
+          "Kalp veya intratorasik büyük damarlar",
+          "Sternotomi ya da torakotomiyle erişim"
+        ]
+      },
+      "source": "ELSO Maastricht 2019"
     }
   ]
 }

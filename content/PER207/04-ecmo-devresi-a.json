@@ -11,7 +11,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Roller pompa",
       "en": "Roller pump",
       "definition": "Tüpü silindirlerle sıkıştırarak akım sağlayan yarı-oklüzif pompa; giriş servo-haznesi gerekir, çıkış tıkanırsa patlama riski.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "PMP",
       "en": "Polymethylpentene",
       "definition": "Plazma sızıntısı minimal, düşük dirençli, uzun ömürlü, katı (non-mikroporöz) içi boş lif membran materyali.",
@@ -35,7 +35,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Mikroporöz membran",
       "en": "Microporous membrane",
       "definition": "Gözenekli içi boş lif (ör. polipropilen); hızlı prime, ama plazma sızıntısı ve hava geçişi riski.",
@@ -43,7 +43,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Silikon membran",
       "en": "Silicone membrane",
       "definition": "Katı difüzyon membranı (Kolobow tipi); yüksek direnç, uzun ve zor prime.",
@@ -75,7 +75,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Gaz blenderi",
       "en": "Gas blender",
       "definition": "O2 ve havayı karıştırarak FDO2'yi ayarlayan cihaz.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Isı değiştirici",
       "en": "Heat exchanger",
       "definition": "Harici su sistemiyle kan arasında ısı aktararak kan sıcaklığını düzenleyen devre bileşeni.",
@@ -99,7 +99,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Köprü",
       "en": "Bridge",
       "definition": "Hasta yakınında arteriyel ve venöz hatları birleştiren hat; trial-off ve acillerde kullanılır, kapalıyken staz alanıdır.",
@@ -107,7 +107,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Servo-hazne",
       "en": "Bladder",
       "definition": "Roller pompa girişinde venöz dönüş azalınca pompayı yavaşlatan/durduran kollabe olabilen hazne.",
@@ -123,7 +123,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Kabarcık dedektörü",
       "en": "Bubble detector",
       "definition": "Dönüş hattında hava algılayıp alarm veya klemp tetikleyen sensör.",
@@ -131,7 +131,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "El krankı",
       "en": "Hand crank",
       "definition": "Elektrik ve batarya kesildiğinde pompayı elle döndürme düzeneği.",
@@ -147,7 +147,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Pre-oksijenatör basıncı",
       "en": "Pre-oxygenator pressure",
       "definition": "Pompadan sonra, oksijenatöre girmeden önce ölçülen kan basıncı; pompanın karşılaştığı devre direncini değerlendirmeye yardım eder.",
@@ -155,7 +155,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Post-oksijenatör basıncı",
       "en": "Post-oxygenator pressure",
       "definition": "Oksijenatörden sonra dönüş hattında ölçülen basınç; dönüş hattı ve kanül direncinden etkilenir.",
@@ -171,7 +171,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Priming",
       "en": "Priming",
       "definition": "Devrenin kullanım öncesi kristalloid (± kan) ile doldurulup havasının alınması.",
@@ -179,7 +179,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Kan prime",
       "en": "Blood prime",
       "definition": "Özellikle küçük hastada aşırı hemodilüsyonu sınırlamak için devre doldurma sıvısına kan ürünü eklenmesi.",
@@ -219,7 +219,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Hemofiltre / CRRT",
       "en": "Hemofilter / continuous renal replacement therapy",
       "definition": "Devreye eklenerek sıvı ve elektrolit dengesini sağlayan ultrafiltrasyon/sürekli böbrek replasmanı.",
@@ -232,6 +232,46 @@
       "en": "Emergency (primed) circuit",
       "definition": "Kristalloidle prime edilmiş, dakikalar içinde bağlanabilecek yedek devre.",
       "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Membran malzemesi",
+      "left": {
+        "title": "PMP",
+        "points": [
+          "Katı, içi boş lif yapısı",
+          "Plazma sızıntısı daha az"
+        ]
+      },
+      "right": {
+        "title": "Mikroporöz polipropilen",
+        "points": [
+          "Gözenekli, içi boş lif yapısı",
+          "Plazma sızıntısı gaz transferini bozabilir"
+        ]
+      },
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Pompanın giriş ve çıkış tıkanması",
+      "left": {
+        "title": "Giriş tıkanması",
+        "points": [
+          "Venöz drenaj azalır",
+          "Aşırı emme ve kavitasyon gelişebilir"
+        ]
+      },
+      "right": {
+        "title": "Çıkış tıkanması",
+        "points": [
+          "Dönüş direnci yükselir",
+          "Pompa sonrası basınç yükselir"
+        ]
+      },
+      "source": "Lequier, devreler 2013"
     }
   ]
 }

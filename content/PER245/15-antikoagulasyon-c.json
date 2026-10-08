@@ -1,0 +1,77 @@
+{
+  "topic": "Antikoagülasyon: heparin, ACT, protamin",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "UFH'nin antikoagülan etkisini önemli ölçüde sağlayan protein hangisidir?",
+      "options": [
+        "Antitrombin",
+        "Fibrinojen",
+        "Hemoglobin",
+        "Albümin"
+      ],
+      "correct": 0,
+      "explanation": "Heparin antitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu güçlendirir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "HIT için fonksiyonel doğrulama yöntemlerinden biri hangisidir?",
+      "options": [
+        "PF4–heparin antikor ELISA’sı",
+        "Serotonin salınım testi",
+        "Trombosit sayımı",
+        "Aktive pıhtılaşma zamanı"
+      ],
+      "correct": 1,
+      "explanation": "SRA trombosit aktive eden HIT antikorlarının işlevini araştırır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Protaminin temel nötralizasyon hedefi hangi ilaçtır?",
+      "options": [
+        "Argatroban",
+        "Traneksamik asit",
+        "Heparin",
+        "Bivalirudin"
+      ],
+      "correct": 2,
+      "explanation": "Protamin heparini nötralize eder; doğrudan trombin inhibitörleri için aynı geri döndürme işlevi yoktur.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Böbrek işlevi bozuk aktif HIT bağlamında hepatik eliminasyonlu alternatif hangisidir?",
+      "options": [
+        "Bivalirudin",
+        "Dabigatran",
+        "Fondaparinuks",
+        "Argatroban"
+      ],
+      "correct": 3,
+      "explanation": "Argatroban hepatik eliminasyonlu direkt trombin inhibitörüdür; seçim hasta ve kılavuz bağlamında yapılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Heparin rebound, protaminin yağ dokusundan dolaşıma dönmesidir.",
+      "isTrue": false,
+      "explanation": "Rebound, nötralizasyon sonrası heparinin yeniden dolaşıma çıkmasıdır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "ACT heparin konsantrasyonundan bağımsız hiçbir etkenle değişmez.",
+      "isTrue": false,
+      "explanation": "Hipotermi, hemodilüsyon ve trombosit değişimleri gibi etkenler ACT'yi değiştirebilir.",
+      "source": "STS/SCA/AmSECT 2018"
+    }
+  ]
+}

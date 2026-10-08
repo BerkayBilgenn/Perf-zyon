@@ -1,0 +1,75 @@
+{
+  "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Glutaraldehit aktivasyon pH’ı",
+      "body": "Klasik sulu glutaraldehit çözeltisi, alkali ajanlarla **pH 7,5–8,5** aralığına aktive edildiğinde sporisidal özellik kazanır. Ürün formülasyonu ve talimatı esas alınır."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "OPA’nın etiket örneği",
+      "body": "CDC tablosunda **%0,55 OPA** için ABD’de yüksek düzey dezenfeksiyon koşulu **20 °C’de 12 dk** olarak yer alır. Otomatik sistem/ülke etiketleri farklı olabilir."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Hidrojen peroksitin farklı hedefleri",
+      "body": "CDC Tablo 4’te **%7,5 H2O2**, 20 °C’de **30 dk** ile yüksek düzey dezenfeksiyon; **6 saat** ile sterilizasyon koşulu olarak verilir. Süre hedeflenen işleme göre değişir."
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "MEK ölçüm yöntemi",
+      "body": "Yüksek düzey dezenfektanın minimum etkin konsantrasyonu, **ürüne özel etkinlik test şeridiyle** izlenir. SKS değerlendirmesinde **pH metre** bu amaçla kullanılmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuatı emen temizlik malzemesi",
+      "body": "Pamuk ve gazlı bez, kuaterner amonyum bileşiklerinin **aktif maddesini emerek** etkinliği azaltabilir. Uygulama malzemesi dezenfektanla uyumlu seçilir."
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Klor çözeltisinde pH yükselince etkinlik neden azalabilir?",
+      "answer": "Daha etkin **hipokloröz asit (HOCl)**, daha az mikrobisidal hipoklorit iyonuna dönüşür. Bu nedenle pH değişimi kimyasal etkinliği etkiler."
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kuat çözeltisinin kirlenmesi neden önemlidir?",
+      "answer": "Bazı **gram-negatif bakteriler** kontamine kuat çözeltisinde yaşayabilir veya üreyebilir. Dezenfektanın adı, kirlenmiş çözeltinin güvenli olduğu anlamına gelmez."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "OPA’dan sonra durulama neden ihmal edilmez?",
+      "answer": "Kalıntı OPA proteinlerle reaksiyona girip **cilt/mukoza boyanmasına ve reaksiyonlara** yol açabilir. Cihaz ve ürün talimatındaki durulama koşulları uygulanır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Hipokloriti karıştırma",
+      "body": "Hipoklorit **amonyak veya asitle karıştırılmaz**; toksik gaz oluşabilir. Kimyasalların ürün talimatı dışı birleştirilmesi güvenli dezenfeksiyon yöntemi değildir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "OPA’nın ürolojik uyarısı",
+      "body": "CDC, mesane kanseri öyküsü bulunan hastalarda kullanılan ürolojik aletlerde **OPA kullanımından kaçınılmasını** belirtir; bu uyarı ürün seçiminde gözden kaçmamalıdır."
+    }
+  ]
+}

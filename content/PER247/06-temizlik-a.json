@@ -1,0 +1,121 @@
+{
+  "topic": "Yıkama, temizlik ve dekontaminasyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Deterjan",
+      "definition": "Antimikrobiyal iddiası olmayan temizleyici (anyonik, katyonik, amfoterik, noniyonik).",
+      "en": "Detergent"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Enzimatik temizleyici",
+      "definition": "Organik maddenin (ör. proteazlarla protein) uzaklaştırılmasını kolaylaştıran çözelti.",
+      "en": "Enzyme cleaner"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yüzey aktif madde",
+      "definition": "Suyun yüzey gerilimini azaltan ıslatıcı ajan.",
+      "en": "Surfactant"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ultrasonik temizleyici",
+      "definition": "Sıvı içindeki akustik dalgalarla **kavitasyon** oluşturarak yüzeye bağlı kirleri gevşeten cihaz. Tek başına güvenilir dezenfeksiyon sağlamaz.",
+      "en": "Ultrasonic cleaner"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kavitasyon",
+      "definition": "Akustik enerjiyle sıvıda oluşan kabarcıkların çökmesi (implozyon) ile partikül bağlarının kopması.",
+      "en": "Cavitation"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yıkama-dezenfeksiyon cihazı",
+      "definition": "Su jeti + deterjanla yıkayıp termal dezenfeksiyon (ve kurutma) uygulayan otomatik cihaz.",
+      "en": "Washer-disinfector"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Termal dezenfeksiyon",
+      "definition": "Isıyla (sıcak su) yapılan dezenfeksiyon aşaması.",
+      "en": "Thermal disinfection"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ön temizlik",
+      "definition": "Kullanım yerinde kaba kirin alınması/durulama; kan ve dokunun kurumasını önler.",
+      "en": "Precleaning / prerinse"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Protein testi",
+      "definition": "Yıkama sonrası alet yüzeyindeki kalıntı proteinin saptanması.",
+      "en": "Protein residue test"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Akışkanla temizlik",
+      "definition": "Fırça geçmeyen kanalların basınçlı sıvıyla temizlenmesi.",
+      "en": "Fluidics"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "term": "Yağlama",
+      "definition": "Aletin menteşe ve eklemlerinin işlevini korumak için **suda çözünen uygun ürünle bakım yapılması**. Ürün ve alet talimatlarına uyulur.",
+      "en": "Instrument lubrication"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yeniden işleme",
+      "definition": "Temizlik, inceleme, sarma, sterilizasyon ve saklamayı içeren süreç.",
+      "en": "Reprocessing"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Protein testi ve görsel inceleme",
+      "left": {
+        "title": "Protein testi",
+        "points": [
+          "Yıkama sonrası kalıntı proteini araştırır",
+          "Kayıtlı temizlik kontrolünün bir aracıdır"
+        ]
+      },
+      "right": {
+        "title": "Görsel/işlevsel inceleme",
+        "points": [
+          "Yüzey, korozyon, hasar ve çalışmayı değerlendirir",
+          "Kalıntılı/hasarlı aletin uygun ayrılmasını sağlar"
+        ]
+      }
+    }
+  ]
+}

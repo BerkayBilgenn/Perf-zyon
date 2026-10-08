@@ -26,4 +26,6 @@ Kartların nasıl yazılacağı, hedef sayılar (ders başına ~500, toplam 3.00
 
 ## Durum
 
-Ara yayında dört derste **1.905 kart** bulunur: PER141 510, PER207 309, PER241 524, PER243 562. PER207’nin kalan kartları ile PER245 ve PER247’nin üretimi sürüyor. 57 test geçti; ders bazlı üretim ve doğrulama durumu spec §13 ve kalan iş mini spec’inde kayıtlıdır.
+Altı derste **3.144 kart** bulunur: PER141 510, PER207 517, PER241 524, PER243 562, PER245 513, PER247 518. Kart üretimi ders başına en az 450, konu başına en az 15 ve tür dağılımı hedeflerine ulaştı. Kaynak izleri `content/<DERS>/_dogrulama-*.md` kayıtlarında; güncel kontrol kapsamı ve kalan geliştirmeler spec §13’te bulunur.
+
+Bu ara yayında kart üretimi ve yazar kontrolleri tamamlanmıştır. PER207 ve PER245 için bağımsız içerik incelemesi sürmektedir; PER247 için son bağımsız inceleme kaydı henüz tamamlanmamıştır.

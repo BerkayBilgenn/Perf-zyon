@@ -1,0 +1,36 @@
+{
+  "topic": "Perfüzyonda sterilite ve M. chimaera",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Isıtıcı-soğutucu cihaz",
+      "definition": "Hastanın sıcaklığını düzenlemek için kapalı sıvı devresini ısı değiştirici veya battaniyeye bağlayan cihaz. Tank sıvısı kan dolaşımından izoledir.",
+      "en": "Heater-cooler device (HCD)"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Mycobacterium chimaera",
+      "definition": "Su bazlı HCD'lerde üreyen, yavaş üreyen tüberküloz dışı mikobakteri; açık kalp cerrahisi sonrası enfeksiyon."
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Tüberküloz dışı mikobakteri",
+      "definition": "Tüberküloza yol açan gruptan farklı, su ve toprak gibi çevresel kaynaklarda bulunabilen mikobakteriler. **M. chimaera** bu gruba örnektir.",
+      "en": "Nontuberculous mycobacteria"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Kardiyopulmoner baypas",
+      "definition": "Kalp-akciğer makinesiyle dolaşımın ve oksijenasyonun geçici olarak sağlanması; HCD kullanılan işlemler.",
+      "en": "Cardiopulmonary bypass"
+    }
+  ]
+}

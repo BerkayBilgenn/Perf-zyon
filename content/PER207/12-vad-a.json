@@ -3,7 +3,7 @@
   "cards": [
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "INTERMACS profili",
       "en": "INTERMACS profile",
       "definition": "İleri kalp yetmezliğini 1 (kritik şok, \"crash and burn\") ile 7 (ileri NYHA III) arasında sınıflama.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "RVAD",
       "en": "Right ventricular assist device",
       "definition": "RA/RV'den pulmoner artere kan pompalayarak sağ ventrikülü destekleyen cihaz.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Pulsatil VAD",
       "en": "Pulsatile VAD",
       "definition": "Hacim yer değiştirmeli, kapaklı, pnömatik/elektrik membran pompalar (HeartMate XVE, Berlin Heart EXCOR).",
@@ -67,7 +67,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Manyetik levitasyon",
       "en": "Magnetic levitation (maglev)",
       "definition": "Rotorun mekanik yatak olmadan manyetik alanla askıda tutulması; HeartMate 3 gibi destek cihazlarında kullanılır.",
@@ -83,7 +83,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Pulsatilite indeksi",
       "en": "Pulsatility index",
       "definition": "LVAD akımındaki kalp döngüsüyle ilişkili dalgalanmayı gösteren parametre; dolum ve nativ ventrikül işlevinden etkilenir.",
@@ -91,7 +91,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Emme olayı",
       "en": "Suction event",
       "definition": "Yeterince dolmayan ventrikülün pompa tarafından aşırı emilmesiyle akımın bozulması; LVAD’de dolum yetersizliğini düşündürür.",
@@ -99,7 +99,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Pompa trombozu",
       "en": "Pump thrombosis",
       "definition": "Pompa içinde trombüs; LDH, plazma serbest Hb ve güç (W) artışı ile kendini gösterir.",
@@ -107,7 +107,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Giriş kanülü",
       "en": "Inflow cannula",
       "definition": "LVAD’de sol ventrikülden kanı pompanın girişine taşıyan bileşen; sıklıkla apeks üzerinden yerleştirilir.",
@@ -115,10 +115,50 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Çıkış grefti",
       "en": "Outflow graft",
       "definition": "LVAD pompasından çıkan kanı aorta taşıyan vasküler bağlantı.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Tek ve çift ventrikül desteği",
+      "left": {
+        "title": "LVAD",
+        "points": [
+          "Sol ventrikülü destekler",
+          "Sağ kalp yeterliliği ayrıca değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "BiVAD",
+        "points": [
+          "İki ventrikülü destekler",
+          "Sağ ve sol destek pompaları bulunur"
+        ]
+      },
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Uzun süreli destek amacı",
+      "left": {
+        "title": "Transplantasyona köprü",
+        "points": [
+          "Hasta nakil adayıdır",
+          "Destek organ bulunana kadar sürer"
+        ]
+      },
+      "right": {
+        "title": "Destinasyon tedavisi",
+        "points": [
+          "Hasta nakil adayı değildir",
+          "Destek kalıcı tedavi olarak planlanır"
+        ]
+      },
       "source": "Prinzing, LVAD 2016"
     }
   ]

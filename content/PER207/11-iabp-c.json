@@ -1,0 +1,113 @@
+{
+  "topic": "İABP, Impella ve TandemHeart",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP’de diyastolik şişme hangi yararı hedefler?",
+      "options": [
+        "Sistolik art yükün artırılması",
+        "Diyastolik aort basıncının düşürülmesi",
+        "Sol ventrikül duvar geriliminin artırılması",
+        "Koroner perfüzyonun artırılması"
+      ],
+      "correct": 3,
+      "explanation": "Balonun diyastolde şişmesi aort diyastolik basıncını ve koroner perfüzyonu artırır.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP balonu sistol başladığında şişik kalıyorsa hangi zamanlama hatası vardır?",
+      "options": [
+        "Geç sönme",
+        "Erken sönme",
+        "Geç şişme",
+        "Erken şişme"
+      ],
+      "correct": 0,
+      "explanation": "Geç sönmede ventrikül şişik balona karşı ejekte eder; art yük azalması sağlanamaz.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP’nin erken şişmesi hangi fazdaki akımı engelleyebilir?",
+      "options": [
+        "Atriyal kasılma",
+        "Sistolik ejeksiyon",
+        "Geç diyastolik doluş",
+        "İzovolümetrik gevşeme"
+      ],
+      "correct": 1,
+      "explanation": "Aort kapağı kapanmadan şişme sistolik ejeksiyona karışarak ventrikül işini artırabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP gaz hattında kan görülmesi hangi arızayı düşündürür?",
+      "options": [
+        "Oksijenatör trombozu",
+        "LVAD giriş kanülü tıkanması",
+        "Balon rüptürü",
+        "Venöz drenaj kollapsı"
+      ],
+      "correct": 2,
+      "explanation": "Balon yırtılırsa kan gaz lümenine girebilir; bu bulgu balon bütünlüğü kaybını düşündürür.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Impella’daki LV boşaltma etkisi ventrikülün basınç–hacim döngüsünde hangi sonucu hedefler?",
+      "options": [
+        "Diyastolik basıncın sürekli yükselmesi",
+        "Sistolik art yükün sürekli artması",
+        "Regürjitan aort akımının artırılması",
+        "Duvar gerilimi ve oksijen gereksiniminin azalması"
+      ],
+      "correct": 3,
+      "explanation": "Aktif LV boşaltılması ventrikül hacmi ve basıncını azaltarak miyokardın işini ve oksijen gereksinimini azaltmayı hedefler.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "TandemHeart için sol atriyuma erişimde hangi yöntem kullanılır?",
+      "options": [
+        "Transseptal ponksiyon",
+        "Transaortik kapak geçişi",
+        "Koroner sinüs kanülasyonu",
+        "Transtorasik aort klempi"
+      ],
+      "correct": 0,
+      "explanation": "TandemHeart’ın drenaj kanülü atriyal septumdan sol atriyuma ilerletilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "İABP’nin diyastolde sönmesi, standart karşı-atımın temel zamanlamasıdır.",
+      "isTrue": false,
+      "explanation": "Standart zamanlamada diyastol başlangıcında şişme, sistolden hemen önce sönme hedeflenir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "TandemHeart çalışırken sol atriyal drenajın kesilmesi pompanın dolumunu bozabilir.",
+      "isTrue": true,
+      "explanation": "Pompa sol atriyal kan kaynağına bağımlıdır; kanül pozisyonu ve venöz dönüş etkili dolum için gereklidir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "TandemHeart drenaj kanülünün yan deliklerinin sağ atriyuma kayması sol atriyal drenajı güvenle sürdürür.",
+      "isTrue": false,
+      "explanation": "Yan delikler sol atriyumda kalmalıdır; sağ atriyuma kayma istenmeyen şant ve yanlış kan kaynağından drenaj oluşturabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    }
+  ]
+}

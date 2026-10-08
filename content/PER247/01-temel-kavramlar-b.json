@@ -1,0 +1,75 @@
+{
+  "topic": "Temel kavramlar ve tarihçe",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Mutlak kavram, olasılıksal güvence",
+      "body": "\"**Kısmen steril**\" ifadesi doğru değildir. Sterilizasyon hedefi tüm mikrobiyal yaşamı ortadan kaldırmaktır; işlemin güvencesi ise olasılıkla değerlendirilir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "SAL’in anlamı",
+      "body": "**SAL 10⁻⁶**, işlem sonrası bir ürün biriminde canlı mikroorganizma bulunma olasılığının milyonda bir düzeyinde olmasıdır; mikrobiyal sayının yüzde azalmasıyla aynı ölçüt değildir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Alet biyoyükü ve test yükü",
+      "body": "CDC’de kullanılmış alet biyoyükü **10⁰–10³** mikroorganizma düzeyinde; biyolojik indikatörler ise **10⁵–10⁶ spor** ile tanımlanır. Test, doğal kir yükünden daha dirençli bir zorluk oluşturur."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Sayı kadar konum da önemli",
+      "body": "Mikroorganizmaların alet üzerindeki **yerleşimi**, aynı sayıdaki mikroorganizmanın öldürülmesini zorlaştırabilir. Lümen ve birleşim yerleri germisitin ulaşmasını sınırlar."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Lister’in antiseptik ajanı",
+      "body": "CDC’nin tarihsel açıklamasında Joseph Lister’in cerrahi antisepside kullandığı ajan **fenol, yani karbolik asittir**."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Bir germisitin işe yaramasını temizlik neden etkiler?",
+      "answer": "Organik/inorganik kalıntılar **germisiti inaktive edebilir veya mikroorganizmayla temasını engelleyebilir**. Bu nedenle yüksek düzey dezenfeksiyon ve sterilizasyon öncesinde temizlik gerekir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Sterilizasyonun valide edilmesi neyi göstermeyi amaçlar?",
+      "answer": "Önceden tanımlanan işlem koşullarının **tekrarlanabilir biçimde hedeflenen sterilite güvencesini sağlamasını**; yalnız tek bir örnekte üreme görülmemesini değil."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Biyofilm işleme sürecini hangi yoldan güçleştirir?",
+      "answer": "Yüzeye bağlı mikroorganizmaları hücre dışı matriks içinde korur ve **germisitin temasını/penetrasyonunu sınırlar**. Temizlik ve fiziksel uzaklaştırma önem kazanır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kir görünmüyor diye atlama",
+      "body": "Gözle temiz görünme, aletin işlem için yeterince temiz olduğunu tek başına göstermez. Eklemler, oluklar ve kanallar **temizlik/inceleme sürecinde** değerlendirilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Suyun sertliği de kimyasal koşuldur",
+      "body": "Sert sudaki **kalsiyum ve magnezyum gibi iyonlar**, bazı dezenfektanlarla etkileşip etkinliği azaltabilir. Dezenfeksiyon yalnız mikroorganizma türüne ve bekleme süresine bağlı değildir."
+    }
+  ]
+}

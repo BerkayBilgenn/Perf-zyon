@@ -1,0 +1,85 @@
+{
+  "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "question": "Standart önlemlerin uygulanacağı hasta grubu hangisidir?",
+      "options": [
+        "Yalnız kültürü pozitif hastalar",
+        "Yalnız ateşi bulunan hastalar",
+        "Yalnız izolasyon odasındaki hastalar",
+        "Enfeksiyon durumundan bağımsız tüm hastalar"
+      ],
+      "correct": 3,
+      "explanation": "**Standart önlemler** tüm hastalara uygulanır; bilinen enfeksiyon tanısına bağlı değildir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "question": "Tüberküloz için uygun oda/koruyucu yaklaşım hangisidir?",
+      "options": [
+        "Negatif basınçlı AIIR ve respiratör",
+        "Pozitif basınçlı oda ve cerrahi maske",
+        "Ortak açık oda ve cerrahi maske",
+        "Pozitif basınçlı oda ve yüz siperi"
+      ],
+      "correct": 0,
+      "explanation": "Hava yolu bulaşında **AIIR ve uygun respiratör** gerekir; cerrahi maskeyle aynı amaç değildir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "question": "2017 yönetmeliğinde tıbbi atık torbasının azami doluluk oranı hangisidir?",
+      "options": [
+        "Dörtte bir",
+        "Dörtte üç",
+        "Yarı",
+        "Tam dolu"
+      ],
+      "correct": 1,
+      "explanation": "Torba **en fazla ¾** doldurulur; sıkıştırılıp boşaltılarak tekrar kullanılmaz."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC KKE sıralaması",
+      "question": "CDC KKE çıkarma örnek 1’de ilk çıkarılan hangisidir?",
+      "options": [
+        "Maske",
+        "Önlük",
+        "Eldiven",
+        "Gözlük"
+      ],
+      "correct": 2,
+      "explanation": "Örnek 1 sırası eldiven, gözlük/siper, önlük, maske/respiratör ve el hijyenidir; diğer güvenli örnekler de vardır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC KKE sıralaması",
+      "statement": "KKE çıkarma sırasında eller kontamine olursa ara adımda el hijyeni yapılır.",
+      "isTrue": true,
+      "explanation": "El hijyeni yalnız son adıma bırakılmaz; **ara kontaminasyonda hemen** uygulanır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "statement": "Eldiven kullanılması hasta teması sonrası el hijyeni gerekliliğini kaldırır.",
+      "isTrue": false,
+      "explanation": "Eldiven el hijyeninin yerine geçmez; çıkarıldıktan sonra ilgili el hijyeni endikasyonu devam eder."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "statement": "Dolmuş kesici-delici atık kabı boşaltılarak yeniden kullanılabilir.",
+      "isTrue": false,
+      "explanation": "Dolduktan sonra kap **açılamaz, boşaltılamaz ve yeniden kullanılamaz**; uygun şekilde kapatılır."
+    }
+  ]
+}

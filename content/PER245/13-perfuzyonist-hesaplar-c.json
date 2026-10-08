@@ -1,0 +1,77 @@
+{
+  "topic": "Perfüzyonistin görevi ve hesaplamalar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "VYA 1,8 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım kaçtır?",
+      "options": [
+        "4,32 L/dk",
+        "2,40 L/dk",
+        "0,75 L/dk",
+        "6,20 L/dk"
+      ],
+      "correct": 0,
+      "explanation": "1,8 × 2,4 = 4,32 L/dk. İndeks ile toplam akım farklı birimlere sahiptir; bu verilen değerlerle yapılan hesap örneğidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "VYA 2,0 m², toplam akım 4,8 L/dk ise akım indeksi kaçtır?",
+      "options": [
+        "0,42 L/dk/m²",
+        "2,4 L/dk/m²",
+        "9,6 L/dk/m²",
+        "4,8 L/dk/m²"
+      ],
+      "correct": 1,
+      "explanation": "Akım indeksi = 4,8 / 2,0 = 2,4 L/dk/m²; indeks hesaplamak için toplam akım VYA'ya bölünür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Mosteller formülüne boy hangi birimle girilir?",
+      "options": [
+        "Milimetre",
+        "İnç",
+        "Santimetre",
+        "Metre"
+      ],
+      "correct": 2,
+      "explanation": "Verilen formülde boy cm, ağırlık kg'dır; birimleri değiştirmek sonucu değiştirir.",
+      "source": "VYA formülleri, J Clin Med 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Eritrosit içermeyen prime artırılırken eritrosit kütlesi sabitse Hct ne yönde değişir?",
+      "options": [
+        "Artar",
+        "Başlangıç değerinde kalır",
+        "Önce artar, sonra başlangıca döner",
+        "Azalır"
+      ],
+      "correct": 3,
+      "explanation": "Sıvı toplam hacmi artırır ama eritrosit eklemez; Hct dilüsyonla azalır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Beklenen dilüsyonel Hct, KPB öncesi kan koruma planını tartışmak için kullanılabilir.",
+      "isTrue": true,
+      "explanation": "Prime hacmi ve başlangıç kan değerleriyle öngörülen dilüsyon, ekip planına katkı sağlar.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kardiyak indeks toplam kalp debisinin VYA ile çarpımıdır.",
+      "isTrue": false,
+      "explanation": "Kardiyak indeks toplam debinin VYA'ya bölünmesidir.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    }
+  ]
+}

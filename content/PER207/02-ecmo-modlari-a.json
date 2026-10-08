@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Mod",
       "en": "Mode",
       "definition": "Sağlanan organ desteğinin türü (VV, VA, VVA).",
@@ -35,7 +35,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Konfigürasyon",
       "en": "Configuration",
       "definition": "Kanüllerin yerleştirildiği damarlar ve uç pozisyonları.",
@@ -63,6 +63,46 @@
       "term": "V-P",
       "en": "Venopulmonary configuration",
       "definition": "Venöz sistemden alınan kanın pulmoner artere döndürüldüğü, sağ ventrikülü destekleyen konfigürasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Tek ve çift venöz drenaj",
+      "left": {
+        "title": "V-A",
+        "points": [
+          "Venöz drenaj kanülü: bir",
+          "Arteriyel dönüş kanülü: bir"
+        ]
+      },
+      "right": {
+        "title": "VV-A",
+        "points": [
+          "Venöz drenaj kanülü: iki",
+          "Arteriyel dönüş kanülü: bir"
+        ]
+      },
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Kanül hiyerarşisi",
+      "left": {
+        "title": "Büyük harf",
+        "points": [
+          "Majör akım kanülünü belirtir",
+          "Örnek: V, A"
+        ]
+      },
+      "right": {
+        "title": "Küçük harf",
+        "points": [
+          "Destekleyici minör akımı belirtir",
+          "Örnek: d, cep, vnt"
+        ]
+      },
       "source": "ELSO Maastricht 2019"
     }
   ]

@@ -1,0 +1,68 @@
+{
+  "topic": "Mediasten anatomisi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Mediastenin dış sınırları",
+      "body": "Mediastenin yan sınırlarını mediastinal plevra, alt sınırını diyafram oluşturur. Akciğerler bu orta bölmenin dışında bulunur.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Üst-alt ayırıcı düzlem",
+      "body": "Angulus sterni ile T4–T5 intervertebral disk arasındaki transvers düzlem, klasik anatomide üst ve alt mediasteni ayırır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ön bölmenin yaşla değişimi",
+      "body": "Timus çocukta ön mediastene uzanabilir; erişkinde timik dokunun yerini giderek yağ dokusu alır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arkusun dalları",
+      "body": "Arkus aortanın klasik dalları brakiyosefalik trunkus, sol ortak karotis ve sol subklavyen arterdir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Tekrar sternotomi",
+      "body": "Önceki ameliyata bağlı yapışıklıklar kalp veya grefti sternuma yaklaştırabilir. Bu nedenle yeniden giriş öncesi görüntüleme ve alternatif kanülasyon hazırlığı önemlidir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Mediastenin ön ve arka anatomik sınırları nelerdir?",
+      "answer": "Önde sternum, arkada torakal vertebra korpusları bulunur; bu sınırlar mediasteni toraksın orta bölmesi olarak tanımlar.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Alt mediastenin üç bölümünü ayırmada hangi yapı referans alınır?",
+      "answer": "Perikard kesesi. Ön bölüm kesenin önünde, orta bölüm kese ve içerikleri çevresinde, arka bölüm kesenin arkasındadır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kalp cerrahisinde frenik sinir hasarı neden önemlidir?",
+      "answer": "Diyafram hareketini bozabilir ve solunum sorunlarına yol açabilir; soğuk, traksiyon veya koterle hasar oluşabilir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kalp orta mediastendedir",
+      "body": "Kalp ve perikardın **orta mediasten** içinde bulunduğunu hatırla; inen torakal aorta ve özofagus arka mediastendedir.",
+      "source": "Kenhub Anatomi"
+    }
+  ]
+}

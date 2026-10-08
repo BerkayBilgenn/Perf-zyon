@@ -1,0 +1,105 @@
+{
+  "topic": "Ameliyathane ortamı",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Pozitif basınç",
+      "definition": "Havanın odadan dışarı (hastadan koridora) aktığı basınç farkı (ameliyathane).",
+      "en": "Positive pressure"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Saatlik hava değişimi",
+      "definition": "Oda havasının bir saatte değiştirilme sayısı.",
+      "en": "Air changes per hour (ACH)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Cerrahi kıyafet",
+      "definition": "Ameliyathane içi kullanım için ayrılmış, sağlık kuruluşunun onayladığı **temiz cerrahi çalışma giysisi**. Children’s Wisconsin politikasında yarı kısıtlı ve kısıtlı alanlara girerken giyilir.",
+      "en": "Surgical attire"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Geçiş alanı",
+      "definition": "Sokak kıyafetiyle girilip cerrahi kıyafetle çıkılan alan (soyunma odası).",
+      "en": "Transition area"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "ISID Ameliyathane 2018",
+      "term": "Yarı kısıtlı alan",
+      "definition": "Ameliyathanenin temiz/steril depolar, işleme odaları, cerrahi el yıkama istasyonları ve kısıtlı alana giden koridorlar gibi **destek bölümü**. ISID rehberinde yetkili personel ve hastayla sınırlıdır.",
+      "en": "Semi-restricted area"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "ISID Ameliyathane 2018",
+      "term": "Kısıtlı alan",
+      "definition": "Ameliyat odaları ve temiz çekirdeği kapsayan, yüksek asepsi kontrolü hedefleyen bölüm. ISID rehberinde açık steril malzeme veya steril ekip varlığında cerrahi kıyafet, başlık ve maske gerekir.",
+      "en": "Restricted area"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "HEPA filtre",
+      "definition": "Yüksek etkinlikli partikül tutucu hava filtresi. CDC tanımında **0,3 µm** çaplı partiküller için en az **%99,97** etkinlik belirtilir.",
+      "en": "High-efficiency particulate air filter"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Laminer hava akımı",
+      "definition": "Filtre edilmiş havanın cerrahi alan üzerinden yaklaşık sabit hız ve tek yönde akmasını sağlayan sistem.",
+      "en": "Laminar airflow"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Ultra temiz hava",
+      "definition": "Yüksek etkinlikli filtrasyon ve uygun hava akışıyla partikül yükü çok düşürülmüş hava.",
+      "en": "Ultraclean air"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Cerrahi maske",
+      "definition": "Ağız ve burnu örten, büyük damlacıklar ve sıvı sıçramalarına karşı bariyer sağlayan maske. Solunum koruyucuyla aynı koruma amacı taşımaz.",
+      "en": "Surgical mask"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Filtrasyon ve basınç farkı",
+      "left": {
+        "title": "Hava filtrasyonu",
+        "points": [
+          "Havadaki partikülleri uzaklaştırır",
+          "HEPA gibi filtrelerle hava niteliği kontrol edilir"
+        ]
+      },
+      "right": {
+        "title": "Oda basınç farkı",
+        "points": [
+          "Havanın odalar arasındaki yönünü belirler",
+          "Pozitif/negatif ilişki çevreye göre tanımlanır"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Aseptik teknik",
+      "definition": "Steril alanın kurulması ve korunmasına yönelik, kanıta dayalı (AORN) ilkeler bütünü.",
+      "en": "Aseptic technique"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "WHO 2018",
+      "term": "Cerrahi el hazırlığı",
+      "definition": "Steril eldiven öncesi antimikrobiyal sabun veya ABHR ile el-önkol antisepsisi.",
+      "en": "Surgical hand preparation"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "term": "Alkol bazlı el ovma ürünü",
+      "definition": "Ellere uygulanıp ovulan alkol içerikli sıvı/jel/köpük.",
+      "en": "Alcohol-based handrub"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "WHO 2018",
+      "term": "Geçici flora",
+      "definition": "Derinin yüzeysel katmanlarını kolonize eden, el hijyeniyle kolay uzaklaşan mikroorganizmalar.",
+      "en": "Transient flora"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "WHO 2018",
+      "term": "Kalıcı flora",
+      "definition": "Derinin derin katmanlarında yerleşik, uzaklaştırılması daha zor mikroorganizmalar.",
+      "en": "Resident flora"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Çift eldiven",
+      "definition": "İki kat cerrahi eldiven giyilmesi.",
+      "en": "Double gloving"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Steril alan",
+      "definition": "Steril örtülerle oluşturulan, steril malzeme ve ekibin bulunduğu korunan alan.",
+      "en": "Sterile field"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Örtüleme",
+      "definition": "Hasta, mobilya ve ekipmanın steril örtülerle kaplanması.",
+      "en": "Draping"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Mayo masası",
+      "definition": "Alet masası; steril alana alınmadan önce üst, alt ve yanları steril örtüyle kaplanır.",
+      "en": "Mayo stand"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Cerrahi alan hazırlığı",
+      "definition": "Ameliyathanede insizyon bölgesi ve çevresinin antiseptikle hazırlanması.",
+      "en": "Surgical site preparation"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "WHO 2018",
+      "term": "Kırpma",
+      "definition": "Kılın elektrikli kırpıcıyla cilt yüzeyine yakın **kısaltılması** işlemi; clipping terimiyle anılır.",
+      "en": "Clipping"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Geçici ve kalıcı flora",
+      "left": {
+        "title": "Geçici flora",
+        "points": [
+          "Derinin yüzeysel katmanlarında bulunur",
+          "El hijyeniyle daha kolay uzaklaştırılır"
+        ]
+      },
+      "right": {
+        "title": "Kalıcı flora",
+        "points": [
+          "Derinin daha derin katmanlarında yerleşir",
+          "Cerrahi hazırlıkta azaltılıp düşük tutulması hedeflenir"
+        ]
+      }
+    }
+  ]
+}

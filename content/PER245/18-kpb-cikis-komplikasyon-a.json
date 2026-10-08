@@ -1,0 +1,133 @@
+{
+  "topic": "KPB'den çıkış ve komplikasyonlar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Weaning (KPB'den ayrılma)",
+      "en": "Weaning / separation from CPB",
+      "definition": "Pompa desteğinden kalp ve akciğerin kendi işlevine kademeli geçiş.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Dekanülasyon",
+      "en": "Decannulation",
+      "definition": "Cerrahi destek sonunda arteriyel ve venöz kanüllerin çıkarılması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "LCOS",
+      "en": "Low cardiac output syndrome",
+      "definition": "Postoperatif düşük kalp debisi sendromu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "IABP",
+      "en": "Intra-aortic balloon pump",
+      "definition": "İnen aortada diyastolde şişip koroner perfüzyonu artıran, sistolde sönerek afterload'u azaltan geçici destek.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ECMO / ECLS",
+      "en": "Extracorporeal membrane oxygenation / life support",
+      "definition": "Uzun süreli ekstrakorporeal kalp ve/veya akciğer desteği.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "SIRS",
+      "en": "Systemic inflammatory response syndrome",
+      "definition": "KPB'nin kontakt aktivasyon, kompleman, sitokin ve iskemi-reperfüzyon yoluyla tetiklediği sistemik inflamasyon.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Kontakt aktivasyon",
+      "en": "Contact activation",
+      "definition": "Kanın yabancı yüzeyle temasıyla faktör XII–kallikrein–bradikinin sisteminin aktivasyonu.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kompleman aktivasyonu",
+      "en": "Complement activation",
+      "definition": "Kompleman proteinlerinin ardışık aktivasyonuyla C3a ve C5a gibi inflamatuvar mediyatörlerin oluşması.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İskemi-reperfüzyon hasarı",
+      "en": "Ischaemia-reperfusion injury",
+      "definition": "İskemik dokuya kan dönüşüyle artan oksidatif ve inflamatuvar hasar.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Masif hava embolisi",
+      "en": "Massive air embolism",
+      "definition": "Arteriyel hatla hastaya büyük miktarda hava verilmesi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ters kanülasyon",
+      "en": "Reversed cannulation",
+      "definition": "Arteriyel ve venöz hatların kanüllere ters bağlanması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Oksijenatör yetmezliği",
+      "en": "Oxygenator failure",
+      "definition": "Yüksek FiO2 ve gaz akımına rağmen oksijenasyonun bozulması veya yüksek transmembran basınç.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Su–kan kaçağı",
+      "en": "Water-to-blood leak",
+      "definition": "Isı değiştiricideki sızıntıyla suyun kana karışması (volüm artışı, pH ve Hct düşüşü, hemoliz).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "El krankı",
+      "en": "Hand crank",
+      "definition": "Güç kesintisinde roller pompayı elle çevirmeye yarayan aparat.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Mycobacterium chimaera",
+      "en": "Mycobacterium chimaera",
+      "definition": "Isıtıcı-soğutucu ünitelerle ilişkili tüberküloz dışı mikobakteri enfeksiyonu etkeni.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Pump lung",
+      "en": "Pump lung",
+      "definition": "KPB sonrası pulmoner ödem ve akciğer disfonksiyonu.",
+      "source": "Kumar, J Thorac Dis 2020"
+    }
+  ]
+}

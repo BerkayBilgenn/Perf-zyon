@@ -1,0 +1,21 @@
+{
+  "topic": "ECMO devresi ve basınçlar",
+  "cards": [
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Membran oksijenatörde kan ile gaz arasında fiziksel bir membran bulunur.",
+      "isTrue": true,
+      "explanation": "Gaz değişimi membran üzerinden gerçekleşir; kan ve gaz doğrudan karışmaz.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Oksijenatörün gaz çıkışını kapatmak gaz fazı basıncını güvenle düşürür.",
+      "isTrue": false,
+      "explanation": "Gaz çıkışının engellenmesi gaz fazı basıncını yükseltebilir; basınç tahliyesi ve üreticiye uygun açık gaz çıkışı gerekir.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

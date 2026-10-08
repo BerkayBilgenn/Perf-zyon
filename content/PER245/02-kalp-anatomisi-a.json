@@ -1,0 +1,121 @@
+{
+  "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Perikard",
+      "en": "Pericardium",
+      "definition": "Kalbi ve büyük damar köklerini saran, fibröz ve seröz (parietal + visseral/epikard) katmanlı kese.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyak tamponad",
+      "en": "Cardiac tamponade",
+      "definition": "Esnemeyen perikard içinde biriken sıvı/kanın kalbi sıkıştırıp debiyi düşürmesi.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Transvers perikardiyal sinüs",
+      "en": "Transverse pericardial sinus",
+      "definition": "Aorta–truncus pulmonalis ile VCS–pulmoner venler arasındaki perikard geçidi.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Valsalva sinüsü (aort sinüsü)",
+      "en": "Aortic sinus",
+      "definition": "Aort kapak kusplarının arkasındaki genişlemeler.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Korda tendinea",
+      "en": "Chordae tendineae",
+      "definition": "AV kapak yaprakçıklarını papiller kaslara bağlayan, prolapsusu önleyen fibröz kirişler.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Semilunar kapak",
+      "en": "Semilunar valve",
+      "definition": "Ventrikül çıkışlarındaki üç kusplu aort ve pulmoner kapaklar.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sinüs koronaryus (koroner sinüs)",
+      "en": "Coronary sinus",
+      "definition": "Kardiyak venlerin çoğunu toplayıp sağ atriyuma açılan büyük ven.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Thebesius venleri",
+      "en": "Thebesian veins (venae cordis minimae)",
+      "definition": "Doğrudan kalp boşluklarına açılan küçük venler.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Koroner dominans",
+      "en": "Coronary dominance",
+      "definition": "Arka inen arteri (PDA) veren arterin adıyla tanımlanan baskınlık.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Sol ön inen arter (LAD)",
+      "en": "Left anterior descending artery",
+      "definition": "Sol koroner arterin ön interventriküler olukta apekse inen dalı.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Fossa ovalis",
+      "en": "Fossa ovalis",
+      "definition": "İnteratriyal septumun sağ yüzünde, kapanmış foramen ovalenin kalıntısı olan çukur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Persistan sol VCS (PLSVC)",
+      "en": "Persistent left superior vena cava",
+      "definition": "Sol anterior kardinal venin gerilememesi; çoğunlukla koroner sinüse açılır ve retrograd kardiyoplejiyi bozar.",
+      "source": "PLSVC, Life 2026"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "PDA kısaltmasının iki kullanımı",
+      "left": {
+        "title": "Arka inen arter",
+        "points": [
+          "Koroner dolaşımın bir dalı",
+          "Arka interventriküler olukta seyreder"
+        ]
+      },
+      "right": {
+        "title": "Patent duktus arteriyozus",
+        "points": [
+          "Fetal aort-pulmoner bağlantının açık kalması",
+          "Sistemik ve pulmoner dolaşım arasında şant yapar"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

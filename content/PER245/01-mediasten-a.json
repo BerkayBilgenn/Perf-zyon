@@ -1,0 +1,70 @@
+{
+  "topic": "Mediasten anatomisi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Mediasten",
+      "en": "Mediastinum",
+      "definition": "İki plevra kesesi arasında, akciğerler dışındaki göğüs organlarını içeren orta bölme.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Angulus sterni",
+      "en": "Sternal angle",
+      "definition": "Manubrium ile sternum gövdesinin birleşimindeki açı.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Üst mediasten",
+      "definition": "Angulus sterni düzleminin üstünde kalan; timus, arkus aorta, trakea ve büyük venleri içeren mediasten bölümü.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Alt mediasten",
+      "definition": "Transvers torasik düzlemin altında kalan ve perikarda göre ön, orta ve arka bölümlere ayrılan bölge.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ön mediasten",
+      "definition": "Sternum ile perikard arasındaki; yağ, bağ dokusu ve lenf yapıları içeren alt mediasten bölümü.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Median sternotomi",
+      "definition": "Sternumun orta hattan açılmasıyla kalp ve mediastene erişim sağlayan cerrahi yaklaşım.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Azygos sistemi",
+      "definition": "Toraks duvarının venöz kanını üst vena kavaya taşıyan azygos ve hemiazygos ven ağı.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Ductus thoracicus",
+      "definition": "Lenfin sistemik venöz dolaşıma taşınmasını sağlayan, arka mediastenden geçen ana lenf kanalı.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Frenik sinir",
+      "definition": "Diyaframın motor siniri; perikardla yakın seyreder ve kalp cerrahisinde hasarlanması diyafram işlevini bozabilir.",
+      "source": "TeachMeAnatomy"
+    }
+  ]
+}

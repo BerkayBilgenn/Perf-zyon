@@ -1,0 +1,91 @@
+{
+  "topic": "ECMO yönetimi, ayırma ve transport",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde FiO2 için hangi üst sınır verilir?",
+      "options": [
+        "%90",
+        "%60",
+        "%80",
+        "%100"
+      ],
+      "correct": 1,
+      "explanation": "Tablo 5’te FiO2 ≤ %60 yer alır; PEEP, PaO2 ve akciğer iyileşmesi de değerlendirilir. Tek başına FiO2 ayırma kararı değildir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "VV ECMO’da sweep kapalı ayırma denemesi sırasında ne izlenir?",
+      "options": [
+        "Balon augmentasyon dalgası",
+        "LVAD sürücü kablosunun akımı",
+        "Kan gazı ve solunum eforu",
+        "Purge basıncı ve solüsyonu"
+      ],
+      "correct": 2,
+      "explanation": "Sweep kapatılınca gaz değişimi nativ akciğere bırakılır; kan gazı ve solunum yükü değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "VA ECMO ayırma denemesinde düşük akım altında hangi inceleme özellikle nativ kalp işlevini gösterir?",
+      "options": [
+        "Akciğer oskültasyonu",
+        "Bronkoskopi",
+        "Plevral ultrasonografi",
+        "Ekokardiyografi"
+      ],
+      "correct": 3,
+      "explanation": "Ekokardiyografi, ventrikül işlevi ve ejeksiyonun destek azalırken nasıl değiştiğini gösterir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "ECMO transportunda tüp gerilimini azaltan hazırlık hangisidir?",
+      "options": [
+        "Hasta ve ECMO arabasının eşgüdümlü hareketi",
+        "Drenaj hattının daha fazla gerilmesi",
+        "Kanül sabitlemesinin gevşetilmesi",
+        "Devrenin hasta yatağından uzaklaştırılması"
+      ],
+      "correct": 0,
+      "explanation": "Hasta ve devre birlikte hareket ettirilir; bağlantıların çekilmesi önlenir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hemodinamik stabilizasyon sonrası ECMO’da fazla sıvının uzaklaştırılmasında hangi yöntem kullanılabilir?",
+      "options": [
+        "Aort balon oklüzyonu",
+        "Hemofiltrasyon",
+        "Sefalik kanülasyon",
+        "Atriyal septostomi"
+      ],
+      "correct": 1,
+      "explanation": "Hemofiltrasyon sıvı dengesine yardım eder; diğer seçenekler drenaj veya yapısal destek yöntemleridir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde plato basıncı ≤ 28 cmH2O yer alır.",
+      "isTrue": true,
+      "explanation": "Bu tarihli kılavuzda ≤ 28 cmH2O, düşük tidal hacim ve kabul edilebilir solunum yüküyle birlikte değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "ECMO hastaneler arası transportunda gaz ve güç kaynaklarına ek yedek malzeme hazırlığı da gerekir.",
+      "isTrue": true,
+      "explanation": "Transport ekibi devre arızası ve kanül sorunu gibi olaylara karşı kendine yeterli olmalıdır.",
+      "source": "ELSO Genel 2017"
+    }
+  ]
+}

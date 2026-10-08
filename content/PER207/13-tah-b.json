@@ -6,21 +6,21 @@
       "importance": 2,
       "title": "İnsana takılan ilk yapay kalp",
       "body": "4 Nisan 1969'da **Liotta ve Cooley** (Houston) insana ilk total yapay kalbi köprü olarak taktı; 64 saat sonra hastaya donör kalp nakledildi.",
-      "source": "TAH derlemesi, PMC 2023"
+      "source": "Cooley–Liotta, AJC 1969"
     },
     {
       "type": "fact",
       "importance": 2,
       "title": "Jarvik-7 ve Barney Clark",
-      "body": "1 Aralık 1982'de William DeVries, **Jarvik-7**'yi Barney Clark'a kalıcı (destinasyon) amaçla taktı. Hasta **112 gün** yaşadı ve yaklaşık 160 kg'lık bir konsola bağlıydı.",
-      "source": "TAH derlemesi, PMC 2023"
+      "body": "Aralık 1982’de William DeVries, **Jarvik-7**’yi Barney Clark’a kalıcı amaçla taktı. Hasta **112 gün** yaşadı. Utah arşivi ameliyatı 1–2 Aralık gecesi olarak kaydeder; kaynaklar arasındaki gün ve konsol ağırlığı farklılıkları sınav bilgisi yapılmaz.",
+      "source": "University of Utah TAH arşivi"
     },
     {
       "type": "fact",
       "importance": 2,
       "title": "SynCardia nasıl çalışır?",
-      "body": "Pnömatik çalışan, diyaframlı iki pompadan oluşur; **70 cc ve 50 cc** modelleri vardır. Tipik akımı 7–9 L/dk'dır.",
-      "source": "TAH derlemesi, PMC 2023"
+      "body": "Pnömatik diyaframlarla çalışan iki yapay ventrikülden oluşur. FDA 2004’ün 70 mL sistemi için maksimum dinamik atım hacmi **70 mL**, bildirilen kapasite 9,5 L/dk’ya kadardır. Bu cihaz özelliği, bütün hasta ve modeller için hedef debi değildir.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
       "type": "fact",
@@ -81,18 +81,46 @@
     {
       "type": "tf",
       "importance": 2,
-      "statement": "Total yapay kalp, nativ kalbi yerinde bırakarak yalnızca sol ventrikülü destekler.",
+      "statement": "FDA P030011’in 2004 SynCardia 70 mL onayı, hastane dışında evde kullanım için verilmiştir.",
       "isTrue": false,
-      "explanation": "Bu tanım LVAD'e aittir. Total yapay kalp her iki ventrikülü çıkarıp yerini alır.",
-      "source": "TAH derlemesi, PMC 2023"
+      "explanation": "2004 P030011 belgesinde sistemin hastanede kullanım amacı belirtilir. Bu tarihli onay, sonraki taşınabilir sürücü izinleriyle karıştırılmaz.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
       "type": "tf",
       "importance": 1,
-      "statement": "SynCardia total yapay kalbi pnömatik çalışan, diyaframlı iki pompadan oluşur.",
+      "statement": "FDA 2004 SynCardia 70 mL sisteminde yeterli antikoagülasyon uygulanamaması bir kontrendikasyondur.",
       "isTrue": true,
-      "explanation": "Pompalar hava basıncıyla çalışır; hastane konsolu ya da taşınabilir Freedom sürücüsü kullanılır.",
-      "source": "TAH derlemesi, PMC 2023"
+      "explanation": "FDA P030011 güvenlik ve etkinlik belgesi, yeterli antikoagülasyon uygulanamayan hastayı kontraendikasyonlar arasında sayar.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "SynCardia’da göğüs içi uygunluk",
+      "body": "Total yapay kalp implantasyonunda ventriküllerin çıkarıldığı göğüs içi boşluğun cihazı barındırabilmesi gerekir. **Anatomik uygunluk** hasta seçiminde ayrıca değerlendirilir.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "AbioCor’un tarihsel HDE onayı",
+      "body": "FDA, AbioCor için **5 Eylül 2006** tarihinde H040006 HDE kararı verdi. Endikasyon, nakil adayı olmayan ve diğer destek seçenekleri uygun bulunmayan ağır biventriküler kalp hastalığıyla sınırlıydı.",
+      "source": "FDA AbioCor HDE 2006"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "BiVACOR erken fizibilite çalışmasının amacı",
+      "body": "2024 ilk insan çalışması, BiVACOR’un ağır biventriküler yetmezlikte veya LVAD uygun olmayan tek ventrikül yetmezliğinde **nakle köprü olarak güvenlik ve performansını** değerlendirmeyi amaçladı.",
+      "source": "Texas Heart Institute 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "SynCardia 70 mL sisteminde kanın sağ pompadan izlediği çıkış yolu nedir?",
+      "answer": "Sağ yapay ventrikül kanı **pulmoner artere** gönderir; sol yapay ventrikülün çıkışı aortadır. İki devre için ayrı yapay ventriküller bulunur.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
     }
   ]
 }

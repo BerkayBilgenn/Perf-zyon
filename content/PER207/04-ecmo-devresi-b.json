@@ -54,7 +54,7 @@
         "Isı değiştiricide su kaçağı"
       ],
       "correct": 1,
-      "explanation": "ΔP artışı oksijenatör içindeki direncin, yani pıhtı yükünün arttığını gösterir; post-oksijenatör PO2 düşüşü ve CO2 temizliğinde azalma eşlik edebilir.",
+      "explanation": "Benzer kan akımında oksijenatörün giriş–çıkış basınç farkının yükselmesi membran direncinin artmasını ve trombozu düşündürebilir. Kan akımı, kan özellikleri ve hat/kanül sorunları da değerlendirilir; tek başına kesin tanı değildir.",
       "source": "ELSO 2017; Pediatr Crit Care Med 2013"
     },
     {
@@ -116,9 +116,9 @@
     {
       "type": "flip",
       "importance": 1,
-      "question": "Rated flow'u 2 L/dk olan bir oksijenatör, 4 L/dk akım gereken hastaya yeterli midir?",
-      "answer": "Hayır. Bu oksijenatör ~100 mL/dk O2 aktarabilir; 1 L/dk gereken hastaya yeter, 4 L/dk gerekene yetmez. Maksimal O2 sunumu, rated flow'daki O2 farkı (tipik 4–5 mL/dL) × akımdır.",
-      "source": "ELSO 2017"
+      "question": "ELSO 2017’nin verilen örneğinde rated flow’u 2 L/dk olan oksijenatör neden 4 L/dk tam destek gereksinimine uygun değildir?",
+      "answer": "Kaynağın giriş/çıkış O2 içeriği varsayımlarıyla cihaz yaklaşık **100 mL O2/dk** aktarır; örnekte 1 L/dk gereksinime yeterli olabilir fakat 4 L/dk tam desteğe yetmez. Bu sonuç verilen örneğe aittir; hastanın Hb’si, O2 içeriği ve cihaz kapasitesi ayrıca değerlendirilir.",
+      "source": "ELSO Genel 2017"
     },
     {
       "type": "fact",
@@ -138,9 +138,9 @@
     {
       "type": "remember",
       "importance": 3,
-      "title": "Pompa ve devre basınç sınırları",
-      "body": "ELSO 2017'ye göre pompa giriş emmesi **−300 mmHg'yi**, çıkış basıncı **400 mmHg'yi** aşmamalıdır. Devre ~600 mmHg'ye dayanabilse de **300 mmHg** güvenli üst sınır kabul edilir.",
-      "source": "ELSO 2017; Pediatr Crit Care Med 2013"
+      "title": "Pompa basınç kapasitesi hasta hedefi değildir",
+      "body": "ELSO 2017’de pompanın giriş/çıkış güvenlik özellikleri için **−300 ve 400 mmHg** sınırları tarif edilir. Bunlar hastada ulaşılacak basınç hedefleri değildir. Drenaj emmesi ve devre basıncı üretici sınırları ve merkez güvenlik yaklaşımıyla izlenir; aşırı basınç nedenleri düzeltilir.",
+      "source": "ELSO Genel 2017"
     },
     {
       "type": "remember",
@@ -148,6 +148,27 @@
       "title": "Pompa girişinden önce musluk olmaz",
       "body": "Hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** erişim noktası veya musluk bulunmamalıdır; buradan devreye hava emilebilir. Erişim noktaları en aza indirilir (en az pre- ve post-oksijenatör iki nokta).",
       "source": "ELSO 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO pompasında RPM göstergesi ile akım göstergesi aynı büyüklüğü mü ölçer?",
+      "answer": "Hayır. **RPM rotorun dakikadaki devrini**, akım probu ise hattan geçen kan hacmini ölçer. Hız göstergesi gerçek kan akımı ölçümünün yerine geçmez.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Gaz fazında yoğuşan su, oksijenatörün hangi işlevini bozabilir?",
+      "answer": "Gaz geçişini kısıtlayarak özellikle **CO2 uzaklaştırmayı** azaltabilir; üretici/merkez yöntemine göre gaz fazı değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kan ve gaz basıncını karıştırma",
+      "body": "Membrandan gazın kana geçmesini önlemeye yönelik güvenlikte **kan tarafı basıncı gaz tarafının üzerinde** tutulur; gaz hattı basınç tahliye mekanizması gerekir.",
+      "source": "ELSO Genel 2017"
     }
   ]
 }

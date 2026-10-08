@@ -1,0 +1,77 @@
+{
+  "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Sağ ve sol koroner arter ağızları normalde hangi yapıdan çıkar?",
+      "options": [
+        "Aort sinüsleri",
+        "Pulmoner sinüsler",
+        "Koroner sinüs",
+        "İnteratriyal septum"
+      ],
+      "correct": 0,
+      "explanation": "Koroner arterler sağ ve sol aort sinüslerinden başlar; koroner sinüs venöz toplama yapısıdır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalbin büyük venlerinin çoğunu birleştiren ve sağ atriyuma açılan ana toplayıcı hangisidir?",
+      "options": [
+        "Anterior kardiyak venler",
+        "Koroner sinüs",
+        "Büyük kardiyak ven",
+        "Vena kava inferior"
+      ],
+      "correct": 1,
+      "explanation": "Koroner sinüs kardiyak venlerin büyük bölümünün ortak drenaj yoludur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Arka interventriküler olukta seyreden koroner dal hangisidir?",
+      "options": [
+        "Sol ana koroner arter",
+        "Sağ marjinal arter",
+        "Arka inen arter",
+        "Sol ön inen arter"
+      ],
+      "correct": 2,
+      "explanation": "Arka inen arter, posterior interventriküler arter olarak da adlandırılır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aorta ile truncus pulmonalis çevresinden askı geçirmeye yarayan perikard geçidi hangisidir?",
+      "options": [
+        "Oblik sinüs",
+        "Koroner sinüs",
+        "Valsalva sinüsü",
+        "Transvers sinüs"
+      ],
+      "correct": 3,
+      "explanation": "Transvers perikardiyal sinüs arteriyel çıkışı venöz giriş yapılarından ayıran geçittir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fibröz perikard diyaframın santral tendonuyla devamlılık gösterir.",
+      "isTrue": true,
+      "explanation": "Fibröz perikard kalbi sabitleyen dış tabakadır ve diyafram santral tendonuna tutunur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sol ön inen koroner arter arka interventriküler olukta seyreder.",
+      "isTrue": false,
+      "explanation": "LAD ön interventriküler olukta seyreder; arka olukta posterior inen arter yer alır.",
+      "source": "TeachMeAnatomy"
+    }
+  ]
+}

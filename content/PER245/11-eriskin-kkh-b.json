@@ -1,0 +1,68 @@
+{
+  "topic": "Erişkin konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "ASD'de sağ kalp yükü",
+      "body": "Soldan-sağa atriyal şant, sağ atriyum ve sağ ventrikülde hacim yükü yaratır; zamanla dilatasyon ve atriyal aritmiler gelişebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Sinüs venozus birlikteliği",
+      "body": "Sinüs venozus atriyal septal defekt, parsiyel anormal pulmoner venöz dönüşle birlikte olabilir; venlerin açıldığı yer bilinmelidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "VSD'de doğum sonrası değişim",
+      "body": "Doğumdan sonra pulmoner direnç azaldıkça büyük VSD'de soldan-sağa şant belirginleşebilir; semptomlar ilk andan itibaren aynı kalmaz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Onarılmış TOF'de geç yük",
+      "body": "Geç pulmoner yetersizlik, onarılmış Fallot tetralojisinde sağ ventrikül hacim yükü ve dilatasyonuna neden olabilir.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Fontan'ın uzun dönem izlemi",
+      "body": "Fontan dolaşımında aritmi, ventrikül disfonksiyonu ve karaciğer tutulumu görülebilir; anatomik onarım düzenli izlemin gereğini ortadan kaldırmaz.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sekundum ASD'nin tipik anatomik bölgesi neresidir?",
+      "answer": "Fossa ovalis bölgesi; septum primum dokusunda gerçek defekt vardır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Komplet AVSD'de atriyoventriküler kapak yapısı nasıl tarif edilir?",
+      "answer": "Ortak AV anülüs ve köprüleyici yaprakçıklar bulunur; atriyal ve ventriküler septal bileşenler de etkilenir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Erişkinde ccTGA'nın sistemik ventrikülü hangisidir?",
+      "answer": "Morfolojik sağ ventrikül; sistemik yük altında işlev bozukluğu gelişebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Eisenmenger'de kapatma",
+      "body": "Yerleşik Eisenmenger fizyolojisinde defektin kapatılması **kontrendikedir**; şantın varlığı tek başına kapatma gerekçesi değildir.",
+      "source": "ESC Erişkin KKH 2020"
+    }
+  ]
+}

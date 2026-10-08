@@ -1,0 +1,91 @@
+{
+  "topic": "KPB'den çıkış ve komplikasyonlar",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB'den ayrılmayı yapılandırmada hangi görüntüleme sık kullanılır?",
+      "options": [
+        "Karotis Doppler",
+        "Akciğer grafisi",
+        "TEE",
+        "Epiaortik ultrason"
+      ],
+      "correct": 2,
+      "explanation": "TEE kalp işlevi, dolum ve rezidüel hava değerlendirmesinde ayrılma sürecine rehberlik eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kanın yabancı yüzeyle temasıyla aktive olan sistemin başlangıç faktörü hangisidir?",
+      "options": [
+        "Faktör II",
+        "Faktör V",
+        "Faktör XIII",
+        "Faktör XII"
+      ],
+      "correct": 3,
+      "explanation": "Kontakt sistemde faktör XII, prekallikrein ve yüksek molekül ağırlıklı kininojen yer alır.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "KPB devre yüzeyleri komplemanın ağırlıkla hangi yolunu uyarır?",
+      "options": [
+        "Alternatif yol",
+        "Klasik yol",
+        "Lektin yolu",
+        "Terminal ortak yol"
+      ],
+      "correct": 0,
+      "explanation": "Biyomateryal teması komplemanın alternatif yolunu aktive edebilir; pıhtılaşma yolları ayrı sistemdir.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Düşük MAP ve yüksek CVP'nin hat bağlantısıyla açıklanan nedeni hangisidir?",
+      "options": [
+        "Arteriyel kanül obstrüksiyonu",
+        "Ters kanülasyon",
+        "Venöz kanül obstrüksiyonu",
+        "Venöz hatta hava kilidi"
+      ],
+      "correct": 1,
+      "explanation": "Arter ve ven hatlarının ters bağlanması sistemik basıncı düşürüp venöz basıncı yükseltebilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB sırasında güç kaybına karşı hangi araç mekanik yedek sağlar?",
+      "options": [
+        "Yedek batarya",
+        "Kesintisiz güç kaynağı",
+        "El krankı",
+        "Acil jeneratör"
+      ],
+      "correct": 2,
+      "explanation": "El krankı uyumlu pompanın elle çevrilmesini sağlayan mekanik yedektir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB sonrası böbrek hasarı düşük oksijen sunumuyla ilişkili olabilir.",
+      "isTrue": true,
+      "explanation": "Akım ve hemoglobine bağlı oksijen sunumu böbrek koruma değerlendirmesinin parçasıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Güç kesintisine hazırlık için yedek gaz kaynağı gereksizdir.",
+      "isTrue": false,
+      "explanation": "AmSECT yedek gaz kaynağı, yedek güç ve uygun mekanik yedeğin hazır bulunmasını ister.",
+      "source": "AmSECT 2013"
+    }
+  ]
+}

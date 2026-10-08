@@ -1,0 +1,68 @@
+{
+  "topic": "Ameliyathane ortamı",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Ameliyathane hava akışı",
+      "body": "CDC’ye göre ameliyat odası komşu alanlara göre **pozitif basınçlıdır**. Bu, koridordaki daha az temiz havanın odaya girmesini sınırlar."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "CDC’nin hava değişimi örneği",
+      "body": "CDC 2003, ameliyat odasında **saatte en az 15 toplam**, **en az 3 dış hava değişimi** belirtir. WHO ve başka mühendislik standartları farklı sayılar verir; tek evrensel eşik değildir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Besleme ve egzoz konumu",
+      "body": "Standart ameliyathane düzeninde hava **tavandan verilip zemine yakın** çıkışlardan uzaklaştırılır. Hava dağıtımı, temiz alanı koruyacak biçimde planlanır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Maske ağız ve burnu örter",
+      "body": "Children’s Wisconsin politikasında cerrahi maske **ağız ve burnu tamamen örter**; ıslandığında değiştirilir. Maske boyunda sarkıtılarak kullanılmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Kapıların kapalı tutulması",
+      "body": "CDC, ameliyat odası kapılarının ekipman, personel veya hasta geçişi dışında **kapalı tutulmasını** önerir. Gereksiz açılma hava akışını ve trafiği bozar."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Yarı kısıtlı alanda saç ve sakal nasıl korunur?",
+      "answer": "Cerrahi başlık veya uygun örtüyle **tamamı örtülür**. Başlık, yalnız saçın ön bölümünü kapsayan bir aksesuar değildir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "Havalandırma tasarımı uygun olsa da kapı trafiği niçin değerlendirilir?",
+      "answer": "Kapı açılması ve **ekip hareketi hava akışını etkileyebilir**. CDC, geçiş için gerekli durumlar dışında kapıları kapalı tutmayı ve odadaki kişi sayısını sınırlamayı önerir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "Ameliyathanede kişi trafiği neden azaltılır?",
+      "answer": "Havadaki mikrobiyal yük, **odadaki kişi sayısı ve hareketle** artabilir. Gereksiz giriş-çıkış ve kapı açılması sınırlandırılır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "UV steril alan önlemi değildir",
+      "body": "CDC, cerrahi alan enfeksiyonunu önlemek için ameliyathanede **UV lamba kullanılmasını önermez**. Uygun havalandırma ve temel aseptik uygulamalar korunur."
+    }
+  ]
+}

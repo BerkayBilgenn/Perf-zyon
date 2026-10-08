@@ -199,3 +199,13 @@ Konu: KPB'de anestezi, ayrılma ve aciller — ana araştırma bölümü 2.16.
 - Kaplamasız devrede ACT >480 sn, heparin doz aralığı, KPB akımı, Hb/Hct eşikleri ve hazır devre süreleri kaynak/yıl/klinik bağlamla ifade edildi; kaynaklara göre değişen hedefler puanlanan test yapılmadı.
 - MCQ çeldiricileri root incelemesine göre klinik kategori içinde yeniden yazıldı; cevap konumları 19/19/19/18, doğru/yanlış ifadeleri 20/20.
 
+
+
+## 2026-10-08 devam turu: kaynak bağlamı
+- 05-iv-anestezikler-c.json #5: propofol dozu sorusuna DIPRIVAN ürün bilgisi bağlamı eklendi. Kardiyak indüksiyon dozu evrensel tek doz gibi sunulmadı; seçenekler/değer/açıklama değişmedi. Araştırma PER243.md §2.5 [E1], birincil ürün bilgisi: https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5cec3b97-5183-4a9d-accd-21e76c99d3dd
+
+## Devam incelemesinin kapsamı
+
+Root, 75 MCQ yanında 40 doğru/yanlış kartını da bağımsız okudu. Doğru/yanlış dağılımı 20/20; bu turda yukarıdaki propofol soru bağlamı dışında yeni test düzeltmesi gerekmedi. Bu kayıt bütün birincil kaynakların yeniden açıldığını veya bütün kart türlerinin bağımsız klinik doğrulamasının tamamlandığını iddia etmez. DIPRIVAN ürün bilgisinin Cardiac Anesthesia bölümü ve doz tablosunda 0,5–1,5 mg/kg aralığı ayrıca açık metinden doğrulandı.
+
+- PER245 yazarının bağımsız kaynak incelemesinden sonra `05-iv-anestezikler-c.json` #5’te aşırı uç çeldiriciler değiştirildi. Yanlış seçenekler aynı DIPRIVAN etiketindeki yaşlı/debilite, sağlıklı genç erişkin ve pediatrik indüksiyon aralıklarından alındı. Soru kardiyak anestezinin **tam** aralığını sorar; 1–1,5 alt aralığı doğru kardiyak etiket aralığı olarak puanlanmaz. Doğru cevap ve konumu değişmedi. Birincil ürün bilgisi doz tablosu ve Cardiac Anesthesia bölümü yeniden açık metinden karşılaştırıldı.

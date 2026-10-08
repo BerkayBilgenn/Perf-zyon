@@ -1,0 +1,77 @@
+{
+  "topic": "Obstrüktif konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "IAA tip A'da aortik kesinti hangi bölgededir?",
+      "options": [
+        "Sol subklavyenin distalinde",
+        "Sol karotis–sol subklavyen arasında",
+        "İnnominat–sol karotis arasında",
+        "Aort kapağı–koroner ağız arasında"
+      ],
+      "correct": 0,
+      "explanation": "Tip A, sol subklavyen arter ile inen aorta arasındaki süreksizliktir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Biküspit aort kapağıyla sık birlikte görülen obstrüktif lezyon hangisidir?",
+      "options": [
+        "Valvüler pulmoner darlık",
+        "Aort koarktasyonu",
+        "İnfundibuler pulmoner darlık",
+        "Periferik pulmoner arter darlığı"
+      ],
+      "correct": 1,
+      "explanation": "Koarktasyon ve biküspit aort kapağı birlikteliği önemlidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort kapağının altında membran varsa darlığın anatomik adı nedir?",
+      "options": [
+        "Valvüler",
+        "Supravalvüler",
+        "Subvalvüler",
+        "Dinamik infundibuler pulmoner"
+      ],
+      "correct": 2,
+      "explanation": "Subvalvüler obstrüksiyon aort kapağının altındaki sol ventrikül çıkış yolundadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner kapak darlığı hangi ventrikülde basınç yükü oluşturur?",
+      "options": [
+        "Sol ventrikül",
+        "Sağ atriyum",
+        "Sol atriyum",
+        "Sağ ventrikül"
+      ],
+      "correct": 3,
+      "explanation": "Pulmoner çıkış darlığı sağ ventrikülün kanı ileri göndermek için daha yüksek basınç üretmesini gerektirir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Koarktasyonda kollateral damarlar kol-bacak basınç farkının yorumunu etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Gelişen kollateraller darlığın distalindeki kanlanmayı destekler; basınç farkı anatomiyi tek başına açıklamaz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Pulmoner darlığın valvüler tipi aort kapağı düzeyindedir.",
+      "isTrue": false,
+      "explanation": "Valvüler pulmoner darlık pulmoner kapaktadır ve sağ ventrikül çıkışını etkiler.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "topic": "Aort cerrahisinde perfüzyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Aort diseksiyonu",
+      "en": "Aortic dissection",
+      "definition": "İntimal yırtıkla aort duvarı içinde yalancı lümen oluşması.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Anevrizma",
+      "en": "Aneurysm",
+      "definition": "Bir arterin kalıcı, patolojik genişlemesi; damar duvarının bütünlüğü ve genişlemenin biçimi ayrıca değerlendirilir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DeBakey sınıflaması",
+      "en": "DeBakey classification",
+      "definition": "Diseksiyonu başlangıç ve uzanıma göre tip I (çıkan→inen), II (yalnız çıkan), III (inen) olarak ayırır.",
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "TEM sınıflaması",
+      "en": "TEM classification",
+      "definition": "Aort diseksiyonunu tip, giriş yırtığı ve malperfüzyon bileşenleriyle tanımlayan sınıflama.",
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Crawford sınıflaması",
+      "en": "Crawford classification",
+      "definition": "Torakoabdominal aort anevrizmasının anatomik yayılımını tanımlayan sınıflama.",
+      "source": "BOS drenajı, Ann CTS 2023"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "DHCA",
+      "en": "Deep hypothermic circulatory arrest",
+      "definition": "Derin soğutma altında sistemik dolaşımın geçici olarak tamamen durdurulması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "MHCA",
+      "en": "Moderate hypothermic circulatory arrest",
+      "definition": "Orta derecede soğutma altında sistemik dolaşımın geçici durdurulması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd serebral perfüzyon (RCP)",
+      "en": "Retrograde cerebral perfusion",
+      "definition": "Arrest sırasında üst vena kava yoluyla oksijenli kanın beyne venöz taraftan geri yönde verilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Bentall ameliyatı",
+      "en": "Bentall procedure",
+      "definition": "Kompozit kapak-greftle aort kökü replasmanı ve koroner reimplantasyonu.",
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Frozen elephant trunk (FET)",
+      "en": "Frozen elephant trunk",
+      "definition": "Arkus replasmanı ile inen aortaya hibrit stent-greft yerleştirilmesi.",
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "BOS drenajı",
+      "en": "Cerebrospinal fluid drainage",
+      "definition": "Lomber kateterle beyin-omurilik sıvısı basıncının azaltılması.",
+      "source": "BOS drenajı, Ann CTS 2023"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "İyatrojenik aort diseksiyonu",
+      "en": "Iatrogenic aortic dissection",
+      "definition": "Kanülasyon veya klemp uygulaması gibi tıbbi işlemler sırasında aort duvarında gelişen diseksiyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Serebral perfüzyon yönü",
+      "left": {
+        "title": "ACP",
+        "points": [
+          "Arteriyel taraftan ileri yönde akım",
+          "Aksiller, innominat veya karotis erişimi"
+        ]
+      },
+      "right": {
+        "title": "RCP",
+        "points": [
+          "Venöz taraftan geri yönde akım",
+          "Superior vena kava üzerinden erişim"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Arrestte soğutma yaklaşımı",
+      "left": {
+        "title": "DHCA",
+        "points": [
+          "Derin soğutmayla metabolik gereksinim azaltılır",
+          "İzole arrestin süresi kısıtlıdır"
+        ]
+      },
+      "right": {
+        "title": "MHCA ve ACP",
+        "points": [
+          "Daha ılımlı soğutma ile beyne akım birleştirilir",
+          "Beyin oksijen sunumu perfüzyonla desteklenir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Diseksiyonda kullanılan ölçüt",
+      "left": {
+        "title": "DeBakey",
+        "points": [
+          "Başlangıç segmenti ve uzanım dikkate alınır",
+          "Tip I çıkan aortadan inen aortaya uzanır"
+        ]
+      },
+      "right": {
+        "title": "Stanford",
+        "points": [
+          "Çıkan aorta tutulumu temel ölçüttür",
+          "Çıkan aorta tutulumu tip A'dır"
+        ]
+      },
+      "source": "Diseksiyon, Korean J Radiol"
+    }
+  ]
+}

@@ -33,8 +33,8 @@
         "Düşük akımlı ECCO2R"
       ],
       "correct": 1,
-      "explanation": "VA ECMO kanı venden alıp arteriyel sisteme verir; kalp ve akciğeri birlikte destekler ve kardiyak destek için zorunlu moddur. VV yalnız akciğeri destekler.",
-      "source": "ELSO 2017"
+      "explanation": "VA ECMO venöz kanı oksijenatörden geçirip arteriyel sisteme verir; sistemik dolaşım ve gaz değişimini birlikte destekler. VV ECMO doğrudan dolaşım desteği sağlamaz.",
+      "source": "ELSO Genel 2017"
     },
     {
       "type": "mcq",

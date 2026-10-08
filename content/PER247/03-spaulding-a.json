@@ -1,0 +1,97 @@
+{
+  "topic": "Direnç sıralaması ve Spaulding",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bakteri sporu",
+      "definition": "Geçirimsiz kılıfla çevrili, su oranı düşük, dezenfektanlara dirençli dinlenme hücresi (Bacillus, Clostridium).",
+      "en": "Spore"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Vejetatif bakteri",
+      "definition": "Spor içermeyen, germisitlerle kolay inaktive olan bakteri.",
+      "en": "Vegetative bacteria"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Zarflı virüs",
+      "definition": "Lipoprotein bir dış zarf taşıyan virüs. Dezenfektanlara genel olarak zarfsız virüslerden daha duyarlıdır.",
+      "en": "Lipid/enveloped virus"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Zarfsız virüs",
+      "definition": "Lipoprotein zarfı bulunmayan virüs. Kimyasal germisitlere genellikle zarflı virüslerden daha dirençlidir.",
+      "en": "Nonlipid/nonenveloped virus"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Mikobakteri",
+      "definition": "Kalın mumsu hücre duvarı nedeniyle germisitlere vejetatif bakterilerden daha dirençli bakteriler.",
+      "en": "Mycobacteria"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Spaulding sınıflaması",
+      "definition": "Cihazları enfeksiyon riskine göre kritik/yarı kritik/kritik olmayan olarak sınıflayan yaklaşım.",
+      "en": "Spaulding classification"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kritik malzeme",
+      "definition": "Steril dokuya veya damar sistemine giren malzeme. **Sterilizasyon** gerektirir.",
+      "en": "Critical item"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yarı kritik malzeme",
+      "definition": "Mukoza veya bütünlüğü bozulmuş deriyle temas eden malzeme. En az **yüksek düzey dezenfeksiyon (YDD)** gerektirir.",
+      "en": "Semicritical item"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kritik olmayan malzeme",
+      "definition": "Yalnız sağlam deriyle temas eden malzeme. Uygun temizlik ve **düşük düzey dezenfeksiyon** uygulanır.",
+      "en": "Noncritical item"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Virüs zarfı ve direnç",
+      "left": {
+        "title": "Zarflı virüs",
+        "points": [
+          "Dış lipoprotein zarfı vardır",
+          "Dezenfektanlara genellikle daha duyarlıdır"
+        ]
+      },
+      "right": {
+        "title": "Zarfsız virüs",
+        "points": [
+          "Dış lipoprotein zarfı yoktur",
+          "Dezenfektanlara genellikle daha dirençlidir"
+        ]
+      }
+    }
+  ]
+}

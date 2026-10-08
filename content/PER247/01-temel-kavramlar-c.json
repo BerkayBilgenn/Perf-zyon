@@ -1,0 +1,77 @@
+{
+  "topic": "Temel kavramlar ve tarihçe",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Bir ajanın \"bakterisid\" olması hangi etkiyi belirtir?",
+      "options": [
+        "Bakteriyi öldürmesi",
+        "Bakterinin yalnız çoğalmasını durdurması",
+        "Bakteriyi yüzeyden yıkayarak taşıması",
+        "Bakterinin çevresindeki kiri çözmesi"
+      ],
+      "correct": 0,
+      "explanation": "**-sid**, öldürücü etkiyi belirtir; yalnız üreme baskılanması bakteriyostatiktir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Görünür kan kalıntısı bulunan yeniden kullanılabilir alette sıradaki temel işlem hangisidir?",
+      "options": [
+        "Steril ambalajla kapatma",
+        "Uygun temizlik işlemi",
+        "Steril depoya transfer",
+        "Serbest bırakma etiketi"
+      ],
+      "correct": 1,
+      "explanation": "Kalıntıların uzaklaştırılması, sonraki dezenfeksiyon ve sterilizasyonun etkinliği için gereklidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Belirli koşullarda bir D değeri kadar işlemden sonra test popülasyonunun ne kadarı kalır?",
+      "options": [
+        "Başlangıcın %50’si",
+        "Başlangıcın %90’ı",
+        "Başlangıcın %10’u",
+        "Başlangıcın %99’u"
+      ],
+      "correct": 2,
+      "explanation": "D değeri **%90 azalma**, yani başlangıcın onda birinin kalması demektir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Fungisid etki için hedef organizma grubu hangisidir?",
+      "options": [
+        "Bakteri sporları",
+        "Mikobakteriler",
+        "Virüsler",
+        "Mantarlar"
+      ],
+      "correct": 3,
+      "explanation": "Fungisid ajanlar **mantarları** ve mantar sporlarını hedefler; bakteri sporlarını öldürme iddiası sporisid terimiyle ayrılır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Bakteriyostatik etki, bakterilerin üremesini baskılamayı ifade eder.",
+      "isTrue": true,
+      "explanation": "Bakteriyostatik etki **üreme baskılanmasıdır**; bakterisid öldürücü etkiyi belirtir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Kontaminasyon yalnız gözle görülen kirin varlığını ifade eder.",
+      "isTrue": false,
+      "explanation": "Kontaminasyon, mikroorganizmalarla **gerçek veya potansiyel temas**tır; görünür kir bulunması şart değildir."
+    }
+  ]
+}

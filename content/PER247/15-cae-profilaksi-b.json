@@ -1,0 +1,61 @@
+{
+  "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "title": "Yüzeysel CAE izlem penceresi",
+      "body": "CDC NHSN 2026’da yüzeysel insizyonel cerrahi alan enfeksiyonu **tüm işlem kategorilerinde 30 gün** izlenir; işlem günü birinci gündür."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "title": "Derin CAE’de işlem kategorisi",
+      "body": "Derin insizyonel ve organ/boşluk cerrahi alan enfeksiyonlarında izlem **30 veya 90 gündür**; süreyi işlem kategorisi belirler. Yüzeysel CAE’nin penceresi bununla karıştırılmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "WHO profilaksi zamanlaması",
+      "body": "WHO 2018, endike cerrahi profilaksiyi **insizyondan önceki 120 dk içinde**, ilacın yarılanma ömrü gözetilerek önerir. Kontrol listesindeki 60 dk sorusu aynı bağlamda tek evrensel kural değildir."
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC CAE 2017",
+      "title": "Dren profilaksiyi uzatmaz",
+      "body": "CDC 2017’de temiz ve temiz-kontamine cerrahide insizyon kapandıktan sonra, **dren bulunsa bile**, ek profilaktik antibiyotik dozu önerilmez."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CAE 2017",
+      "title": "CDC’nin glisemi hedefi",
+      "body": "CDC 2017 cerrahi alan enfeksiyonu kılavuzu, ameliyat sırasında glisemik kontrol için **<200 mg/dL** hedefini verir. Bu, ders kapsamındaki kılavuz önerisidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "question": "Çıkış kontrolünde hangi sayımlar sözlü doğrulanır?",
+      "answer": "**Alet, spanç ve iğne sayımları**. Bu kontrol hasta ameliyathaneden çıkmadan önceki Sign Out aşamasındadır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "question": "Time Out’ta steriliteyi kim, hangi verilerle doğrular?",
+      "answer": "Hemşire ekibi, **indikatör sonuçları dâhil steriliteyi** ve ekipman sorunlarını sözlü doğrular. Bu işlem cilt insizyonundan önce yapılır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC CAE 2017",
+      "title": "Profilaksi için insizyon anı belirleyici",
+      "body": "Profilaksi yalnız endikasyonu varsa ve **insizyon sırasında serum/dokuda bakterisid düzey** sağlayacak zamanlamayla verilir. Kaynak ve ilaç bağlamından kopuk tek dakika değeri ezberlenmez."
+    }
+  ]
+}

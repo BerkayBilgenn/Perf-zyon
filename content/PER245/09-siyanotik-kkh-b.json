@@ -1,0 +1,68 @@
+{
+  "topic": "Siyanotik konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "TOF'de siyanozun belirleyicisi",
+      "body": "Sağ ventrikül çıkış obstrüksiyonu ağırlaştığında VSD üzerinden sağdan-sola şant artabilir; siyanoz derecesi bu obstrüksiyonla ilişkilidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "d-TGA'da karışımın önemi",
+      "body": "Paralel dolaşımlar arasında yeterli bağlantı olmadığında oksijenlenmiş kan sistemik dolaşıma ulaşamaz; atriyal veya duktal karışım yaşam için gereklidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel switch'in kritik adımı",
+      "body": "Büyük arterler yeniden bağlanırken koroner ağızların yeni aortaya aktarılması, miyokardın kanlanması için temel adımdır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulmoner atrezi ve koronerler",
+      "body": "İntakt septumlu pulmoner atrezinin bazı ağır biçimlerinde sağ ventrikül–koroner bağlantıları bulunabilir; koroner bağımlılık ayrıca değerlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Siyanotik kalpte ek dönüş",
+      "body": "Bronşiyal ve aortopulmoner kollateral dönüş, KPB sırasında sol kalbe gelen kanı artırabilir; vent gereksinimi hastanın anatomisine göre değişir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Ebstein anomalisi sağ ventrikülün bir bölümünü nasıl değiştirir?",
+      "answer": "Triküspit yaprakçıkların apikal yer değiştirmesiyle ventrikülün bir bölümü işlevsel olarak atriyalize olur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Total anormal pulmoner venöz dönüşte yaşamı sağlayan bağlantı hangi düzeydedir?",
+      "answer": "Atriyal düzeyde sağdan sol kalbe geçiş; pulmoner venöz kan normal sol atriyal bağlantıya sahip değildir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Glenn palyasyonunda hangi sistemik ven pulmoner artere bağlanır?",
+      "answer": "Superior vena kava; üst vücut venöz kanı pulmoner arterlere yönlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "d-TGA’da erken değerlendirme",
+      "body": "İntakt ventriküler septumlu d-TGA’da ağır siyanoz doğumdan sonraki ilk saatlerde ortaya çıkabilir; yeni doğanın dolaşım bağlantıları erken değerlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

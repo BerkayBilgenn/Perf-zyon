@@ -42,6 +42,13 @@
       "title": "KPB'siz işlemde hazırlık sürer",
       "body": "Off-pump CABG gibi acil KPB'ye geçiş olasılığı bulunan işlemlerde **atanmış perfüzyonist ve steril kurulu makine** hazır olmalıdır.",
       "source": "AmSECT 2017"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Basics of CPB'de ciddi aort darlığı ve LV hipertrofisiyle klemp kaldırılması sonrası hangi aritmi ilişkilendirilir?",
+      "answer": "**Ventrikül fibrilasyonu**. Kaynak bunu özellikle ciddi aort darlığına bağlı sol ventrikül hipertrofisiyle ilişkilendirir; bu bağlamda görülebilecek tek ritim olduğu anlamına gelmez.",
+      "source": "Basics of CPB 2017"
     }
   ]
 }

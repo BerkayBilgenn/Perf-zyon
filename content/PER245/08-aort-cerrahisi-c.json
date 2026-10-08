@@ -1,0 +1,77 @@
+{
+  "topic": "Aort cerrahisinde perfüzyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Arrest sırasında beyne arteriyel yönde kan veren yöntem hangisidir?",
+      "options": [
+        "ACP",
+        "RCP",
+        "Yalnız DHCA",
+        "Yalnız distal aort perfüzyonu"
+      ],
+      "correct": 0,
+      "explanation": "ACP antegrad serebral perfüzyondur; RCP venöz taraftan geri yönlüdür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Çıkan aorta tutulmayan diseksiyon Stanford'da hangi tipe girer?",
+      "options": [
+        "DeBakey II",
+        "Tip B",
+        "Tip A",
+        "DeBakey I"
+      ],
+      "correct": 1,
+      "explanation": "Stanford tip B'de çıkan aorta tutulmaz; tip A'nın ayırıcı ölçütü çıkan aorta tutulumudur.",
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "David ameliyatında korunması amaçlanan nativ yapı hangisidir?",
+      "options": [
+        "Pulmoner kapak",
+        "Triküspit kapak",
+        "Aort kapağı",
+        "Mitral kapak"
+      ],
+      "correct": 2,
+      "explanation": "David kök replasmanında nativ aort kapağını korur.",
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "İnen aort klempi altında distal organ dolaşımını destekleyen yöntem hangisidir?",
+      "options": [
+        "Selektif serebral perfüzyon",
+        "Retrograd serebral perfüzyon",
+        "Koroner sinüs kardiyoplejisi",
+        "Sol kalp baypası"
+      ],
+      "correct": 3,
+      "explanation": "Sol kalp baypası proksimalden aldığı kanı distal aortaya veya femoral artere aktarır.",
+      "source": "Sol kalp baypası, Front CVM 2022"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "İnkomplet Willis poligonu, tek taraflı serebral perfüzyonun dağılımını etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Kollateral serebral ileti yeterli değilse iki taraflı perfüzyon değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sistemik soğutma, KPB kurulmadan önce perfüzyon devresi üzerinden başlatılır.",
+      "isTrue": false,
+      "explanation": "Devre üzerinden sistemik soğutma KPB kurulduktan sonra başlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

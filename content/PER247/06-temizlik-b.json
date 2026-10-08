@@ -1,0 +1,68 @@
+{
+  "topic": "Yıkama, temizlik ve dekontaminasyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuruyan kirin sonucu",
+      "body": "Kan ve doku alet üzerinde kuruduğunda uzaklaştırılması zorlaşır. Yeniden işlenecek aletler kullanım sonrası **mümkün olan en kısa sürede** temizlenir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Elle fırçalamada su seviyesi",
+      "body": "Elle temizliğin **su yüzeyinin altında** yapılması sıçrama riskini azaltır. WHO, uygun kişisel koruyucu ekipmanla yumuşak naylon fırça kullanımını tarif eder."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Elle temizlik suyunun sınırı",
+      "body": "WHO cerrahi alan enfeksiyonu kılavuzunun yeniden işleme bölümünde elle temizlik suyu için **en fazla 50 °C** belirtilir. Deterjan ve cihaz üretici talimatları da gözetilir."
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Enzim ve dezenfeksiyon ayrımı",
+      "body": "Enzimatik temizleyiciler organik kirin parçalanmasına yardım eder; **dezenfektan değildir**. Temizlik sonrası gereken dezenfeksiyon veya sterilizasyon aşaması devam eder."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Protein kalıntısının kontrolü",
+      "body": "ÇOMÜ’nün 2024 prosedüründe yıkama sonrası **her gün protein testi** yapılır ve sonucu kaydedilir. Bu sıklık kurum prosedürünün örneğidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Birden fazla parçalı alet temizliğe nasıl hazırlanır?",
+      "answer": "Üretici talimatına uygun **demonte edilir**, menteşeleri açılır ve parçaları birlikte izlenir. Kapalı eklem ve kanallar kirin uzaklaştırılmasını güçleştirir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Temizlikten sonra aletin incelemesinde hangi iki hedef aranır?",
+      "answer": "**Temizlik ve işlevsellik**. Kalıntı varsa yeniden temizlenir; hasar varsa kullanım dışı bırakılıp uygun işlem için ayrılır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Temizlik öncesi dezenfektanda bekletme neden önerilmez?",
+      "answer": "Aleti hasarlayabilir; kan/vücut sıvıları dezenfektanı inaktive edebilir. Kontamine bekletme sıvısı ve taşınması **çalışan güvenliğini** de olumsuz etkileyebilir."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Ultrason mikrop testi değildir",
+      "body": "Ultrasonik temizlik tek başına anlamlı mikrobiyal inaktivasyon sağlamaz. Kullanılmış sıvı **kontamine olabilir**; temizlik cihazı sterilizatör yerine geçmez."
+    }
+  ]
+}

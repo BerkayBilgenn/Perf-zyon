@@ -1,0 +1,77 @@
+{
+  "topic": "Mediasten anatomisi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Klasik üst mediastende hangi yapı yer alır?",
+      "options": [
+        "Arkus aorta",
+        "Sol ventrikül apeksi",
+        "Perikardın oblik sinüsü",
+        "Mitral kapak"
+      ],
+      "correct": 0,
+      "explanation": "Arkus aorta üst mediasten içeriğidir; diğer yapılar kalp veya perikardla ilişkili orta mediasten yapılarıdır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Azygos veninin terminal drenajı hangi damara olur?",
+      "options": [
+        "Sağ pulmoner ven",
+        "Superior vena kava",
+        "İnferior vena kava",
+        "Sol pulmoner ven"
+      ],
+      "correct": 1,
+      "explanation": "Azygos sistemi toraks duvarının venöz kanını superior vena kavaya taşır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Perikardın arkasında birlikte bulunması beklenen yapı grubu hangisidir?",
+      "options": [
+        "Truncus pulmonalis ve kalp",
+        "Timus ve aort kökü",
+        "Özofagus ve inen aorta",
+        "Kalp ve çıkan aorta"
+      ],
+      "correct": 2,
+      "explanation": "Özofagus ve inen torakal aorta arka mediastenin temel yapılarıdır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Toraksın iki plevra kesesi arasındaki bölmesi hangi adla anılır?",
+      "options": [
+        "Plevral boşluk",
+        "Perikard boşluğu",
+        "Periton boşluğu",
+        "Mediasten"
+      ],
+      "correct": 3,
+      "explanation": "Mediasten plevra keseleri arasında bulunan orta toraks bölmesidir.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "İnternal torasik damarların dalları ön mediasten içeriklerine katkı sağlar.",
+      "isTrue": true,
+      "explanation": "Ön mediastende bağ dokusu, yağ, lenf yapıları ve internal torasik damar dalları bulunur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Mediastenin yan sınırını akciğer parankimi oluşturur.",
+      "isTrue": false,
+      "explanation": "Klasik anatomik sınır mediastinal parietal plevradır; akciğer parankimi mediastenin dışında kalır.",
+      "source": "Kenhub Anatomi"
+    }
+  ]
+}

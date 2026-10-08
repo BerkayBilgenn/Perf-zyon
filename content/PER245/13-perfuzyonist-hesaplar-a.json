@@ -1,0 +1,84 @@
+{
+  "topic": "Perfüzyonistin görevi ve hesaplamalar",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon",
+      "en": "Perfusion",
+      "definition": "Kanın organ/dokudan akıtılması; KPB'de vücudun pompa-oksijenatör sistemiyle beslenmesi.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Perfüzyonist",
+      "en": "Perfusionist",
+      "definition": "Kalp-akciğer makinesi, ECMO ve ventriküler destek cihazlarını yöneten sağlık meslek mensubu.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyopulmoner baypas (KPB)",
+      "en": "Cardiopulmonary bypass",
+      "definition": "Kalp ve akciğer işlevinin geçici olarak pompa-oksijenatör sistemine devredilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Ekstrakorporeal dolaşım",
+      "en": "Extracorporeal circulation",
+      "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon kaydı",
+      "en": "Perfusion record",
+      "definition": "KPB sırasında kullanılan cihazları, uygulamaları ve hastanın fizyolojik ölçümlerini belgeleyen klinik kayıt.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Kontrol listesi",
+      "en": "Checklist",
+      "definition": "KPB kurulumu, başlangıcı, sürdürülmesi ve ayrılma adımlarının eksiksizliğini sağlayan yazılı liste.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Vücut yüzey alanı (VYA)",
+      "en": "Body surface area (BSA)",
+      "definition": "Boy ve kilodan hesaplanan, akımın indekslenmesinde kullanılan alan (DuBois, Mosteller).",
+      "source": "VYA formülleri, J Clin Med 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Tahmini kan hacmi (EBV)",
+      "en": "Estimated blood volume",
+      "definition": "Vücut ağırlığı ve uygun bir katsayı kullanılarak hesaplanan yaklaşık dolaşan kan miktarı.",
+      "source": "Eritrosit kütlesi, Surg Pract Sci"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "DO2 / DO2i",
+      "en": "Oxygen delivery (indexed)",
+      "definition": "Dokuya birim zamanda taşınan oksijen miktarı.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Hedefe yönelik perfüzyon",
+      "definition": "Pompa akımının hemoglobin ve oksijen sunumu göstergeleriyle birlikte değerlendirilip yeterli doku oksijenlenmesinin amaçlandığı yaklaşım.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

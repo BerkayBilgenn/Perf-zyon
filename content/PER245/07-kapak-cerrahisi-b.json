@@ -1,0 +1,68 @@
+{
+  "topic": "Kapak hastalıklarının cerrahisi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Aort yetersizliğinde kaçış",
+      "body": "Aort kökünden verilen solüsyon yetersiz aort kapağından sol ventriküle kaçabilir; bunun sonucu yetersiz koruma ve distansiyon olabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Onarım seçiminin gerekçesi",
+      "body": "Primer mitral yetersizliğinde uygun onarım, kapak yapısını korumayı amaçlar; onarımın mümkün ve dayanıklı olması önemlidir.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Mekanik kapak ve izlem",
+      "body": "Mekanik protezlerin dayanıklılığı, uzun dönem antikoagülasyon ve kanama riskinin değerlendirilmesini gerektirir.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Minimal erişim ve devre",
+      "body": "Sağ mini-torakotomi yaklaşımı, periferik kanülasyon ve destekli venöz drenaj gerektirebilir; devre planı cerrahi erişime uyarlanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Ross'ta pulmoner pozisyon",
+      "body": "Ross ameliyatında hastanın pulmoner kapağı aort pozisyonuna taşınır; boşalan pulmoner pozisyona homogreft yerleştirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sağ üst pulmoner venden yerleştirilen vent sol ventriküle hangi yoldan ulaşır?",
+      "answer": "Sağ üst pulmoner venden sol atriyuma, ardından mitral kapaktan sol ventriküle ilerler.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Konno ameliyatı kapak replasmanına hangi işlemi ekler?",
+      "answer": "Sol ventrikül çıkış yolunun insizyon ve yama ile genişletilmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "İzole mitral cerrahide venöz kanülasyon seçimi neden tek kalıba indirgenmez?",
+      "answer": "Cerrahi erişim, sağ kalbin açılıp açılmaması ve kurum tekniği farklıdır; sağ atriyal veya bikaval yaklaşım planlanabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "AY ve kök kardiyoplejisi",
+      "body": "Aort yetersizliğinde kökten sol ventriküle kaçış, **distansiyon ve yetersiz koruma** yaratabilir; uygulama yolu buna göre planlanır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    }
+  ]
+}

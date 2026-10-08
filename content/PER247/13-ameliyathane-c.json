@@ -1,0 +1,77 @@
+{
+  "topic": "Ameliyathane ortamı",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "ISID Ameliyathane 2018",
+      "question": "ISID 2018 rehberinde cerrahi el yıkama istasyonu hangi destek alanındadır?",
+      "options": [
+        "Kısıtlanmamış giriş alanı",
+        "Kirli atık kabul alanı",
+        "Hasta tuvaleti",
+        "Yarı kısıtlı alan"
+      ],
+      "correct": 3,
+      "explanation": "ISID rehberinin **yarı kısıtlı destek alanları** içinde steril depolar, işleme odaları ve scrub istasyonları bulunur. Bölgeleme kaynağı belirtilerek değerlendirilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Ameliyat odasında açık steril malzeme varken hangi kıyafet gerekliliği doğar?",
+      "options": [
+        "Cerrahi maske kullanımı",
+        "Sokak kıyafeti kullanımı",
+        "Saç örtüsünün çıkarılması",
+        "Maskenin boyunda taşınması"
+      ],
+      "correct": 0,
+      "explanation": "Kurum politikasında açık steril malzeme veya steril ekip varlığında **maske** gerekir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "Havalandırmadaki HEPA filtrenin temel işi hangisidir?",
+      "options": [
+        "Odaya negatif basınç vermek",
+        "Havadan partikül uzaklaştırmak",
+        "Cerrahi aletleri sterilize etmek",
+        "Steril paketleri kurutmak"
+      ],
+      "correct": 1,
+      "explanation": "HEPA filtrasyon **partikülleri uzaklaştırır**; basınç farkı ve hava yönü ayrı sistem özellikleridir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "CDC’nin CAE’yi önlemek amacıyla önermediği uygulama hangisidir?",
+      "options": [
+        "Uygun hava filtrasyonu",
+        "Kontrollü personel trafiği",
+        "Ameliyathanede UV lamba",
+        "Kapıların kapalı tutulması"
+      ],
+      "correct": 2,
+      "explanation": "CDC, cerrahi alan enfeksiyonunu önlemek için **UV lamba kullanılmasını önermez**."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "statement": "Ameliyat odasında hava, normal düzenlemede tavandan verilip zemine yakın çıkışlardan uzaklaştırılır.",
+      "isTrue": true,
+      "explanation": "CDC havanın bu yönde dağıtılmasını tarif eder; uygun basınç ve filtrasyon da gereklidir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "statement": "Cerrahi maske ıslandığında kurum politikası onu boyunda taşıyarak kullanmayı önerir.",
+      "isTrue": false,
+      "explanation": "Islanan maske **değiştirilir**; ağız-burnu örtecek biçimde kullanılır, boyunda sarkıtılmaz."
+    }
+  ]
+}

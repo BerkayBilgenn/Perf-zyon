@@ -1,0 +1,75 @@
+{
+  "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijenasyon indeksi formülü",
+      "body": "**Oİ = (ortalama hava yolu basıncı × FiO2 × 100) / PaO2**. FiO2 hesapta kesir olarak kullanılır; PaO2 postduktal arteriyel örnekten alınır.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Neonatal Oİ eşiğinin bağlamı",
+      "body": "ELSO neonatal 2017, optimal tedaviye rağmen **Oİ > 40’ın 4 saatten uzun** sürmesini değerlendirme ölçütü verir. Endikasyon; tanı, geri dönüşebilirlik ve diğer bulgularla birlikte kararlaştırılır.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Neonatal beyin izlemi",
+      "body": "ELSO Neonatal 2020’de ECMO öncesi kraniyal ultrason ve ilk **3–5 gün günlük** ultrason birçok protokolde kullanılır; kanama ve iskemik hasar aranır.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Gestasyon sınırı tarihsel olarak değişti",
+      "body": "< 34 hafta ECMO için tarihsel risk sınırıdır. ELSO Neonatal 2020, 29–33 haftalık hastalarda sonuçları ayrıca tartışır; yaş tek başına değişmez bir dışlama kuralına çevrilmez.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "REST çalışmasının sonucu",
+      "body": "REST (JAMA 2021) çalışmasında 412 hastada ECCO2R ile daha düşük tidal hacim stratejisi, standart ventilasyona göre **90 günlük mortaliteyi azaltmadı**; ciddi advers olaylar daha fazlaydı.",
+      "source": "REST, JAMA 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ECCO2R ile daha düşük tidal hacim kullanmanın fizyolojik amacı nedir?",
+      "answer": "CO2 uzaklaştırmanın bir bölümünü devreye aktararak mekanik ventilasyonun **hacim ve basınç yükünü** azaltmaktır; mortalite yararı ayrıca kanıt gerektirir.",
+      "source": "ECCO2R cihaz çalışmaları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Neonatal ECMO’da aşırı oksijenasyondan neden kaçınılır?",
+      "answer": "Hiperoksi, özellikle küçük ve prematüre hastada oksijen kaynaklı doku hasarı riskini artırır; gaz değişimi hedefleri hastaya göre değerlendirilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Trizomi 21 ile ölümcül anomaliler ayrı",
+      "body": "Eski neonatal kılavuz trizomi 13/18 gibi ölümcül anomalileri dışlama bağlamında sayar; **trizomi 21 tek başına aynı dışlama kategorisi değildir**.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Neonatal eski dışlama ölçütlerinin bağlamı",
+      "body": "ELSO Neonatal 2017, **evre III ve üzeri İVK**, geri dönüşsüz beyin hasarı ve kontrolsüz kanamayı dışlama bağlamında sayar. < 2 kg ve < 34 hafta ise göreceli risk ölçütleridir; güncel değerlendirme hastaya özgüdür.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Tanıya göre neonatal sonuçlar",
+      "body": "ELSO Neonatal 2020 Tablo 3’te MAS sağkalımı **%92**, KDH sağkalımı yaklaşık %50 olarak verilir; KDH en sık neonatal ECMO endikasyonu olarak anılır. Bunlar kaynak yılının tanıya özgü kayıt verileridir, bireysel prognoz değildir.",
+      "source": "ELSO Neonatal 2020"
+    }
+  ]
+}

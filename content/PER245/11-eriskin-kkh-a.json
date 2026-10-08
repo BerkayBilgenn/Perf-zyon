@@ -1,0 +1,109 @@
+{
+  "topic": "Erişkin konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "PAPVR",
+      "en": "Partial anomalous pulmonary venous return",
+      "definition": "Pulmoner venlerin bir kısmının (sıklıkla VCS'ye) sağ kalbe açılması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ASD",
+      "en": "Atrial septal defect",
+      "definition": "Atriyumlar arasındaki septumda gerçek doku eksikliği.",
+      "source": "ASD, Biomedicines 2025"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "PFO",
+      "en": "Patent foramen ovale",
+      "definition": "Doğum sonrası foramen ovalenin kapanmaması; septal doku eksikliği değildir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Unroofed koroner sinüs (Raghib)",
+      "en": "Unroofed coronary sinus",
+      "definition": "Koroner sinüs ile sol atriyum arasındaki duvarın eksikliği.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "VSD",
+      "en": "Ventricular septal defect",
+      "definition": "İnterventriküler septumda açıklık: perimembranöz, musküler, inlet, subarteriyel.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "AVSD",
+      "en": "Atrioventricular septal defect",
+      "definition": "Atriyoventriküler septum ve kapak gelişimini etkileyen, parsiyel ve komplet biçimleri bulunan endokardiyal yastık kusuru.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "PDA",
+      "en": "Patent ductus arteriosus",
+      "definition": "Doğumdan sonra duktus arteriyozusun açık kalması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Eisenmenger sendromu",
+      "en": "Eisenmenger syndrome",
+      "definition": "Uzun süreli soldan-sağa şantın pulmoner vasküler hastalık sonucu sağdan-sola dönmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Anormal pulmoner ven bağlantısı",
+      "left": {
+        "title": "TAPVR",
+        "points": [
+          "Pulmoner venlerin tümü anormal bağlanır",
+          "Sistemik çıkış için atriyal bağlantı gerekir"
+        ]
+      },
+      "right": {
+        "title": "PAPVR",
+        "points": [
+          "Pulmoner venlerin bir bölümü anormal bağlanır",
+          "Sinüs venozus ASD ile birlikte olabilir"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Atriyal bağlantıda doku",
+      "left": {
+        "title": "PFO",
+        "points": [
+          "Foramen ovale flap'i tam kapanmamıştır",
+          "Gerçek septal doku kaybı değildir"
+        ]
+      },
+      "right": {
+        "title": "Sekundum ASD",
+        "points": [
+          "Septum primumda gerçek doku defekti vardır",
+          "Fossa ovalis bölgesinde yer alır"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

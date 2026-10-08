@@ -1,0 +1,124 @@
+{
+  "topic": "Koagülasyon ve antikoagülasyon",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Anti-Xa için kılavuz aralığı",
+      "body": "ELSO Antikoagülasyon 2021’de UFH izlemi için **0,3–0,7 IU/mL** anti-Xa aralığı kullanılır. Hedef; kanama, tromboz ve merkez yaklaşımıyla bireyselleştirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Kromojenik anti-Xa etkileşimleri",
+      "body": "ELSO 2021’e göre plazma serbest Hb > 50 mg/dL, trigliserid > 500 mg/dL veya bilirubin > 6 mg/dL, bazı anti-Xa yöntemlerinde **yalancı düşük** sonuca yol açabilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "aPTT hedefinin kanıt sınırı",
+      "body": "Bazalin **1,5–2,5 katı** aPTT hedefi tarihsel olarak ECMO dışı çalışmadan türetilmiştir; ECMO için evrensel olarak doğrulanmış hedef değildir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "ACT cihazları ve sonuçlar",
+      "body": "ACT; hematokrit, trombositler, fibrinojen, hipotermi ve cihaz yönteminden etkilenir. Farklı ACT cihazlarının değerleri doğrudan birbirinin yerine kullanılamaz.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "AT replasmanında kanıt sınırı",
+      "body": "ELSO 2021, rutin antitrombin izlemi ve replasmanını destekleyen kanıtı yetersiz bulur. Yüksek UFH dozuna rağmen hedefe ulaşılamaması ayrıca değerlendirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Trombosit hedefi kanamaya göre",
+      "body": "ELSO 2021 tablosu kanayan hastada **100.000/µL**, kanamayan hastada 50.000–100.000/µL trombosit düzeylerini verir; hedefler merkez ve hastaya göre değişebilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Fibrinojen hedefinin kaynak yılı",
+      "body": "ELSO 2021 tablosunda fibrinojen kanamada/cerrahi öncesinde > 1,5 g/L, kanamayan hastada > 1 g/L olarak verilir. Eski 2017 kılavuzundaki hedef daha yüksektir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "Laboratuvar izlemi birlikte yorumlanır",
+      "body": "Anti-Xa heparin etkisini, viskoelastik testler pıhtının oluşumu ve gücünü değerlendirir. Tek test tüm hemostazı göstermez; kanama ve devre bulguları birlikte yorumlanır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "HIT’te olasılık ve test seçimi",
+      "body": "ASH 2018, HIT değerlendirmesinde **4T skoru** ile ön test olasılığının belirlenmesini önerir. Düşük olasılıkta rutin HIT testi ve ampirik HIT tedavisi önerilmez.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Yüksek faktör VIII ve fibrinojen UFH izlemini nasıl yanıltabilir?",
+      "answer": "aPTT’yi kısaltarak heparinin antikoagülan etkisini olduğundan düşük gösterebilir; **anti-Xa ve klinik bulgular** ile uyum değerlendirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Heparinazlı ve heparinazsız viskoelastik testler neden karşılaştırılır?",
+      "answer": "Heparin etkisi kaldırıldığında düzelme olup olmadığı görülür; **heparin etkisi** diğer pıhtılaşma bozukluklarından ayrılabilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Pozitif PF4–heparin antikor testi neden tek başına klinik HIT tanısı değildir?",
+      "answer": "Antikor testi duyarlıdır fakat trombositleri aktive etmeyen antikorları da saptayabilir. **Klinik olasılık ve fonksiyonel test** birlikte değerlendirilir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "type": "flip",
+      "importance": 3,
+      "question": "Devre tromboz yükü için hangi dolaylı bulgular birlikte izlenebilir?",
+      "answer": "D-dimer, trombosit sayısı ve transmembran basınç farkındaki değişimler; görünür devre pıhtılarıyla birlikte değerlendirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kaplama sistemik izlemi kaldırmaz",
+      "body": "Heparin kaplı yüzey, kan–devre etkileşimini azaltabilir; **antikoagülasyon değerlendirmesi ve hemostaz izlemini** ortadan kaldırmaz.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "HIT kanama hastalığına indirgenmez",
+      "body": "HIT’te trombosit sayısı düşerken **tromboz riski artar**. Düşük trombosit sayısı hastayı pıhtılaşmadan korumaz.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Anti-Xa DTİ düzeyini göstermez",
+      "body": "Anti-Xa testi **heparinin AT aracılı etkisini** ölçer; bivalirudin veya argatroban etkisinin doğrudan izlem testi değildir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "HIT şüphesinde heparin maruziyeti",
+      "body": "ASH 2018, orta/yüksek ön test olasılığında **heparinin kesilmesini ve heparin dışı antikoagülan değerlendirmesini** önerir. Düşük olasılıkta ampirik HIT tedavisi önerilmez; ilaç ve doz klinik risklere göre seçilir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    }
+  ]
+}

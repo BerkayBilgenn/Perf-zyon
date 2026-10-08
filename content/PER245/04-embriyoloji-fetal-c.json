@@ -1,0 +1,77 @@
+{
+  "topic": "Embriyoloji ve fetal dolaşım",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Septum primumun üst kısmındaki açıklık hangi adla anılır?",
+      "options": [
+        "Ostium sekundum",
+        "Ostium primum",
+        "Foramen ovale",
+        "Sinüs venozus"
+      ],
+      "correct": 0,
+      "explanation": "Ostium sekundum septum primumun üst bölümünde oluşur; ostium primum alt kenarda kalır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fetüste sağ atriyumdan sol atriyuma geçişi hangi bağlantı sağlar?",
+      "options": [
+        "Umbilikal arter",
+        "Foramen ovale",
+        "Duktus arteriyozus",
+        "Duktus venozus"
+      ],
+      "correct": 1,
+      "explanation": "Foramen ovale atriyal geçiştir; duktus arteriyozus pulmoner arter ile aorta arasındadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Embriyolojik truncus arteriosus hangi yapılara ayrılır?",
+      "options": [
+        "Sağ ve sol ventrikül",
+        "Üst ve alt vena kava",
+        "Çıkan aorta ve pulmoner gövde",
+        "Sağ ve sol atriyum"
+      ],
+      "correct": 2,
+      "explanation": "Truncus arteriosus çıkış yolunda aort ve pulmoner gövdeye katkı sağlar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "AV endokardiyal yastıkların birleşme kusuru hangi lezyon spektrumuyla ilişkilidir?",
+      "options": [
+        "İzole sekundum ASD",
+        "Konotrunkal çıkış anomalisi",
+        "İzole valvüler aort darlığı",
+        "AVSD"
+      ],
+      "correct": 3,
+      "explanation": "Endokardiyal yastıklar AV septum ve kapak gelişimine katılır; kusurları AVSD spektrumuna yol açar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fetal dolaşımda oksijenlenmiş kan plasentadan umbilikal venle gelir.",
+      "isTrue": true,
+      "explanation": "Fetüsün gaz değişimi plasentadadır; umbilikal ven bu kanı fetüse taşır.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ligamentum arteriosum, duktus venozusun kapanmasıyla oluşur.",
+      "isTrue": false,
+      "explanation": "Ligamentum arteriosum duktus arteriyozusun kalıntısıdır; duktus venozusun kalıntısı ligamentum venosumdur.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "Mikrosirkülasyon ve KPB",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Doku alışverişinin başlıca ince duvarlı damarı hangisidir?",
+      "options": [
+        "Kapiller",
+        "Arteriyol",
+        "Venül",
+        "Küçük musküler arter"
+      ],
+      "correct": 0,
+      "explanation": "Kapillerin tek katlı endotel duvarı doku ile madde alışverişine elverişlidir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Revize Starling modelinde onkotik gradyanın doku tarafındaki referans bölge hangisidir?",
+      "options": [
+        "Toplam interstisyel sıvı",
+        "Subglikokaliks alan",
+        "Kapiller lümen merkezi",
+        "Lenf düğümünün korteksi"
+      ],
+      "correct": 1,
+      "explanation": "Revize model glikokaliks altındaki protein açısından fakir alanı dikkate alır.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Bölgesel doku oksijenlenmesi için kızılötesine yakın ışık kullanan yöntem hangisidir?",
+      "options": [
+        "Epiaortik ultrason",
+        "Elektrokardiyografi",
+        "NIRS",
+        "Transkraniyal Doppler"
+      ],
+      "correct": 2,
+      "explanation": "NIRS bölgesel doku oksijenasyonunu optik yöntemle izler; Doppler akım hakkında bilgi verir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kapiller hidrostatik basınç artışı diğer etkenler sabitken hangi yönde etki eder?",
+      "options": [
+        "Dışa sıvı filtrasyonunu azaltır",
+        "Sıvı geçişini yalnız içe yönlendirir",
+        "Filtrasyon kuvvetini değiştirmez",
+        "Dışa sıvı filtrasyonunu artırır"
+      ],
+      "correct": 3,
+      "explanation": "Starling çerçevesinde kapiller içi hidrostatik basınç dışa sıvı hareketini destekler.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB sırasında kanın yabancı yüzeylerle teması inflamatuvar yanıtı tetikleyebilir.",
+      "isTrue": true,
+      "explanation": "Kontakt aktivasyon, kompleman ve hücresel yanıtlar mikrodolaşım bozukluğuna katkı sağlayabilir.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Revize Starling ilkesi, glikokaliksin sıvı bariyerindeki rolünü dışlar.",
+      "isTrue": false,
+      "explanation": "Revize yaklaşım glikokaliksi ve subglikokaliks onkotik gradyanı modelin merkezine alır.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    }
+  ]
+}

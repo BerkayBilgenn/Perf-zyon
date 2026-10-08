@@ -39,7 +39,7 @@
     {
       "type": "flip",
       "importance": 2,
-      "question": "Laminer akımda hız tüp boyunca nasıl dağılır?",
+      "question": "Poiseuille modelinde Newtonyen sıvının düz, dairesel tüpte tam gelişmiş laminer akım hız profili nasıldır?",
       "answer": "Hız tüpün merkezinde en yüksek, duvarında sıfırdır; profil **paraboliktir**.",
       "source": "Klabunde: CV Physiology"
     },

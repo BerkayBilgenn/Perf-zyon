@@ -1,0 +1,77 @@
+{
+  "topic": "Transplantasyon ve yeni teknolojiler",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Cypel ve arkadaşlarının 2011 EVLP çalışmasında yüksek riskli akciğerler kaç saat perfüze edilerek değerlendirildi?",
+      "options": [
+        "12 saat",
+        "4 saat",
+        "1 saat",
+        "8 saat"
+      ],
+      "correct": 1,
+      "explanation": "Bu prospektif çalışmanın protokolünde 4 saat EVLP kullanıldı; süre tüm merkezler için evrensel hedef değildir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Cypel 2011 EVLP çalışmasının nakilden 72 saat sonra değerlendirdiği birincil sonlanım hangisiydi?",
+      "options": [
+        "Antikor aracılı rejeksiyon",
+        "Bronşiyal anastomoz stenozu",
+        "Primer greft disfonksiyonu",
+        "Kronik akciğer allogreft disfonksiyonu"
+      ],
+      "correct": 2,
+      "explanation": "Özgün çalışmanın birincil sonlanımı 72. saatte primer greft disfonksiyonuydu; diğer seçenekler ayrı nakil komplikasyonlarıdır.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Toronto EVLP protokolünün perfüzatı için hangi özellik doğrudur?",
+      "options": [
+        "Yalnız tam kan",
+        "Yalnız serum fizyolojik",
+        "Yalnız heparinli dekstroz",
+        "Aselüler Steen solüsyonu"
+      ],
+      "correct": 3,
+      "explanation": "Toronto yaklaşımı aselüler Steen perfüzatı kullanır; Lund yaklaşımında eritrosit eklenir.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp OCS platformunda taşınan donör organ hangi durumda tutulur?",
+      "options": [
+        "Normotermik ve perfüze",
+        "Derin dondurulmuş ve kuru",
+        "Gazla şişirilmiş ve dolaşımsız",
+        "Hipotermik ve ventilasyonla şişirilmiş"
+      ],
+      "correct": 0,
+      "explanation": "Kalp OCS sistemi, organı sıcak ve kanla perfüze biçimde taşır.",
+      "source": "PROCEED II, Lancet 2015"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Cypel 2011 EVLP çalışması, aynı dönemin standart organlarını kontrol grubu olarak kullanan randomize olmayan bir çalışmaydı.",
+      "isTrue": true,
+      "explanation": "Çalışma prospektif ve randomize değildi; yöntem ve hasta seçimi sonuçların yorumuna dahildir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Cypel 2011 protokolünde EVLP sırasında işlev kötüleşse de bütün akciğerler nakledildi.",
+      "isTrue": false,
+      "explanation": "Fizyolojik işlevi kötüleşen 3 akciğer kullanılmadı; EVLP değerlendirmesi organ seçimine rehberlik etti.",
+      "source": "Cypel, NEJM EVLP 2011"
+    }
+  ]
+}

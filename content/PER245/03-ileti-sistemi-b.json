@@ -1,0 +1,68 @@
+{
+  "topic": "Kalbin ileti sistemi",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "İletinin olağan sırası",
+      "body": "Uyarı SA düğümden atriyal miyokarda, AV düğüme, His demetine, sağ-sol dallara ve Purkinje ağına yayılır.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Otonom etki",
+      "body": "Sempatik aktivite SA düğüm hızını artırır; parasempatik aktivite azaltır. Kalp hızı yalnızca düğümün anatomik varlığına bağlı değildir.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Septal onarımın riski",
+      "body": "Perimembranöz ve inlet septal defektler ileti yapılarına yakın olabilir. Onarım sırasında ileti sistemini korumak AV blok açısından önemlidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Primum ASD ve ileti",
+      "body": "Primum atriyal septal defektte AV düğüm ve His demetinin yerleşimi değişebilir; cerrahi planlama bu farklılığı dikkate alır.",
+      "source": "ASD, Biomedicines 2025"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Atriyotomi yaklaşımı",
+      "body": "Sağ atriyum açılırken SA düğüm ve krista terminalis bölgesinden kaçınmak, ameliyat sonrası ritim sorunlarını sınırlamak için önemlidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Purkinje ağının hızlı iletimi ventrikül kasılmasına nasıl katkı sağlar?",
+      "answer": "Uyarıyı ventrikül miyokardına hızla dağıtarak kasılmanın zaman bakımından eşgüdümlü olmasına yardımcı olur.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Aort klempi kaldırıldıktan sonra kalp aktivitesinin gecikmesi hangi etkenlerle ilişkili olabilir?",
+      "answer": "Yakın zamanda verilmiş kardiyopleji, yüksek potasyum veya koroner hava embolisi değerlendirilen etkenler arasındadır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "ccTGA'nın ileti açısından başlıca uzun dönem sorunu nedir?",
+      "answer": "İlerleyici AV ileti bozukluğu ve tam kalp bloğu gelişme riski.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Koch bölgesini koru",
+      "body": "AV düğüm **Koch üçgeninin tepesindedir**; yakınındaki kapak ve septal cerrahide ileti sistemi korunmalıdır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

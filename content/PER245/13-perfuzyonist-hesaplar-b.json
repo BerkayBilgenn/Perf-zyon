@@ -1,0 +1,82 @@
+{
+  "topic": "Perfüzyonistin görevi ve hesaplamalar",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Akım hesabının temeli",
+      "body": "Toplam pompa akımı, vücut yüzey alanı ile seçilen akım indeksinin çarpımıdır; indeks birimi L/dk/m², toplam akım birimi L/dk'dır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Örnek toplam akım",
+      "body": "VYA 1,9 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım 1,9 × 2,4 = 4,56 L/dk'dır. Bu örnek evrensel hasta hedefi değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB öncesi plan",
+      "body": "Boy, kilo, hemoglobin, organ işlevi ve antikoagülasyon öyküsü, hastaya özgü perfüzyon planının hazırlanmasında değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Hct öngörüsünün amacı",
+      "body": "Beklenen dilüsyonel hematokriti önceden hesaplamak, devre ve prime hacmini planlamaya yardımcı olur; kan koruma ekiple tartışılır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kayıt ve kalıcılık",
+      "body": "Perfüzyon kaydı hastanın kalıcı tıbbi kaydına girer; ekipman, fizyolojik parametreler ve antikoagülasyon sonuçları izlenebilir olmalıdır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Mosteller vücut yüzey alanı formülü nedir?",
+      "answer": "VYA (m²) = √[boy (cm) × ağırlık (kg) / 3.600]. Boy ve kilo birimlerinin doğru girilmesi gerekir.",
+      "source": "VYA formülleri, J Clin Med 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Arteriyel oksijen sunumunu belirleyen iki ana bileşen nelerdir?",
+      "answer": "Kan akımı ve arteriyel oksijen içeriği; hemoglobin azalınca yeterli akımda bile sunum düşebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Beklenen dilüsyonel hematokrit hesabında eklenen sıvı nasıl yer alır?",
+      "answer": "Kan içermeyen sıvı toplam dolaşan hacim paydasına eklenir; başlangıç eritrosit kütlesinin korunduğu varsayılır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Kontrol listesinin zamanlaması",
+      "body": "AmSECT 2013, kontrol listesini yalnız ilk kurulum için değil, KPB başlangıcı, sürdürme, ayrılma ve yeniden giriş adımları için de kullanır; **aşama değişimlerinde kontrol** önemlidir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Hesabı hastaya bağla",
+      "body": "Akım planı yalnız VYA çarpımından ibaret değildir; hipotermi, hemoglobin ve **oksijen sunumu** göstergeleriyle yeterliliği değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "title": "DO2 alt eşiği ve kanıt düzeyi",
+      "body": "2024 EACTS/EACTAIC/EBCP Tablo 43, normotermik KPB’de DO2i alt eşiğini 280–300 mL/dk/m² aralığında tutmayı IIa-B düzeyinde değerlendirmeyi önerir. Erken AKI’yi azaltmak için GDP kullanımı ayrı bir I-A önerisidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

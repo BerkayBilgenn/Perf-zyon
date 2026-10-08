@@ -1,0 +1,91 @@
+{
+  "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "LVAD’de çıkan aorta bağlanan bileşen hangisidir?",
+      "options": [
+        "Kontrolör",
+        "Çıkış grefti",
+        "Giriş kanülü",
+        "Driveline"
+      ],
+      "correct": 1,
+      "explanation": "Çıkış grefti pompanın taşıdığı kanı sistemik dolaşıma ulaştırır; giriş kanülü LV’de bulunur.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sol ventrikül desteğinden sonra sağ kalp yetmezliğinde ek hangi cihaz seçeneği değerlendirilebilir?",
+      "options": [
+        "Endoaortik balon",
+        "İzole ECCO2R",
+        "RVAD",
+        "İABP balonu"
+      ],
+      "correct": 2,
+      "explanation": "RVAD sağ kalpten pulmoner artere akım sağlar; LVAD’nin sağ ventrikül desteği sağlamaması bu seçimi açıklar.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulsatil birinci kuşak VAD’nin temel pompalama mekanizması hangisidir?",
+      "options": [
+        "Sürekli dönen aksiyel rotor",
+        "Manyetik askılı santrifüj rotor",
+        "Aort içinde şişen balon",
+        "Hacim yer değiştiren odacık"
+      ],
+      "correct": 3,
+      "explanation": "Pulsatil VAD odacık dolumu ve boşalmasıyla akım sağlar; rotorlu sürekli akım cihazlarından ayrılır.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "HeartMate 3 kontrolöründe gösterilen pompa akımı hangi yöntemle elde edilir?",
+      "options": [
+        "Pompa gücünden hesaplanan tahmin",
+        "Hat üzerindeki ultrasonik prob ölçümü",
+        "Termodilüsyon ile doğrudan ölçüm",
+        "Fick yöntemiyle hasta debisi ölçümü"
+      ],
+      "correct": 0,
+      "explanation": "FDA IFU’da güç doğrudan ölçülür; gösterilen pompa akımı güçten hesaplanır. Bu değer hastanın toplam kalp debisiyle eşit kabul edilmez.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "INTERMACS profil 3 hangi klinik durumu tanımlar?",
+      "options": [
+        "İleri NYHA III efor kısıtlılığı",
+        "İnotrop bağımlı fakat stabil",
+        "Kritik kardiyojenik şok",
+        "İnotroplara rağmen ilerleyen kötüleşme"
+      ],
+      "correct": 1,
+      "explanation": "Profil 3 stabil fakat inotropa bağımlı hastayı belirtir; profil 1 kritik şoktur.",
+      "source": "INTERMACS sınıflaması 2010"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "HeartMate 3’ün tam manyetik askılı rotoru mekanik yatak teması olmadan döner.",
+      "isTrue": true,
+      "explanation": "HeartMate 3 FDA talimatında tamamen manyetik askılı rotor tanımlanır; mekanik yatak teması azaltılır.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Her BiVAD sistemi gaz değişimi için zorunlu olarak membran oksijenatör içerir.",
+      "isTrue": false,
+      "explanation": "BiVAD iki ventriküle mekanik dolaşım desteği sağlar; oksijenatör eklenmesi ayrı bir gaz değişimi gereksinimine bağlıdır.",
+      "source": "Prinzing, LVAD 2016"
+    }
+  ]
+}

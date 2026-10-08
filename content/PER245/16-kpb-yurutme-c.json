@@ -1,0 +1,99 @@
+{
+  "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "MUF diğer yöntemlerden zamanlama bakımından nasıl ayrılır?",
+      "options": [
+        "KPB sonlandıktan sonra uygulanır",
+        "KPB başlamadan prime için kullanılır",
+        "Yalnız aort klempli dönemde yapılır",
+        "Yalnız dolaşım tamamen dururken yapılır"
+      ],
+      "correct": 0,
+      "explanation": "Modifiye ultrafiltrasyon KPB sonrası uygulanır; CUF KPB sırasında yapılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Cell saver sonrası geri verilen ana kan bileşeni hangisidir?",
+      "options": [
+        "Albümin",
+        "Eritrosit",
+        "Trombosit",
+        "Fibrinojen"
+      ],
+      "correct": 1,
+      "explanation": "Cell saver yıkayıp yoğunlaştırdığı eritrositleri geri verir; plazma proteinleri aynı biçimde korunmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Difüzyon uçlu arter kanülünün yan delikleri neyi azaltmayı amaçlar?",
+      "options": [
+        "Koroner geri basıncı sıfırlamayı",
+        "Kanül lümen direncini tamamen kaldırmayı",
+        "Tek jetin duvar etkisini",
+        "Aortadaki plakları filtrelemeyi"
+      ],
+      "correct": 2,
+      "explanation": "Akımın dağıtılması tek güçlü jetin aort duvarına etkisini sınırlamaya yöneliktir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "VAVD uygulanırken hangi basınç özellikle izlenir?",
+      "options": [
+        "Arteriyel kanül uç basıncı",
+        "Pulmoner arter basıncı",
+        "Sol atriyal dolum basıncı",
+        "Venöz rezervuar/hat basıncı"
+      ],
+      "correct": 3,
+      "explanation": "Destekli drenajın negatif basıncı hem drenaj hem güvenlik açısından izlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yeterli akıma rağmen derin vazodilatasyon ve hipotansiyon hangi tablodur?",
+      "options": [
+        "Vazopleji",
+        "Hipovolemi",
+        "Venöz hava kilidi",
+        "Kanül malpozisyonu"
+      ],
+      "correct": 0,
+      "explanation": "Vazoplejide damar direnci belirgin düşüktür; düşük basınç tek başına yetersiz pompa akımını kanıtlamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Tel takviyeli venöz kanül, kıvrılıp tıkanma riskini sınırlamaya yöneliktir.",
+      "isTrue": true,
+      "explanation": "Tel desteği kanül duvarının bükülmeyle kollabe olmasını azaltmayı amaçlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Arteriyel akım sabitken venöz dönüş azaltılırsa rezervuar seviyesi yükselir.",
+      "isTrue": false,
+      "explanation": "Rezervuara giriş azalırken çıkış sürer; rezervuar seviyesi düşer.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Konvansiyonel ultrafiltre, plazma suyunu uzaklaştırırken kan hücrelerini tutar.",
+      "isTrue": true,
+      "explanation": "Hemofiltrenin ayırma özelliği su ve küçük solütlerin uzaklaştırılmasına izin verir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

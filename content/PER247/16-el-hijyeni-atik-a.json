@@ -1,0 +1,157 @@
+{
+  "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "WHO El Hijyeni 2009",
+      "term": "El hijyeni",
+      "definition": "El yıkama veya alkollü el ovma ile ellerin mikroorganizmalardan arındırılması.",
+      "en": "Hand hygiene"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "term": "El hijyeninde beş an",
+      "definition": "Hasta teması ve aseptik işlem öncesinde; vücut sıvısı riski, hasta teması ve hasta çevresi teması sonrasında el hijyeni gerektiren DSÖ yaklaşımı.",
+      "en": "My 5 Moments"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Standart önlemler",
+      "definition": "Tüm hastalara uygulanan, tüm kan/vücut sıvılarının bulaşıcı olabileceği ilkesine dayalı önlemler.",
+      "en": "Standard precautions"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Temas önlemleri",
+      "definition": "Doğrudan/dolaylı temasla bulaşan ajanlara karşı önlük-eldiven ve tek kişilik oda.",
+      "en": "Contact precautions"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Damlacık önlemleri",
+      "definition": "Solunum damlacıklarıyla yakın temas sırasında bulaşan ajanlara karşı uygulanan ek önlemler. Maske ve uygun hasta yerleşimi temel bileşenlerdir.",
+      "en": "Droplet precautions"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Hava yolu önlemleri",
+      "definition": "Havada asılı kalan ajanlar için AIIR ve N95 kullanımı.",
+      "en": "Airborne precautions"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Hava yolu enfeksiyon izolasyon odası",
+      "definition": "Havadan bulaşan enfeksiyonlarda kullanılan, **negatif basınçlı** özel oda. Hava uygun şekilde dışarı atılır veya HEPA ile filtrelenir.",
+      "en": "Airborne infection isolation room"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Damlacık çekirdeği",
+      "definition": "Solunum damlacığının kurumasıyla oluşan ve havada asılı kalabilen küçük kalıntı partikül.",
+      "en": "Droplet nuclei"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "N95 respiratör",
+      "definition": "NIOSH onaylı partikül filtreli solunum koruyucu. Hava yolu önlemlerinde uygun yüz uyumu ve kullanım tekniğiyle uygulanır.",
+      "en": "N95 respirator"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kişisel koruyucu ekipman",
+      "definition": "Çalışanı tehlikeye karşı koruyan özel kıyafet/ekipman (eldiven, önlük, maske, gözlük, siper).",
+      "en": "Personal protective equipment (PPE)"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Solunum hijyeni/öksürük adabı",
+      "definition": "Öksürürken örtme, mendili temassız atma, öksürene maske, mesafe.",
+      "en": "Respiratory hygiene/cough etiquette"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Tıbbi atık",
+      "definition": "Enfeksiyon yapıcı, patolojik ve kesici-delici atıkların toplamı.",
+      "en": "Medical waste"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Enfeksiyon yapıcı atık",
+      "definition": "Enfeksiyon etkeni taşıyan/taşıması muhtemel kan, vücut sıvısı, doku ve bunlarla bulaşmış malzeme.",
+      "en": "Infectious waste"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Patolojik atık",
+      "definition": "Cerrahi, otopsi veya patoloji çalışması sonucunda oluşan doku, organ, vücut parçası ve benzeri materyal. Bertaraf yöntemi mevzuattaki koşul ve istisnalarla belirlenir.",
+      "en": "Pathological waste"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Kesici-delici atık",
+      "definition": "İğne, bisturi, lanset, kırık cam, ampul gibi yaralanma yapabilen atıklar.",
+      "en": "Sharps waste"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Uluslararası biyotehlike amblemi",
+      "definition": "Tıbbi atık torba/kap ve araçlarında bulunması zorunlu siyah amblem.",
+      "en": "International biohazard symbol"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Tıbbi atık geçici depolaması",
+      "definition": "Tıbbi atığın işleme tesisine gönderilmeden önce kurumda güvenli biçimde bekletilmesi.",
+      "en": "Temporary storage"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Mesleki Maruziyet 2001",
+      "term": "Temas sonrası profilaksi",
+      "definition": "Kan/vücut sıvısı maruziyeti sonrası HBV/HIV bulaşını önleyici aşı, immünglobulin veya antiretroviral.",
+      "en": "Post-exposure prophylaxis"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC Mesleki Maruziyet 2001",
+      "term": "Hepatit B immünglobulini",
+      "definition": "Hepatit B virüsüne karşı hazır antikor içeren ürün. Uygun maruziyet koşullarında temas sonrası korunmanın bileşenidir; gereklilik bağışıklık durumuna bağlıdır.",
+      "en": "HBIG"
+    }
+  ]
+}

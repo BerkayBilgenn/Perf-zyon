@@ -1,0 +1,63 @@
+{
+  "topic": "Pediatrik kalp cerrahisinde KPB",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ramakrishnan 2023’te anlatılan merkez stratejisinde soğutma ve yeniden ısıtmanın kan gazı yaklaşımları hangi sıradadır?",
+      "options": [
+        "Soğutmada pH-stat, ısıtmada alfa-stat",
+        "Soğutmada alfa-stat, ısıtmada pH-stat",
+        "İki evrede de yalnız alfa-stat",
+        "İki evrede de yalnız pH-stat"
+      ],
+      "correct": 0,
+      "explanation": "Yazarların merkezinde soğutmada pH-stat ve yeniden ısıtmada alfa-stat kullanılır. Bu, kaynak merkezinin hibrit stratejisidir; evrensel protokol olarak sunulmaz.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "SACP sırasında beyne kan hangi yönde verilir?",
+      "options": [
+        "Koroner sinüsten sol atriyuma",
+        "Arteriyel sistemden antegrad",
+        "SVC’den retrograd",
+        "Aorttan venöz rezervuara"
+      ],
+      "correct": 1,
+      "explanation": "Selektif antegrad serebral perfüzyon, innominat/karotis üzerinden fizyolojik arteriyel yönde akım sağlar.",
+      "source": "Frontiers in Pediatrics 2016"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Küçük hastada prime hacminin kan hacmine oranı arttığında hangi etki belirginleşir?",
+      "options": [
+        "Polisitemi",
+        "Eritrosit üretimi",
+        "Hemodilüsyon",
+        "Hemokonsantrasyon"
+      ],
+      "correct": 2,
+      "explanation": "Hücresiz prime kanı seyreltir; küçük kan hacmi nedeniyle pediatrik hastada etki daha büyüktür.",
+      "source": "Pediatrik devre çalışması 2018"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ramakrishnan 2023’teki merkez stratejisinde derin hipotermiye soğutma en az 10 dakika olarak tarif edilir.",
+      "isTrue": false,
+      "explanation": "Kaynakta derin hipotermiye soğutma en az 20 dakika olarak anlatılır. Süre bu tarihli merkez stratejisine aittir; bütün ameliyatlar için tek hedef değildir.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ultrafiltrasyonun hemokonsantrasyon etkisi eritrositleri plazmadan uzaklaştırarak oluşur.",
+      "isTrue": false,
+      "explanation": "Hemokonsantrasyon suyun uzaklaştırılması ve kan hücrelerinin korunmasıyla oluşur; eritrositlerin atılmasıyla değil.",
+      "source": "Naik–Knight–Elliott, MUF 1991"
+    }
+  ]
+}

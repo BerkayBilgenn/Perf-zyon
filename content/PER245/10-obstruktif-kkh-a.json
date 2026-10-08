@@ -1,0 +1,73 @@
+{
+  "topic": "Obstrüktif konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Aort koarktasyonu",
+      "en": "Coarctation of the aorta",
+      "definition": "İnen aortada, çoğunlukla duktus girişi yerinde (jukstaduktal) daralma.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Kesintili aortik ark (IAA)",
+      "en": "Interrupted aortic arch",
+      "definition": "Çıkan ve inen aorta arasında anatomik sürekliliğin bulunmaması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kosta çentiklenmesi",
+      "en": "Rib notching",
+      "definition": "Koarktasyonda genişlemiş interkostal kollateral arterlerin kostalarda yaptığı çentikler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Supravalvüler aort darlığı",
+      "en": "Supravalvular aortic stenosis",
+      "definition": "Kapak üstünde aort daralması; Williams sendromunda tipik.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Pulmoner darlık (PS)",
+      "en": "Pulmonary stenosis",
+      "definition": "Sağ ventrikül çıkışının valvüler (en sık), subvalvüler veya supravalvüler daralması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Valvüler aort darlığı",
+      "definition": "Sol ventrikül çıkış obstrüksiyonunun aort kapağı düzeyinde olduğu konjenital darlık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Subvalvüler aort darlığı",
+      "definition": "Aort kapağının altında, sol ventrikül çıkış yolunda yer alan obstrüksiyon.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Balon valvüloplasti",
+      "definition": "Darlık bulunan kapağın kateterle taşınan balon kullanılarak genişletilmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Komissürotomi",
+      "definition": "Kaynaşmış kapak komissürlerinin cerrahi olarak ayrılarak açıklığın artırılması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

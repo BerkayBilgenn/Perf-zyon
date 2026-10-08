@@ -60,12 +60,12 @@
     {
       "type": "mcq",
       "importance": 3,
-      "question": "Propofolün kardiyak indüksiyon dozu hangi aralıktadır?",
+      "question": "DIPRIVAN ürün bilgisine göre kardiyak anestezi indüksiyonunun tam doz aralığı hangisidir?",
       "options": [
-        "5–15 mg/kg",
+        "1–1,5 mg/kg",
         "0,5–1,5 mg/kg",
-        "0,05–0,15 mg/kg",
-        "50–150 mg/kg"
+        "2–2,5 mg/kg",
+        "2,5–3,5 mg/kg"
       ],
       "correct": 1,
       "explanation": "DIPRIVAN etiketinde kardiyak indüksiyon için 0,5–1,5 mg/kg yavaş titrasyonla verilir; sağlıklı genç erişkin dozu farklıdır.",

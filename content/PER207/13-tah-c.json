@@ -1,0 +1,47 @@
+{
+  "topic": "Total yapay kalp (TAH)",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "FDA 2004 SynCardia 70 mL cihazında her yapay ventrikülün tek yönlü akımını hangi bileşenler sağlar?",
+      "options": [
+        "Atriyumlar arasındaki transseptal açıklık",
+        "Aort içindeki karşı-atım balonu",
+        "Giriş ve çıkıştaki mekanik kapaklar",
+        "Yalnız çıkış greftindeki sürekli rotor"
+      ],
+      "correct": 2,
+      "explanation": "Her yapay ventrikülün giriş ve çıkışında mekanik kapak bulunur; akım yönünü bu kapaklar kontrol eder.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Tamamen implante edilebilir AbioCor’un enerji aktarımı yaklaşımı hangisidir?",
+      "options": [
+        "Harici pnömatik hava hattı",
+        "Femoral arter basınç farkı",
+        "Sadece yerçekimi ile doluş",
+        "Transkütan enerji aktarımı"
+      ],
+      "correct": 3,
+      "explanation": "AbioCor tasarımı, deriyi geçen pnömatik sürücü hattından farklı olarak transkütan enerji aktarımını kullanır.",
+      "source": "FDA AbioCor HDE 2006"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "CARMAT Aeson’da kanla temas eden yüzeyin hangi özelliği öne çıkar?",
+      "options": [
+        "Biyoprotez doku kaplama",
+        "Yalnız pirolitik karbon kaplama",
+        "Yalnız çıplak titanyum yüzey",
+        "Yalnız sentetik poliüretan yüzey"
+      ],
+      "correct": 0,
+      "explanation": "Aeson tasarımında biyoprotez kan temas yüzeyleri kullanılır; seçenekler farklı kan temas malzemelerini karşılaştırır.",
+      "source": "CARMAT Aeson teknik tanımı 2021"
+    }
+  ]
+}

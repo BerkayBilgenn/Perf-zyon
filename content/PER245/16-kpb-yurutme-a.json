@@ -1,0 +1,196 @@
+{
+  "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Aortik (arteriyel) kanül",
+      "en": "Aortic cannula",
+      "definition": "Oksijenli kanı hastaya veren kanül (düz, açılı, difüzyon uçlu).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "İki kademeli venöz kanül",
+      "en": "Two-stage (cavoatrial) cannula",
+      "definition": "Ucu VCI'da, geniş delikli kısmı sağ atriyumda olan tek venöz kanül.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Total KPB",
+      "en": "Total bypass",
+      "definition": "Kaval snare'lerle tüm sistemik venöz dönüşün pompaya alınması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Parsiyel KPB",
+      "en": "Partial bypass",
+      "definition": "Venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği KPB.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Suction bypass",
+      "en": "Suction bypass",
+      "definition": "Venöz kanülasyon öncesi aspiratörle toplanan kanın arteriyel kanülden geri verilmesi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "Gravite (sifon) drenajı",
+      "en": "Gravity siphon drainage",
+      "definition": "Rezervuarın hastadan aşağıda olmasıyla venöz kanın yer çekimiyle akması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "VAVD",
+      "en": "Vacuum-assisted venous drainage",
+      "definition": "Sert kabuklu rezervuara regüle vakum uygulayarak venöz dönüşü artırma.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Venöz hava kilidi",
+      "en": "Venous airlock",
+      "definition": "Venöz hatta biriken havanın sifonu keserek drenajı durdurması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Vazopleji",
+      "en": "Vasoplegia",
+      "definition": "Yeterli akıma rağmen derin vazodilatasyon ve dirençli hipotansiyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "term": "SvO2",
+      "en": "Mixed venous oxygen saturation",
+      "definition": "Karışık venöz kandaki oksijen satürasyonu; oksijen sunumu ve tüketimi arasındaki denge hakkında bilgi verir.",
+      "source": "EACTS/EACTA/EBCP 2019"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "CUF",
+      "en": "Conventional ultrafiltration",
+      "definition": "KPB sırasında hemofiltreyle plazma suyunun uzaklaştırılması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "ZBUF",
+      "en": "Zero-balance ultrafiltration",
+      "definition": "Uzaklaştırılan hacim kadar dengeli kristaloid eklenen ultrafiltrasyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "MUF",
+      "en": "Modified ultrafiltration",
+      "definition": "KPB sonrası kanın aortik kanülden ultrafiltreye ve sağ atriyuma verildiği ultrafiltrasyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Kinetik destekli venöz drenaj",
+      "definition": "Venöz kanül ile rezervuar arasındaki santrifüj pompayla venöz drenajın desteklenmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz dönüşün paylaşımı",
+      "left": {
+        "title": "Total KPB",
+        "points": [
+          "Sistemik venöz dönüş pompaya yönlendirilir",
+          "Bikaval snare ile sağ atriyum izole edilebilir"
+        ]
+      },
+      "right": {
+        "title": "Parsiyel KPB",
+        "points": [
+          "Dönüşün bir bölümü kalp-akciğer yolunu sürdürür",
+          "Nativ dolaşımın katkısı devam eder"
+        ]
+      },
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz kanül düzeni",
+      "left": {
+        "title": "İki kademeli kanül",
+        "points": [
+          "Tek kanülde atriyal ve kaval delikli bölümler",
+          "Kalp boşluğu açılmayan işlemlerde sık kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Bikaval kanülasyon",
+        "points": [
+          "İki kavada ayrı kanüller ve ortak venöz hat",
+          "Sağ kalp açılacaksa izolasyona elverişlidir"
+        ]
+      },
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz drenajın desteklenmesi",
+      "left": {
+        "title": "VAVD",
+        "points": [
+          "Sert rezervuara regüle vakum uygulanır",
+          "Drenaj için rezervuar basıncı değiştirilir"
+        ]
+      },
+      "right": {
+        "title": "KAVD",
+        "points": [
+          "Venöz hatta yardımcı santrifüj pompa bulunur",
+          "Drenaj için hat üzerinde kinetik enerji sağlanır"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Ultrafiltrasyonda denge",
+      "left": {
+        "title": "CUF",
+        "points": [
+          "KPB sırasında plazma suyu uzaklaştırılır",
+          "Net sıvı azalması sağlanabilir"
+        ]
+      },
+      "right": {
+        "title": "ZBUF",
+        "points": [
+          "KPB sırasında filtrasyon yapılır",
+          "Çekilen sıvı dengeli kristaloidle yerine konur"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

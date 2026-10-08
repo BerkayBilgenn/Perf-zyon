@@ -1,0 +1,55 @@
+{
+  "topic": "Kriz yönetimi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Matte 2024’te oksijenatör değişimi yerine venöz piggyback önerisinin temel klinik amacı nedir?",
+      "options": [
+        "Sistemik antikoagülasyonu tamamen ortadan kaldırmak",
+        "Gaz değişimini düzeltirken desteğin kesilme riskini azaltmak",
+        "Her hastada arteriyel basıncı kalıcı artırmak",
+        "Her devrede rezervuar gereksinimini kaldırmak"
+      ],
+      "correct": 1,
+      "explanation": "Yazarların merkez algoritması, kurtarma oksijenatörüyle gaz değişimini sürdürerek ekip kararına zaman kazandırmayı hedefler; bütün merkezler için zorunlu protokol değildir.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Venöz piggyback kurtarma yönteminde ikinci oksijenatörün kanı nereden alınır?",
+      "options": [
+        "Purge hattından",
+        "Gaz çıkışından",
+        "Venöz hattan",
+        "Aort kökünden"
+      ],
+      "correct": 2,
+      "explanation": "Venöz piggyback, venöz hattan aldığı kanı ikinci oksijenatörden geçirerek rezervuara döndürür.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "KPB sırasında oksijenasyon bozulmasında cihaz değişiminden önce hangi kontrol doğrudur?",
+      "options": [
+        "Hava dedektörü alarmını kapatmak",
+        "Dönüş kanülünü görüntüsüz çekmek",
+        "Oksijenatörün gaz çıkışını tıkamak",
+        "Gaz kaynağı ve blender bağlantısını kontrol etmek"
+      ],
+      "correct": 3,
+      "explanation": "Dış gaz yolu arızası düzeltilebilir bir nedendir; oksijenatör içi yetmezlik tanısından önce değerlendirilir.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Matte 2024’te venöz piggyback yöntemi, venöz hattan kan alarak ek oksijenatörden rezervuara döndürür.",
+      "isTrue": true,
+      "explanation": "Bu kurtarma yöntemi ayrı pompa ve oksijenatörle venöz kanı işlemden geçirip rezervuara verir; bağlantı devreye göre hazırlanır.",
+      "source": "Matte, JECT 2024"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "topic": "Testler, indikatörler ve geri çağırma",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Sterilizasyonun öldürücülüğünü doğrudan izleyen araç hangisidir?",
+      "options": [
+        "Maruziyet bandı",
+        "Basınç göstergesi",
+        "Biyolojik indikatör",
+        "Sıcaklık kayıt grafiği"
+      ],
+      "correct": 2,
+      "explanation": "BI, dirençli sporların canlılığını değerlendirerek **öldürücülüğü doğrudan** izler."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Bowie-Dick testinin temel hedefi hangisidir?",
+      "options": [
+        "Alet üzerindeki protein kalıntısı",
+        "Hastanın kolonizasyon durumu",
+        "Dezenfektanın aktif konsantrasyonu",
+        "Hava uzaklaştırma ve buhar penetrasyonu"
+      ],
+      "correct": 3,
+      "explanation": "Bowie-Dick, ön vakumlu cihazdaki **hava uzaklaştırmayı** sınar; sterilite veya temizlik testi değildir."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kuru ısı sürecinde BI olarak hangi mikroorganizma kullanılır?",
+      "options": [
+        "Bacillus atrophaeus",
+        "Geobacillus stearothermophilus",
+        "Mycobacterium tuberculosis",
+        "Staphylococcus aureus"
+      ],
+      "correct": 0,
+      "explanation": "**B. atrophaeus**, kuru ısı ve EtO için kullanılan dirençli spor kaynağıdır."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "SKS’ye göre vakum kaçağı 1,5 mbar/dk bulunan cihazda ne yapılır?",
+      "options": [
+        "Haftalık testle çalışması sürdürülür",
+        "Çalışması durdurulur",
+        "Günlük testle koşulsuz sürdürülür",
+        "Bowie-Dick atlanarak sürdürülür"
+      ],
+      "correct": 1,
+      "explanation": "**1,3 mbar/dk üzeri** kaçakta cihaz durdurulur; test sıklığını artırmak arızayı gidermez."
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "H2O2 gaz plazma için kullanılan BI spor kaynağı hangisidir?",
+      "options": [
+        "Bacillus atrophaeus",
+        "Candida albicans",
+        "Geobacillus stearothermophilus",
+        "Pseudomonas aeruginosa"
+      ],
+      "correct": 2,
+      "explanation": "**G. stearothermophilus**, buhar, H2O2 gaz plazma ve sıvı PAA işlemlerinde kullanılır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Sterilizatörün koruyucu bakımı, üretici talimatına göre yetkin personelce yapılır.",
+      "isTrue": true,
+      "explanation": "CDC, koruyucu bakımın **üretici talimatını izleyen yetkin personel** tarafından yapılmasını önerir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Negatif BI, yükteki her malzemenin steril olduğunu tek başına kanıtlar.",
+      "isTrue": false,
+      "explanation": "BI bir proses örneğidir; **negatif sonuç tüm yükün steril olduğunun tek başına kanıtı değildir**."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "statement": "Kimyasal indikatörün tip numarası bir üstünlük sıralaması olarak yorumlanmaz.",
+      "isTrue": true,
+      "explanation": "ISO tipleri farklı kullanım amaçlarını tanımlar; büyük numara otomatik olarak daha iyi indikatör değildir."
+    }
+  ]
+}

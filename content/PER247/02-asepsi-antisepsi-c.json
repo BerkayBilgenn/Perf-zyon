@@ -1,0 +1,77 @@
+{
+  "topic": "Asepsi, antisepsi ve antiseptikler",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ameliyat bölgesindeki sağlam cilde uygun germisit hangi kullanım grubundadır?",
+      "options": [
+        "Antiseptik",
+        "Yüzey dezenfektanı",
+        "Alet yağlayıcısı",
+        "Enzimatik temizleyici"
+      ],
+      "correct": 0,
+      "explanation": "Canlı doku için **antiseptik** seçilir; cansız yüzey ürünleri ciltte birbirinin yerine kullanılmaz."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "CDC’ye göre alkolün optimum bakterisid konsantrasyon aralığı hangisidir?",
+      "options": [
+        "%10–30",
+        "%60–90",
+        "%30–45",
+        "%95–100"
+      ],
+      "correct": 1,
+      "explanation": "CDC optimum aralığı **hacim/hacim %60–90** verir; su protein denatürasyonuna katkı sağlar."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Alkolün temel germisit mekanizması hangisidir?",
+      "options": [
+        "Proteinlere alkil grubu eklenmesi",
+        "Sıvıdan membranla uzaklaştırma",
+        "Protein denatürasyonu",
+        "Basınçla mekanik parçalama"
+      ],
+      "correct": 2,
+      "explanation": "Alkol etkisi en çok **protein denatürasyonuyla** açıklanır; alkilasyon EtO gibi ajanlarla ilişkilidir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Alkollü antiseptik uygulanmış hastada koter öncesi güvenli koşul hangisidir?",
+      "options": [
+        "Solüsyonun örtü altında birikmesi",
+        "Örtünün antiseptikle ıslatılması",
+        "Cildin ek alkolle nemlendirilmesi",
+        "Solüsyonun tamamen kuruması"
+      ],
+      "correct": 3,
+      "explanation": "Alkol yanıcıdır. **Kuruma ve göllenmenin önlenmesi**, yangın riskini azaltır."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "İyodofor taşıyıcısı serbest iyot için bir rezervuar işlevi görür.",
+      "isTrue": true,
+      "explanation": "İyot-taşıyıcı kompleksi serbest iyodu yavaşça salarak rezervuar görevi görür."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Alkol, kauçuk ve bazı plastik parçaları tekrarlanan kullanımda hasarlamaz.",
+      "isTrue": false,
+      "explanation": "Uzun veya tekrarlanan alkol teması bazı **kauçuk/plastik parçaları sertleştirip şişirebilir**. Materyal uyumu ürün talimatıyla değerlendirilir."
+    }
+  ]
+}

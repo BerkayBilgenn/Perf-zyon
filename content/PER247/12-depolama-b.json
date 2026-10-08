@@ -1,0 +1,68 @@
+{
+  "topic": "Depolama, raf ömrü ve taşıma",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Türkiye’de steril depo koşulları",
+      "body": "SKS değerlendirmesinde steril depo **22 °C’yi ve %60 nemi aşmamalıdır**; değerler günlük izlenir. CDC’nin daha farklı sınırları bulunduğundan kaynağın adı belirtilmelidir."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "SKS raf mesafeleri",
+      "body": "SKS’de raflar **zeminden 30 cm**, **tavandan 50 cm**, duvardan 5 cm uzak düzenlenir. CDC/WHO farklı mesafeler verir; bu değerler Türkiye’deki SKS bağlamıdır."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Depoda FIFO ilkesi",
+      "body": "Steril malzemede **ilk giren ilk çıkar** ilkesi uygulanır. SKS’ye göre depo ve kullanım yerlerinde son kullanma tarihi geçmiş steril malzeme bulundurulmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Yere düşen sağlam paket",
+      "body": "Yere düşen paket hasar yönünden incelenir. CDC’ye göre geçirimsiz plastikle **ısıyla kapatılmış ve mührü sağlam** paket, yalnız düşmesi nedeniyle otomatik kontamine sayılmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Kuruma bağlı raf ömrü örneği",
+      "body": "ÇOMÜ 2024 prosedüründe poşet için **en fazla 6 ay**, çift wrap/tekstil için **30 gün** verilir. Bu süreler bütün kurumlar için ulusal standart değildir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Olaya bağlı sterilitede hangi olaylar paketi sorgulatır?",
+      "answer": "**Yırtılma, delinme, ıslanma veya kapatmanın bozulması**. Paket bütünlüğünün korunması, yalnız geçen gün sayısından daha doğrudan bir kontaminasyon göstergesidir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Lavabo altı neden steril paket deposu değildir?",
+      "answer": "**Su, sızıntı ve nem riski** yüksektir. Depolama yeri, ambalajı çevresel sudan ve kirden koruyacak şekilde seçilir."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "Cep depoda uzun bekletmenin sonucu nedir?",
+      "answer": "SKS’ye göre **24 saatten fazla** bekletiliyorsa sıcaklık, nem ve depo koşulları burada da sağlanır. MSÜ dışında olması steriliteyi koruma sorumluluğunu kaldırmaz."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Bariyer bozulduysa kullanma",
+      "body": "**Islak, yırtık veya delinmiş** steril paket kullanıma verilmez. Paket sorunu saptanınca uygun yeniden işleme süreciyle değerlendirilir."
+    }
+  ]
+}

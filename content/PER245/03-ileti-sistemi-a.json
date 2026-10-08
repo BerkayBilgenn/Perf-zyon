@@ -1,0 +1,82 @@
+{
+  "topic": "Kalbin ileti sistemi",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Krista terminalis",
+      "en": "Crista terminalis",
+      "definition": "Sağ atriyumun düz (sinus venarum) ve pektinat kaslı kısımlarını ayıran kabartı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Sinoatriyal (SA) düğüm",
+      "en": "Sinoatrial node",
+      "definition": "Üst vena kava–sağ atriyum bileşkesinde kendiliğinden uyarı üreten, normal kalp ritminin başlıca kaynağı olan hücre topluluğu.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Atriyoventriküler (AV) düğüm",
+      "en": "Atrioventricular node",
+      "definition": "Atriyal uyarıyı ventriküllere geçmeden geciktiren, atriyumların boşalmasına zaman tanıyan ileti yapısı.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "His demeti",
+      "en": "Bundle of His",
+      "definition": "AV düğümden membranöz septuma inip sağ ve sol dallara ayrılan ileti demeti.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Purkinje lifleri",
+      "en": "Purkinje fibres",
+      "definition": "Ventrikül subendokardındaki, glikojenden zengin, hızlı ileten hücre ağı.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "term": "Koch üçgeni",
+      "en": "Triangle of Koch",
+      "definition": "Koroner sinüs ostiumu, Todaro tendonu ve triküspit septal yaprakçık hattının sınırladığı, tepesinde AV düğümün bulunduğu alan.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "WPW sendromu",
+      "en": "Wolff-Parkinson-White syndrome",
+      "definition": "Aksesuar atriyoventriküler ileti yoluna bağlı ventriküler preeksitasyonun taşiaritmiyle birlikte bulunduğu sendrom.",
+      "source": "Konjenital ilişkiler, Europe PMC"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Aksesuar ileti yolu",
+      "definition": "Atriyumlarla ventriküller arasında normal AV düğüm yoluna ek elektriksel bağlantı.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Epikardiyal pace teli",
+      "definition": "Kalbin dış yüzeyine yerleştirilen ve ameliyat sonrası geçici elektriksel uyarı vermeye yarayan tel.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "term": "Atriyoventriküler blok",
+      "definition": "Atriyumdan ventriküle elektriksel iletimin gecikmesi veya kesilmesi.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    }
+  ]
+}

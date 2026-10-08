@@ -164,6 +164,13 @@
       "title": "VV ECMO başlama eşikleri (ELSO 2021)",
       "body": "Hipoksemik yetmezlik: optimal tedavi ve prone denemesinden sonra **PaO2/FiO2 < 80 mmHg**. Hiperkapnik yetmezlik: optimal ventilasyona rağmen **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
       "source": "ELSO VV 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "VV ECMO değerlendirmesinde akciğer hasarının geri dönüşebilirliği neden önemlidir?",
+      "answer": "Geçici destek, iyileşmeye ya da nakle köprü sağlamalıdır. Çıkış planı bulunmayan geri dönüşümsüz hastalıkta anlamlı dekanülasyon mümkün olmayabilir.",
+      "source": "ELSO VV 2021"
     }
   ]
 }

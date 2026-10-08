@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Organ Bakım Sistemi",
       "en": "Organ Care System",
       "definition": "Organı transport sırasında normotermik, kanla perfüze (kalp: atar halde) tutan portatif sistem.",
@@ -31,7 +31,7 @@
       "term": "DCD",
       "en": "Donation after circulatory death",
       "definition": "Dolaşımın durmasıyla ölüm tespiti sonrası organ bağışı.",
-      "source": "Sydney DCD serisi 2022"
+      "source": "Dhital, Sydney DCD deneyimi 2020"
     },
     {
       "type": "term",
@@ -39,31 +39,51 @@
       "term": "DBD",
       "en": "Donation after brain death",
       "definition": "Beyin ölümü sonrası organ bağışı.",
-      "source": "Sydney DCD serisi 2022"
+      "source": "Dhital, Sydney DCD deneyimi 2020"
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "NRP",
       "en": "Normothermic regional perfusion",
       "definition": "DCD donörde ölüm tespitinden sonra ECMO ile organların vücut içinde normotermik perfüzyonu.",
-      "source": "Sydney DCD serisi 2022"
+      "source": "Dhital, Sydney DCD deneyimi 2020"
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "DPP",
       "en": "Direct procurement and perfusion",
       "definition": "DCD kalbinin soğuk kardiyoplejiyle alınıp ex situ makinede yeniden perfüze edilmesi.",
-      "source": "Sydney DCD serisi 2022"
+      "source": "Dhital, Sydney DCD deneyimi 2020"
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Primer greft disfonksiyonu",
       "en": "Primary graft dysfunction",
       "definition": "Nakil sonrası erken dönemde greftin (ör. akciğer) yetersiz çalışması; VV ECMO endikasyonu.",
       "source": "ELSO VV 2021"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "DCD kalbinin yeniden perfüzyonu",
+      "left": {
+        "title": "DPP",
+        "points": [
+          "Kalp donörden çıkarılır",
+          "Yeniden perfüzyon ex situ cihazda olur"
+        ]
+      },
+      "right": {
+        "title": "NRP",
+        "points": [
+          "Organlar donör vücudunda kalır",
+          "Yeniden perfüzyon bölgesel devreyle olur"
+        ]
+      },
+      "source": "Dhital, Sydney DCD deneyimi 2020"
     }
   ]
 }

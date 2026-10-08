@@ -1,0 +1,82 @@
+{
+  "topic": "Transplantasyon ve yeni teknolojiler",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "EVLP’de işlevin birlikte değerlendirilmesi",
+      "body": "Donör akciğerin EVLP uygunluğu yalnız oksijenasyonla belirlenmez; **kompliyans, pulmoner damar direnci ve hava yolu basınçları** da değerlendirilir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Steen solüsyonunun onkotik bileşeni",
+      "body": "Steen solüsyonundaki albümin onkotik basınç sağlar; dekstran 40 içeren tamponlu perfüzat, EVLP sırasında ödemin sınırlanmasına yardım eder.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "PROCEED II: sonlanım türü",
+      "body": "PROCEED II, OCS kalp taşıma sistemini soğuk saklamayla karşılaştıran **eşdeğerlikten aşağı olmama** çalışmasıdır; temel değerlendirme 30 günlük hasta ve greft sağkalımıdır.",
+      "source": "PROCEED II, Lancet 2015"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "NRP’de ölüm tespiti önce gelir",
+      "body": "DCD sürecinde normotermik bölgesel perfüzyon, dolaşım ölümü tespiti ve ilgili bekleme sürecinden sonra uygulanır. Organ perfüzyonu ve ölüm tespiti ayrı aşamalardır.",
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Nakil sonrası solunum desteği",
+      "body": "Akciğer naklinden sonra primer greft disfonksiyonu ağır solunum yetmezliği oluşturabilir; **VV ECMO** bu bağlamda gaz değişimini destekleyebilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Cypel 2011 EVLP çalışmasında radyografi ve bronkoskopi neyi tamamlar?",
+      "answer": "Gaz değişimi ölçümüne ek olarak ödem, konsolidasyon, atelektazi ve hava yolu görünümünü değerlendirir. **Görüntüleme ve bronkoskopi**, fizyolojik ölçümlerin yerine geçmeden onları tamamlar.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Cypel 2011 EVLP çalışmasında karşılaştırma grubuna hangi akciğerler alındı?",
+      "answer": "Aynı dönemde nakledilen **standart kriterli donör akciğerleri** kullanıldı. EVLP grubu yüksek riskli organlardan seçildi; gruplar randomizasyonla oluşturulmadı.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "EVLP’den sonra her organ kullanılmaz",
+      "body": "Cypel 2011’de EVLP uygulanan **23 donörün 20’sinin** akciğerleri nakledildi; kötüleşen 3 organ kullanılmadı. EVLP, organın uygunluğunu değerlendirme fırsatı sağlar; başarı garantisi değildir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Barnard ve ilk insan kalp nakli",
+      "body": "Christiaan Barnard ve ekibi, **3 Aralık 1967**’de Cape Town Groote Schuur Hastanesi’nde ilk insandan insana kalp naklini yaptı. Tarih UCT’nin kendi arşiviyle doğrulanmıştır.",
+      "source": "Transplant merkezlerinin tarihçeleri"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Reitz–Shumway ve kalp-akciğer nakli",
+      "body": "Stanford’da Bruce Reitz ve Norman Shumway ekibi **9 Mart 1981**’de Mary Gohlke’ye ilk başarılı kalp-akciğer naklini yaptı. Stanford’un Reitz söyleşisi tarih ve ekibi doğrular.",
+      "source": "Transplant merkezlerinin tarihçeleri"
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "title": "Cooper ve başarılı akciğer nakli",
+      "body": "Joel Cooper’ın Toronto General ekibi **7 Kasım 1983**’te Tom Hall’a ilk başarılı tek akciğer naklini yaptı. UHN’nin kendi tarih kaydı bu başarıyı önceki kısa sağkalımlı girişimlerden ayırır.",
+      "source": "Transplant merkezlerinin tarihçeleri"
+    }
+  ]
+}

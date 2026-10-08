@@ -1,0 +1,68 @@
+{
+  "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Perikardın iki yaprağı",
+      "body": "Seröz perikardın parietal ve visseral yaprakları arasında kayganlaştırıcı sıvı bulunur; visseral yaprağa epikard denir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Kapak ve kalp sesi",
+      "body": "Atriyoventriküler kapakların kapanması S1'i, aort ve pulmoner kapakların kapanması S2'yi oluşturur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Papiller kasların işi",
+      "body": "Papiller kaslar korda tendineaları gererek AV kapak yaprakçıklarının sistolde atriyuma prolabe olmasını sınırlar; kapağı açan kaslar değildir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Koroner dolum zamanı",
+      "body": "Koroner perfüzyonun önemli bölümü diyastolde gerçekleşir. Aort sinüsleri ile koroner ağızların anatomisi miyokard korumasında önem taşır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulmoner venöz dönüş",
+      "body": "Normal anatomide sağ ve sol akciğerlerden gelen pulmoner venler sol atriyuma açılır; venöz anomaliler kanülasyon planını değiştirebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ana koronerin başlıca iki dalı hangileridir?",
+      "answer": "Sol ön inen arter (LAD) ve sirkumfleks arter (Cx).",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Oblik perikardiyal sinüs nerede bulunur?",
+      "answer": "Sol atriyumun arkasında, pulmoner venler arasında yer alan kör perikard boşluğudur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Normal anatomide VCS’yi hangi iki ven oluşturur?",
+      "answer": "Sağ ve sol brakiyosefalik venlerin birleşmesi; superior vena kava buradan sağ atriyuma kan taşır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Dominansın ölçütü",
+      "body": "Koroner dominansı arterin büyüklüğüyle değil, **arka inen arteri veren damar** ile tanımla. Popülasyondaki yüzdeler kaynaklara göre değişebilir.",
+      "source": "TeachMeAnatomy"
+    }
+  ]
+}

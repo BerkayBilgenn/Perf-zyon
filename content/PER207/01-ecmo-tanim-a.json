@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Maastricht Antlaşması",
       "en": "ELSO Maastricht Treaty",
       "definition": "ELSO'nun ECLS terim ve kısaltmalarını standartlaştıran uzlaşısı; drenaj kanülü tireden önce, dönüş kanülü sonra yazılır.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "ELSO",
       "en": "Extracorporeal Life Support Organization",
       "definition": "Ekstrakorporeal yaşam desteğinde uluslararası kayıt, eğitim ve kılavuz çalışmaları yürüten kuruluş.",

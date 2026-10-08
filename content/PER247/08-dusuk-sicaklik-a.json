@@ -1,0 +1,153 @@
+{
+  "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Etilen oksit",
+      "definition": "Alkilasyonla etkili, yanıcı-patlayıcı, karsinojen düşük sıcaklık sterilan gazı.",
+      "en": "Ethylene oxide"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Alkilasyon",
+      "definition": "Protein, DNA ve RNA'nın reaktif gruplarına alkil grubu bağlanması (EtO, glutaraldehit).",
+      "en": "Alkylation"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Aerasyon",
+      "definition": "EtO kalıntısının sıcak hava dolaşımıyla malzemeden uzaklaştırılması.",
+      "en": "Aeration"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Zaman ağırlıklı ortalama",
+      "definition": "Belirli sürede maruz kalınan konsantrasyonların ortalaması.",
+      "en": "Time-weighted average"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İzin verilen maruziyet sınırı",
+      "definition": "İş ortamındaki kimyasal maruziyet için düzenleyici kurumun tanımladığı üst konsantrasyon sınırı. EtO için OSHA sınırı zaman ağırlıklı ortalamayla değerlendirilir.",
+      "en": "Permissible exposure limit"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Eylem düzeyi",
+      "definition": "İş ortamında aşıldığında ilgili izlem ve koruma gerekliliklerinin başladığı maruziyet düzeyi.",
+      "en": "Action level"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Tavan sınırı",
+      "definition": "İş günü boyunca hiçbir an aşılmaması gereken konsantrasyon.",
+      "en": "Ceiling limit"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hidrojen peroksit gaz plazma",
+      "definition": "Derin vakumda H2O2 ve RF/mikrodalga enerjisiyle oluşan serbest radikallerle düşük sıcaklık sterilizasyonu.",
+      "en": "H2O2 gas plasma"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Plazma",
+      "definition": "Maddenin dördüncü hâli; uyarılmış gazdaki yüklü parçacıklar.",
+      "en": "Plasma"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Serbest radikal",
+      "definition": "Eşlenmemiş elektronlu, son derece reaktif tür.",
+      "en": "Free radical"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Buharlaştırılmış hidrojen peroksit",
+      "definition": "Hidrojen peroksit buharıyla çalışan düşük sıcaklık sterilizasyon yöntemi. **VHP** kısaltması kullanılır; gaz plazma aşamasıyla eş anlamlı değildir.",
+      "en": "Vaporized hydrogen peroxide"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ozon sterilizasyonu",
+      "definition": "Oksijenden üretilen ozonun oksidan etkisiyle düşük sıcaklıkta sterilizasyon sağlayan yöntem.",
+      "en": "Ozone sterilization"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Düşük sıcaklık buhar-formaldehit",
+      "definition": "Vakum, buhar ve formaldehit pulslarını birleştiren düşük sıcaklık sterilizasyon yöntemi. LTSF kısaltmasıyla anılır.",
+      "en": "Low-temperature steam formaldehyde"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sıvı kimyasal sterilizasyon",
+      "definition": "Malzemenin uygun sıvı kimyasal sterilana, sporlar dâhil mikroorganizmaları yok etmek için yeterli süre **tamamen daldırılmasıyla** işlenmesi.",
+      "en": "Liquid chemical sterilant"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İyonize radyasyon",
+      "definition": "Kobalt-60 gama veya elektron hızlandırıcıyla endüstriyel düşük sıcaklık sterilizasyonu.",
+      "en": "Ionizing radiation"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Filtrasyon",
+      "definition": "Isıya duyarlı sıvılardaki mikroorganizmaları uygun membranla **fiziksel olarak uzaklaştırma** yöntemi. Mikroorganizmaları öldürmeye dayanmaz.",
+      "en": "Filtration"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "EtO ve H2O2 gaz plazmada etki",
+      "left": {
+        "title": "Etilen oksit",
+        "points": [
+          "Protein ve nükleik asitlerde alkilasyon",
+          "Gaz hâlindeki kimyasal sterilizasyon"
+        ]
+      },
+      "right": {
+        "title": "H2O2 gaz plazma",
+        "points": [
+          "Serbest radikallerle hücre bileşenlerinin hasarı",
+          "Vakum ve enerjiyle plazma oluşumu"
+        ]
+      }
+    }
+  ]
+}

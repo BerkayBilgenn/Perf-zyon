@@ -1,0 +1,77 @@
+{
+  "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Cerrahi alkol bazlı el ürününün uygun uygulama yüzeyi hangisidir?",
+      "options": [
+        "Görünür kirli ıslak el",
+        "Sabun köpüklü el",
+        "Eldiven takılı el",
+        "Temiz ve kuru el"
+      ],
+      "correct": 3,
+      "explanation": "Cerrahi ABHR **kuru ele** uygulanır; yeterli miktarla önerilen süre boyunca ovulur."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Steril alanın uygun hazırlanma yeri/zamanı hangisidir?",
+      "options": [
+        "Kullanım yerinde, kullanıma yakın",
+        "Başka odada, günler öncesinde",
+        "Depo koridorunda, taşımadan önce",
+        "Kirli kabulde, set yıkamadan önce"
+      ],
+      "correct": 0,
+      "explanation": "Steril alan **kullanılacağı yerde ve kullanıma yakın** hazırlanır, taşınmaz."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Steril önlüğün kontamine kabul edilen bölgesi hangisidir?",
+      "options": [
+        "Göğüsten masa seviyesine ön yüz",
+        "Koltuk altı",
+        "Dirseğin üstünden manşete kol",
+        "Masa üstüyle temas eden ön yüz"
+      ],
+      "correct": 1,
+      "explanation": "Kurum politikasında **boyun, omuz ve koltuk altları** kontamine kabul edilir."
+    },
+    {
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Ağır veya keskin steril malzeme alana sunulurken uygun yöntem hangisidir?",
+      "options": [
+        "Diğer açık aletlerin üstüne kontrollü bırakmak",
+        "Hassas örtünün üstüne ağırlığıyla serbest bırakmak",
+        "Doğrudan steril ekip üyesine sunmak",
+        "Koruyucu ambalajını steril masa üzerinde açmak"
+      ],
+      "correct": 2,
+      "explanation": "Kurum politikası ağır/keskin malzemeyi **doğrudan steril ekip üyesine sunmayı** veya ayrı temiz, kuru yüzeyde açmayı ister; kontrollü sunum gerekir."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "statement": "Kapının bantlanması steril alanın sürekli gözetiminin yerine geçmez.",
+      "isTrue": true,
+      "explanation": "Kurum politikası oluşturulan steril alanın **sürekli izlenmesini** ister."
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "source": "WHO 2018",
+      "statement": "WHO cerrahi sabun hazırlığı ile alkollü ovmanın ardışık birleştirilmesini önerir.",
+      "isTrue": false,
+      "explanation": "WHO, cerrahi sabun hazırlığı ve alkollü ovmayı **ardışık birleştirmemeyi** belirtir; uygun yöntem seçilir."
+    }
+  ]
+}

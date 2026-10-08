@@ -1,0 +1,81 @@
+{
+  "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Merkezi sterilizasyon ünitesi",
+      "definition": "Steril ve steril olmayan malzemeyi işleyen, dağıtan ve kontrol eden bölüm.",
+      "en": "Central processing / central sterile services"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kirli alan",
+      "definition": "Kirli malzemenin kabul, ayırma, ön temizlik ve dekontaminasyonunun yapıldığı, negatif basınçlı alan.",
+      "en": "Decontamination area"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Temiz alan",
+      "definition": "Temiz (henüz steril olmayan) malzemenin kontrol, bakım ve paketlendiği alan.",
+      "en": "Clean / packaging area"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Steril depo",
+      "definition": "Girişi sınırlı, sıcaklık/nem kontrollü steril malzeme deposu.",
+      "en": "Sterile storage"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Tek yönlü iş akışı",
+      "definition": "Malzemenin **kirli → temiz → steril** yönünde hareket ettiği, kirli ve temiz yolların kesişmesinin önlendiği işlem düzeni.",
+      "en": "Unidirectional workflow"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Negatif basınç",
+      "definition": "Havanın komşu alandan odaya aktığı basınç farkı (dekontaminasyon alanı, AIIR).",
+      "en": "Negative pressure"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Ödünç set",
+      "definition": "Firmalardan kiralanan; mutlaka kurumun MSÜ'sünden geçmesi gereken alet setleri.",
+      "en": "Loan instruments"
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "MSÜ çalışma alanı ve steril depo",
+      "left": {
+        "title": "Çalışma alanları",
+        "points": [
+          "CDC’de bağıl nem örneği %30–60",
+          "İşleme/hazırlık faaliyetleri yürütülür"
+        ]
+      },
+      "right": {
+        "title": "Steril depo",
+        "points": [
+          "CDC’de bağıl nem üst sınırı %70",
+          "İşlenmiş ürünler sınırlı erişimle saklanır"
+        ]
+      }
+    }
+  ]
+}

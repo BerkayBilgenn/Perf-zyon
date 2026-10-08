@@ -1,0 +1,77 @@
+{
+  "topic": "Koroner arter cerrahisi (KABG)",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "LIMA greftinin sık kullanılan koroner hedefi hangisidir?",
+      "options": [
+        "LAD",
+        "Sağ marjinal arter",
+        "Arka inen arter",
+        "Sirkumfleks arter"
+      ],
+      "correct": 0,
+      "explanation": "LIMA–LAD bağlantısı koroner baypasta temel arteriyel greft stratejilerindendir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Koroner baypasta arteriyel greft olarak kullanılan damar hangisidir?",
+      "options": [
+        "Büyük safen ven",
+        "Radial arter",
+        "Küçük safen ven",
+        "Sefalik ven"
+      ],
+      "correct": 1,
+      "explanation": "Radial arter arteriyel grefttir; diğer seçenekler vendir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Koroner greftte spazma eğilimi özellikle hangi damarda dikkate alınır?",
+      "options": [
+        "Sol internal torasik arter",
+        "Sağ internal torasik arter",
+        "Radial arter",
+        "Safen ven"
+      ],
+      "correct": 2,
+      "explanation": "Radial arterin spazma eğilimi greft seçimi ve perioperatif yönetimde değerlendirilir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB kullanılmadan yapılan koroner baypası ifade eden kısaltma hangisidir?",
+      "options": [
+        "KABG",
+        "MiECC",
+        "DHCA",
+        "OPCAB"
+      ],
+      "correct": 3,
+      "explanation": "OPCAB off-pump koroner baypastır; MiECC hâlâ ekstrakorporeal devre kullanan yöntemdir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Off-pump koroner baypasta intrakoroner şant kullanılabilir.",
+      "isTrue": true,
+      "explanation": "İşlem sırasında hedef damarın distal akımını sürdürmek için intrakoroner şant seçilebilir.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "On-pump koroner baypas terimi KPB kullanılmayan ameliyatı ifade eder.",
+      "isTrue": false,
+      "explanation": "On-pump yaklaşım KPB kullanır; KPB kullanılmayan yaklaşım OPCAB'dır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

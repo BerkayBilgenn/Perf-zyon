@@ -1,0 +1,77 @@
+{
+  "topic": "Siyanotik konjenital kalp hastalıkları",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Fallot tetralojisinde çıkış obstrüksiyonu hangi ventriküldedir?",
+      "options": [
+        "Sağ ventrikül",
+        "Sol ventrikül çıkış yolunda",
+        "Sol atriyum çıkışında",
+        "Sağ atriyum girişinde"
+      ],
+      "correct": 0,
+      "explanation": "Fallot'ta sağ ventrikül çıkış yolu obstrüksiyonu diğer üç bileşenle birlikte bulunur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner akımı artıran modifiye BT şantı hangi damarları bağlar?",
+      "options": [
+        "Sol atriyum–aorta",
+        "Subklavyen arter–pulmoner arter",
+        "VCS–pulmoner arter",
+        "VCI–pulmoner arter"
+      ],
+      "correct": 1,
+      "explanation": "Modifiye BT şantı sistemik arterden pulmoner artere akım sağlar; VCS–PA bağlantısı Glenn'dir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ebstein anomalisinde yer değiştiren kapak hangisidir?",
+      "options": [
+        "Aort kapağı",
+        "Pulmoner kapak",
+        "Triküspit kapak",
+        "Mitral kapak"
+      ],
+      "correct": 2,
+      "explanation": "Ebstein'de triküspit yaprakçıkların apikal yer değiştirmesi sağ ventrikülün atriyalizasyonuna yol açar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Her iki büyük arterin sağ ventrikülden çıktığı anomali hangisidir?",
+      "options": [
+        "d-TGA",
+        "ccTGA",
+        "Persistan trunkus arteriosus",
+        "DORV"
+      ],
+      "correct": 3,
+      "explanation": "DORV çift çıkışlı sağ ventriküldür; d-TGA'da pulmoner arter morfolojik sol ventrikülden çıkar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "TAPVR'nin infradiyafragmatik tipi ağır venöz obstrüksiyonla birlikte olabilir.",
+      "isTrue": true,
+      "explanation": "Diyafram altındaki drenaj yolunun daralması ciddi pulmoner venöz obstrüksiyon ve acil tablo yaratabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "HLHS'nin ağır biçiminde sistemik kan akımı duktusun kapanmasıyla güçlenir.",
+      "isTrue": false,
+      "explanation": "Ağır HLHS'de sistemik akım duktusa bağımlıdır; kapanma dolaşımı bozar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

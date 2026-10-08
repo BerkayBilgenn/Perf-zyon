@@ -1,0 +1,54 @@
+{
+  "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC’de hava yönetimi zorunludur",
+      "body": "MiECTiS tanımında **venöz hava tuzağı veya hava uzaklaştırma cihazı** temel bileşendir. Sadece prime hacmini küçültmek bir devreyi MiECC yapmaz.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC’nin Tip III hacim yönetimi",
+      "body": "MiECC Tip III, hacim yönetimi için **yumuşak rezervuar** içerir; intrakardiyak işlemlerde hacim değişikliklerine uyum sağlamayı amaçlar.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC’nin Tip IV modülerliği",
+      "body": "MiECC Tip IV, gerektiğinde açık devreye dönüşe hazır **modüler hibrit** yaklaşımı içerir.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Retrograd perfüzyonda damar taraması",
+      "body": "Minimal invaziv cerrahide femoral retrograd akım planlanırken **aorto-iliyak ateroskleroz** değerlendirilir; ağır plak yükü serebral emboli riskini artırabilir.",
+      "source": "Modi, retrograd perfüzyon 2013"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "VAVD’de aşırı negatif basınç hangi sorunları artırabilir?",
+      "answer": "Hava mikroembolisi, hemoliz ve venöz hattın kollapsı riskini artırabilir; vakum kontrollü uygulanır.",
+      "source": "VAVD kaynakları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Endoaortik balon innominat artere doğru kayarsa hangi izlem değişiklikleri beklenir?",
+      "answer": "**Sağ radiyal arter basıncı** ve sağ serebral NIRS düşebilir; pozisyon TEE ve diğer basınç ölçümleriyle değerlendirilir.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "MiECC ekip yaklaşımıdır",
+      "body": "MiECC, küçük devre veya küçük kesiyle sınırlı değildir; **cerrahi, anestezi ve perfüzyon yönetimini** birlikte kapsar.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    }
+  ]
+}

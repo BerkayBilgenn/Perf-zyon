@@ -1,0 +1,221 @@
+{
+  "topic": "Temel kavramlar ve tarihçe",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Dezenfeksiyon",
+      "definition": "Cansız nesnelerde bakteri sporları hariç patojenlerin çoğunun/tamamının yok edilmesi.",
+      "en": "Disinfection"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sterilizasyon",
+      "definition": "Bakteri sporları dâhil **tüm mikrobiyal yaşamı** yok eden veya uzaklaştıran, etkinliği valide edilmiş süreç.",
+      "en": "Sterilization"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Steril",
+      "definition": "Canlı mikroorganizmalardan arınmış olma hâlini tanımlar. Bir işlemin sterilite güvencesi olasılık temelli değerlendirilir.",
+      "en": "Sterile"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Temizlik",
+      "definition": "Görünür kir, kan, protein ve mikroorganizmaların su + deterjan/enzimle elle veya mekanik uzaklaştırılması.",
+      "en": "Cleaning"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Dekontaminasyon",
+      "definition": "Patojenlerin, nesne güvenle tutulup kullanılabilecek/atılabilecek düzeye kadar uzaklaştırılması/inaktivasyonu (OSHA); DSÖ'de temizlik-dezenfeksiyon-sterilizasyonun şemsiye adı.",
+      "en": "Decontamination"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kontaminasyon",
+      "definition": "Mikroorganizmalarla gerçek veya potansiyel temas hâli.",
+      "en": "Contamination"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sanitasyon ajanı",
+      "definition": "Cansız nesnelerde bakteriyel kontaminasyonu halk sağlığı gereklerine uygun güvenli düzeye indiren ajan.",
+      "en": "Sanitizer"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Germisit",
+      "definition": "Mikroorganizmaları (özellikle patojenleri) öldüren ajan; antiseptik ve dezenfektanları kapsar.",
+      "en": "Germicide"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Mikrobisit",
+      "definition": "Mikroorganizmaları etkin biçimde öldüren madde.",
+      "en": "Microbicide"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Antimikrobiyal ajan",
+      "definition": "Mikroorganizmaları öldüren veya üremesini baskılayan her ajan.",
+      "en": "Antimicrobial agent"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bakterisid",
+      "definition": "Bakterileri öldüren ajan.",
+      "en": "Bactericide"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bakteriyostatik",
+      "definition": "Bakterileri öldürmek yerine **üremelerini baskılayan** etkiyi niteleyen terim.",
+      "en": "Bacteriostatic"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Fungisid",
+      "definition": "Mantarları (mayalar dâhil) ve mantar sporlarını yok eden ajan.",
+      "en": "Fungicide"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Virüsid",
+      "definition": "Virüsleri öldürerek bulaştırıcılığını ortadan kaldıran ajan.",
+      "en": "Virucide"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sporisid",
+      "definition": "Bakteri sporlarını öldüren ajan.",
+      "en": "Sporicide"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Tüberkülosid",
+      "definition": "Mycobacterium tuberculosis üzerinde öldürücü etkisi gösterilmiş ajan veya etki.",
+      "en": "Tuberculocide"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Biyoyük",
+      "definition": "Bir nesneyi kontamine eden canlı mikroorganizmaların sayısı ve türü (mikrobiyal yük).",
+      "en": "Bioburden"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Biyofilm",
+      "definition": "Yüzeye sıkıca yapışmış, kolay uzaklaştırılamayan bakteri + hücre dışı madde kütlesi.",
+      "en": "Biofilm"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sterilite güvence düzeyi",
+      "definition": "Sterilizasyon sonrasında bir ürün biriminde **canlı mikroorganizma bulunma olasılığı**. Genellikle 10⁻⁶ olarak ifade edilir.",
+      "en": "Sterility assurance level"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "D değeri",
+      "definition": "Tanımlı koşullarda test mikroorganizması popülasyonunun **%90 azalması** için gerekli süre veya radyasyon dozu.",
+      "en": "D value"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "term": "Validasyon",
+      "definition": "Sistemin/işlemin önceden belirlenmiş şartları sürekli sağladığının kanıtlanması.",
+      "en": "Validation"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Parametrik serbest bırakma",
+      "definition": "Valide edilmiş bir süreçte **kaydedilen kritik fiziksel işlem parametrelerine** dayanarak yükü serbest bırakma kararı. Kimyasal indikatörün tek başına renk değişimi bu kararın yeterli kanıtı değildir.",
+      "en": "Parametric release"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Germisit ve antimikrobiyal ajan",
+      "left": {
+        "title": "Germisit",
+        "points": [
+          "Öldürücü etkiyi tanımlar",
+          "Antiseptik ve dezenfektanları kapsar"
+        ]
+      },
+      "right": {
+        "title": "Antimikrobiyal ajan",
+        "points": [
+          "Öldürme veya üreme baskılama etkisini kapsar",
+          "Etki mutlaka mikrop öldürme olmak zorunda değildir"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Biyoyük ve biyofilm",
+      "left": {
+        "title": "Biyoyük",
+        "points": [
+          "Nesnedeki canlı mikropların sayı/tür bilgisi",
+          "Yükün ne kadar ve hangi mikroplardan oluştuğunu anlatır"
+        ]
+      },
+      "right": {
+        "title": "Biyofilm",
+        "points": [
+          "Yüzeye bağlı mikrop ve hücre dışı matriks yapısı",
+          "Germisit temasını zorlaştıran örgütlenmeyi anlatır"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "Kapak hastalıklarının cerrahisi",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Kendi pulmoner kapağını aort pozisyonuna taşıyan işlem hangisidir?",
+      "options": [
+        "Ross",
+        "Konno",
+        "David",
+        "Bentall"
+      ],
+      "correct": 0,
+      "explanation": "Ross ameliyatında pulmoner otogreft aort kapağının yerini alır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hastanın kendi dokusundan alınan greft hangi adla anılır?",
+      "options": [
+        "Sentetik greft",
+        "Otogreft",
+        "Homogreft",
+        "Ksenogreft"
+      ],
+      "correct": 1,
+      "explanation": "Otogreft hastanın kendi dokusudur; homogreft aynı türden donörden alınır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diyastolde aorttan sol ventriküle kan kaçışı hangi kapak bozukluğudur?",
+      "options": [
+        "Mitral darlığı",
+        "Pulmoner darlık",
+        "Aort yetersizliği",
+        "Aort darlığı"
+      ],
+      "correct": 2,
+      "explanation": "Aort yetersizliği geri kaçıştır; aort darlığı ileri çıkışta obstrüksiyon oluşturur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sağ kalp boşluğu açılacak işlemde venöz izolasyona en uygun düzen hangisidir?",
+      "options": [
+        "İki kademeli kanül, snare yok",
+        "Tek femoral venöz kanül, snare yok",
+        "Tek sağ atriyal kanül, snare yok",
+        "Bikaval kanül ve snare"
+      ],
+      "correct": 3,
+      "explanation": "Bikaval kanüller ve kaval snare'ler sistemik venöz dönüşü sağ atriyumdan ayırabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Pulmoner arter venti aort yetersizliğinden gelen sol ventrikül yükünü tam karşılamayabilir.",
+      "isTrue": true,
+      "explanation": "AY'de doğrudan sol kalbe uygun erişim sağlayan vent yolu ayrıca planlanır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Aort darlığı sol ventrikülün sistolik çıkışında direnç azalması oluşturur.",
+      "isTrue": false,
+      "explanation": "Aort darlığı çıkış direncini ve sol ventrikül basınç yükünü artırır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ]
+}

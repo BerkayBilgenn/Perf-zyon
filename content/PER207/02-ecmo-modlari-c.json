@@ -1,0 +1,13 @@
+{
+  "topic": "ECMO modları ve adlandırma",
+  "cards": [
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kanülün French değeri dış çapını belirtir; 3 Fr yaklaşık 1 mm’ye karşılık gelir.",
+      "isTrue": true,
+      "explanation": "French dış çap birimidir: 1 Fr yaklaşık 1/3 mm’dir; kanülün tüm uzunluğu veya iç çapı değildir.",
+      "source": "ELSO Maastricht 2019"
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "cards": [
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Oksijen sunumu",
       "en": "Oxygen delivery",
       "definition": "Birim zamanda dokulara taşınan oksijen miktarı; kan akımı ile arteriyel oksijen içeriğinin çarpımına bağlıdır.",
@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Arteriyel O2 içeriği",
       "en": "Arterial oxygen content",
       "definition": "Arteriyel kandaki toplam oksijen miktarı; hemoglobine bağlı ve plazmada çözünmüş oksijenin toplamıdır.",
@@ -43,7 +43,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Karışım bölgesi",
       "en": "Mixing zone (watershed)",
       "definition": "Nativ ejeksiyonla retrograd ECMO akımının aortta karşılaştığı bölge; ECMO akımı arttıkça proksimale kayar.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Art yük",
       "en": "Afterload",
       "definition": "Ventrikülün ejeksiyon sırasında karşılaştığı yük; retrograd VA akımı LV art yükünü artırır.",
@@ -59,7 +59,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Ön yük",
       "en": "Preload",
       "definition": "Ventrikülün diyastol sonu dolum yükü; santrifüj pompa akımı da ön yüke bağımlıdır.",
@@ -67,7 +67,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Nabız basıncı",
       "en": "Pulse pressure",
       "definition": "Sistolik ve diyastolik arter basınçları arasındaki fark. VA ECMO sırasında nativ kalbin ejeksiyonunu değerlendirmede kullanılır.",
@@ -80,6 +80,26 @@
       "en": "Mixed venous oxygen saturation",
       "definition": "Pulmoner arter kanının O2 satürasyonu; doku O2 sunum yeterliliğinin göstergesi.",
       "source": "ELSO Genel 2017"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Oksijen miktarı ve oksijen basıncı",
+      "left": {
+        "title": "Oksijen içeriği",
+        "points": [
+          "Hemoglobine bağlı ve çözünmüş O2 toplamı",
+          "Oksijen sunumu hesabında kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Parsiyel basınç",
+        "points": [
+          "Çözünmüş O2’nin oluşturduğu basınç",
+          "Hemoglobin miktarını tek başına göstermez"
+        ]
+      },
+      "source": "ELSO VV 2021"
     }
   ]
 }

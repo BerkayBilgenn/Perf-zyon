@@ -1,0 +1,85 @@
+{
+  "topic": "KPB devresi, priming ve hemodilüsyon",
+  "cards": [
+    {
+      "type": "mcq",
+      "importance": 3,
+      "question": "Arteriyel hat filtresinin temel hedefi hangisidir?",
+      "options": [
+        "Mikroembolileri tutmak",
+        "Gaz değişimini sağlamak",
+        "Plazma suyunu uzaklaştırmak",
+        "Dönen kanı depolamak"
+      ],
+      "correct": 0,
+      "explanation": "Filtre embolik materyali tutmaya yöneliktir; diğer seçenekler farklı devre veya ilaç işlevleridir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB'de hasta venöz kanını ilk toplayan ana hazne hangisidir?",
+      "options": [
+        "Kardiyopleji rezervuarı",
+        "Venöz rezervuar",
+        "Cell saver toplama haznesi",
+        "Ultrafiltrat torbası"
+      ],
+      "correct": 1,
+      "explanation": "Venöz hat hastadan dönen kanı venöz rezervuara taşır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Priming öncesinde devreyi CO2 ile yıkamanın amacı hangisidir?",
+      "options": [
+        "Prime çözeltisini sterilize etmek",
+        "Antikoagülasyon süresini uzatmak",
+        "Rezidüel hava yükünü azaltmak",
+        "Membran geçirgenliğini artırmak"
+      ],
+      "correct": 2,
+      "explanation": "CO2 yıkama devredeki havanın yer değiştirmesini ve hava uzaklaştırmayı destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isıtıcı-soğutucu ünitede hasta kanının sıcaklığı ne aracılığıyla değiştirilir?",
+      "options": [
+        "Kan devresindeki akım hızı değişikliği",
+        "Gaz blenderindeki oksijen oranı",
+        "Venöz rezervuardaki vakum düzeyi",
+        "Isı değiştiriciden geçen su"
+      ],
+      "correct": 3,
+      "explanation": "HCU suyu ısı değiştiricide dolaştırır; sağlam cihazda su hasta kanıyla karışmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Düşük prime hacmi hemodilüsyonun azaltılmasına katkı sağlayabilir.",
+      "isTrue": true,
+      "explanation": "Kan içermeyen hacim azaldığında başlangıç eritrosit kütlesi daha az seyrelir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Membran oksijenatörde gaz değişimi için kan ve gazın doğrudan kabarcıkla karıştırılması gerekir.",
+      "isTrue": false,
+      "explanation": "Membran oksijenatör kan ve gazı ayırır; değişim membran üzerinden olur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "tf",
+      "importance": 2,
+      "statement": "Biyouyumlu yüzey kaplamaları devre optimizasyonunun bileşenlerinden olabilir.",
+      "isTrue": true,
+      "explanation": "Yüzey kaplaması kan-yabancı yüzey etkileşimini azaltmayı amaçlar; antikoagülasyon gereksinimini ortadan kaldırmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ]
+}

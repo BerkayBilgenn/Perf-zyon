@@ -3,7 +3,7 @@
   "cards": [
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "DHCA",
       "en": "Deep hypothermic circulatory arrest",
       "definition": "Derin hipotermiyle metabolik gereksinim azaltıldıktan sonra dolaşımın cerrahi amaçla geçici olarak tamamen durdurulması.",
@@ -11,7 +11,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "SACP",
       "en": "Selective antegrade cerebral perfusion",
       "definition": "Dolaşım arresti sırasında beynin innominat/karotis yoluyla antegrad perfüzyonu.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Alfa-stat",
       "en": "Alpha-stat",
       "definition": "Kan gazlarının 37 °C'de ölçülen (düzeltilmemiş) değerlerine göre yönetimi; CO2 eklenmez.",
@@ -39,11 +39,11 @@
       "term": "MUF",
       "en": "Modified ultrafiltration",
       "definition": "KPB bitince aortik kanülden alınan kanın hemofiltreden geçirilip hastaya verilmesi; Hct ve proteinleri artırır.",
-      "source": "Naik–Elliott, MUF 1995"
+      "source": "Naik–Knight–Elliott, MUF 1991"
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "Konvansiyonel ultrafiltrasyon",
       "en": "Conventional ultrafiltration",
       "definition": "KPB sırasında devredeki fazla sıvının hemofiltreyle uzaklaştırılması.",
@@ -51,11 +51,11 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "del Nido kardiyoplejisi",
       "en": "del Nido cardioplegia",
       "definition": "Kan ve kristalloid bileşenleri birleştiren, pediatrik kalp cerrahisi için geliştirilmiş kardiyopleji solüsyonu; sık kullanılan formülünde kristalloid ağırlığı fazladır.",
-      "source": "Boston del Nido protokolü 2013"
+      "source": "Matte–del Nido, JECT 2012"
     },
     {
       "type": "term",
@@ -64,6 +64,46 @@
       "en": "Prime-to-blood-volume ratio",
       "definition": "Devreyi dolduran sıvı hacminin hastanın kan hacmine oranı; küçük hastada hemodilüsyonun boyutunu belirlemeye yardım eder.",
       "source": "Pediatrik devre çalışması 2018"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Hipotermide kan gazı yaklaşımı",
+      "left": {
+        "title": "pH-stat",
+        "points": [
+          "Sıcaklığa düzeltilmiş değerler kullanılır",
+          "CO2 eklenmesi serebral akımı artırır"
+        ]
+      },
+      "right": {
+        "title": "Alfa-stat",
+        "points": [
+          "37 °C’de ölçülen değerler kullanılır",
+          "Ek CO2 ile düzeltme yapılmaz"
+        ]
+      },
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "type": "compare",
+      "importance": 2,
+      "title": "Ultrafiltrasyonun zamanı",
+      "left": {
+        "title": "Konvansiyonel UF",
+        "points": [
+          "KPB sırasında uygulanır",
+          "Devredeki fazla suyu uzaklaştırır"
+        ]
+      },
+      "right": {
+        "title": "MUF",
+        "points": [
+          "KPB sonlandırıldıktan sonra uygulanır",
+          "Kanı filtreleyip hastaya geri verir"
+        ]
+      },
+      "source": "Naik–Knight–Elliott, MUF 1991"
     }
   ]
 }

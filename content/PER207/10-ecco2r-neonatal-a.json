@@ -19,7 +19,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 3,
       "term": "Oksijenasyon indeksi",
       "en": "Oxygenation index (OI)",
       "definition": "Ortalama hava yolu basıncı, solunan oksijen fraksiyonu ve arteriyel oksijen parsiyel basıncından hesaplanan solunum yetmezliği göstergesi.",
@@ -51,7 +51,7 @@
     },
     {
       "type": "term",
-      "importance": 2,
+      "importance": 1,
       "term": "HİE",
       "en": "Hypoxic-ischemic encephalopathy",
       "definition": "Perinatal dönemde yetersiz oksijenlenme ve kanlanmaya bağlı beyin hasarı.",

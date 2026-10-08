@@ -1,0 +1,68 @@
+{
+  "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "REMATCH ve destinasyon tedavisi",
+      "body": "REMATCH (NEJM 2001), nakil adayı olmayan ileri kalp yetmezliği hastalarında uzun süreli LVAD’yi medikal tedaviyle karşılaştırdı; **1 yıl sağkalım %52’ye karşı %25** idi.",
+      "source": "REMATCH, NEJM 2001"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "MOMENTUM 3 ve pompa trombozu",
+      "body": "MOMENTUM 3 final raporunda HeartMate 3 ve HeartMate II için 2 yıllık şüpheli veya doğrulanmış pompa trombozu **%1,4’e karşı %13,9** olarak bildirildi. Bu çalışma sonuçları tüm cihazlara genellenmez.",
+      "source": "MOMENTUM 3, NEJM 2019"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "LVAD’de yüksek kesme gerilimi",
+      "body": "Pompadaki yüksek kesme gerilimi büyük von Willebrand faktörü multimerlerini parçalayabilir; anjiyodisplaziyle birlikte gastrointestinal kanamaya zemin hazırlar.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "RV yetmezliği ve LVAD dolumu",
+      "body": "LVAD’nin dolumu sağ ventrikülün akciğer dolaşımına taşıdığı kana bağlıdır. Sağ ventrikül yetmezliği, çalışan bir LVAD’de düşük akım nedeni olabilir.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Tahmini akımın anlamı",
+      "body": "LVAD kontrolöründeki akım değeri cihazın hız ve güç verilerinden **tahmin edilebilir**; doğrudan bağımsız akım ölçümüyle eş anlamlı değildir.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "LVAD pompa trombozunda güç ve hemoliz neden birlikte değerlendirilebilir?",
+      "answer": "Pıhtı rotorun çalışma yükünü artırabilir ve kan hücrelerini hasarlayabilir; **güç artışı ile hemoliz** birlikte trombozu düşündürür.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Driveline enfeksiyonu açısından cilt çıkışı neden önemlidir?",
+      "answer": "Deriden çıkan kablo dış ortamla bağlantı oluşturur; bu geçiş bölgesi **mikroorganizma giriş kapısı** olabilir.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Sürekli akımlı LVAD hastasında tansiyon ölçümü neden zorlaşabilir?",
+      "answer": "Arteriyel nabız zayıf olabilir; standart osilometrik ölçüm başarısız kalabilir. **Doppler destekli ölçüm** kullanılır.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "LVAD’de hemoliz cihaz ipucu olabilir",
+      "body": "LDH ve serbest hemoglobin artışı, özellikle güç artışıyla birlikteyse **pompa trombozu** açısından değerlendirilir; yalnız kan hastalığına bağlanmaz.",
+      "source": "ESC LVAD komplikasyonları"
+    }
+  ]
+}

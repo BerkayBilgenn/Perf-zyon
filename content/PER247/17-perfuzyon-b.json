@@ -1,0 +1,68 @@
+{
+  "topic": "Perfüzyonda sterilite ve M. chimaera",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Tank suyu kanla birleşmez",
+      "body": "Isıtıcı-soğutucunun sıcaklık kontrollü tank sıvısı, **hastadan, kardiyopleji solüsyonundan ve kan devresinden izoledir**. Enfeksiyon riski yalnız doğrudan sıvı karışmasıyla açıklanmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "HCD için su kaynağı",
+      "body": "FDA, tank durulama/doldurmada **musluk suyu kullanılmamasını**; steril veya **≤0,22 µm** filtreden geçirilmiş suyu belirtir. Cihaz üreticisinin kullanım talimatı izlenir."
+    },
+    {
+      "type": "fact",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Egzozun yönü",
+      "body": "FDA, ısıtıcı-soğutucu egzozunun **steril alandan uzağa** ve ameliyathane egzozuna yönlendirilmesini önerir. Sadece su devresinin kapalı olması aerosol riskini kaldırmaz."
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Gecikmiş enfeksiyon",
+      "body": "M. chimaera yavaş üreyebilir; ısıtıcı-soğutucu maruziyetiyle ilişkili enfeksiyon **aylar sonra veya bir yılı aşan sürede** ortaya çıkabilir. Erken belirti yokluğu riski dışlamaz."
+    },
+    {
+      "type": "fact",
+      "importance": 1,
+      "source": "Sommerstein, EID 2016",
+      "title": "Ultra temiz hava da yeterli olmadı",
+      "body": "Sommerstein’in 2016 deneyinde cihazdan yönlenen **deney dumanı 23 sn’de** cerrahi alana ulaşmış; ayrı havalandırmasız deneyde **5 m’ye kadar** kültür pozitifliği görülmüştür. Duman zamanı, bakteriyel aerosolün ölçülmüş ulaşma zamanı değildir. Bunlar çalışma koşullarına ait bulgulardır."
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "question": "HCD sıvı hattında bulanıklık görülünce ne yapılır?",
+      "answer": "Cihaz **hemen kullanımdan kaldırılır** ve enfeksiyon kontrol ekibiyle uygun değerlendirme yürütülür. Bulanıklık/renk değişimi olası kontaminasyon işaretidir."
+    },
+    {
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC MMWR M. chimaera 2016",
+      "question": "M. chimaera salgınında genom incelemesi neyi destekledi?",
+      "answer": "Hasta ve cihaz izolatlarının yakınlığı, **üretim yerindeki ortak nokta kaynaklı kontaminasyonu** destekledi. Bulgular 2016 salgın araştırmasının bağlamında yorumlanır."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "HCD’de talimata sadık kal",
+      "body": "Cihazın **güncel temizlik/dezenfeksiyon talimatı** çalışanların erişiminde olmalıdır. Daha güçlü solüsyon veya daha sık işlem, üretici onayı olmadan daha güvenli sayılmaz."
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Saf su sözü tek başına yeterli değil",
+      "body": "FDA, ısıtıcı-soğutucuda **deiyonize veya ters ozmoz suyunu önermez**; metal bileşenlerde korozyona katkı sağlayabilir. Steril ya da uygun filtreli su seçimi, üretici talimatıyla birlikte değerlendirilir."
+    }
+  ]
+}

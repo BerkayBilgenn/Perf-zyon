@@ -1,0 +1,68 @@
+{
+  "topic": "Mikrosirkülasyon ve KPB",
+  "cards": [
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Normal basınç yeterli mi?",
+      "body": "Normal makrohemodinamik değerler, mikrosirkülasyonun normal olduğunu kanıtlamaz. KPB'de işlevsel şant ve küçük damar bozukluğu doku hipoksisiyle birlikte olabilir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Glikokaliksin bileşenleri",
+      "body": "Proteoglikan ve glikozaminoglikanlardan oluşan glikokaliks, endotelyal bariyerin sıvı ve protein geçişini düzenlemesine katkı sağlar.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Revize Starling'de sıvı dönüşü",
+      "body": "Revize Starling modelinde filtre edilen sıvının dolaşıma dönüşünde lenf sistemi başlıca rol oynar; sürekli venöz uç reabsorpsiyonu temel açıklama değildir.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "Reperfüzyon ve endotel",
+      "body": "Aort klempinin kaldırılmasıyla gelişen iskemi-reperfüzyon, glikokaliks yıkımını artırabilir; syndecan-1 gibi belirteçler bu süreçte araştırılır.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "fact",
+      "importance": 2,
+      "title": "İzlem göstergelerinin birlikteliği",
+      "body": "Laktat, venöz satürasyon, oksijen ekstraksiyonu ve bölgesel oksimetri birlikte değerlendirilir; tek bir değer bütün doku dolaşımını temsil etmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Kapiller duvarın temel hücresel katmanı nedir?",
+      "answer": "Tek katlı endotel; ince duvar doku ile madde alışverişine uygun yapı sağlar.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Onkotik basınca plazmada en çok hangi protein katkı verir?",
+      "answer": "Albümin; plazma proteinlerinin ozmotik etkisi damar içi sıvı dengesine katkı sağlar.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "type": "flip",
+      "importance": 2,
+      "question": "Mikrosirkülasyonun doğrudan görüntülenmesi için hangi bölge sık kullanılır?",
+      "answer": "Sublingual bölge; videomikroskopiyle küçük damar akımı ve perfüze damarlar değerlendirilebilir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "type": "remember",
+      "importance": 3,
+      "title": "Basınçla yetinme",
+      "body": "Normal arter basıncı, her dokunun yeterli oksijen aldığını göstermez. **Mikrosirkülasyon** ve oksijen dengesi ayrıca değerlendirilir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    }
+  ]
+}

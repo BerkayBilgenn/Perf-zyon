@@ -1,0 +1,41 @@
+{
+  "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İmplante edilebilir cihaz",
+      "definition": "Vücut boşluğuna yerleştirilip **30 gün veya daha uzun** kalması amaçlanan cihaz; CDC sözlüğündeki FDA tanımı.",
+      "en": "Implantable device"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Tek kullanımlık cihaz",
+      "definition": "Tek kullanım için etiketlenmiş cihaz; yeniden kullanımı tartışmalı.",
+      "en": "Single-use device"
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "H2O2 plazma ve VHP",
+      "left": {
+        "title": "H2O2 gaz plazma",
+        "points": [
+          "Gazın enerjiyle uyarılması ve plazma aşaması vardır",
+          "Düşük sıcaklık ve vakumlu işlem kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Buharlaştırılmış H2O2",
+        "points": [
+          "Buharlaştırılmış ajanla çalışır, plazma adıyla eş tutulmaz",
+          "Naylon kırılganlaşması gibi materyal etkileri değerlendirilir"
+        ]
+      }
+    }
+  ]
+}

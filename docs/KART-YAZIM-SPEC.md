@@ -452,14 +452,16 @@ Derleme çıktısı örneği:
 
 | Ders | Araştırma | Kart | Durum |
 |---|---|---|---|
-| PER141 | kaynaklı araştırma hazır | 510 | 18 konu üretildi; doğrulama kayıtları mevcut |
-| PER207 | kaynaklı araştırma hazır | 309 | 17 konuda terimler üretildi; diğer türler ve bağımsız son inceleme sürüyor |
-| PER241 | kaynaklı araştırma hazır | 524 | 16 konu üretildi; doğrulama kayıtları mevcut |
-| PER243 | kaynaklı araştırma hazır | 562 | 16 konu üretildi; doğrulama kayıtları mevcut |
-| PER245 | kaynaklı araştırma hazır | 0 | Kart üretimi sürüyor; bu ara yayına alınmadı |
-| PER247 | kaynaklı araştırma hazır | 0 | Kart üretimi sürüyor; bu ara yayına alınmadı |
+| PER141 | kaynaklı araştırma hazır | 510 | 18 konu; kart üretimi ve kaynak kontrol kayıtları mevcut |
+| PER207 | kaynaklı araştırma hazır | 517 | 17 konu; kart üretimi ve kaynak kontrol kayıtları mevcut |
+| PER241 | kaynaklı araştırma hazır | 524 | 16 konu; kart üretimi ve kaynak kontrol kayıtları mevcut |
+| PER243 | kaynaklı araştırma hazır | 562 | 16 konu; kart üretimi ve kaynak kontrol kayıtları mevcut |
+| PER245 | kaynaklı araştırma hazır | 513 | 18 konu; kart üretimi ve kaynak kontrol kayıtları mevcut |
+| PER247 | kaynaklı araştırma hazır | 518 | 18 konu; kart üretimi ve kaynak kontrol kayıtları mevcut |
 
-Ara yayın toplamı **1.905 karttır**. Henüz derslerin tamamlanma ölçütleri sağlanmamıştır; güncel kalan kapsam `docs/KALAN-IS-MINI-SPEC.md` dosyasındadır.
+Güncel toplam **3.144 karttır**. Sayı, konu ve tür dağılımı hedefleri altı derste sağlanmıştır. Yeni PER207/PER245/PER247 kartları dosya ve sıra bazlı kaynak izleriyle eşlenmiştir; yazar kontrolü ve bağımsız inceleme kayıtları ayrı tutulur. Mevcut derslerin devam turu incelemeleri de ilgili kayıtların kapsam notlarında belirtilir. Bütün tıbbi cümlelerin bir klinisyen tarafından onaylandığı iddia edilmez.
+
+Bu ara yayında kart üretimi ve yazar kontrolleri tamamlanmıştır. PER207 ve PER245 için bağımsız içerik incelemesi sürmektedir; PER247 için son bağımsız inceleme kaydı henüz tamamlanmamıştır. Kalan ürün geliştirmeleri aşağıda listelenir.
 
 **Hazır olanlar:**
 - Site kodu tamam ve test edildi (57 test). Kapsadığı özellikler:

@@ -1,0 +1,65 @@
+{
+  "topic": "Depolama, raf ömrü ve taşıma",
+  "cards": [
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Raf ömrü",
+      "definition": "Ürünün etkin kaldığı süre; sterilize ürünün steril kalmasının beklendiği süre.",
+      "en": "Shelf life"
+    },
+    {
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Olaya bağlı sterilite",
+      "definition": "Kontaminasyona yol açan bir olay (yırtılma, ıslanma, mühür bozulması) olmadıkça ürünün steril kabul edilmesi.",
+      "en": "Event-related shelf life"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Polietilen dış örtü",
+      "definition": "Sterilizasyon sonrasında paket üzerine uygulanan koruyucu örtü. Steriliteyi koruyabilmesi uygun kapatma ve paket bütünlüğüne bağlıdır.",
+      "en": "3-mil polyethylene overwrap"
+    },
+    {
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "İlk giren ilk çıkar",
+      "definition": "Önce sterilize edilen malzemenin önce kullanılması.",
+      "en": "First in, first out (FIFO)"
+    },
+    {
+      "type": "term",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Cep depo",
+      "definition": "MSÜ dışındaki kullanıcı birimlerde steril malzemenin bekletildiği küçük teslim/depolama alanı. Bekletme süresine göre depo koşulları sağlanır.",
+      "en": "Satellite storage"
+    },
+    {
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Raf ömrü ve kullanım ömrü",
+      "left": {
+        "title": "Raf ömrü",
+        "points": [
+          "Ürünün etkin/steril kalmasının beklendiği süre",
+          "Steril pakette ambalaj bütünlüğü ve saklama koşulları önemlidir"
+        ]
+      },
+      "right": {
+        "title": "Kullanım ömrü",
+        "points": [
+          "Seyreltilmiş ürünün etkin kaldığı süre",
+          "Hazırlanmış germisit çözeltisinin kullanımını tanımlar"
+        ]
+      }
+    }
+  ]
+}
