@@ -1,0 +1,13 @@
+{
+  "topic": "Örnek kartlar",
+  "cards": [
+    { "type": "term", "importance": 3, "term": "Kardiyopleji", "en": "Cardioplegia", "definition": "Kalp cerrahisi sırasında kalbi **diyastolde durdurmak** ve miyokardı korumak için koroner dolaşıma verilen, genellikle potasyumdan zengin solüsyon.", "origin": "kardia = kalp, plegia = felç" },
+    { "type": "term", "importance": 2, "term": "Hemodilüsyon", "en": "Hemodilution", "definition": "Kanın kristaloid veya kolloid sıvılarla seyreltilmesi. KPB'de prime solüsyonu kana karışınca hematokrit düşer.", "origin": "hemo = kan, dilüsyon = seyreltme" },
+    { "type": "fact", "importance": 2, "title": "ACT nedir?", "body": "**ACT** (aktive pıhtılaşma zamanı), heparin etkisini ameliyathanede hızlıca izlemek için kullanılan yatak başı testidir." },
+    { "type": "remember", "importance": 3, "title": "KPB'ye girmeden önce", "body": "Heparin verildikten sonra ACT mutlaka kontrol edilir. Yaygın kabul gören hedef **480 saniye ve üzeridir**." },
+    { "type": "flip", "importance": 2, "question": "Protamin ne için kullanılır?", "answer": "Heparinin etkisini **nötralize etmek** için. KPB sonlandırıldıktan sonra yavaşça verilir." },
+    { "type": "mcq", "importance": 2, "question": "Membran oksijenatörde CO2 atılımını en çok hangisi belirler?", "options": ["Sweep gaz akım hızı", "FiO2", "Pompa devri", "Venöz rezervuar seviyesi"], "correct": 0, "explanation": "CO2 atılımı esas olarak **sweep gaz akımıyla**, oksijenlenme ise **FiO2** ile ayarlanır." },
+    { "type": "tf", "importance": 2, "statement": "Santrifügal pompada aynı devirde ard yük (direnç) artarsa akım azalır.", "isTrue": true, "explanation": "Santrifügal pompalar ön yük ve ard yüke duyarlıdır. Bu yüzden akım ölçer kullanmak şarttır." },
+    { "type": "compare", "importance": 2, "title": "Pompa türleri", "left": { "title": "Roller pompa", "points": ["Oklüzif çalışır, tüpü sıkıştırarak kanı iter", "Akım; devir ve tüp çapıyla belirlenir"] }, "right": { "title": "Santrifügal pompa", "points": ["Oklüzif değildir, dönen çark ile çalışır", "Akım ön ve ard yüke bağlıdır, akım ölçer gerekir"] } }
+  ]
+}

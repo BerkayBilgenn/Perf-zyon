@@ -1,0 +1,7 @@
+{
+  "topic": "Uzun örnekler",
+  "cards": [
+    { "type": "term", "importance": 3, "term": "Ekstrakorporeal membran oksijenasyonu", "en": "Extracorporeal membrane oxygenation (ECMO)", "definition": "Kanın vücut dışına alınıp bir pompa ve membran oksijenatör yardımıyla oksijenlendirilip karbondioksitten arındırıldıktan sonra hastaya geri verildiği, ağır kalp ve/veya akciğer yetmezliğinde günler-haftalar boyunca kullanılabilen mekanik yaşam desteği yöntemi.", "origin": "ekstra = dışında, korpus = beden" },
+    { "type": "mcq", "importance": 3, "question": "Periferik venoarteriyel (VA) ECMO uygulanan ve kalbi kısmen ejeksiyon yapan bir hastada üst vücutta görülebilen hipoksemi tablosuna ne ad verilir?", "options": ["Diferansiyel hipoksi (Harlequin / kuzey-güney sendromu)", "Resirkülasyon", "Hava kilidi", "Kompartman sendromu"], "correct": 0, "explanation": "Femoral VA ECMO'da oksijenli kan aortaya geriye doğru verilir; kalpten atılan, akciğerde yeterince oksijenlenmemiş kan koroner ve beyin damarlarına gidebilir. Bu yüzden sağ radial arterden kan gazı izlenir." }
+  ]
+}

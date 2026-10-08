@@ -1,0 +1,8 @@
+{
+  "topic": "Total yapay kalp (TAH)",
+  "cards": [
+    { "type": "term", "importance": 3, "term": "Total yapay kalp", "en": "Total artificial heart (TAH)", "definition": "Yetmezlikteki **her iki ventrikülü** çıkarıp yerine konan, implante edilebilir pompa. Başlıca kullanımı, ciddi biventriküler yetmezlikte transplantasyona köprüdür.", "source": "TAH derlemesi, PMC 2023" },
+    { "type": "term", "importance": 1, "term": "Freedom sürücüsü", "en": "Freedom driver", "definition": "SynCardia total yapay kalbi için taşınabilir pnömatik sürücü. Hastanın nakli hastane yerine evde beklemesini sağlar.", "source": "TAH derlemesi, PMC 2023" },
+    { "type": "compare", "importance": 3, "title": "LVAD ile TAH", "left": { "title": "LVAD", "points": ["Nativ kalp yerinde kalır", "Yalnızca sol ventrikülü destekler", "Sağ ventrikül yetmezliği önemli bir sorundur"] }, "right": { "title": "Total yapay kalp", "points": ["Her iki ventrikül çıkarılır", "İki ventrikülün yerini alır", "Ciddi biventriküler yetmezlikte kullanılır"] }, "source": "J Thorac Dis 2016; TAH derlemesi 2023" }
+  ]
+}

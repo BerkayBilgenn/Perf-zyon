@@ -1,0 +1,11 @@
+{
+  "name": "dunyanin-en-guzel-perfuzyonisti",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build:data": "node scripts/build-data.mjs",
+    "build:fixtures": "node scripts/build-data.mjs --src tests/fixtures/content",
+    "serve": "node scripts/serve.mjs site"
+  }
+}
