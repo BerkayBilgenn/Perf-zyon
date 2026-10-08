@@ -2,6 +2,7 @@
   "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
   "cards": [
     {
+      "id": "PER247-0rjkikh",
       "type": "fact",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "Buhar sterilizasyonunun dört temel parametresi **buhar, basınç, sıcaklık ve süredir**. Basınç tek başına mikrop öldürme göstergesi değildir."
     },
     {
+      "id": "PER247-1m02ojn",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "CDC’de **sargılı malzeme**, gravite buhar sterilizatöründe **121 °C’de en az 30 dk** maruziyetle işlenir. Bu süre toplam döngü ve kurutma süresi değildir."
     },
     {
+      "id": "PER247-0kyo8z8",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "CDC’de sargılı malzeme için tanınmış minimum örnek, ön vakumlu cihazda **132 °C’de 4 dk** maruziyettir. Uygun yük ve cihaz talimatıyla değerlendirilir."
     },
     {
+      "id": "PER247-0tnwhvg",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +34,7 @@
       "body": "CDC kuru ısı için **170 °C–60 dk**, **160 °C–120 dk** veya **150 °C–150 dk** ilişkilerini verir. Ürüne uygun valide döngü ve yük koşulları gerekir."
     },
     {
+      "id": "PER247-0rn8b3m",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -37,6 +42,7 @@
       "body": "CDC, sterilizasyon için ideal buharı **en az %97 kuruluk oranına** sahip kuru doymuş buhar olarak tanımlar. Buhar niteliği yüke ısı aktarımını etkiler."
     },
     {
+      "id": "PER247-1pbkhnr",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "Hazneye giren buhar, havayı **alttaki tahliye çıkışına doğru** yer değiştirerek uzaklaştırır. Ön vakumlu cihazda ise hava buhar girişinden önce vakumla çekilir."
     },
     {
+      "id": "PER247-11wmv1e",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "Havanın önceden uzaklaştırılması, buharın **gözenekli yüke hızlı penetrasyonunu** sağlar. Hapsolmuş hava, buhar-yük temasını engelleyebilir."
     },
     {
+      "id": "PER247-0osvmz4",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +66,7 @@
       "answer": "Koruyucu ambalaj ve taşımada steriliteyi koruma sınırlılıkları vardır. CDC, işlemin **kolaylık veya yetersiz set sayısını telafi** amacıyla kullanılmasını önermez."
     },
     {
+      "id": "PER247-0dx4p5v",
       "type": "remember",
       "importance": 3,
       "source": "Sağlık Bakanlığı SKS 2021",
@@ -65,6 +74,7 @@
       "body": "Sağlık Bakanlığı SKS değerlendirmesi, **implantlarda flaş kullanımını önermez**. CDC’nin kaçınılmaz acil durum istisnası ayrı bağlamdır; kaynaksız tek kural haline getirilmez."
     },
     {
+      "id": "PER247-1yg093o",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

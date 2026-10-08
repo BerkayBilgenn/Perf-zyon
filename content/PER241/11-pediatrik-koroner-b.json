@@ -2,6 +2,7 @@
   "topic": "Pediatrik koroner hastalıklar",
   "cards": [
     {
+      "id": "PER241-1bn5h3c",
       "type": "fact",
       "importance": 2,
       "source": "Radiopaedia",
@@ -9,6 +10,7 @@
       "body": "Pulmoner direnç ve basınç düştüğünde anormal sol koronerin beslenmesi yetersiz kalır; **sol ventrikül iskemisi** gelişebilir."
     },
     {
+      "id": "PER241-11u0wnm",
       "type": "fact",
       "importance": 2,
       "source": "Radiopaedia",
@@ -16,6 +18,7 @@
       "body": "Lateral derivasyonlardaki **derin Q dalgaları** iskemi ipucudur; her hastada bulunmayabilir."
     },
     {
+      "id": "PER241-1fr6ctw",
       "type": "fact",
       "importance": 2,
       "source": "Wang ve An 2025",
@@ -23,6 +26,7 @@
       "body": "Tercih edilen doğrudan aortaya reimplantasyon, **çift koroner sistemini** yeniden kurmayı amaçlar."
     },
     {
+      "id": "PER241-0t1dtk4",
       "type": "flip",
       "importance": 2,
       "source": "Wang ve An 2025",
@@ -30,6 +34,7 @@
       "answer": "Anormal koroner ağızdan **pulmoner arterin düşük basınçlı yatağına** kaçabilir; uygulamada pulmoner arter de oklüde edilir."
     },
     {
+      "id": "PER241-0or787k",
       "type": "remember",
       "importance": 3,
       "source": "Wang ve An 2025",
@@ -37,6 +42,7 @@
       "body": "Kardiyopleji sırasında aortik klemp yanında **pulmoner arter oklüzyonu**, solüsyonun anormal koronerden kaçmasını önler."
     },
     {
+      "id": "PER241-0fu12bz",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -44,6 +50,7 @@
       "body": "Kawasaki hastalığında **orta çaplı arterlerin, özellikle koronerlerin vasküliti** önemlidir."
     },
     {
+      "id": "PER241-1fglc6u",
       "type": "fact",
       "importance": 2,
       "source": "AHA Kawasaki 2017",
@@ -51,6 +58,7 @@
       "body": "Koroner revaskülarizasyonda internal mammarian arter greftleri **çocuğun büyümesine uyum sağlayabilir**; uzun dönem açıklık avantajları vardır."
     },
     {
+      "id": "PER241-1ot2wb2",
       "type": "flip",
       "importance": 2,
       "source": "Radiopaedia",
@@ -58,6 +66,7 @@
       "answer": "Koroner çalma, kalp yetmezliği, pulmoner hipertansiyon ve **tromboza bağlı miyokard enfarktüsü** görülebilir."
     },
     {
+      "id": "PER241-10f72fd",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -65,6 +74,7 @@
       "body": "Koroner arterin **aort ile pulmoner arter arasındaki interarteriyel seyri**, ani kardiyak ölüm riskiyle ilişkilidir."
     },
     {
+      "id": "PER241-1iq5j87",
       "type": "fact",
       "importance": 2,
       "source": "AHA Kawasaki 2017",
@@ -72,6 +82,7 @@
       "body": "**AHA 2017** sınıflamasında dev anevrizma: Z-skoru ≥10 veya mutlak çap ≥8 mm. Çap ve Z-skorunu birlikte hatırla."
     },
     {
+      "id": "PER241-0lu75cl",
       "type": "fact",
       "importance": 2,
       "source": "AHA Kawasaki 2017",

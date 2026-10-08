@@ -2,6 +2,7 @@
   "topic": "Pediatrik kalp yetmezliği",
   "cards": [
     {
+      "id": "PER241-1d9nq4v",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -9,6 +10,7 @@
       "body": "Beslenirken **dispne ve terleme**, kalp yetmezliğinin önemli belirtileridir. Süt alımı sırasında artan efor tabloyu görünür hale getirir."
     },
     {
+      "id": "PER241-01dac5n",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -16,6 +18,7 @@
       "body": "Bebekte **kilo alamama**, taşipne ve hepatomegaliyle birlikte kalp yetmezliğini düşündürebilir."
     },
     {
+      "id": "PER241-078jptv",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -23,6 +26,7 @@
       "body": "Büyük soldan sağa şantlar ve kapak yetersizlikleri, pediatrik kalpte **hacim yükü** oluşturabilir."
     },
     {
+      "id": "PER241-06633vc",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -30,6 +34,7 @@
       "body": "Aortik obstrüksiyon ve koarktasyon **sol ventrikülün basınç yükünü** artırabilir."
     },
     {
+      "id": "PER241-0noyihx",
       "type": "fact",
       "importance": 2,
       "source": "Radiopaedia",
@@ -37,6 +42,7 @@
       "body": "ALCAPA'da miyokard iskemisi, **ventrikül disfonksiyonu ve mitral yetersizliğiyle** kalp yetmezliği oluşturabilir."
     },
     {
+      "id": "PER241-15ernlt",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -44,6 +50,7 @@
       "body": "Konjenital düzeltilmiş transpozisyonda **atriyoventriküler blok**, pediatrik kalp yetmezliğinin ritimle ilişkili nedenlerinden biridir."
     },
     {
+      "id": "PER241-0qnh758",
       "type": "fact",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -51,6 +58,7 @@
       "body": "KPB'nin tetiklediği inflamasyon, damar dışına sıvı kaçışını artırıp **interstisyel ödem ve organ disfonksiyonuna** katkıda bulunur."
     },
     {
+      "id": "PER241-0inq36u",
       "type": "flip",
       "importance": 2,
       "source": "Merck Manual",

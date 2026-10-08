@@ -2,6 +2,7 @@
   "topic": "Hipotermi, kan gazı ve kardiyopleji",
   "cards": [
     {
+      "id": "PER245-192kl7h",
       "type": "fact",
       "importance": 2,
       "title": "Sıcaklık için genel gradyan",
@@ -9,6 +10,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER245-11ck7lh",
       "type": "fact",
       "importance": 2,
       "title": "Isıtmada daha dar sınır",
@@ -16,6 +18,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER245-0yyjakz",
       "type": "fact",
       "importance": 2,
       "title": "del Nido karışım oranı",
@@ -23,6 +26,7 @@
       "source": "Boston Children’s, del Nido 2012"
     },
     {
+      "id": "PER245-026btq7",
       "type": "fact",
       "importance": 2,
       "title": "Sıcak terminal reperfüzyon",
@@ -30,6 +34,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1603c3u",
       "type": "fact",
       "importance": 2,
       "title": "Retrograd yöntemin sınırları",
@@ -37,6 +42,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-172zg0u",
       "type": "flip",
       "importance": 2,
       "question": "pH-stat yönetiminde CO2 eklenmesi serebral dolaşımı nasıl etkiler?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0t9qyqh",
       "type": "flip",
       "importance": 2,
       "question": "Sol ventrikül ventinin duvar gerilimini azaltması ne sağlar?",
@@ -51,6 +58,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-06yh5ko",
       "type": "remember",
       "importance": 3,
       "title": "Serebral hipertermiden kaçın",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-17moc5i",
       "type": "remember",
       "importance": 3,
       "title": "HTK hiponatremisinde osmolalite",

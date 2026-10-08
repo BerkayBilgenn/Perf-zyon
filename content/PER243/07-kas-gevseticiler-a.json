@@ -2,6 +2,7 @@
   "topic": "Kas gevşeticiler ve antagonistleri",
   "cards": [
     {
+      "id": "PER243-1ufzugx",
       "type": "term",
       "importance": 1,
       "term": "Nöromüsküler kavşak",
@@ -10,6 +11,7 @@
       "source": "Genel kabul (PER243 araştırması)"
     },
     {
+      "id": "PER243-08shabi",
       "type": "term",
       "importance": 3,
       "term": "Depolarizan kas gevşetici",
@@ -18,6 +20,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-1klk7bt",
       "type": "term",
       "importance": 3,
       "term": "Nondepolarizan kas gevşetici",
@@ -26,6 +29,7 @@
       "source": "DailyMed: roküronyum"
     },
     {
+      "id": "PER243-1my1ykr",
       "type": "term",
       "importance": 3,
       "term": "Süksinilkolin",
@@ -34,6 +38,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-0gybivw",
       "type": "term",
       "importance": 2,
       "term": "Faz II blok",
@@ -42,6 +47,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-1osxjt1",
       "type": "term",
       "importance": 2,
       "term": "Fasikülasyon",
@@ -50,6 +56,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-0bi4o5i",
       "type": "term",
       "importance": 2,
       "term": "Plazma kolinesterazı",
@@ -58,6 +65,7 @@
       "source": "DailyMed: süksinilkolin"
     },
     {
+      "id": "PER243-0t0j76d",
       "type": "term",
       "importance": 2,
       "term": "Roküronyum",
@@ -66,6 +74,7 @@
       "source": "DailyMed: roküronyum"
     },
     {
+      "id": "PER243-0cbz1rf",
       "type": "term",
       "importance": 2,
       "term": "Veküronyum",
@@ -74,6 +83,7 @@
       "source": "DailyMed: veküronyum"
     },
     {
+      "id": "PER243-01dihy2",
       "type": "term",
       "importance": 1,
       "term": "Sisatraküryum",
@@ -82,6 +92,7 @@
       "source": "DailyMed: sisatraküryum"
     },
     {
+      "id": "PER243-1n3edn5",
       "type": "term",
       "importance": 3,
       "term": "Hofmann eliminasyonu",
@@ -90,6 +101,7 @@
       "source": "DailyMed: sisatraküryum"
     },
     {
+      "id": "PER243-1vmwf4c",
       "type": "term",
       "importance": 3,
       "term": "Pankuronyum",
@@ -98,6 +110,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-05y2yrm",
       "type": "term",
       "importance": 3,
       "term": "TOF",
@@ -106,6 +119,7 @@
       "source": "DailyMed: neostigmin"
     },
     {
+      "id": "PER243-04cwpqp",
       "type": "term",
       "importance": 3,
       "term": "Post-tetanik sayım",
@@ -114,6 +128,7 @@
       "source": "Bridion ürün bilgisi"
     },
     {
+      "id": "PER243-042sozq",
       "type": "term",
       "importance": 3,
       "term": "Neostigmin",
@@ -122,6 +137,7 @@
       "source": "DailyMed: neostigmin"
     },
     {
+      "id": "PER243-0naty8n",
       "type": "term",
       "importance": 3,
       "term": "Sugammadeks",
@@ -130,6 +146,7 @@
       "source": "Bridion ürün bilgisi"
     },
     {
+      "id": "PER243-0exwlxs",
       "type": "term",
       "importance": 2,
       "term": "Glikopirolat",
@@ -138,6 +155,7 @@
       "source": "DailyMed: glikopirolat"
     },
     {
+      "id": "PER243-03xz84z",
       "type": "compare",
       "importance": 2,
       "title": "Kas gevşetici blok türleri",
@@ -158,6 +176,7 @@
       "source": "DailyMed: süksinilkolin / roküronyum"
     },
     {
+      "id": "PER243-1kbx487",
       "type": "compare",
       "importance": 2,
       "title": "Bloğun geri çevrilmesi",
@@ -178,6 +197,7 @@
       "source": "DailyMed: neostigmin / Bridion ürün bilgisi"
     },
     {
+      "id": "PER243-0np6d26",
       "type": "compare",
       "importance": 2,
       "title": "Antimuskariniklerin yapısı",

@@ -2,6 +2,7 @@
   "topic": "Antikoagülasyon: heparin, ACT, protamin",
   "cards": [
     {
+      "id": "PER245-12cbv6m",
       "type": "fact",
       "importance": 2,
       "title": "ACT ve cihaz farkı",
@@ -9,6 +10,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-02izhds",
       "type": "fact",
       "importance": 2,
       "title": "ACT'nin heparin dışı etkenleri",
@@ -16,6 +18,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-0lu23he",
       "type": "fact",
       "importance": 2,
       "title": "HIT olasılığında zamanlama",
@@ -23,6 +26,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-0ezcxc2",
       "type": "fact",
       "importance": 2,
       "title": "Protamin fazlası ve kanama",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0qfwdoy",
       "type": "fact",
       "importance": 2,
       "title": "Bivalirudin ve durgun kan",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0xvki2v",
       "type": "flip",
       "importance": 2,
       "question": "Aynı kiloya göre heparin dozu neden her hastada aynı ACT yanıtını sağlamaz?",
@@ -44,6 +50,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-1ddqb2a",
       "type": "flip",
       "importance": 2,
       "question": "HIT şüphesinde yalnız PF4 antikoru neden yeterli olmayabilir?",
@@ -51,6 +58,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-0bse499",
       "type": "remember",
       "importance": 3,
       "title": "Protamin ve kardiyotomi aspirasyonu",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-005y04s",
       "type": "remember",
       "importance": 3,
       "title": "Ciddi protamin reaksiyonu",

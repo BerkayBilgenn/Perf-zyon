@@ -2,6 +2,7 @@
   "topic": "Hemostaz ve pıhtılaşma testleri",
   "cards": [
     {
+      "id": "PER243-1bvez66",
       "type": "mcq",
       "importance": 2,
       "question": "Fibrinojeni fibrine dönüştüren enzim hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0quet04",
       "type": "mcq",
       "importance": 2,
       "question": "Fibrin polimerlerini çapraz bağlayan faktör hangisidir?",
@@ -30,6 +32,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1h776zu",
       "type": "mcq",
       "importance": 2,
       "question": "Heparin etkisini ayırmak için INTEM ile hangi ROTEM testi karşılaştırılır?",
@@ -44,6 +47,7 @@
       "source": "Asian J Transfus Sci 2025: ROTEM"
     },
     {
+      "id": "PER243-08ikwr6",
       "type": "mcq",
       "importance": 2,
       "question": "Hemofili B hangi faktör eksikliğiyle ilişkilidir?",
@@ -58,6 +62,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0282hx6",
       "type": "mcq",
       "importance": 2,
       "question": "D-dimerin kaynağı hangisidir?",
@@ -72,6 +77,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-05c5hkr",
       "type": "tf",
       "importance": 1,
       "statement": "Hemofili A, faktör IX eksikliğidir.",
@@ -80,6 +86,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-11x2kys",
       "type": "tf",
       "importance": 2,
       "statement": "Prostasiklin trombosit agregasyonunu inhibe eder.",
@@ -88,6 +95,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1510ioo",
       "type": "tf",
       "importance": 2,
       "statement": "Reptilaz zamanı heparin etkisiyle uzar.",

@@ -2,6 +2,7 @@
   "topic": "Siyanotik konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-15cniiz",
       "type": "fact",
       "importance": 2,
       "title": "TOF'de siyanozun belirleyicisi",
@@ -9,6 +10,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0pktl2g",
       "type": "fact",
       "importance": 2,
       "title": "d-TGA'da karışımın önemi",
@@ -16,6 +18,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0gsoc3k",
       "type": "fact",
       "importance": 2,
       "title": "Arteriyel switch'in kritik adımı",
@@ -23,6 +26,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1tqq4ju",
       "type": "fact",
       "importance": 2,
       "title": "Pulmoner atrezi ve koronerler",
@@ -30,6 +34,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0mt7v7g",
       "type": "fact",
       "importance": 2,
       "title": "Siyanotik kalpte ek dönüş",
@@ -37,6 +42,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-02mexen",
       "type": "flip",
       "importance": 2,
       "question": "Ebstein anomalisi sağ ventrikülün bir bölümünü nasıl değiştirir?",
@@ -44,6 +50,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0f5libr",
       "type": "flip",
       "importance": 2,
       "question": "Total anormal pulmoner venöz dönüşte yaşamı sağlayan bağlantı hangi düzeydedir?",
@@ -51,6 +58,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0zhubkf",
       "type": "flip",
       "importance": 2,
       "question": "Glenn palyasyonunda hangi sistemik ven pulmoner artere bağlanır?",
@@ -58,6 +66,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-00x0ywa",
       "type": "remember",
       "importance": 3,
       "title": "d-TGA’da erken değerlendirme",

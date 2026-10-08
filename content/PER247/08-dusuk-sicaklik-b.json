@@ -2,6 +2,7 @@
   "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
   "cards": [
     {
+      "id": "PER247-0217i9h",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "CDC’de EtO parametreleri **450–1.200 mg/L**, **37–63 °C**, %40–80 bağıl nem ve 1–6 saat maruziyettir. Bunlar yöntem aralıklarıdır; tek evrensel döngü reçetesi değildir."
     },
     {
+      "id": "PER247-10skmp6",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "CDC, mekanik EtO aerasyonunu **50–60 °C’de 8–12 saat** olarak açıklar. Aerasyon, işlemde emilen gaz kalıntılarını uzaklaştırır; ürün talimatı esas alınır."
     },
     {
+      "id": "PER247-1c95gwi",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "CDC’de aktarılan OSHA EtO sınırları: **8 saatlik TWA 1 ppm**; eylem düzeyi 0,5 ppm; **15 dakikalık aşım sınırı 5 ppm**. Maruziyet süresi belirtilmeden sayı yorumlanmaz."
     },
     {
+      "id": "PER247-1fbm0ol",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +34,7 @@
       "body": "CDC’nin H2O2 gaz plazma örnekleri **37–44 °C** düşük sıcaklıkta çalışır. Döngü süresi model ve teknolojiye göre değişir; tek süre tüm cihazlara uygulanmaz."
     },
     {
+      "id": "PER247-13lam8d",
       "type": "fact",
       "importance": 1,
       "source": "FDA Tıbbi cihaz sterilizasyonu",
@@ -37,6 +42,7 @@
       "body": "FDA, buharlaştırılmış hidrojen peroksiti **yerleşik sterilizasyon yöntemleri** arasında kabul eder. Bu düzenleyici sınıflama, her materyalin VHP ile uyumlu olduğu anlamına gelmez."
     },
     {
+      "id": "PER247-0lb4lcs",
       "type": "flip",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "Su molekülleri EtO’nun **mikroorganizmadaki reaktif bölgelere ulaşmasına** yardım eder. EtO etkinliği yalnız gaz konsantrasyonuyla belirlenmez."
     },
     {
+      "id": "PER247-1713hq4",
       "type": "flip",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "İşlem yan ürünleri **su ve oksijendir**; EtO benzeri toksik kalıntıyı uzaklaştırmak için uzun aerasyon gerekmez. Ürünün işlem talimatı yine izlenir."
     },
     {
+      "id": "PER247-18yhjpg",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +66,7 @@
       "answer": "İşlem **kullanım noktası** içindir; cihaz işlem sırasında koruyucu ambalajla sarılı değildir. Bu nedenle paketli steril depolama güvencesi sağlamaz."
     },
     {
+      "id": "PER247-0x2q6iw",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -65,6 +74,7 @@
       "body": "Etilen oksit **toksik, yanıcı ve karsinojendir**. İşlem etkinliği yanında kalıntı yönetimi, çalışan maruziyeti ve güvenli cihaz kullanımı izlenir."
     },
     {
+      "id": "PER247-1wy59ha",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

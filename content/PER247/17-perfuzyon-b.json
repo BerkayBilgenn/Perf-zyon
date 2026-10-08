@@ -2,6 +2,7 @@
   "topic": "Perfüzyonda sterilite ve M. chimaera",
   "cards": [
     {
+      "id": "PER247-1u7t8f5",
       "type": "fact",
       "importance": 2,
       "source": "FDA Isıtıcı-soğutucu cihazlar",
@@ -9,6 +10,7 @@
       "body": "Isıtıcı-soğutucunun sıcaklık kontrollü tank sıvısı, **hastadan, kardiyopleji solüsyonundan ve kan devresinden izoledir**. Enfeksiyon riski yalnız doğrudan sıvı karışmasıyla açıklanmaz."
     },
     {
+      "id": "PER247-01l8ez3",
       "type": "fact",
       "importance": 3,
       "source": "FDA Isıtıcı-soğutucu cihazlar",
@@ -16,6 +18,7 @@
       "body": "FDA, tank durulama/doldurmada **musluk suyu kullanılmamasını**; steril veya **≤0,22 µm** filtreden geçirilmiş suyu belirtir. Cihaz üreticisinin kullanım talimatı izlenir."
     },
     {
+      "id": "PER247-1p6c8gn",
       "type": "fact",
       "importance": 3,
       "source": "FDA Isıtıcı-soğutucu cihazlar",
@@ -23,6 +26,7 @@
       "body": "FDA, ısıtıcı-soğutucu egzozunun **steril alandan uzağa** ve ameliyathane egzozuna yönlendirilmesini önerir. Sadece su devresinin kapalı olması aerosol riskini kaldırmaz."
     },
     {
+      "id": "PER247-1s13c3p",
       "type": "fact",
       "importance": 2,
       "source": "FDA Isıtıcı-soğutucu cihazlar",
@@ -30,6 +34,7 @@
       "body": "M. chimaera yavaş üreyebilir; ısıtıcı-soğutucu maruziyetiyle ilişkili enfeksiyon **aylar sonra veya bir yılı aşan sürede** ortaya çıkabilir. Erken belirti yokluğu riski dışlamaz."
     },
     {
+      "id": "PER247-0wo7tem",
       "type": "fact",
       "importance": 1,
       "source": "Sommerstein, EID 2016",
@@ -37,6 +42,7 @@
       "body": "Sommerstein’in 2016 deneyinde cihazdan yönlenen **deney dumanı 23 sn’de** cerrahi alana ulaşmış; ayrı havalandırmasız deneyde **5 m’ye kadar** kültür pozitifliği görülmüştür. Duman zamanı, bakteriyel aerosolün ölçülmüş ulaşma zamanı değildir. Bunlar çalışma koşullarına ait bulgulardır."
     },
     {
+      "id": "PER247-1q6dj4u",
       "type": "flip",
       "importance": 2,
       "source": "FDA Isıtıcı-soğutucu cihazlar",
@@ -44,6 +50,7 @@
       "answer": "Cihaz **hemen kullanımdan kaldırılır** ve enfeksiyon kontrol ekibiyle uygun değerlendirme yürütülür. Bulanıklık/renk değişimi olası kontaminasyon işaretidir."
     },
     {
+      "id": "PER247-0kozexj",
       "type": "flip",
       "importance": 1,
       "source": "CDC MMWR M. chimaera 2016",
@@ -51,6 +58,7 @@
       "answer": "Hasta ve cihaz izolatlarının yakınlığı, **üretim yerindeki ortak nokta kaynaklı kontaminasyonu** destekledi. Bulgular 2016 salgın araştırmasının bağlamında yorumlanır."
     },
     {
+      "id": "PER247-1q2rrc5",
       "type": "remember",
       "importance": 3,
       "source": "FDA Isıtıcı-soğutucu cihazlar",
@@ -58,6 +66,7 @@
       "body": "Cihazın **güncel temizlik/dezenfeksiyon talimatı** çalışanların erişiminde olmalıdır. Daha güçlü solüsyon veya daha sık işlem, üretici onayı olmadan daha güvenli sayılmaz."
     },
     {
+      "id": "PER247-1t575vb",
       "type": "remember",
       "importance": 3,
       "source": "FDA Isıtıcı-soğutucu cihazlar",

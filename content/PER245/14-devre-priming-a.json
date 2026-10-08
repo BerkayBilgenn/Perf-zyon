@@ -2,6 +2,7 @@
   "topic": "KPB devresi, priming ve hemodilüsyon",
   "cards": [
     {
+      "id": "PER245-174ejjg",
       "type": "term",
       "importance": 3,
       "term": "Hemodilüsyon",
@@ -10,6 +11,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0jee8o9",
       "type": "term",
       "importance": 2,
       "term": "Priming (prime)",
@@ -18,6 +20,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-000iv0p",
       "type": "term",
       "importance": 2,
       "term": "RAP (retrograd otolog priming)",
@@ -26,6 +29,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-178ykla",
       "type": "term",
       "importance": 2,
       "term": "VAP (venöz antegrad priming)",
@@ -34,6 +38,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1x9srbo",
       "type": "term",
       "importance": 3,
       "term": "MiECC",
@@ -42,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1x5r5om",
       "type": "term",
       "importance": 2,
       "term": "Roller pompa",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1tsi251",
       "type": "term",
       "importance": 2,
       "term": "Santrifüj pompa",
@@ -58,6 +65,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0qbefu6",
       "type": "term",
       "importance": 3,
       "term": "Isıtıcı-soğutucu ünite (HCU)",
@@ -66,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0j0ehth",
       "type": "term",
       "importance": 1,
       "term": "Arteriyel hat filtresi",
@@ -74,6 +83,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1gphfrc",
       "type": "term",
       "importance": 2,
       "term": "Kardiyotomi rezervuarı",
@@ -82,6 +92,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0xvxb1u",
       "type": "term",
       "importance": 2,
       "term": "Venöz rezervuar",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0p2pgf3",
       "type": "term",
       "importance": 3,
       "term": "Seviye sensörü",
@@ -98,6 +110,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1augv2f",
       "type": "term",
       "importance": 2,
       "term": "Hava kabarcığı dedektörü",
@@ -106,6 +119,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-029ydvd",
       "type": "term",
       "importance": 1,
       "term": "Gaz mikroembolisi (GME)",
@@ -114,6 +128,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-081lh5g",
       "type": "term",
       "importance": 2,
       "term": "CO2 yıkama / insüflasyon",
@@ -122,6 +137,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-055nhav",
       "type": "term",
       "importance": 1,
       "term": "Hiperkloremik asidoz",
@@ -130,6 +146,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-14lop9l",
       "type": "compare",
       "importance": 2,
       "title": "Akımı üreten mekanizma",

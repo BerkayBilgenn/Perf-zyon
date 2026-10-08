@@ -2,6 +2,7 @@
   "topic": "Heparin direnci, HİT ve protamin",
   "cards": [
     {
+      "id": "PER243-09z5u28",
       "type": "mcq",
       "importance": 3,
       "question": "İmmün HİT'te antikorların hedefi hangi komplekstir?",
@@ -16,6 +17,7 @@
       "source": "BJA Education 2023: alternatifler"
     },
     {
+      "id": "PER243-1h7t86l",
       "type": "mcq",
       "importance": 2,
       "question": "HİT için KPB'de kullanılan doğrudan trombin inhibitörü hangisidir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1w0n2cm",
       "type": "mcq",
       "importance": 2,
       "question": "Traneksamik asit fibrin yıkımını hangi mekanizmayla azaltır?",
@@ -44,6 +47,7 @@
       "source": "DailyMed: traneksamik asit"
     },
     {
+      "id": "PER243-07zra6n",
       "type": "mcq",
       "importance": 2,
       "question": "Desmopressin endotelden hangi çifti salgılatır?",
@@ -58,6 +62,7 @@
       "source": "DailyMed: desmopressin"
     },
     {
+      "id": "PER243-07bc1im",
       "type": "tf",
       "importance": 3,
       "statement": "Traneksamik asidin eliminasyonu esas olarak akciğer sekestrasyonuyla olur.",
@@ -66,6 +71,7 @@
       "source": "DailyMed: traneksamik asit"
     },
     {
+      "id": "PER243-0mmcqw5",
       "type": "tf",
       "importance": 1,
       "statement": "Aşırı protamin trombosit işlevini bozup kanamayı artırabilir.",

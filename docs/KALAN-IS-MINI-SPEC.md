@@ -17,7 +17,7 @@ Bu belge, ilk içerik dalgasından sonra kalan kart üretiminin kapsamını ve t
 
 Toplam **3.144 kart** vardır. Altı dersin sayı/konu/tür hedefleri sağlanmıştır. PER207’nin bilgi ve soru türleri genişletildi; PER245 ve PER247’nin bütün konu dosyaları üretildi. Yeni üç dersin her kartı, ilgili `a/b/c` doğrulama kaydında dosya/sıra üzerinden araştırma ve kaynakla eşlenmiştir. Kaynaklara erişim sınırları ve yazar kontrolü ile bağımsız incelemenin kapsamı kayıtlarda ayrı belirtilir.
 
-Bu ara yayında kart üretimi ve yazar kontrolleri tamamlanmıştır. PER207 ve PER245 için bağımsız içerik incelemesi sürmektedir; PER247 için son bağımsız inceleme kaydı henüz tamamlanmamıştır.
+Kart üretimi ve yazar kontrolleri tamamlandı. PER207, PER245 ve PER247’nin bağımsız içerik taraması da tamamlandı: 28 kartın ifadesi, test adaleti veya kaynak atfı düzeltildi; toplam kart sayısı korundu. Her dersin `_bagimsiz-inceleme.md` dosyası dış kaynak doğrulamasının kapsamını ve erişim sınırlarını kaydeder.
 
 ## Bu devam turunun kapsamı
 

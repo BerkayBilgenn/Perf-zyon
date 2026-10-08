@@ -2,6 +2,7 @@
   "topic": "Kardiyopleji ve miyokard koruma",
   "cards": [
     {
+      "id": "PER141-0737est",
       "type": "fact",
       "importance": 3,
       "title": "Buckberg karışım oranı",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1ggungp",
       "type": "fact",
       "importance": 2,
       "title": "del Nido oranı ve süre",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-038qpe1",
       "type": "fact",
       "importance": 3,
       "title": "Kardiyoplejide basıncın ölçüm yeri",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1sg3hev",
       "type": "fact",
       "importance": 2,
       "title": "Aralıklı kardiyoplejinin yenilenmesi",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-15kfnk6",
       "type": "fact",
       "importance": 2,
       "title": "St Thomas potasyum değerleri",
@@ -37,6 +42,7 @@
       "source": "Francica ve ark. 2021"
     },
     {
+      "id": "PER141-180a8bp",
       "type": "flip",
       "importance": 2,
       "question": "del Nido'daki lidokain ve magnezyum miyokardı nasıl korumayı amaçlar?",
@@ -44,6 +50,7 @@
       "source": "del Nido RKÇ 2022"
     },
     {
+      "id": "PER141-0dc1xye",
       "type": "flip",
       "importance": 3,
       "question": "Kardiyopleji ile hipotermi birlikte miyokardın hangi gereksinimini azaltır?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0e8vs94",
       "type": "flip",
       "importance": 2,
       "question": "Sıcak kardiyoplejinin kesintisiz ve homojen verilmesi neden önemlidir?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0rgo06x",
       "type": "remember",
       "importance": 3,
       "title": "HTK sonrası sodyumu bağlamıyla yorumla",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-03s3gva",
       "type": "remember",
       "importance": 3,
       "title": "Kardiyopleji güvenliği ayrı izlenir",

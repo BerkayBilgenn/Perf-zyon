@@ -2,6 +2,7 @@
   "topic": "Mediasten anatomisi",
   "cards": [
     {
+      "id": "PER241-1gb3rg3",
       "type": "term",
       "importance": 3,
       "source": "TeachMeAnatomy",
@@ -11,6 +12,7 @@
       "origin": "Lat. medius = orta"
     },
     {
+      "id": "PER241-0q0qcnz",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -20,6 +22,7 @@
       "origin": "P. Louis (eponim)"
     },
     {
+      "id": "PER241-1q1qw1o",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -28,6 +31,7 @@
       "definition": "Toraks girişi ile sternal açı düzlemi arasında kalan bölüm. Timus, arkus aorta, trakea ve özofagus gibi yapıları içerir."
     },
     {
+      "id": "PER241-1ygnmxt",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -36,6 +40,7 @@
       "definition": "Sternum ile perikard arasındaki dar alan; yağ, lenf nodları, internal torasik damar dalları."
     },
     {
+      "id": "PER241-0czbo2v",
       "type": "term",
       "importance": 1,
       "source": "TeachMeAnatomy",
@@ -44,6 +49,7 @@
       "definition": "Perikard ve kalp ile çıkan aorta, pulmoner trunkus, vena kava superior, frenik sinirleri içeren bölüm."
     },
     {
+      "id": "PER241-1hbkt7a",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -52,6 +58,7 @@
       "definition": "Perikardın arkasında bulunan mediasten bölümü. İnen torasik aorta, özofagus, duktus torasikus ve azigos sistemi burada yer alır."
     },
     {
+      "id": "PER241-1jyrdyp",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -60,6 +67,7 @@
       "definition": "Üst mediastende en öndeki, sternum arkasındaki lenfoid organ."
     },
     {
+      "id": "PER241-0vqaan8",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -69,6 +77,7 @@
       "origin": "Lat. ductus = kanal"
     },
     {
+      "id": "PER241-10wq6e1",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -78,6 +87,7 @@
       "origin": "Yun. a-zygos = eşsiz"
     },
     {
+      "id": "PER241-13ohtkb",
       "type": "term",
       "importance": 1,
       "source": "TeachMeAnatomy",
@@ -87,6 +97,7 @@
       "origin": "Yun. phren = diyafram"
     },
     {
+      "id": "PER241-162vurb",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -96,6 +107,7 @@
       "origin": "Lat. vagus = gezgin"
     },
     {
+      "id": "PER241-05c1yvo",
       "type": "term",
       "importance": 2,
       "source": "UNSW Embryology",

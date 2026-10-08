@@ -2,6 +2,7 @@
   "topic": "Total yapay kalp (TAH)",
   "cards": [
     {
+      "id": "PER207-02eev7c",
       "type": "mcq",
       "importance": 2,
       "question": "FDA 2004 SynCardia 70 mL cihazında her yapay ventrikülün tek yönlü akımını hangi bileşenler sağlar?",
@@ -16,6 +17,7 @@
       "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
+      "id": "PER207-01aq395",
       "type": "mcq",
       "importance": 2,
       "question": "Tamamen implante edilebilir AbioCor’un enerji aktarımı yaklaşımı hangisidir?",
@@ -30,6 +32,7 @@
       "source": "FDA AbioCor HDE 2006"
     },
     {
+      "id": "PER207-0w7d34m",
       "type": "mcq",
       "importance": 2,
       "question": "CARMAT Aeson’da kanla temas eden yüzeyin hangi özelliği öne çıkar?",

@@ -2,6 +2,7 @@
   "topic": "Otonom sinir sistemi ve ilaçlar",
   "cards": [
     {
+      "id": "PER243-0n5enhk",
       "type": "fact",
       "importance": 2,
       "title": "Preganglionik iletim",
@@ -9,6 +10,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-0b7isyv",
       "type": "fact",
       "importance": 2,
       "title": "Kalbe vagal uyarı",
@@ -16,6 +18,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-172prz0",
       "type": "fact",
       "importance": 3,
       "title": "Adenozinin etkileşimi",
@@ -23,6 +26,7 @@
       "source": "DailyMed: adenozin"
     },
     {
+      "id": "PER243-10a754o",
       "type": "fact",
       "importance": 2,
       "title": "Amiodaronun kardiyak yan etkisi",
@@ -30,6 +34,7 @@
       "source": "DailyMed: amiodaron"
     },
     {
+      "id": "PER243-0mw08j0",
       "type": "fact",
       "importance": 1,
       "title": "İnotropi ve oksijen maliyeti",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1lc2j4f",
       "type": "flip",
       "importance": 1,
       "question": "Noradrenalin ekstravazasyonunda kullanılan α-bloker hangisidir?",
@@ -44,6 +50,7 @@
       "source": "DailyMed: noradrenalin"
     },
     {
+      "id": "PER243-1uh7cr8",
       "type": "flip",
       "importance": 2,
       "question": "Nitroprussid toksisitesinde venöz hiperoksemi neden oluşur?",
@@ -51,6 +58,7 @@
       "source": "DailyMed: nitroprussid"
     },
     {
+      "id": "PER243-1xnc0zy",
       "type": "flip",
       "importance": 2,
       "question": "Nitrogliserin düşük dozda önyükü nasıl azaltır?",
@@ -58,6 +66,7 @@
       "source": "DailyMed: nitrogliserin"
     },
     {
+      "id": "PER243-1urz66n",
       "type": "remember",
       "importance": 3,
       "title": "Nitrogliserin etkileşimi",
@@ -65,6 +74,7 @@
       "source": "DailyMed: nitrogliserin"
     },
     {
+      "id": "PER243-1kjc0r2",
       "type": "remember",
       "importance": 3,
       "title": "Nitroprussidi koru",
@@ -72,6 +82,7 @@
       "source": "DailyMed: nitroprussid"
     },
     {
+      "id": "PER243-0274afo",
       "type": "fact",
       "importance": 3,
       "title": "Adenozin etiketindeki başlangıç",
@@ -79,6 +90,7 @@
       "source": "DailyMed: adenozin"
     },
     {
+      "id": "PER243-1m0uclp",
       "type": "fact",
       "importance": 1,
       "title": "Vazopressin ve pulmoner direnç",

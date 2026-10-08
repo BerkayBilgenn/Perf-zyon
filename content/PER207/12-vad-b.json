@@ -2,6 +2,7 @@
   "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
   "cards": [
     {
+      "id": "PER207-1fr7h2j",
       "type": "fact",
       "importance": 2,
       "title": "REMATCH ve destinasyon tedavisi",
@@ -9,6 +10,7 @@
       "source": "REMATCH, NEJM 2001"
     },
     {
+      "id": "PER207-1w8o1hp",
       "type": "fact",
       "importance": 2,
       "title": "MOMENTUM 3 ve pompa trombozu",
@@ -16,6 +18,7 @@
       "source": "MOMENTUM 3, NEJM 2019"
     },
     {
+      "id": "PER207-0im3n2i",
       "type": "fact",
       "importance": 2,
       "title": "LVAD’de yüksek kesme gerilimi",
@@ -23,6 +26,7 @@
       "source": "ESC LVAD komplikasyonları"
     },
     {
+      "id": "PER207-0uxqthu",
       "type": "fact",
       "importance": 2,
       "title": "RV yetmezliği ve LVAD dolumu",
@@ -30,6 +34,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-1bm9gl5",
       "type": "fact",
       "importance": 2,
       "title": "Tahmini akımın anlamı",
@@ -37,6 +42,7 @@
       "source": "FDA HeartMate 3 kullanım talimatı"
     },
     {
+      "id": "PER207-0763aus",
       "type": "flip",
       "importance": 2,
       "question": "LVAD pompa trombozunda güç ve hemoliz neden birlikte değerlendirilebilir?",
@@ -44,6 +50,7 @@
       "source": "ESC LVAD komplikasyonları"
     },
     {
+      "id": "PER207-0t8j549",
       "type": "flip",
       "importance": 2,
       "question": "Driveline enfeksiyonu açısından cilt çıkışı neden önemlidir?",
@@ -51,6 +58,7 @@
       "source": "Prinzing, LVAD 2016"
     },
     {
+      "id": "PER207-1k7vfj6",
       "type": "flip",
       "importance": 2,
       "question": "Sürekli akımlı LVAD hastasında tansiyon ölçümü neden zorlaşabilir?",
@@ -58,6 +66,7 @@
       "source": "ESC LVAD komplikasyonları"
     },
     {
+      "id": "PER207-0yzt5js",
       "type": "remember",
       "importance": 3,
       "title": "LVAD’de hemoliz cihaz ipucu olabilir",

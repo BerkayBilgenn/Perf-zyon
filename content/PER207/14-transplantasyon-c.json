@@ -2,6 +2,7 @@
   "topic": "Transplantasyon ve yeni teknolojiler",
   "cards": [
     {
+      "id": "PER207-1ekxgsp",
       "type": "mcq",
       "importance": 2,
       "question": "Cypel ve arkadaşlarının 2011 EVLP çalışmasında yüksek riskli akciğerler kaç saat perfüze edilerek değerlendirildi?",
@@ -16,6 +17,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-1xlm939",
       "type": "mcq",
       "importance": 2,
       "question": "Cypel 2011 EVLP çalışmasının nakilden 72 saat sonra değerlendirdiği birincil sonlanım hangisiydi?",
@@ -30,6 +32,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-0jyakax",
       "type": "mcq",
       "importance": 2,
       "question": "Toronto EVLP protokolünün perfüzatı için hangi özellik doğrudur?",
@@ -44,6 +47,7 @@
       "source": "EVLP protokolleri 2021"
     },
     {
+      "id": "PER207-0i2acb9",
       "type": "mcq",
       "importance": 2,
       "question": "Kalp OCS platformunda taşınan donör organ hangi durumda tutulur?",
@@ -58,6 +62,7 @@
       "source": "PROCEED II, Lancet 2015"
     },
     {
+      "id": "PER207-1fp20g1",
       "type": "tf",
       "importance": 2,
       "statement": "Cypel 2011 EVLP çalışması, aynı dönemin standart organlarını kontrol grubu olarak kullanan randomize olmayan bir çalışmaydı.",
@@ -66,6 +71,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-0bqqz31",
       "type": "tf",
       "importance": 2,
       "statement": "Cypel 2011 protokolünde EVLP sırasında işlev kötüleşse de bütün akciğerler nakledildi.",

@@ -44,11 +44,11 @@ test('hatalı kart, bozuk dosya ve tekrar eden kart dosya ve sıra numarasıyla 
   assert.ok(!errors.some((e) => e.includes('_notlar')));
 });
 
-test('karttaki id/course alanı hesaplanan kimliği ezmez', async () => {
+test('başka derse ait ve bozuk kimlikler derlemeyi geçemez', async () => {
   const src = await makeSrc({ 'PER245/01.json': { topic: 'A', cards: [fact('Bir', { id: 'x', course: 'PER141' })] } });
-  const { cards } = await buildCourse(src, 'PER245');
-  assert.match(cards[0].id, /^PER245-[0-9a-z]{7}$/);
-  assert.equal(cards[0].course, 'PER245');
+  const { cards, errors } = await buildCourse(src, 'PER245');
+  assert.equal(cards.length, 0);
+  assert.ok(errors.some((e) => e.includes('geçersiz kalıcı kimlik')));
 });
 
 test('klasör yoksa missing döner', async () => {
@@ -77,4 +77,25 @@ test('varsayılan alt sınır ders başına 450 kart', () => {
   const make = (n) => computeStats(Array.from({ length: n }, (_, i) => ({ type: 'fact', importance: 1, topic: `T${i}` })));
   assert.ok(distributionWarnings(make(449)).some((w) => w.startsWith('toplam 449 kart (en az 450')));
   assert.ok(!distributionWarnings(make(450)).some((w) => w.startsWith('toplam')));
+});
+
+test('hatalı derlemede eski ders çıktısı kaldırılır', async () => {
+  const src = await makeSrc({ 'PER245/01.json': { topic: 'A', cards: [{ type: 'x' }] }, 'out/PER245.json': '[{"eski":true}]' });
+  const out = path.join(src, 'out');
+  assert.equal(await main(['PER245', '--src', src, '--out', out]), 1);
+  await assert.rejects(readFile(path.join(out, 'PER245.json')), { code: 'ENOENT' });
+});
+
+test('kaynak kimliği metin düzeltmesinden sonra korunur', async () => {
+  const file = { topic: 'A', cards: [fact('Bir', { id: 'PER245-012abcd' })] };
+  const src = await makeSrc({ 'PER245/01.json': file });
+  assert.equal((await buildCourse(src, 'PER245')).cards[0].id, 'PER245-012abcd');
+  file.cards[0].body = 'Düzeltilmiş açıklama.';
+  await writeFile(path.join(src, 'PER245/01.json'), JSON.stringify(file));
+  assert.equal((await buildCourse(src, 'PER245')).cards[0].id, 'PER245-012abcd');
+});
+
+test('farklı kimlikler aynı kartın iki kez yazılmasını gizleyemez', async () => {
+  const src = await makeSrc({ 'PER245/01.json': { topic: 'A', cards: [fact('Bir', { id: 'PER245-012abcd' }), fact('Bir', { id: 'PER245-034abcd' })] } });
+  assert.ok((await buildCourse(src, 'PER245')).errors.some((e) => e.includes('tekrarlanan kart')));
 });

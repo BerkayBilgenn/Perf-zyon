@@ -2,6 +2,7 @@
   "topic": "Perfüzyon yönetimi",
   "cards": [
     {
+      "id": "PER141-1iydhyj",
       "type": "mcq",
       "importance": 2,
       "question": "Prime sonrası Hct hesabının paydasında hangi hacim bulunur?",
@@ -16,6 +17,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1wv2dou",
       "type": "mcq",
       "importance": 2,
       "question": "Heparin antikoagülan etkisini hangi doğal inhibitör üzerinden artırır?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1ivrrd5",
       "type": "mcq",
       "importance": 2,
       "question": "HIT tip 2'de kullanılan direkt trombin inhibitörü hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1tr72a4",
       "type": "mcq",
       "importance": 2,
       "question": "Yetersiz perfüzyonu düşündüren değişiklik hangisidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-04vjzkl",
       "type": "tf",
       "importance": 2,
       "statement": "HemoTec ve Hemochron ACT sonuçları birbirinin yerine kullanılabilir.",
@@ -66,6 +71,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-0ubab2w",
       "type": "tf",
       "importance": 2,
       "statement": "Prime'a rutin mannitol eklenmesi EACTS 2024 tarafından önerilir.",
@@ -74,6 +80,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1d6n236",
       "type": "tf",
       "importance": 2,
       "statement": "Bivalirudin kullanılırken devrede kan stazı önlenmelidir.",

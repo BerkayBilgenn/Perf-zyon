@@ -2,6 +2,7 @@
   "topic": "Kardiyak cerrahide monitörizasyon",
   "cards": [
     {
+      "id": "PER243-0ufmo78",
       "type": "mcq",
       "importance": 2,
       "question": "Pulmoner arter kateterinden hangi oksijen satürasyonu örneklenir?",
@@ -16,6 +17,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-0i6yz8x",
       "type": "mcq",
       "importance": 2,
       "question": "Modifiye Allen testi neyi değerlendirir?",
@@ -30,6 +32,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-04f8any",
       "type": "mcq",
       "importance": 2,
       "question": "Arter dalga formundan kalp debisi tahmin eden yöntem hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1sqq3yt",
       "type": "mcq",
       "importance": 2,
       "question": "Güvenli KPB'de arteriyel pompa akımı hangi noktaya yakın ölçülmelidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0t7fvpd",
       "type": "tf",
       "importance": 2,
       "statement": "2024 KPB kılavuzunda pulmoner arter kateteri seçilmiş hastalarda kullanılabilir; rutin kullanım desteklenmez.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1ior367",
       "type": "tf",
       "importance": 1,
       "statement": "Serebral NIRS, bölgesel doku oksijenasyonunu invaziv arter kanülünden ölçer.",

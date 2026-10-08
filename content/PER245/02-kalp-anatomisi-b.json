@@ -2,6 +2,7 @@
   "topic": "Kalp, büyük damarlar ve koroner dolaşım",
   "cards": [
     {
+      "id": "PER245-15z95mu",
       "type": "fact",
       "importance": 2,
       "title": "Perikardın iki yaprağı",
@@ -9,6 +10,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-02xpzay",
       "type": "fact",
       "importance": 2,
       "title": "Kapak ve kalp sesi",
@@ -16,6 +18,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1sm6571",
       "type": "fact",
       "importance": 2,
       "title": "Papiller kasların işi",
@@ -23,6 +26,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1wiz2qy",
       "type": "fact",
       "importance": 2,
       "title": "Koroner dolum zamanı",
@@ -30,6 +34,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-0xsoatk",
       "type": "fact",
       "importance": 2,
       "title": "Pulmoner venöz dönüş",
@@ -37,6 +42,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-16jd6o6",
       "type": "flip",
       "importance": 2,
       "question": "Sol ana koronerin başlıca iki dalı hangileridir?",
@@ -44,6 +50,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1qo78qu",
       "type": "flip",
       "importance": 2,
       "question": "Oblik perikardiyal sinüs nerede bulunur?",
@@ -51,6 +58,7 @@
       "source": "TeachMeAnatomy"
     },
     {
+      "id": "PER245-1vbnk3x",
       "type": "flip",
       "importance": 2,
       "question": "Normal anatomide VCS’yi hangi iki ven oluşturur?",
@@ -58,6 +66,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-02xlqi4",
       "type": "remember",
       "importance": 3,
       "title": "Dominansın ölçütü",

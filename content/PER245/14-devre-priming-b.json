@@ -2,6 +2,7 @@
   "topic": "KPB devresi, priming ve hemodilüsyon",
   "cards": [
     {
+      "id": "PER245-0ysd9cz",
       "type": "fact",
       "importance": 2,
       "title": "Prime hacmi ve oksijen",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1axzx21",
       "type": "fact",
       "importance": 2,
       "title": "Mannitolün rutin eklenmesi",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0apy8ng",
       "type": "fact",
       "importance": 2,
       "title": "Klor yükünün etkisi",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-02pg9fw",
       "type": "fact",
       "importance": 2,
       "title": "MiECC'de hava yönetimi",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-05x9qyr",
       "type": "fact",
       "importance": 2,
       "title": "Kan-gaz ayrımı",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0wzhdne",
       "type": "flip",
       "importance": 2,
       "question": "Santrifüj pompada devir tek başına neden akımı söylemez?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1ylj3zp",
       "type": "flip",
       "importance": 2,
       "question": "Kardiyotomi kanını ayrı işlemek hangi nedenle değerlidir?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-15fotc4",
       "type": "remember",
       "importance": 3,
       "title": "Santrifüj pompada geri akım",
@@ -58,6 +66,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1orv6ad",
       "type": "remember",
       "importance": 3,
       "title": "Vent hattında valf",
@@ -65,6 +74,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-03vk4iu",
       "type": "fact",
       "importance": 2,
       "title": "KPB sırasında sıvı fazlası",

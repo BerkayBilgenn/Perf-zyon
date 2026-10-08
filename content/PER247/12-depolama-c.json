@@ -2,6 +2,7 @@
   "topic": "Depolama, raf ömrü ve taşıma",
   "cards": [
     {
+      "id": "PER247-1hlmdfd",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +17,7 @@
       "explanation": "CDC **kapalı veya örtülü dolapları ideal** sayar; uygun açık raflar da kullanılabilir. Depo su, toz ve aşırı elleçlemeden korunur."
     },
     {
+      "id": "PER247-174aacf",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +32,7 @@
       "explanation": "CDC olaya bağlı sterilitede **böcek, haşere ve su baskını** gibi çevresel olayları da dikkate alır. Depo yalnız takvim süresiyle değerlendirilmez."
     },
     {
+      "id": "PER247-1coh2xx",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +47,7 @@
       "explanation": "CDC’ye göre paketle temas/elleçleme arttıkça **kontaminasyon olasılığı artar**."
     },
     {
+      "id": "PER247-0z5iiul",
       "type": "mcq",
       "importance": 3,
       "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
@@ -58,6 +62,7 @@
       "explanation": "Kurum prosedürü steril malzemeyi **kapalı kutu/arabayla** taşır; bariyer bütünlüğü korunur."
     },
     {
+      "id": "PER247-02kskm3",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +71,7 @@
       "explanation": "Elleçleme, olaya bağlı sterilitenin değerlendirilmesinde dikkate alınan etkenlerdendir."
     },
     {
+      "id": "PER247-056n18c",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",

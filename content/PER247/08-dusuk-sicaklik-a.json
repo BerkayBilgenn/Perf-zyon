@@ -2,6 +2,7 @@
   "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
   "cards": [
     {
+      "id": "PER247-1a7cwgc",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -10,6 +11,7 @@
       "en": "Ethylene oxide"
     },
     {
+      "id": "PER247-1vprzw6",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -18,6 +20,7 @@
       "en": "Alkylation"
     },
     {
+      "id": "PER247-1sk0yaf",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -26,6 +29,7 @@
       "en": "Aeration"
     },
     {
+      "id": "PER247-05mo3cd",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -34,6 +38,7 @@
       "en": "Time-weighted average"
     },
     {
+      "id": "PER247-1ccp7i6",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -42,6 +47,7 @@
       "en": "Permissible exposure limit"
     },
     {
+      "id": "PER247-08c57fu",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -50,6 +56,7 @@
       "en": "Action level"
     },
     {
+      "id": "PER247-1elmvhp",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +65,7 @@
       "en": "Ceiling limit"
     },
     {
+      "id": "PER247-15lf23o",
       "type": "term",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +74,7 @@
       "en": "H2O2 gas plasma"
     },
     {
+      "id": "PER247-0hpxl4s",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -74,6 +83,7 @@
       "en": "Plasma"
     },
     {
+      "id": "PER247-0r8gksx",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -82,6 +92,7 @@
       "en": "Free radical"
     },
     {
+      "id": "PER247-13fd1ru",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -90,6 +101,7 @@
       "en": "Vaporized hydrogen peroxide"
     },
     {
+      "id": "PER247-0ww57b4",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -98,6 +110,7 @@
       "en": "Ozone sterilization"
     },
     {
+      "id": "PER247-0d55lv2",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -106,6 +119,7 @@
       "en": "Low-temperature steam formaldehyde"
     },
     {
+      "id": "PER247-1lqzo7j",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -114,6 +128,7 @@
       "en": "Liquid chemical sterilant"
     },
     {
+      "id": "PER247-0mbxpto",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -122,6 +137,7 @@
       "en": "Ionizing radiation"
     },
     {
+      "id": "PER247-17oznq8",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -130,6 +146,7 @@
       "en": "Filtration"
     },
     {
+      "id": "PER247-0lbl037",
       "type": "compare",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",

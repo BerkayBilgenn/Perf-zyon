@@ -2,6 +2,7 @@
   "topic": "Büyük damarlar ve varyasyonları",
   "cards": [
     {
+      "id": "PER241-0uqumxp",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -9,6 +10,7 @@
       "body": "Sağ ventrikülden çıkan pulmoner trunkus **sağ ve sol pulmoner artere** ayrılır."
     },
     {
+      "id": "PER241-024ach9",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -16,6 +18,7 @@
       "body": "Çıkan aortayı **arkus aorta**, ardından inen torasik ve abdominal aorta izler."
     },
     {
+      "id": "PER241-127s2ba",
       "type": "flip",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -23,6 +26,7 @@
       "answer": "Proksimalden distale **brakiyosefalik trunkus → sol ana karotis → sol subklavyen arter** sıralanır."
     },
     {
+      "id": "PER241-1jbz7ak",
       "type": "flip",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -30,6 +34,7 @@
       "answer": "Sağ ve sol **brakiyosefalik venlerin birleşmesiyle** oluşur; azigos ven de bu damara açılır."
     },
     {
+      "id": "PER241-1815ooh",
       "type": "remember",
       "importance": 3,
       "source": "Radiopaedia",
@@ -37,6 +42,7 @@
       "body": "Persistan sol vena kava superior, **venöz kanülasyon ve retrograd kardiyopleji** planını etkileyebilir."
     },
     {
+      "id": "PER241-1dngt9d",
       "type": "flip",
       "importance": 2,
       "source": "Radiopaedia",
@@ -44,6 +50,7 @@
       "answer": "Persistan sol vena kava superior sol atriyuma açıldığında **sağdan sola şant** oluşabilir."
     },
     {
+      "id": "PER241-148tdyv",
       "type": "fact",
       "importance": 2,
       "source": "Radiopaedia",
@@ -51,6 +58,7 @@
       "body": "**Çift aortik ark**, ark varyasyonları arasında vasküler halka oluşturabilen bir anatomik düzenlemedir."
     },
     {
+      "id": "PER241-0pyqh7e",
       "type": "fact",
       "importance": 2,
       "source": "UNSW Embryology",

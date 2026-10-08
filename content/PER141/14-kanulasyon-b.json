@@ -2,6 +2,7 @@
   "topic": "Kanülasyon teknikleri ve kanüller",
   "cards": [
     {
+      "id": "PER141-11up946",
       "type": "fact",
       "importance": 3,
       "title": "French dış çapı ölçer",
@@ -9,6 +10,7 @@
       "source": "Medtronic / LivaNova kanüller"
     },
     {
+      "id": "PER141-059w16r",
       "type": "fact",
       "importance": 2,
       "title": "Kanül basınç-akım eğrisi",
@@ -16,6 +18,7 @@
       "source": "Pediatrik kanül çalışması 2024"
     },
     {
+      "id": "PER141-0j0oqb0",
       "type": "fact",
       "importance": 2,
       "title": "Kanül boyunca basınç düşüşü",
@@ -23,6 +26,7 @@
       "source": "Pediatrik kanül çalışması 2024"
     },
     {
+      "id": "PER141-0cnkioa",
       "type": "fact",
       "importance": 3,
       "title": "Aort kanülasyonunda basınç",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1he100n",
       "type": "fact",
       "importance": 2,
       "title": "Periferik arteriyel giriş",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0rgw6qv",
       "type": "flip",
       "importance": 3,
       "question": "Arteriyel kanülün venözden önce yerleştirilmesinin gerekçesi nedir?",
@@ -44,6 +50,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-07zslrs",
       "type": "flip",
       "importance": 2,
       "question": "İnce duvarlı kanül aynı dış çapta neden daha iyi akım sağlayabilir?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0rqua33",
       "type": "flip",
       "importance": 2,
       "question": "Kanül boyutunu seçerken hangi hasta ve işlem bilgileri kullanılır?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-19yiw65",
       "type": "remember",
       "importance": 3,
       "title": "Dekanülasyon sırasını gerekçesiyle öğren",

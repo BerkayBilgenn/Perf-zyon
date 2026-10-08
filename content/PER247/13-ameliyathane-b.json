@@ -2,6 +2,7 @@
   "topic": "Ameliyathane ortamı",
   "cards": [
     {
+      "id": "PER247-06vi3vb",
       "type": "fact",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -9,6 +10,7 @@
       "body": "CDC’ye göre ameliyat odası komşu alanlara göre **pozitif basınçlıdır**. Bu, koridordaki daha az temiz havanın odaya girmesini sınırlar."
     },
     {
+      "id": "PER247-1e34jjk",
       "type": "fact",
       "importance": 1,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -16,6 +18,7 @@
       "body": "CDC 2003, ameliyat odasında **saatte en az 15 toplam**, **en az 3 dış hava değişimi** belirtir. WHO ve başka mühendislik standartları farklı sayılar verir; tek evrensel eşik değildir."
     },
     {
+      "id": "PER247-0n9r8x2",
       "type": "fact",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -23,6 +26,7 @@
       "body": "Standart ameliyathane düzeninde hava **tavandan verilip zemine yakın** çıkışlardan uzaklaştırılır. Hava dağıtımı, temiz alanı koruyacak biçimde planlanır."
     },
     {
+      "id": "PER247-1ibz6oe",
       "type": "fact",
       "importance": 2,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -30,6 +34,7 @@
       "body": "Children’s Wisconsin politikasında cerrahi maske **ağız ve burnu tamamen örter**; ıslandığında değiştirilir. Maske boyunda sarkıtılarak kullanılmaz."
     },
     {
+      "id": "PER247-1kksnb0",
       "type": "fact",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -37,6 +42,7 @@
       "body": "CDC, ameliyat odası kapılarının ekipman, personel veya hasta geçişi dışında **kapalı tutulmasını** önerir. Gereksiz açılma hava akışını ve trafiği bozar."
     },
     {
+      "id": "PER247-0wqicm9",
       "type": "flip",
       "importance": 2,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -44,6 +50,7 @@
       "answer": "Cerrahi başlık veya uygun örtüyle **tamamı örtülür**. Başlık, yalnız saçın ön bölümünü kapsayan bir aksesuar değildir."
     },
     {
+      "id": "PER247-0fa9dts",
       "type": "flip",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -51,6 +58,7 @@
       "answer": "Kapı açılması ve **ekip hareketi hava akışını etkileyebilir**. CDC, geçiş için gerekli durumlar dışında kapıları kapalı tutmayı ve odadaki kişi sayısını sınırlamayı önerir."
     },
     {
+      "id": "PER247-03h8jmm",
       "type": "flip",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -58,6 +66,7 @@
       "answer": "Havadaki mikrobiyal yük, **odadaki kişi sayısı ve hareketle** artabilir. Gereksiz giriş-çıkış ve kapı açılması sınırlandırılır."
     },
     {
+      "id": "PER247-1bd1xg3",
       "type": "remember",
       "importance": 3,
       "source": "CDC Çevresel Enfeksiyon 2003",

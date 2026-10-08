@@ -2,6 +2,7 @@
   "topic": "Kalp anatomisi",
   "cards": [
     {
+      "id": "PER241-0ydsc3p",
       "type": "term",
       "importance": 3,
       "source": "TeachMeAnatomy",
@@ -11,6 +12,7 @@
       "origin": "Yun. peri = çevre + kardia = kalp"
     },
     {
+      "id": "PER241-0pve03d",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -20,6 +22,7 @@
       "origin": "Yun. epi = üst"
     },
     {
+      "id": "PER241-0u1ttfl",
       "type": "term",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -29,6 +32,7 @@
       "origin": "Yun. mys/myo = kas"
     },
     {
+      "id": "PER241-0bamig5",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -38,6 +42,7 @@
       "origin": "Yun. endon = iç"
     },
     {
+      "id": "PER241-0oasn01",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -46,6 +51,7 @@
       "definition": "Aorta/pulmoner trunkusun arkası ile vena kava superior'nin önü arasındaki geçit; cerrahide klemp/bant geçirmede kullanılır."
     },
     {
+      "id": "PER241-1q58zj1",
       "type": "term",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -55,6 +61,7 @@
       "origin": "Fr. tampon"
     },
     {
+      "id": "PER241-0g80ojt",
       "type": "term",
       "importance": 1,
       "source": "OpenStax A&P 2e",
@@ -64,6 +71,7 @@
       "origin": "Lat. pecten = tarak"
     },
     {
+      "id": "PER241-0aga16t",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -73,6 +81,7 @@
       "origin": "Lat. fossa = çukur"
     },
     {
+      "id": "PER241-15gecyb",
       "type": "term",
       "importance": 2,
       "source": "LITFL fetal dolaşım",
@@ -82,6 +91,7 @@
       "origin": "B. Eustachi (eponim)"
     },
     {
+      "id": "PER241-1xdj4yu",
       "type": "term",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -91,6 +101,7 @@
       "origin": "Lat. sinus = cep"
     },
     {
+      "id": "PER241-1hlfstk",
       "type": "term",
       "importance": 1,
       "source": "Koch üçgeni anatomisi",
@@ -100,6 +111,7 @@
       "origin": "W. Koch (eponim)"
     },
     {
+      "id": "PER241-0ah5i17",
       "type": "term",
       "importance": 2,
       "source": "Koch üçgeni anatomisi",
@@ -109,6 +121,7 @@
       "origin": "F. Todaro (eponim)"
     },
     {
+      "id": "PER241-0n6jtb4",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -117,6 +130,7 @@
       "definition": "sağ ventrikülde septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır."
     },
     {
+      "id": "PER241-0yrwz75",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -126,6 +140,7 @@
       "origin": "Lat. = huni"
     },
     {
+      "id": "PER241-0wl75x7",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -135,6 +150,7 @@
       "origin": "Lat. trabecula = küçük kiriş, carneus = etli"
     },
     {
+      "id": "PER241-1e81wob",
       "type": "term",
       "importance": 1,
       "source": "TeachMeAnatomy",
@@ -144,6 +160,7 @@
       "origin": "Lat. papilla = meme başı"
     },
     {
+      "id": "PER241-1hejjeo",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -153,6 +170,7 @@
       "origin": "Lat. chorda = ip"
     },
     {
+      "id": "PER241-0ktpptf",
       "type": "term",
       "importance": 3,
       "source": "TeachMeAnatomy",
@@ -162,6 +180,7 @@
       "origin": "Lat. tri + cuspis = üç uç"
     },
     {
+      "id": "PER241-0hfpabw",
       "type": "term",
       "importance": 3,
       "source": "TeachMeAnatomy",
@@ -171,6 +190,7 @@
       "origin": "Lat. mitra = piskopos başlığı"
     },
     {
+      "id": "PER241-00peun1",
       "type": "term",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -180,6 +200,7 @@
       "origin": "Lat. semi + luna = yarım ay"
     },
     {
+      "id": "PER241-0br45as",
       "type": "term",
       "importance": 1,
       "source": "OpenStax A&P 2e",

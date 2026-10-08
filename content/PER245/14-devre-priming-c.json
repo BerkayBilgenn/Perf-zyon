@@ -2,6 +2,7 @@
   "topic": "KPB devresi, priming ve hemodilüsyon",
   "cards": [
     {
+      "id": "PER245-1oen31s",
       "type": "mcq",
       "importance": 3,
       "question": "Arteriyel hat filtresinin temel hedefi hangisidir?",
@@ -16,6 +17,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-0jltans",
       "type": "mcq",
       "importance": 2,
       "question": "KPB'de hasta venöz kanını ilk toplayan ana hazne hangisidir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-174uj7a",
       "type": "mcq",
       "importance": 2,
       "question": "Priming öncesinde devreyi CO2 ile yıkamanın amacı hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1mfxzfq",
       "type": "mcq",
       "importance": 2,
       "question": "Isıtıcı-soğutucu ünitede hasta kanının sıcaklığı ne aracılığıyla değiştirilir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-07j8jku",
       "type": "tf",
       "importance": 2,
       "statement": "Düşük prime hacmi hemodilüsyonun azaltılmasına katkı sağlayabilir.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0z3xb38",
       "type": "tf",
       "importance": 2,
       "statement": "Membran oksijenatörde gaz değişimi için kan ve gazın doğrudan kabarcıkla karıştırılması gerekir.",
@@ -74,6 +80,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-09xtnkq",
       "type": "tf",
       "importance": 2,
       "statement": "Biyouyumlu yüzey kaplamaları devre optimizasyonunun bileşenlerinden olabilir.",

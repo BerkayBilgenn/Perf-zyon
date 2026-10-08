@@ -2,6 +2,7 @@
   "topic": "Kalp anatomisi",
   "cards": [
     {
+      "id": "PER241-097jyn7",
       "type": "fact",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -9,6 +10,7 @@
       "body": "Fibröz perikard **diyaframın santral tendonuna** bağlanır ve kalbin aşırı ani dolmasını sınırlar."
     },
     {
+      "id": "PER241-1tf8ksc",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -16,6 +18,7 @@
       "answer": "Perikardın seröz yaprakları arasındaki az miktarda sıvı, kalp hareketlerinde **sürtünmeyi azaltır**."
     },
     {
+      "id": "PER241-115cp7s",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -23,6 +26,7 @@
       "answer": "Kalbin arteriyel çıkışlarının çevresinden **klemp veya bant geçirmek** için kullanılabilir."
     },
     {
+      "id": "PER241-0twp619",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -30,6 +34,7 @@
       "answer": "Perikardın duyu innervasyonunu sağlayan **frenik sinir** ile omuz bölgesinin ortak spinal kökleri nedeniyle."
     },
     {
+      "id": "PER241-0ivarh3",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -37,6 +42,7 @@
       "body": "Sol ventrikül miyokardı **sağ ventrikülünkinden daha kalındır**; sistemik dolaşımın basınç yükünü karşılar."
     },
     {
+      "id": "PER241-0b2440h",
       "type": "flip",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -44,6 +50,7 @@
       "answer": "Embriyonik **primitif pulmoner venin atriyum duvarına katılması** bu düz bölümü oluşturur."
     },
     {
+      "id": "PER241-1siqnyp",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -51,6 +58,7 @@
       "answer": "**S1**, atriyoventriküler kapakların kapanmasıyla ilişkilidir."
     },
     {
+      "id": "PER241-1qahxtg",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -58,6 +66,7 @@
       "answer": "**S2**, aort ve pulmoner kapakların kapanmasıyla ilişkilidir."
     },
     {
+      "id": "PER241-0izhzlj",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -65,6 +74,7 @@
       "body": "Vena kava superior, vena kava inferior ve **koroner sinüs** sağ atriyuma açılır."
     },
     {
+      "id": "PER241-1meayoi",
       "type": "remember",
       "importance": 3,
       "source": "TeachMeAnatomy",

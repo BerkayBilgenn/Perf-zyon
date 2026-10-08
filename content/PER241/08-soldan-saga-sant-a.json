@@ -2,6 +2,7 @@
   "topic": "Soldan sağa şantlı lezyonlar",
   "cards": [
     {
+      "id": "PER241-1j0tz6a",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -10,6 +11,7 @@
       "definition": "ASD'de solunumla değişmeyen geniş S2 çiftlenmesi."
     },
     {
+      "id": "PER241-1w90h9v",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -18,6 +20,7 @@
       "definition": "PDA'ya özgü, sistol ve diyastolde süren sürekli üfürüm."
     },
     {
+      "id": "PER241-1m4pnc7",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -26,6 +29,7 @@
       "definition": "İnteratriyal septumda açıklık; sağ atriyum ve ventrikülde hacim yükü."
     },
     {
+      "id": "PER241-0zihm7p",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -34,6 +38,7 @@
       "definition": "Fossa ovalis bölgesindeki, en sık ASD tipi."
     },
     {
+      "id": "PER241-0c85007",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -42,6 +47,7 @@
       "definition": "Ön-alt septumdaki ASD; parsiyel AVSD'nin parçası, mitral yarık eşlik eder."
     },
     {
+      "id": "PER241-0is9nzw",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -50,6 +56,7 @@
       "definition": "Arka septumda, sıklıkla parsiyel anormal pulmoner venöz dönüşle birlikte olan ASD."
     },
     {
+      "id": "PER241-0kgogzk",
       "type": "term",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -58,6 +65,7 @@
       "definition": "Foramen ovale kapakçığının doğum sonrasında karşı septumla kaynaşmaması sonucu kalan iletişim."
     },
     {
+      "id": "PER241-0dxocjc",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -67,6 +75,7 @@
       "origin": "R. Lutembacher (eponim)"
     },
     {
+      "id": "PER241-1lsqgwi",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -75,6 +84,7 @@
       "definition": "İnterventriküler septumda açıklık."
     },
     {
+      "id": "PER241-1yt2r12",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -83,6 +93,7 @@
       "definition": "Membranöz septum çevresinde bulunan ventriküler septal açıklık; en sık görülen VSD tipidir."
     },
     {
+      "id": "PER241-12cic0v",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -91,6 +102,7 @@
       "definition": "Çevresi tümüyle kas dokusundan oluşan ventriküler septal açıklık."
     },
     {
+      "id": "PER241-1e9yoir",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -99,6 +111,7 @@
       "definition": "Semilunar kapakların altında yer alan ventriküler septal açıklık."
     },
     {
+      "id": "PER241-0romnmk",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -107,6 +120,7 @@
       "definition": "Doğumdan sonra açık kalan duktus; aortadan pulmoner artere şant."
     },
     {
+      "id": "PER241-0fhep91",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -115,6 +129,7 @@
       "definition": "Primum ASD + ortak atriyoventriküler kapak ± inlet VSD; komplet formu sıklıkla Down sendromunda."
     },
     {
+      "id": "PER241-1u7927k",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -123,6 +138,7 @@
       "definition": "Parsiyel AVSD'de mitral ön yaprakçıktaki yarık."
     },
     {
+      "id": "PER241-11mxhl2",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -131,6 +147,7 @@
       "definition": "Çıkan aorta ile ana pulmoner arter arasında doğrudan iletişim; iki ayrı semilunar kapak vardır."
     },
     {
+      "id": "PER241-19hmboa",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -140,6 +157,7 @@
       "origin": "scimitar = pala"
     },
     {
+      "id": "PER241-0rxqo3z",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",
@@ -160,6 +178,7 @@
       }
     },
     {
+      "id": "PER241-0t10778",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",

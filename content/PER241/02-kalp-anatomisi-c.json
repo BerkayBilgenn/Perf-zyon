@@ -2,6 +2,7 @@
   "topic": "Kalp anatomisi",
   "cards": [
     {
+      "id": "PER241-1drgoov",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -16,6 +17,7 @@
       "explanation": "Pektinat kaslar sağ atriyumun ön duvarında ve aurikulasında bulunur."
     },
     {
+      "id": "PER241-1piwd8a",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -30,6 +32,7 @@
       "explanation": "Korda tendinea, papiller kaslarla atriyoventriküler kapak yaprakları arasındaki fibröz bağlantıdır."
     },
     {
+      "id": "PER241-1smmb1c",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -44,6 +47,7 @@
       "explanation": "İnteratriyal septumdaki fossa ovalis fetal foramen ovalenin kalıntısıdır."
     },
     {
+      "id": "PER241-1qtcbvu",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -58,6 +62,7 @@
       "explanation": "İnfundibulum, sağ ventrikülden pulmoner kapağa uzanan çıkış bölümüdür."
     },
     {
+      "id": "PER241-095u997",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -72,6 +77,7 @@
       "explanation": "İç yüzeyi endokard döşer; miyokard kas tabakasıdır."
     },
     {
+      "id": "PER241-0ljws4x",
       "type": "mcq",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -86,6 +92,7 @@
       "explanation": "Sağ ve sol koroner arterler ilgili aortik sinüslerden çıkar."
     },
     {
+      "id": "PER241-1r2v8us",
       "type": "tf",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -94,6 +101,7 @@
       "explanation": "Epikard kalp yüzeyindeki seröz yapraktır."
     },
     {
+      "id": "PER241-1ttwu1a",
       "type": "tf",
       "importance": 2,
       "source": "OpenStax A&P 2e",

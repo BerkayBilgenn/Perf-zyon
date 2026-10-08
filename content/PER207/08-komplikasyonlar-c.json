@@ -2,6 +2,7 @@
   "topic": "ECMO komplikasyonları ve LV venting",
   "cards": [
     {
+      "id": "PER207-0fr3wak",
       "type": "mcq",
       "importance": 3,
       "question": "Femoral VA ECMO hastasında kapalı aort kapağı ve pulmoner ödem birlikte neyi düşündürür?",
@@ -16,6 +17,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1mkippe",
       "type": "mcq",
       "importance": 3,
       "question": "Venöz drenaj kollapsı ve ani akım düşüşünde ilk pompa yaklaşımı hangisidir?",
@@ -30,6 +32,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1c7jfpp",
       "type": "mcq",
       "importance": 3,
       "question": "ECMO’da hemoliz şüphesinde hangi ölçüm eritrosit dışına çıkan hemoglobini gösterir?",
@@ -44,6 +47,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-07y0w81",
       "type": "mcq",
       "importance": 3,
       "question": "Kapalı fasya bölmesindeki basınç artışı ekstremite perfüzyonunu bozuyorsa hangi komplikasyon söz konusudur?",
@@ -58,6 +62,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-10g3zcz",
       "type": "mcq",
       "importance": 3,
       "question": "Femoral VA ECMO’da bacak doku oksijenasyonunu izlemek için hangi yöntem kullanılabilir?",
@@ -72,6 +77,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1t0ilys",
       "type": "tf",
       "importance": 2,
       "statement": "VA ECMO’da spontan eko kontrast, sol ventrikülde kan stazını düşündürebilir.",
@@ -80,6 +86,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1nxz5b0",
       "type": "tf",
       "importance": 2,
       "statement": "Atriyal septostomi sağ atriyum basıncını düşürmek amacıyla sol atriyumu tamamen kapatır.",

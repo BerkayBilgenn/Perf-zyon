@@ -2,6 +2,7 @@
   "topic": "Tüpler, konnektörler ve prime hacmi",
   "cards": [
     {
+      "id": "PER141-164wjxx",
       "type": "mcq",
       "importance": 2,
       "question": "Bikaval kanül hatlarını ortak venöz hatta birleştiren parça hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-0fhy314",
       "type": "mcq",
       "importance": 2,
       "question": "Çapı farklı tüpleri bağlamak için hangi konnektör uygundur?",
@@ -30,6 +32,7 @@
       "source": "LivaNova tüp seti"
     },
     {
+      "id": "PER141-0pkglt2",
       "type": "mcq",
       "importance": 2,
       "question": "Aynı çaplı tüpün uzunluğu yarıya indirilirse dolum hacmi nasıl değişir?",
@@ -44,6 +47,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1byc19r",
       "type": "mcq",
       "importance": 2,
       "question": "Tüp bağlantı kontrolünde hangi bulgu doğrudan mekanik sorundur?",
@@ -58,6 +62,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-1fdbj4k",
       "type": "tf",
       "importance": 2,
       "statement": "Luer ve stopcock bağlantıları örnekleme portlarında kullanılabilir.",
@@ -66,6 +71,7 @@
       "source": "LivaNova tüp seti"
     },
     {
+      "id": "PER141-0jzc0fx",
       "type": "tf",
       "importance": 2,
       "statement": "Tüpün iç çapı azaldıkça aynı uzunluk için prime hacmi artar.",

@@ -2,6 +2,7 @@
   "topic": "Büyük damarlar ve varyasyonları",
   "cards": [
     {
+      "id": "PER241-0c93qr8",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -16,6 +17,7 @@
       "explanation": "Arkusun ilk dalı sağ kol ve baş-boyun damarlarına ayrılır."
     },
     {
+      "id": "PER241-0psrjn9",
       "type": "mcq",
       "importance": 2,
       "source": "Radiopaedia",
@@ -30,6 +32,7 @@
       "explanation": "Arteria lusoria, aortik arkın son dalı olarak çıkan anormal sağ subklavyen arterdir."
     },
     {
+      "id": "PER241-0no01pq",
       "type": "mcq",
       "importance": 2,
       "source": "Radiopaedia",
@@ -44,6 +47,7 @@
       "explanation": "Çoğunlukla koroner sinüse açılır; sol atriyuma açılan varyant şant yapabilir."
     },
     {
+      "id": "PER241-04n3red",
       "type": "tf",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -52,6 +56,7 @@
       "explanation": "Pulmoner dolaşımın venöz dönüşü normal anatomide sol atriyumadır."
     },
     {
+      "id": "PER241-1qh5gr1",
       "type": "tf",
       "importance": 2,
       "source": "Radiopaedia",

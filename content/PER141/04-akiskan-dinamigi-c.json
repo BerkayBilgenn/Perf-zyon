@@ -2,6 +2,7 @@
   "topic": "Akışkan dinamiği ve hemodinami",
   "cards": [
     {
+      "id": "PER141-1kc69q3",
       "type": "mcq",
       "importance": 2,
       "question": "Diğer koşullar aynıyken tüp uzunluğunun iki katına çıkması dirençte ne yapar?",
@@ -16,6 +17,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0b3dbn6",
       "type": "mcq",
       "importance": 2,
       "question": "Sabit akımda tüp yarıçapı yarıya inerse ortalama hız nasıl değişir?",
@@ -30,6 +32,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-02obtqj",
       "type": "mcq",
       "importance": 2,
       "question": "Diğer Reynolds değişkenleri sabitken hangi değişiklik türbülansı kolaylaştırır?",
@@ -44,6 +47,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-091q8g4",
       "type": "mcq",
       "importance": 2,
       "question": "Darlıkta hız yükselirken lateral basıncın düşmesi hangi ilkeyle açıklanır?",
@@ -58,6 +62,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1pz50fg",
       "type": "tf",
       "importance": 2,
       "statement": "Poiseuille varsayımlarında viskozitenin iki katına çıkması direnci iki kat artırır.",
@@ -66,6 +71,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-17rqjum",
       "type": "tf",
       "importance": 2,
       "statement": "Düşük akımda kanın viskozitesi azalır.",

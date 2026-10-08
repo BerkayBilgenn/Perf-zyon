@@ -2,6 +2,7 @@
   "topic": "IV anestezikler, opioidler ve antagonistleri",
   "cards": [
     {
+      "id": "PER243-06jjl04",
       "type": "mcq",
       "importance": 3,
       "question": "Ketaminin temel reseptör mekanizması hangisidir?",
@@ -16,6 +17,7 @@
       "source": "DailyMed: ketamin"
     },
     {
+      "id": "PER243-0oun9zw",
       "type": "mcq",
       "importance": 2,
       "question": "Uzun süre benzodiazepin kullanan hastada flumazenilin önemli riski nedir?",
@@ -30,6 +32,7 @@
       "source": "DailyMed: flumazenil"
     },
     {
+      "id": "PER243-09fsufe",
       "type": "mcq",
       "importance": 2,
       "question": "Fentanilin solunum depresyonu ile analjezi süresi nasıl ilişkilidir?",
@@ -44,6 +47,7 @@
       "source": "DailyMed: fentanil"
     },
     {
+      "id": "PER243-0h1avpx",
       "type": "mcq",
       "importance": 2,
       "question": "Opioid sonrası ventilasyonu zorlaştıran kas sertleşmesi hangi tablodur?",
@@ -58,6 +62,7 @@
       "source": "DailyMed: fentanil"
     },
     {
+      "id": "PER243-0dsr6n9",
       "type": "mcq",
       "importance": 3,
       "question": "DIPRIVAN ürün bilgisine göre kardiyak anestezi indüksiyonunun tam doz aralığı hangisidir?",
@@ -72,6 +77,7 @@
       "source": "DailyMed: propofol"
     },
     {
+      "id": "PER243-0mpo6kq",
       "type": "tf",
       "importance": 1,
       "statement": "Ketamin bronkodilatör etki gösterebilir.",
@@ -80,6 +86,7 @@
       "source": "DailyMed: ketamin"
     },
     {
+      "id": "PER243-0rrf6ve",
       "type": "tf",
       "importance": 2,
       "statement": "Nalokson benzodiazepin reseptörlerinin kompetitif antagonistidir.",
@@ -88,6 +95,7 @@
       "source": "DailyMed: nalokson"
     },
     {
+      "id": "PER243-1u9mcnn",
       "type": "tf",
       "importance": 2,
       "statement": "Deksmedetomidin önerilen dozlarda belirgin solunum depresyonu oluşturmadan sedasyon sağlayabilir.",

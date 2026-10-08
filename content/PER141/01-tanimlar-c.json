@@ -2,6 +2,7 @@
   "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
   "cards": [
     {
+      "id": "PER141-0crksq4",
       "type": "mcq",
       "importance": 3,
       "question": "Güvenli KPB'nin temel ekip yapısı hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-08r1yro",
       "type": "mcq",
       "importance": 2,
       "question": "Sözlü komutun alıcı tarafından tekrar edilip doğrulanması hangi iletişim biçimidir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-04kwzpz",
       "type": "mcq",
       "importance": 2,
       "question": "Perfüzyon biriminde güvenli uygulamaları standartlaştıran belge hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1dnln8a",
       "type": "tf",
       "importance": 2,
       "statement": "Perfüzyonistin mesleki gelişimi sertifikasyon sonrası da sürdürülmelidir.",
@@ -52,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-12lqhh4",
       "type": "tf",
       "importance": 2,
       "statement": "KPB'nin operasyonel yönetiminden klinik perfüzyonist sorumludur.",

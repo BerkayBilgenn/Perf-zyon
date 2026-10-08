@@ -2,6 +2,7 @@
   "topic": "Perfüzyonistin görevi ve hesaplamalar",
   "cards": [
     {
+      "id": "PER245-1fefph2",
       "type": "fact",
       "importance": 2,
       "title": "Akım hesabının temeli",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0pf4njy",
       "type": "fact",
       "importance": 2,
       "title": "Örnek toplam akım",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1dyxc58",
       "type": "fact",
       "importance": 2,
       "title": "KPB öncesi plan",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1cjqm2x",
       "type": "fact",
       "importance": 2,
       "title": "Hct öngörüsünün amacı",
@@ -30,6 +34,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-0j1k25i",
       "type": "fact",
       "importance": 2,
       "title": "Kayıt ve kalıcılık",
@@ -37,6 +42,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-05qy4te",
       "type": "flip",
       "importance": 2,
       "question": "Mosteller vücut yüzey alanı formülü nedir?",
@@ -44,6 +50,7 @@
       "source": "VYA formülleri, J Clin Med 2024"
     },
     {
+      "id": "PER245-0uuooxi",
       "type": "flip",
       "importance": 2,
       "question": "Arteriyel oksijen sunumunu belirleyen iki ana bileşen nelerdir?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0ds7u4b",
       "type": "flip",
       "importance": 2,
       "question": "Beklenen dilüsyonel hematokrit hesabında eklenen sıvı nasıl yer alır?",
@@ -58,6 +66,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1cxv94n",
       "type": "remember",
       "importance": 3,
       "title": "Kontrol listesinin zamanlaması",
@@ -65,6 +74,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-107a5na",
       "type": "remember",
       "importance": 3,
       "title": "Hesabı hastaya bağla",
@@ -72,6 +82,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1os996e",
       "type": "fact",
       "importance": 3,
       "title": "DO2 alt eşiği ve kanıt düzeyi",

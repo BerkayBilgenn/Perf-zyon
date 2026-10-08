@@ -2,6 +2,7 @@
   "topic": "KPB ve perfüzyonun tarihçesi",
   "cards": [
     {
+      "id": "PER141-1li2bx6",
       "type": "term",
       "importance": 3,
       "term": "Kontrollü çapraz dolaşım",
@@ -10,6 +11,7 @@
       "source": "Gott 2005"
     },
     {
+      "id": "PER141-1yp7us5",
       "type": "term",
       "importance": 1,
       "term": "İnflow stasis",
@@ -18,6 +20,7 @@
       "source": "Gott 2005"
     },
     {
+      "id": "PER141-151ugct",
       "type": "term",
       "importance": 1,
       "term": "Autojector",
@@ -26,6 +29,7 @@
       "source": "JECT 2025: EKD tarihçesi"
     },
     {
+      "id": "PER141-0amo5fq",
       "type": "term",
       "importance": 1,
       "term": "Mayo-Gibbon makinesi",

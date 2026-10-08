@@ -2,6 +2,7 @@
   "topic": "Venöz drenaj: gravite, VAVD, KAVD",
   "cards": [
     {
+      "id": "PER141-0h844vg",
       "type": "mcq",
       "importance": 2,
       "question": "Venöz hatta hava kilidi oluşması gravite drenajını nasıl etkiler?",
@@ -16,6 +17,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1607o38",
       "type": "mcq",
       "importance": 2,
       "question": "VAVD hangi düzenekle negatif basıncı ayarlar?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0kwmwy6",
       "type": "mcq",
       "importance": 2,
       "question": "KAVD'de kinetik desteği sağlayan pompa hangisidir?",
@@ -44,6 +47,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-09t7ql1",
       "type": "mcq",
       "importance": 2,
       "question": "Gravite drenajını azaltabilecek hasta kaynaklı etken hangisidir?",
@@ -58,6 +62,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-0mqcnzj",
       "type": "tf",
       "importance": 2,
       "statement": "Yardımlı venöz drenaj için kullanılan rezervuar bu kullanıma onaylı olmalıdır.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1oofv06",
       "type": "tf",
       "importance": 2,
       "statement": "Negatif basıncın artırılması venöz mikroemboli riskini azaltır.",

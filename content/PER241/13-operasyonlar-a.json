@@ -2,6 +2,7 @@
   "topic": "Palyatif ve düzeltici operasyonlar",
   "cards": [
     {
+      "id": "PER241-139i4tj",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -11,6 +12,7 @@
       "origin": "Lat. palliare = örtmek"
     },
     {
+      "id": "PER241-0wx2ea1",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -19,6 +21,7 @@
       "definition": "Normal seri dolaşımı sağlayan kesin onarım (ör. TOF tam düzeltme, arteriyel switch)."
     },
     {
+      "id": "PER241-1nfh13o",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -28,6 +31,7 @@
       "origin": "Blalock, Taussig, Thomas (eponim)"
     },
     {
+      "id": "PER241-10utylr",
       "type": "term",
       "importance": 1,
       "source": "Wikipedia",
@@ -37,6 +41,7 @@
       "origin": "S. Sano (eponim)"
     },
     {
+      "id": "PER241-184ehrf",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -46,6 +51,7 @@
       "origin": "İng. band = bant"
     },
     {
+      "id": "PER241-121ftoc",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -55,6 +61,7 @@
       "origin": "Yun. stoma = ağız"
     },
     {
+      "id": "PER241-1jtzlxw",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -64,6 +71,7 @@
       "origin": "Yun. ektome = kesip çıkarma"
     },
     {
+      "id": "PER241-0uwb8w4",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -73,6 +81,7 @@
       "origin": "W. Glenn (eponim)"
     },
     {
+      "id": "PER241-0jfz8ad",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -81,6 +90,7 @@
       "definition": "Glenn'e alternatif ikinci evre kavopulmoner bağlantı."
     },
     {
+      "id": "PER241-0kzocqz",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -90,6 +100,7 @@
       "origin": "F. Fontan (eponim)"
     },
     {
+      "id": "PER241-0dirzku",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -99,6 +110,7 @@
       "origin": "Lat. fenestra = pencere"
     },
     {
+      "id": "PER241-0sq3igm",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -108,6 +120,7 @@
       "origin": "W. Norwood (eponim)"
     },
     {
+      "id": "PER241-0lmtwm2",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -116,6 +129,7 @@
       "definition": "Hipoplastik sol kalp için duktal stent ve pulmoner arter dal bantlarını birlikte kullanan palyatif yaklaşım."
     },
     {
+      "id": "PER241-0s2m7s6",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -125,6 +139,7 @@
       "origin": "A. Jatene (eponim)"
     },
     {
+      "id": "PER241-0l9ffon",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -133,6 +148,7 @@
       "definition": "Venöz dönüşlerin atriyum içinde ters ventriküllere yönlendirilmesi; sağ ventrikül sistemik kalır."
     },
     {
+      "id": "PER241-1b0jpxs",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -141,6 +157,7 @@
       "definition": "ccTGA'da atriyal ve arteriyel switch'in birlikte yapılması."
     },
     {
+      "id": "PER241-1pbdb4q",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -150,6 +167,7 @@
       "origin": "G. Rastelli (eponim)"
     },
     {
+      "id": "PER241-0y3613v",
       "type": "term",
       "importance": 1,
       "source": "Wikipedia",
@@ -159,6 +177,7 @@
       "origin": "D. Ross (eponim)"
     },
     {
+      "id": "PER241-0l4y5mq",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -167,6 +186,7 @@
       "definition": "Ross'a ek olarak sol ventrikül çıkış yolunun genişletilmesi."
     },
     {
+      "id": "PER241-0mkd5x6",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -175,6 +195,7 @@
       "definition": "ALCAPA'da aortopulmoner pencere + pulmoner arter içi tünel ile koronere aortadan akım sağlanması."
     },
     {
+      "id": "PER241-0nvz3dd",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -183,6 +204,7 @@
       "definition": "Ebstein'da triküspit yapraklarının mobilizasyonu + atriyalize sağ ventrikül plikasyonu."
     },
     {
+      "id": "PER241-1o7r2ib",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -192,6 +214,7 @@
       "origin": "Lat. trans + anulus = halka"
     },
     {
+      "id": "PER241-175cjrn",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -201,6 +224,7 @@
       "origin": "Yun. autos = kendi, homos = aynı"
     },
     {
+      "id": "PER241-1li2bx6",
       "type": "term",
       "importance": 1,
       "source": "Wikipedia",
@@ -209,6 +233,7 @@
       "definition": "Donör dolaşımının hastada pompa ve oksijenatör işlevini üstlenmek üzere kullanıldığı tarihsel yöntem."
     },
     {
+      "id": "PER241-1t1tle6",
       "type": "term",
       "importance": 2,
       "source": "Wikipedia",
@@ -217,6 +242,7 @@
       "definition": "Aynı türden başka bir bireyden elde edilen doku grefti; Ross ameliyatında pulmoner pozisyona yerleştirilebilir."
     },
     {
+      "id": "PER241-1i260nb",
       "type": "compare",
       "importance": 2,
       "source": "Wikipedia",
@@ -237,6 +263,7 @@
       }
     },
     {
+      "id": "PER241-0txfwc1",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",
@@ -257,6 +284,7 @@
       }
     },
     {
+      "id": "PER241-19tlr0b",
       "type": "compare",
       "importance": 2,
       "source": "Wikipedia",
@@ -277,6 +305,7 @@
       }
     },
     {
+      "id": "PER241-0liy9vj",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",
@@ -297,6 +326,7 @@
       }
     },
     {
+      "id": "PER241-0c8k8ik",
       "type": "compare",
       "importance": 2,
       "source": "Wikipedia",

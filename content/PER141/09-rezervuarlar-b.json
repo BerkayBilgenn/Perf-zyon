@@ -2,6 +2,7 @@
   "topic": "Rezervuarlar, aspiratörler ve vent",
   "cards": [
     {
+      "id": "PER141-1eh2opp",
       "type": "fact",
       "importance": 2,
       "title": "Saha kanının içeriği",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1bxxk9j",
       "type": "fact",
       "importance": 2,
       "title": "Aspirasyonda kan hasarı",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0c4hxlf",
       "type": "fact",
       "importance": 2,
       "title": "Aspiratör ucunun tıkanması",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0uqtrcz",
       "type": "fact",
       "importance": 1,
       "title": "Rezervuar seviyesi modele özgüdür",
@@ -30,6 +34,7 @@
       "source": "Terumo CAPIOX FX"
     },
     {
+      "id": "PER141-1i97imr",
       "type": "fact",
       "importance": 2,
       "title": "Aspiratör hızı ve mikroemboli",
@@ -37,6 +42,7 @@
       "source": "GME çalışması 2026"
     },
     {
+      "id": "PER141-19it664",
       "type": "fact",
       "importance": 2,
       "title": "LV'ye bypass sırasında gelen kan",
@@ -44,6 +50,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1gradqh",
       "type": "flip",
       "importance": 3,
       "question": "KPB'de sol ventrikül ventinin başlıca koruyucu amaçları nelerdir?",
@@ -51,6 +58,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-01c08ro",
       "type": "flip",
       "importance": 2,
       "question": "Sol ventrikül ventinin konumu hangi yöntemle doğrulanabilir?",
@@ -58,6 +66,7 @@
       "source": "Kumamoto ve ark. 2023"
     },
     {
+      "id": "PER141-1ysvdlt",
       "type": "flip",
       "importance": 2,
       "question": "Sol ventrikül distansiyonu akciğerlerde hangi sonuca yol açabilir?",
@@ -65,6 +74,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-0ak8apt",
       "type": "remember",
       "importance": 3,
       "title": "Protamin ile aspirasyon aynı anda sürmez",
@@ -72,6 +82,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-18htwvt",
       "type": "remember",
       "importance": 3,
       "title": "Rezervuarın boşalmasını bekleme",

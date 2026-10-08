@@ -2,6 +2,7 @@
   "topic": "Total yapay kalp (TAH)",
   "cards": [
     {
+      "id": "PER207-0zqim1m",
       "type": "fact",
       "importance": 2,
       "title": "İnsana takılan ilk yapay kalp",
@@ -9,6 +10,7 @@
       "source": "Cooley–Liotta, AJC 1969"
     },
     {
+      "id": "PER207-1cqoyje",
       "type": "fact",
       "importance": 2,
       "title": "Jarvik-7 ve Barney Clark",
@@ -16,6 +18,7 @@
       "source": "University of Utah TAH arşivi"
     },
     {
+      "id": "PER207-0b5toiy",
       "type": "fact",
       "importance": 2,
       "title": "SynCardia nasıl çalışır?",
@@ -23,6 +26,7 @@
       "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
+      "id": "PER207-12uwi7l",
       "type": "fact",
       "importance": 1,
       "title": "BiVACOR",
@@ -30,13 +34,15 @@
       "source": "Texas Heart Institute 2024"
     },
     {
+      "id": "PER207-1k6ljvy",
       "type": "remember",
       "importance": 3,
       "title": "FDA onaylı ilk TAH",
       "body": "SynCardia (eski adı CardioWest) geçici total yapay kalp, **Ekim 2004**'te biventriküler yetmezlikte transplantasyona köprü olarak FDA onayı alan ilk yapay kalp oldu.",
-      "source": "NEJM 2004 (Copeland)"
+      "source": "FDA SynCardia 2004"
     },
     {
+      "id": "PER207-1qt1kxl",
       "type": "flip",
       "importance": 3,
       "question": "Total yapay kalbin başlıca endikasyonu nedir?",
@@ -44,6 +50,7 @@
       "source": "TAH derlemesi, PMC 2023"
     },
     {
+      "id": "PER207-1b0wo10",
       "type": "flip",
       "importance": 1,
       "question": "Total yapay kalple desteklenen hastalarda başlıca ölüm nedenleri nelerdir?",
@@ -51,6 +58,7 @@
       "source": "TAH derlemesi, PMC 2023"
     },
     {
+      "id": "PER207-05gzqpv",
       "type": "mcq",
       "importance": 3,
       "question": "Total yapay kalbi (TAH) LVAD'den ayıran temel özellik hangisidir?",
@@ -65,6 +73,7 @@
       "source": "TAH derlemesi, PMC 2023"
     },
     {
+      "id": "PER207-1008wzd",
       "type": "mcq",
       "importance": 2,
       "question": "1982'de Barney Clark'a kalıcı (destinasyon) amaçla takılan total yapay kalp hangisidir?",
@@ -79,6 +88,7 @@
       "source": "TAH derlemesi, PMC 2023"
     },
     {
+      "id": "PER207-0jyksnn",
       "type": "tf",
       "importance": 2,
       "statement": "FDA P030011’in 2004 SynCardia 70 mL onayı, hastane dışında evde kullanım için verilmiştir.",
@@ -87,6 +97,7 @@
       "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
+      "id": "PER207-1lect6i",
       "type": "tf",
       "importance": 1,
       "statement": "FDA 2004 SynCardia 70 mL sisteminde yeterli antikoagülasyon uygulanamaması bir kontrendikasyondur.",
@@ -95,6 +106,7 @@
       "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
+      "id": "PER207-06ul400",
       "type": "fact",
       "importance": 2,
       "title": "SynCardia’da göğüs içi uygunluk",
@@ -102,6 +114,7 @@
       "source": "FDA SynCardia güvenlik-etkinlik 2004"
     },
     {
+      "id": "PER207-1jxls81",
       "type": "fact",
       "importance": 1,
       "title": "AbioCor’un tarihsel HDE onayı",
@@ -109,6 +122,7 @@
       "source": "FDA AbioCor HDE 2006"
     },
     {
+      "id": "PER207-1g8dqyk",
       "type": "fact",
       "importance": 1,
       "title": "BiVACOR erken fizibilite çalışmasının amacı",
@@ -116,6 +130,7 @@
       "source": "Texas Heart Institute 2024"
     },
     {
+      "id": "PER207-0j72std",
       "type": "flip",
       "importance": 2,
       "question": "SynCardia 70 mL sisteminde kanın sağ pompadan izlediği çıkış yolu nedir?",

@@ -2,6 +2,7 @@
   "topic": "Pompalar: roller ve santrifügal",
   "cards": [
     {
+      "id": "PER141-192umhs",
       "type": "mcq",
       "importance": 3,
       "question": "Roller pompa direnci yükselmiş kapalı bir hatta çalışırsa temel tehlike nedir?",
@@ -16,6 +17,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-0h170b4",
       "type": "mcq",
       "importance": 2,
       "question": "Roller pompanın sürekli sıkışmaya maruz kalan segmentinde hangi malzeme kullanılır?",
@@ -30,6 +32,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0deyjw3",
       "type": "mcq",
       "importance": 2,
       "question": "PVC roller tüpünde sürtünmeyle oluşan elektrik hangi terimle adlandırılır?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0kcozqh",
       "type": "mcq",
       "importance": 3,
       "question": "Santrifügal pompada düşük devir alarmının başlıca güvenlik amacı nedir?",
@@ -58,6 +62,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-1v4wuoo",
       "type": "mcq",
       "importance": 2,
       "question": "Pulsatil akımın hemodinamik enerjisini değerlendiren göstergeler hangisidir?",
@@ -72,6 +77,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-140fv9r",
       "type": "tf",
       "importance": 2,
       "statement": "Roller pompada oklüzyon ayarının tek bir uluslararası yöntemi vardır.",
@@ -80,6 +86,7 @@
       "source": "Dinamik oklüzyon 2024"
     },
     {
+      "id": "PER141-1bmu7hf",
       "type": "tf",
       "importance": 2,
       "statement": "Santrifügal pompa girişteki dolum koşullarına duyarlıdır.",
@@ -88,6 +95,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0ct1tf6",
       "type": "tf",
       "importance": 2,
       "statement": "Santrifügal pompa, roller tüpündeki sıkışmaya bağlı aşınmayı oluşturur.",

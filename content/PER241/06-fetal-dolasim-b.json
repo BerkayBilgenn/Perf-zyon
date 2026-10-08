@@ -2,6 +2,7 @@
   "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
   "cards": [
     {
+      "id": "PER241-1byyq0l",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -9,6 +10,7 @@
       "body": "Umbilikal ven **plasentadan fetusa** oksijenli kan taşır; umbilikal arterler fetustan plasentaya döner."
     },
     {
+      "id": "PER241-1198cla",
       "type": "fact",
       "importance": 2,
       "source": "LITFL fetal dolaşım",
@@ -16,6 +18,7 @@
       "body": "Vena kava inferiorun iyi oksijenli kanı foramen ovaleden sol kalbe yönlenir; **çıkan aorta** üzerinden beyin ve koronerler beslenir."
     },
     {
+      "id": "PER241-1je2o38",
       "type": "flip",
       "importance": 2,
       "source": "LITFL fetal dolaşım",
@@ -23,6 +26,7 @@
       "answer": "Ağırlıklı olarak **sağ ventriküle**, sonra duktus arteriyozus aracılığıyla inen aortaya yönelir."
     },
     {
+      "id": "PER241-02di61v",
       "type": "remember",
       "importance": 3,
       "source": "LITFL doğum fizyolojisi",
@@ -30,6 +34,7 @@
       "body": "Akciğerlerin açılması **pulmoner vasküler direnci düşürür** ve pulmoner kan akımını artırır."
     },
     {
+      "id": "PER241-0oa7imq",
       "type": "flip",
       "importance": 2,
       "source": "LITFL doğum fizyolojisi",
@@ -37,6 +42,7 @@
       "answer": "Plasental dolaşım devreden çıkınca **sistemik vasküler direnç artar**."
     },
     {
+      "id": "PER241-09fhhto",
       "type": "flip",
       "importance": 2,
       "source": "LITFL doğum fizyolojisi",
@@ -44,6 +50,7 @@
       "answer": "Pulmoner venöz dönüşle sol atriyum basıncının **sağ atriyum basıncını aşması**, kapakçığın fonksiyonel kapanmasını sağlar."
     },
     {
+      "id": "PER241-0217gqu",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -51,6 +58,7 @@
       "body": "Doğum sonrasında artan oksijen ve azalan **prostaglandin düzeyleri**, duktus arteriyozusun kasılmasına katkıda bulunur."
     },
     {
+      "id": "PER241-0vrfade",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -58,6 +66,7 @@
       "body": "Fetal hemoglobinin gama zincirleri **2,3-BPG'yi daha az bağlar**; oksijen afinitesi erişkin hemoglobininden yüksektir."
     },
     {
+      "id": "PER241-1mkbmzv",
       "type": "remember",
       "importance": 3,
       "source": "Merck Manual",
@@ -65,6 +74,7 @@
       "body": "COX inhibitörleri **prematüre PDA'sında** etkilidir; miadında doğan bebek ve çocuklarda genellikle etkisizdir."
     },
     {
+      "id": "PER241-0wqfff1",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -72,6 +82,7 @@
       "body": "Duktus-bağımlı lezyonda prostaglandin E1, **duktusun açık kalmasını** sağlayarak gerekli akımın sürmesine yardım eder."
     },
     {
+      "id": "PER241-0489ijl",
       "type": "remember",
       "importance": 3,
       "source": "Wikipedia",
@@ -79,6 +90,7 @@
       "body": "Alprostadilin klinik olarak önemli yan etkileri arasında **apne**, ateş ve hipotansiyon bulunur."
     },
     {
+      "id": "PER241-1wm22y2",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -86,6 +98,7 @@
       "body": "Yüksek pulmoner direnç, foramen ovale veya duktus üzerinden **sağdan sola şanta** ve oksijene yetersiz yanıt veren hipoksemiye yol açabilir."
     },
     {
+      "id": "PER241-0rxo7yq",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",

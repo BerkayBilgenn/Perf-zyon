@@ -2,6 +2,7 @@
   "topic": "KPB'den çıkış ve komplikasyonlar",
   "cards": [
     {
+      "id": "PER245-1rvtife",
       "type": "fact",
       "importance": 2,
       "title": "Ayrılmada ventilasyon",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0jehw52",
       "type": "fact",
       "importance": 2,
       "title": "Zor ayrılmayı değerlendirme",
@@ -16,13 +18,15 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0trh5ny",
       "type": "fact",
       "importance": 2,
       "title": "Oksijenatörde ilk kontrol",
       "body": "Beklenmedik oksijenasyon kaybında gaz kaynağı, bağlantı ve gazın oksijenatöre ulaşması değerlendirilir; sorun yalnız membrana bağlanmaz.",
-      "source": "EACTS/EACTAIC/EBCP 2024"
+      "source": "National Heart Center 2026"
     },
     {
+      "id": "PER245-1537oy9",
       "type": "fact",
       "importance": 2,
       "title": "Hava kilidinin mekanizması",
@@ -30,6 +34,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-17p1597",
       "type": "fact",
       "importance": 2,
       "title": "KPB sonrası koagülopati",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0sdkmmg",
       "type": "flip",
       "importance": 2,
       "question": "Protamin sonrası acil yeniden KPB için hangi koşul tekrar doğrulanır?",
@@ -44,6 +50,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-1wtm6kd",
       "type": "flip",
       "importance": 2,
       "question": "KPB'deki sistemik inflamatuvar yanıtın başlıca tetikleyicileri nelerdir?",
@@ -51,6 +58,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-0zoss1f",
       "type": "remember",
       "importance": 3,
       "title": "Hava embolisi bir ekip acilidir",
@@ -58,6 +66,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1ig9v1l",
       "type": "remember",
       "importance": 3,
       "title": "Kesintiye hazırlık",
@@ -65,6 +74,7 @@
       "source": "AmSECT 2013"
     },
     {
+      "id": "PER245-1x319c9",
       "type": "fact",
       "importance": 2,
       "title": "Ayrılmada ritim ve dolum",

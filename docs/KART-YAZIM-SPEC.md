@@ -143,7 +143,7 @@ site/data/<DERS>.json                  ← derleme çıktısı; elle düzenleme
 
 - `topic` konu tablosundaki adla birebir aynıdır (en fazla 48 karakter).
 - Her kartta `type` ve `importance` zorunludur.
-- `id` ve `course` yazılmaz. Derleme, ders kodunu klasörden alır ve kartın ana metninden kalıcı bir kimlik üretir. Bu yüzden aynı kart iki kez yazılırsa derleme bunu "tekrarlanan kart" diye reddeder.
+- `course` yazılmaz; ders kodu klasörden alınır. Mevcut kartların `id` alanı kalıcıdır ve metin düzeltilirken değiştirilmez. Biçim `<DERS>-<7 küçük harf/rakam>` olmalıdır. Yeni kart kimliği önce ana metinden türetilir; ilk derlemenin verdiği kimlik kaynak karta eklenip korunur. Derleme hem kimlik hem içerik izi üzerinden tekrarları reddeder.
 - Tanımlı olmayan bir alan yazılırsa derleme reddeder.
 
 ### 4.3 Türlere göre alanlar ve karakter sınırları
@@ -461,10 +461,10 @@ Derleme çıktısı örneği:
 
 Güncel toplam **3.144 karttır**. Sayı, konu ve tür dağılımı hedefleri altı derste sağlanmıştır. Yeni PER207/PER245/PER247 kartları dosya ve sıra bazlı kaynak izleriyle eşlenmiştir; yazar kontrolü ve bağımsız inceleme kayıtları ayrı tutulur. Mevcut derslerin devam turu incelemeleri de ilgili kayıtların kapsam notlarında belirtilir. Bütün tıbbi cümlelerin bir klinisyen tarafından onaylandığı iddia edilmez.
 
-Bu ara yayında kart üretimi ve yazar kontrolleri tamamlanmıştır. PER207 ve PER245 için bağımsız içerik incelemesi sürmektedir; PER247 için son bağımsız inceleme kaydı henüz tamamlanmamıştır. Kalan ürün geliştirmeleri aşağıda listelenir.
+Kart üretimi ve yazar kontrolleri tamamlandı. PER207, PER245 ve PER247’nin tüm kartları bağımsız içerik taramasından geçti; sırasıyla 12, 10 ve 6 kart düzeltildi. Hedefli dış kaynak doğrulamaları ve erişim sınırları her dersin `content/<DERS>/_bagimsiz-inceleme.md` kaydındadır. Bütün dış kaynakların her iddiasının yeniden açıldığı iddia edilmez.
 
 **Hazır olanlar:**
-- Site kodu tamam ve test edildi (57 test). Kapsadığı özellikler:
+- Site kodu test edildi (69 otomatik test; Chromium ve WebKit tarayıcı kontrolleri). Kapsadığı özellikler:
   - kaydırmalı akış ve 7 kart türü
   - puan sistemi ve Gofrikli latte kutlaması
   - ders filtresi ve kaydedilenler
@@ -472,19 +472,19 @@ Bu ara yayında kart üretimi ve yazar kontrolleri tamamlanmıştır. PER207 ve 
   - açık ve koyu tema
 - Altı dersin araştırma dosyaları tamam. Hepsi İGÜ'nün resmî ders sayfalarındaki haftalık konulara dayanıyor.
 
-**Site kodunda bilinen küçük sorunlar** (bağımsız kod incelemesinden; içerik işini etkilemez, ama derleme kuralı için 9. maddeye dikkat):
+**Devam turunda tamamlanan düzeltmeler (2026-10-08):**
 
-1. Kaldığın kart, uygulama her açıldığında yeniden puan veriyor (aynı test tekrar cevaplanırsa +2).
-2. 320 px genişlikte bir ders seçiliyken üst barda "27/50" ile latte rozeti çakışıyor.
-3. Uzun bir kartta "Cevabı gör" sonrası cevap görünür alanın altında kalabiliyor.
-4. Bir ders dosyası hiç cevap vermezse yükleme ekranı takılı kalıyor (zaman aşımı yok).
-5. Elle bozulmuş kart verisi slaytları boş bırakabiliyor (yüklemede türe göre doğrulama yok).
-6. Artifact sürümünde `lang="tr"` düşüyor.
-7. Hap bilgi ya da doğru/yanlış kartının metni düzeltilince kartın kimliği değişiyor; öğrencinin kaydettikleri ve işaretleri o kart için kaybolur.
-8. Koyu temada telefonun tarayıcı çubuğu pembe kalıyor.
-9. Bir dersin derlemesi hata verirse eski `site/data/<DERS>.json` dosyası sessizce kalır. **Yayından önce bütün derslerin hatasız derlendiğini kontrol et.**
+1. Kaldığın kartın tamamlanması, açılan cevabı ve şık sırası saklanır; yeniden açma veya filtreye geri dönme aynı gösterime tekrar puan vermez.
+2. 320 px genişlikte uzun ders etiketiyle puan sayacı ve latte rozeti çakışmaz.
+3. Uzun kartlarda cevap açılınca kartın içi kaydırılır; cevabın başlangıcı görünür olur.
+4. Ders yüklemesinin tamamına 10 saniye zaman aşımı ve iptal uygulandı; takılan dosya diğer dersleri engellemez.
+5. Tarayıcı derlemeyle aynı şemayı kullanır; bozuk tür alanları ve aynı kimlikteki tekrarlar akışa girmez.
+6. Artifact gövdesindeki Türkçe dil bağlamı korunur.
+7. 3.144 kartın mevcut kimlikleri kaynak dosyalarına sabitlendi; metin düzeltmesi kaydedilenleri veya işaretleri kaybettirmez. İçerik tekrar kontrolü kimlikten ayrı çalışır.
+8. Tarayıcı çubuğu rengi açık/koyu seçiminde ve otomatik sistem teması değişiminde güncellenir.
+9. Hatalı ders derlenirken eski çıktı kaldırılır; derleme başarısız durumla sonlanır.
 
-Kaydırma WebKit'te (iPhone Safari'nin motoru) masaüstünde doğrulandı. Gerçek bir iPhone'da 20 kart kaydırarak ayrıca denenmesi önerilir.
+Chromium ve WebKit'te altı dersin her birinde en az 20 kart kaydırıldı ve 5 test cevaplandı; konsol hatası görülmedi. Yeniden açma, uzun cevap, küçük ekran ve otomatik tema kontrolleri `scripts/check-browser.mjs` ile tekrar çalıştırılabilir. GitHub kontrolleri kart verilerinin güncelliğini, testleri ve iki tarayıcı motorunu denetler. Gerçek iPhone üzerinde fiziksel cihaz testi bu turda yapılmadı.
 
 **İlgili belgeler:**
 - Tasarım: `docs/superpowers/specs/2026-10-08-perfuzyon-reels-design.md`
@@ -515,7 +515,7 @@ Her satır için:
 3. Değişikliği `_dogrulama-*.md` dosyasına yaz.
 4. Dersi yeniden derle.
 
-Kimlik kartın ana metninden üretildiği için ana metin değişirse kartın kimliği de değişir; bu beklenen bir davranıştır.
+Metin düzeltildiğinde kaynak kartın `id` alanı korunur. Böylece öğrencinin kaydı, hatalı olabilir işareti ve kaldığı kart düzeltme sonrasında kaybolmaz. Yeni kartın ilk derleme kimliği kaynak dosyasına eklenir.
 
 ---
 

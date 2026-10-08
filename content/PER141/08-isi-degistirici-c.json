@@ -2,6 +2,7 @@
   "topic": "Isı değiştirici, HCU ve M. chimaera",
   "cards": [
     {
+      "id": "PER141-1swtvmw",
       "type": "mcq",
       "importance": 2,
       "question": "Isı değiştiricide ters akım ilkesi ne demektir?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1uprnrh",
       "type": "mcq",
       "importance": 2,
       "question": "Isıtmada serebral perfüzat sıcaklığıyla ilgili hangi yaklaşım doğrudur?",
@@ -30,6 +32,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER141-07p9cgm",
       "type": "mcq",
       "importance": 2,
       "question": "M. chimaera hangi mikroorganizma grubundadır?",
@@ -44,6 +47,7 @@
       "source": "CDC MMWR 2016"
     },
     {
+      "id": "PER141-1br1e7s",
       "type": "mcq",
       "importance": 2,
       "question": "HCU kaynaklı biyofilm neden önemlidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1dc8x36",
       "type": "tf",
       "importance": 2,
       "statement": "HCU suyu normal çalışma sırasında hastanın kanıyla doğrudan karışır.",
@@ -66,6 +71,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1j0ui4w",
       "type": "tf",
       "importance": 2,
       "statement": "Yavaş ısıtma postoperatif bilişsel bozukluğu azaltmayı destekleyebilir.",

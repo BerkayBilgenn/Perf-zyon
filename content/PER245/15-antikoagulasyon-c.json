@@ -2,6 +2,7 @@
   "topic": "Antikoagülasyon: heparin, ACT, protamin",
   "cards": [
     {
+      "id": "PER245-0nif0l9",
       "type": "mcq",
       "importance": 3,
       "question": "UFH'nin antikoagülan etkisini önemli ölçüde sağlayan protein hangisidir?",
@@ -16,6 +17,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-1ih610e",
       "type": "mcq",
       "importance": 2,
       "question": "HIT için fonksiyonel doğrulama yöntemlerinden biri hangisidir?",
@@ -30,6 +32,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-11unebp",
       "type": "mcq",
       "importance": 2,
       "question": "Protaminin temel nötralizasyon hedefi hangi ilaçtır?",
@@ -44,6 +47,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-1oyyddn",
       "type": "mcq",
       "importance": 2,
       "question": "Böbrek işlevi bozuk aktif HIT bağlamında hepatik eliminasyonlu alternatif hangisidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1nbt8w4",
       "type": "tf",
       "importance": 2,
       "statement": "Heparin rebound, protaminin yağ dokusundan dolaşıma dönmesidir.",
@@ -66,6 +71,7 @@
       "source": "STS/SCA/AmSECT 2018"
     },
     {
+      "id": "PER245-165m9p1",
       "type": "tf",
       "importance": 2,
       "statement": "ACT heparin konsantrasyonundan bağımsız hiçbir etkenle değişmez.",

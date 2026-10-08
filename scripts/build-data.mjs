@@ -16,6 +16,7 @@ export async function buildCourse(srcRoot, course) {
   const cards = [];
   const errors = [];
   const seen = new Map();
+  const fingerprints = new Map();
   for (const file of files) {
     let doc;
     try {
@@ -36,12 +37,19 @@ export async function buildCourse(srcRoot, course) {
         errors.push(...problems.map((p) => `${where}: ${p}`));
         return;
       }
-      const id = cardId(course, card);
-      if (seen.has(id)) {
-        errors.push(`${where}: tekrarlanan kart (${seen.get(id)} ile aynı)`);
+      const fingerprint = cardId(course, card);
+      const validId = typeof card.id === 'string' && new RegExp(`^${course}-[0-9a-z]{7}$`).test(card.id);
+      if (card.id !== undefined && !validId) {
+        errors.push(`${where}: geçersiz kalıcı kimlik: ${card.id}`);
+        return;
+      }
+      const id = card.id ?? fingerprint;
+      if (seen.has(id) || fingerprints.has(fingerprint)) {
+        errors.push(`${where}: tekrarlanan kart (${seen.get(id) ?? fingerprints.get(fingerprint)} ile aynı)`);
         return;
       }
       seen.set(id, where);
+      fingerprints.set(fingerprint, where);
       const { type, importance, topic, id: _ignoredId, course: _ignoredCourse, ...rest } = card;
       cards.push({ id, course, topic, type, importance, ...rest });
     });
@@ -101,6 +109,7 @@ export async function main(args = process.argv.slice(2)) {
     }
     if (errors.length) {
       failed = true;
+      await rm(target, { force: true });
       console.error(`✗ ${course}: ${errors.length} hata`);
       for (const e of errors) console.error(`  ${e}`);
       continue;

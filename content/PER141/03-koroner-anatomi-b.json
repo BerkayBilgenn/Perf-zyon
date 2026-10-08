@@ -2,6 +2,7 @@
   "topic": "Koroner sistem anatomisi ve fizyolojisi",
   "cards": [
     {
+      "id": "PER141-0w2hsvu",
       "type": "fact",
       "importance": 3,
       "title": "Koroner arterlerin başlangıcı",
@@ -9,6 +10,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0z944cm",
       "type": "fact",
       "importance": 2,
       "title": "LAD'nin dalları",
@@ -16,6 +18,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1ctkeag",
       "type": "fact",
       "importance": 2,
       "title": "Sirkumfleksin dalları",
@@ -23,6 +26,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-0yhisgr",
       "type": "fact",
       "importance": 3,
       "title": "Koroner akımın zamanlaması",
@@ -30,6 +34,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-0now5b3",
       "type": "fact",
       "importance": 2,
       "title": "Endokardın kırılganlığı",
@@ -37,6 +42,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1q841vg",
       "type": "flip",
       "importance": 2,
       "question": "Büyük kardiyak ven hangi koroner artere eşlik eder?",
@@ -44,6 +50,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-173ir0j",
       "type": "flip",
       "importance": 2,
       "question": "Orta kardiyak ven hangi arterle birlikte seyreder?",
@@ -51,6 +58,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-1hks2hb",
       "type": "flip",
       "importance": 2,
       "question": "Koroner sinüs ostiumunu kısmen örten kapak hangisidir?",
@@ -58,6 +66,7 @@
       "source": "Radiopaedia: Koroner anatomi"
     },
     {
+      "id": "PER141-139qtnd",
       "type": "remember",
       "importance": 3,
       "title": "Şişen ventrikülün oksijen gereksinimi",

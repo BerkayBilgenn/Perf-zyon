@@ -2,6 +2,7 @@
   "topic": "Mediasten anatomisi",
   "cards": [
     {
+      "id": "PER241-16ii7sf",
       "type": "fact",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -9,6 +10,7 @@
       "body": "Mediastenin iki yanında **mediastinal plevra** bulunur. Üst mediastenin ön sınırı manubrium, arka sınırı vertebra cisimleridir."
     },
     {
+      "id": "PER241-1squ3zo",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -16,6 +18,7 @@
       "answer": "**Timus**, sternumun arka yüzüne komşu lenfoid organdır."
     },
     {
+      "id": "PER241-1f59elu",
       "type": "flip",
       "importance": 1,
       "source": "TeachMeAnatomy",
@@ -23,6 +26,7 @@
       "answer": "Ön mediastende yağ ve lenf düğümlerine ek olarak **internal torasik damarların dalları** bulunur."
     },
     {
+      "id": "PER241-0dsdr33",
       "type": "fact",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -30,6 +34,7 @@
       "body": "Kalple birlikte **çıkan aorta, pulmoner trunkus ve vena kava superior** orta mediastende yer alır."
     },
     {
+      "id": "PER241-1d5jg1n",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -37,6 +42,7 @@
       "answer": "Mediastende özofagus çevresindeki pleksusun oluşumuna **vagus sinirleri** katılır."
     },
     {
+      "id": "PER241-0k91lws",
       "type": "fact",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -44,6 +50,7 @@
       "body": "Duktus torasikus, **aort hiatusundan** toraksa girer. Özofagus ise özofageal hiatusu kullanır."
     },
     {
+      "id": "PER241-1lk3cii",
       "type": "flip",
       "importance": 2,
       "source": "TeachMeAnatomy",
@@ -51,6 +58,7 @@
       "answer": "İnen torasik aorta, arka mediastende vertebraların **sol tarafında** ilerler."
     },
     {
+      "id": "PER241-1sqn9wi",
       "type": "remember",
       "importance": 3,
       "source": "UNSW Embryology",

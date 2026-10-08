@@ -2,6 +2,7 @@
   "topic": "Pompalar: roller ve santrifügal",
   "cards": [
     {
+      "id": "PER141-0o4rs8r",
       "type": "fact",
       "importance": 3,
       "title": "Aşırı oklüzyonun sonucu",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0w4u3xl",
       "type": "fact",
       "importance": 3,
       "title": "Yetersiz oklüzyonun sonucu",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-04l7myc",
       "type": "fact",
       "importance": 3,
       "title": "Santrifügal pompa ve direnç",
@@ -23,6 +26,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1gxkeg3",
       "type": "fact",
       "importance": 2,
       "title": "Yüksek devirin yükü",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1rvjax6",
       "type": "fact",
       "importance": 2,
       "title": "Roller pompanın ek görevleri",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0zmsd6b",
       "type": "fact",
       "importance": 2,
       "title": "Pulsatil akımın değerlendirilmesi",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0t03nkz",
       "type": "flip",
       "importance": 3,
       "question": "Santrifügal pompa akımını devirden bağımsız ölçmek için ne kullanılır?",
@@ -51,6 +58,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1voass7",
       "type": "flip",
       "importance": 2,
       "question": "Roller pompa girişinin aniden tıkanması neden kabarcık oluşturabilir?",
@@ -58,6 +66,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1y2oq4u",
       "type": "flip",
       "importance": 2,
       "question": "Santrifügal pompa için uzun KPB önerisinin gücü nedir?",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1y7t2hu",
       "type": "remember",
       "importance": 3,
       "title": "Durdurmadan önce geri akışı önle",
@@ -72,6 +82,7 @@
       "source": "SafeCEC çalışması 2025"
     },
     {
+      "id": "PER141-050s5bf",
       "type": "remember",
       "importance": 3,
       "title": "Akım göstergesine kör güvenme",

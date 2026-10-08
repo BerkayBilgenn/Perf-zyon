@@ -2,6 +2,7 @@
   "topic": "Mikrosirkülasyon ve KPB",
   "cards": [
     {
+      "id": "PER245-1kv80yn",
       "type": "fact",
       "importance": 2,
       "title": "Normal basınç yeterli mi?",
@@ -9,6 +10,7 @@
       "source": "Mikrosirkülasyon, Front CVM 2026"
     },
     {
+      "id": "PER245-0zhemyt",
       "type": "fact",
       "importance": 2,
       "title": "Glikokaliksin bileşenleri",
@@ -16,6 +18,7 @@
       "source": "Glikokaliks, Indian J Anaesth 2019"
     },
     {
+      "id": "PER245-1tmbs8k",
       "type": "fact",
       "importance": 2,
       "title": "Revize Starling'de sıvı dönüşü",
@@ -23,6 +26,7 @@
       "source": "Glikokaliks, Indian J Anaesth 2019"
     },
     {
+      "id": "PER245-01s1rf6",
       "type": "fact",
       "importance": 2,
       "title": "Reperfüzyon ve endotel",
@@ -30,6 +34,7 @@
       "source": "Mikrosirkülasyon, Front CVM 2026"
     },
     {
+      "id": "PER245-0s0kg9f",
       "type": "fact",
       "importance": 2,
       "title": "İzlem göstergelerinin birlikteliği",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1r6m7ke",
       "type": "flip",
       "importance": 2,
       "question": "Kapiller duvarın temel hücresel katmanı nedir?",
@@ -44,6 +50,7 @@
       "source": "Mikrosirkülasyon, Front CVM 2026"
     },
     {
+      "id": "PER245-04lmp13",
       "type": "flip",
       "importance": 2,
       "question": "Onkotik basınca plazmada en çok hangi protein katkı verir?",
@@ -51,6 +58,7 @@
       "source": "Glikokaliks, Indian J Anaesth 2019"
     },
     {
+      "id": "PER245-0kd7wqz",
       "type": "flip",
       "importance": 2,
       "question": "Mikrosirkülasyonun doğrudan görüntülenmesi için hangi bölge sık kullanılır?",
@@ -58,6 +66,7 @@
       "source": "Mikrosirkülasyon, Front CVM 2026"
     },
     {
+      "id": "PER245-0ambqgk",
       "type": "remember",
       "importance": 3,
       "title": "Basınçla yetinme",

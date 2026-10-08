@@ -2,6 +2,7 @@
   "topic": "İABP, Impella ve TandemHeart",
   "cards": [
     {
+      "id": "PER207-0xiycwu",
       "type": "fact",
       "importance": 2,
       "title": "İABP ölçüsünün anatomik amacı",
@@ -9,6 +10,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1fsuwll",
       "type": "fact",
       "importance": 2,
       "title": "İABP debi katkısının sınırı",
@@ -16,6 +18,7 @@
       "source": "Parissis, İABP 2016"
     },
     {
+      "id": "PER207-19yyy89",
       "type": "fact",
       "importance": 2,
       "title": "İABP ucunun anatomik sınırı",
@@ -23,6 +26,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-04b6px3",
       "type": "fact",
       "importance": 2,
       "title": "IABP-SHOCK II sonucu",
@@ -30,6 +34,7 @@
       "source": "IABP-SHOCK II, NEJM 2012"
     },
     {
+      "id": "PER207-0lauhtg",
       "type": "fact",
       "importance": 2,
       "title": "DanGer Shock: yarar ve güvenlik",
@@ -37,6 +42,7 @@
       "source": "DanGer Shock, NEJM 2024"
     },
     {
+      "id": "PER207-0k0hv59",
       "type": "fact",
       "importance": 2,
       "title": "Purge reçetesi cihaz talimatına bağlıdır",
@@ -44,6 +50,7 @@
       "source": "FDA Impella kullanım talimatı"
     },
     {
+      "id": "PER207-1rxjb93",
       "type": "flip",
       "importance": 3,
       "question": "Orta-ağır aort yetmezliği İABP için neden sorun oluşturur?",
@@ -51,6 +58,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0wku3k1",
       "type": "flip",
       "importance": 3,
       "question": "Mekanik aort kapağı sol ventrikül Impella’sıyla neden uyumsuzdur?",
@@ -58,6 +66,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1j8hhy3",
       "type": "flip",
       "importance": 3,
       "question": "TandemHeart kanülünün yan delikleri neden sol atriyumda kalmalıdır?",
@@ -65,6 +74,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1duazve",
       "type": "flip",
       "importance": 3,
       "question": "İABP balonu çok distalde kalırsa hangi organlar risk altındadır?",
@@ -72,6 +82,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-09czrsl",
       "type": "remember",
       "importance": 3,
       "title": "Geç sönme art yükü artırır",
@@ -79,6 +90,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-0rp7h42",
       "type": "remember",
       "importance": 3,
       "title": "Erken şişme sistole karışır",
@@ -86,6 +98,7 @@
       "source": "ACC Destek Cihazları El Kitabı"
     },
     {
+      "id": "PER207-1bw7upp",
       "type": "remember",
       "importance": 3,
       "title": "Sol ventrikülde trombüs ve Impella",

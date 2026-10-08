@@ -2,6 +2,7 @@
   "topic": "Filtreler",
   "cards": [
     {
+      "id": "PER141-0kbbilv",
       "type": "fact",
       "importance": 2,
       "title": "Arteriyel filtre gözeneği",
@@ -9,6 +10,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1363842",
       "type": "fact",
       "importance": 3,
       "title": "Kılavuzların ALF dili",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0frq2oh",
       "type": "fact",
       "importance": 2,
       "title": "Prebypass ve gaz filtresi",
@@ -23,6 +26,7 @@
       "source": "LivaNova tüp seti"
     },
     {
+      "id": "PER141-0r8z472",
       "type": "fact",
       "importance": 2,
       "title": "Kardiyopleji filtresinin boyutu",
@@ -30,6 +34,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-03d3s34",
       "type": "fact",
       "importance": 2,
       "title": "Entegre filtrenin hacim katkısı",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-02nepwx",
       "type": "flip",
       "importance": 2,
       "question": "Kardiyotomi filtresinde hangi iki filtrasyon ilkesi birlikte kullanılabilir?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0fzm5mg",
       "type": "flip",
       "importance": 2,
       "question": "Arteriyel filtrede biriken hava hangi hatla uzaklaştırılır?",
@@ -51,6 +58,7 @@
       "source": "GME çalışması 2026"
     },
     {
+      "id": "PER141-0n2zxt6",
       "type": "remember",
       "importance": 3,
       "title": "Rutin lökosit filtresinin kanıtını bil",

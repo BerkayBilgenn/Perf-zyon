@@ -2,6 +2,7 @@
   "topic": "Kardiyovasküler embriyoloji",
   "cards": [
     {
+      "id": "PER241-0eiwfum",
       "type": "fact",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -9,6 +10,7 @@
       "body": "Kalbin gelişimi **mezodermdeki kardiyojenik alanda** başlar."
     },
     {
+      "id": "PER241-1boeg6m",
       "type": "flip",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -16,6 +18,7 @@
       "answer": "**Sinüs venozustan trunkus arteriyozusa**, yani kaudal uçtan kranial uca doğru akar."
     },
     {
+      "id": "PER241-06uhgzg",
       "type": "remember",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -23,6 +26,7 @@
       "body": "Kranialden kaudale: trunkus arteriyozus, bulbus kordis, **primitif ventrikül**, primitif atriyum ve sinüs venozus."
     },
     {
+      "id": "PER241-0e0xhdq",
       "type": "flip",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -30,6 +34,7 @@
       "answer": "**Primitif ventrikül**, sol ventrikülün gelişimine katılır."
     },
     {
+      "id": "PER241-0u7397v",
       "type": "fact",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -37,6 +42,7 @@
       "body": "Primitif atriyum, atriyumların **ön ve trabeküllü bölümleri ile aurikulaları** oluşturur."
     },
     {
+      "id": "PER241-13vhsz7",
       "type": "flip",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -44,6 +50,7 @@
       "answer": "**Koroner sinüse** dönüşür; sağ boynuz sağ atriyumun düz duvarına katılır."
     },
     {
+      "id": "PER241-0vcpygr",
       "type": "flip",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -51,6 +58,7 @@
       "answer": "Septum primum içinde **apoptozla oluşan açıklıkların birleşmesi**, ostium sekundumu meydana getirir."
     },
     {
+      "id": "PER241-1j9jy6r",
       "type": "fact",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -58,6 +66,7 @@
       "body": "**Endokardiyal yastıklarla bulbar sırtların kaynaşması** membranöz ventriküler septumun oluşumuna katılır."
     },
     {
+      "id": "PER241-0lrjg43",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -65,6 +74,7 @@
       "body": "Pulmoner venlerin **sol atriyuma bağlanamaması**, pulmoner venöz dönüşün sistemik venöz bağlantılara yönelmesiyle sonuçlanabilir."
     },
     {
+      "id": "PER241-0pf0gxr",
       "type": "fact",
       "importance": 1,
       "source": "OpenStax A&P 2e",

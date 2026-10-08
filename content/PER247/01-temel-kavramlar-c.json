@@ -2,6 +2,7 @@
   "topic": "Temel kavramlar ve tarihçe",
   "cards": [
     {
+      "id": "PER247-1jacqgd",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +17,7 @@
       "explanation": "**-sid**, öldürücü etkiyi belirtir; yalnız üreme baskılanması bakteriyostatiktir."
     },
     {
+      "id": "PER247-01z18kc",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +32,7 @@
       "explanation": "Kalıntıların uzaklaştırılması, sonraki dezenfeksiyon ve sterilizasyonun etkinliği için gereklidir."
     },
     {
+      "id": "PER247-0auzsut",
       "type": "mcq",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +47,7 @@
       "explanation": "D değeri **%90 azalma**, yani başlangıcın onda birinin kalması demektir."
     },
     {
+      "id": "PER247-00valav",
       "type": "mcq",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +62,7 @@
       "explanation": "Fungisid ajanlar **mantarları** ve mantar sporlarını hedefler; bakteri sporlarını öldürme iddiası sporisid terimiyle ayrılır."
     },
     {
+      "id": "PER247-0j5f9yw",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +71,7 @@
       "explanation": "Bakteriyostatik etki **üreme baskılanmasıdır**; bakterisid öldürücü etkiyi belirtir."
     },
     {
+      "id": "PER247-1es8vcq",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",

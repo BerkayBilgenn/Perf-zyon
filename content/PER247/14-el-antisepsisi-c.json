@@ -2,6 +2,7 @@
   "topic": "El antisepsisi, önlük, eldiven ve steril alan",
   "cards": [
     {
+      "id": "PER247-0upbcnk",
       "type": "mcq",
       "importance": 3,
       "source": "WHO 2018",
@@ -16,6 +17,7 @@
       "explanation": "Cerrahi ABHR **kuru ele** uygulanır; yeterli miktarla önerilen süre boyunca ovulur."
     },
     {
+      "id": "PER247-1p379mi",
       "type": "mcq",
       "importance": 3,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -30,6 +32,7 @@
       "explanation": "Steril alan **kullanılacağı yerde ve kullanıma yakın** hazırlanır, taşınmaz."
     },
     {
+      "id": "PER247-1r22q7z",
       "type": "mcq",
       "importance": 3,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -44,6 +47,7 @@
       "explanation": "Kurum politikasında **boyun, omuz ve koltuk altları** kontamine kabul edilir."
     },
     {
+      "id": "PER247-0m7dkhm",
       "type": "mcq",
       "importance": 3,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -58,6 +62,7 @@
       "explanation": "Kurum politikası ağır/keskin malzemeyi **doğrudan steril ekip üyesine sunmayı** veya ayrı temiz, kuru yüzeyde açmayı ister; kontrollü sunum gerekir."
     },
     {
+      "id": "PER247-1gmgb98",
       "type": "tf",
       "importance": 2,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -66,6 +71,7 @@
       "explanation": "Kurum politikası oluşturulan steril alanın **sürekli izlenmesini** ister."
     },
     {
+      "id": "PER247-1xhezzj",
       "type": "tf",
       "importance": 2,
       "source": "WHO 2018",

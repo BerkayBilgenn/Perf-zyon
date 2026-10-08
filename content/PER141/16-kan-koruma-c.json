@@ -2,6 +2,7 @@
   "topic": "Kan koruma, biyouyumluluk ve MiECC",
   "cards": [
     {
+      "id": "PER141-0ihyenw",
       "type": "mcq",
       "importance": 2,
       "question": "MiECC Tip II'yi Tip I'den ayıran ek bileşen hangisidir?",
@@ -16,6 +17,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-0pfrdcb",
       "type": "mcq",
       "importance": 2,
       "question": "MiECC Tip III'te hacim kontrolüne hangi bileşen eklenir?",
@@ -30,6 +32,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-17pm69g",
       "type": "mcq",
       "importance": 2,
       "question": "MiECC Tip IV'ün ayırt edici özelliği hangisidir?",
@@ -44,6 +47,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-1yz7p40",
       "type": "mcq",
       "importance": 2,
       "question": "MiECC'de hastanın hangi bölümü rezervuar gibi davranır?",
@@ -58,6 +62,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-0vc3yus",
       "type": "tf",
       "importance": 2,
       "statement": "Cell saver kanı santrifüjle ayırıp serum fizyolojikle yıkar.",
@@ -66,6 +71,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0x3aicl",
       "type": "tf",
       "importance": 2,
       "statement": "Heparin kaplı devre kullanılması sistemik antikoagülasyon ihtiyacını kaldırır.",

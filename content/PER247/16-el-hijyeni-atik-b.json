@@ -2,6 +2,7 @@
   "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
   "cards": [
     {
+      "id": "PER247-1704w1p",
       "type": "fact",
       "importance": 2,
       "source": "WHO El Hijyeni 2009",
@@ -9,6 +10,7 @@
       "body": "WHO rutin alkol bazlı el ovmanın tamamı için **20–30 sn** belirtir. Bu süre, cerrahi el hazırlığı ürünü için otomatik süre değildir."
     },
     {
+      "id": "PER247-02sqyr8",
       "type": "fact",
       "importance": 2,
       "source": "WHO El Hijyeni 2009",
@@ -16,6 +18,7 @@
       "body": "WHO el yıkama işleminin tamamı için **40–60 sn** belirtir. Görünür kir varsa el ovma yerine **sabun-su** kullanılır."
     },
     {
+      "id": "PER247-1n3qknc",
       "type": "fact",
       "importance": 2,
       "source": "CDC KKE sıralaması",
@@ -23,6 +26,7 @@
       "body": "CDC örneğinde kişisel koruyucu ekipman sırası: **önlük → maske/respiratör → gözlük/siper → eldiven**. Kullanılacak ekipman maruziyet ve izolasyon türüne bağlıdır."
     },
     {
+      "id": "PER247-1d1vdtq",
       "type": "fact",
       "importance": 2,
       "source": "Tıbbi Atık Yönetmeliği 2017",
@@ -30,13 +34,15 @@
       "body": "2017 yönetmeliğinde torba **kırmızı**, çift kat kalınlığı **100 mikron**, taşıma kapasitesi en az 10 kg’dır. Biyotehlike amblemi ve \"DİKKAT! TIBBİ ATIK\" ibaresi bulunur."
     },
     {
+      "id": "PER247-1smcp94",
       "type": "fact",
       "importance": 2,
       "source": "Tıbbi Atık Yönetmeliği 2017",
       "title": "Geçici atık depolaması",
-      "body": "2017 yönetmeliğinde tıbbi atık **en fazla 48 saat** bekletilir. Geçici depo **+4 °C** olduğunda bu süre bir haftaya kadar uzatılabilir; koşul sayıdan ayrılmamalıdır."
+      "body": "2017 yönetmeliğinde tıbbi atık **en fazla 48 saat** bekletilir. Geçici depo **+4 °C** olduğunda ve kapasitesi uygun olduğunda bu süre bir haftaya kadar uzatılabilir; iki koşul birlikte sağlanır."
     },
     {
+      "id": "PER247-19180vf",
       "type": "flip",
       "importance": 2,
       "source": "CDC KKE sıralaması",
@@ -44,6 +50,7 @@
       "answer": "Hasta odasından **çıkıp kapı kapatıldıktan sonra**. Kontamine ön yüzüne dokunulmaz; çıkarma sonrasında el hijyeni yapılır."
     },
     {
+      "id": "PER247-027rqf2",
       "type": "flip",
       "importance": 2,
       "source": "CDC Mesleki Maruziyet 2001",
@@ -51,6 +58,7 @@
       "answer": "Temas eden deri veya yara **sabun ve suyla**, mukoza **suyla** yıkanır. Kostik madde uygulama veya yaraya dezenfektan enjeksiyonu önerilmez."
     },
     {
+      "id": "PER247-0r7m5zp",
       "type": "remember",
       "importance": 3,
       "source": "Tıbbi Atık Yönetmeliği 2017",

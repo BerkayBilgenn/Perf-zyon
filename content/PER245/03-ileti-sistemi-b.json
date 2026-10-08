@@ -2,6 +2,7 @@
   "topic": "Kalbin ileti sistemi",
   "cards": [
     {
+      "id": "PER245-1f1tbwi",
       "type": "fact",
       "importance": 2,
       "title": "İletinin olağan sırası",
@@ -9,6 +10,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-1sq5u6f",
       "type": "fact",
       "importance": 2,
       "title": "Otonom etki",
@@ -16,6 +18,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-1sfzqor",
       "type": "fact",
       "importance": 2,
       "title": "Septal onarımın riski",
@@ -23,6 +26,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ah1y9e",
       "type": "fact",
       "importance": 2,
       "title": "Primum ASD ve ileti",
@@ -30,6 +34,7 @@
       "source": "ASD, Biomedicines 2025"
     },
     {
+      "id": "PER245-0l4k2kl",
       "type": "fact",
       "importance": 2,
       "title": "Atriyotomi yaklaşımı",
@@ -37,6 +42,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1oygqvr",
       "type": "flip",
       "importance": 2,
       "question": "Purkinje ağının hızlı iletimi ventrikül kasılmasına nasıl katkı sağlar?",
@@ -44,6 +50,7 @@
       "source": "OpenStax Anatomi ve Fizyoloji 2e"
     },
     {
+      "id": "PER245-0tfzio8",
       "type": "flip",
       "importance": 2,
       "question": "Aort klempi kaldırıldıktan sonra kalp aktivitesinin gecikmesi hangi etkenlerle ilişkili olabilir?",
@@ -51,6 +58,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0n4528v",
       "type": "flip",
       "importance": 2,
       "question": "ccTGA'nın ileti açısından başlıca uzun dönem sorunu nedir?",
@@ -58,6 +66,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1br5cwk",
       "type": "remember",
       "importance": 3,
       "title": "Koch bölgesini koru",

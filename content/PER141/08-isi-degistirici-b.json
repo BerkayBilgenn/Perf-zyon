@@ -2,6 +2,7 @@
   "topic": "Isı değiştirici, HCU ve M. chimaera",
   "cards": [
     {
+      "id": "PER141-1p86nvg",
       "type": "fact",
       "importance": 3,
       "title": "Soğutma ve ısıtmada gradyan",
@@ -9,6 +10,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER141-0879pfp",
       "type": "fact",
       "importance": 3,
       "title": "30 °C sonrası kontrollü ısıtma",
@@ -16,6 +18,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER141-01iud1r",
       "type": "fact",
       "importance": 3,
       "title": "Arteriyel çıkış sıcaklık sınırı",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1n6d790",
       "type": "fact",
       "importance": 2,
       "title": "Hasta sıcaklığının gecikmesi",
@@ -30,6 +34,7 @@
       "source": "STS/SCA/AmSECT 2015"
     },
     {
+      "id": "PER141-0ga9wej",
       "type": "fact",
       "importance": 1,
       "title": "HCU su sınırı cihazın özelliğidir",
@@ -37,6 +42,7 @@
       "source": "FDA: HCU cihaz özetleri"
     },
     {
+      "id": "PER141-0c8z0ea",
       "type": "fact",
       "importance": 2,
       "title": "M. chimaera'nın gecikmesi",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0yhs8a3",
       "type": "flip",
       "importance": 3,
       "question": "HCU'nun su devresi kapalı olsa da mikroorganizma cerrahi alana nasıl ulaşabilir?",
@@ -51,6 +58,7 @@
       "source": "CDC MMWR 2016"
     },
     {
+      "id": "PER141-0xx79n7",
       "type": "flip",
       "importance": 2,
       "question": "HCU'da kanın sıcaklığı doğrudan hangi akışkan aracılığıyla değiştirilir?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0cgntyh",
       "type": "flip",
       "importance": 2,
       "question": "HCU bakımında hangi ana parçalar değerlendirilir?",
@@ -65,6 +74,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1b05hn7",
       "type": "remember",
       "importance": 3,
       "title": "HCU yerleşimi enfeksiyon güvenliğidir",
@@ -72,6 +82,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1ru8a3i",
       "type": "remember",
       "importance": 3,
       "title": "Hasta ve cihazı birlikte izle",

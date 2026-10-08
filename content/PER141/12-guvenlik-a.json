@@ -2,6 +2,7 @@
   "topic": "Güvenlik, monitörizasyon ve acil durumlar",
   "cards": [
     {
+      "id": "PER141-1u8hdfe",
       "type": "term",
       "importance": 3,
       "term": "Kabarcık dedektörü",
@@ -10,6 +11,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0ql7v4w",
       "type": "term",
       "importance": 2,
       "term": "Basınç transdüseri",
@@ -18,6 +20,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0yzjni1",
       "type": "term",
       "importance": 2,
       "term": "Servo-regülasyon",
@@ -26,6 +29,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0tgps1b",
       "type": "term",
       "importance": 2,
       "term": "In-line kan gazı monitörü",
@@ -34,6 +38,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-181t925",
       "type": "term",
       "importance": 2,
       "term": "SvO₂",
@@ -42,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0pfzi5n",
       "type": "term",
       "importance": 2,
       "term": "NIRS (rScO₂)",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0eie3nf",
       "type": "term",
       "importance": 2,
       "term": "Venöz oklüder",
@@ -58,6 +65,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-1fgqslt",
       "type": "term",
       "importance": 2,
       "term": "Kontrol listesi",
@@ -66,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0zab2b5",
       "type": "term",
       "importance": 2,
       "term": "Time-out",
@@ -74,6 +83,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0fv3wti",
       "type": "term",
       "importance": 2,
       "term": "Perfüzyon kaydı",
@@ -82,6 +92,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-1on47lu",
       "type": "term",
       "importance": 1,
       "term": "FMEA",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-03ufwaz",
       "type": "term",
       "importance": 3,
       "term": "Hava embolisi",
@@ -98,6 +110,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-16bvmzt",
       "type": "term",
       "importance": 2,
       "term": "İyatrojenik aort diseksiyonu",
@@ -106,6 +119,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0hqj1yy",
       "type": "term",
       "importance": 2,
       "term": "RCP",
@@ -114,6 +128,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1ggw77t",
       "type": "compare",
       "importance": 2,
       "title": "Hava güvenliği sensörleri",

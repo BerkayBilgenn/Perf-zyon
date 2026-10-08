@@ -2,6 +2,7 @@
   "topic": "Premedikasyon, indüksiyon ve idame",
   "cards": [
     {
+      "id": "PER243-1ujakl9",
       "type": "fact",
       "importance": 2,
       "title": "Sternotominin fizyolojik etkisi",
@@ -9,6 +10,7 @@
       "source": "Front Surg 2022: OPCAB"
     },
     {
+      "id": "PER243-0mk2fkp",
       "type": "fact",
       "importance": 2,
       "title": "RSI gerektiren risk",
@@ -16,6 +18,7 @@
       "source": "BJA Education 2022: hızlı seri indüksiyon"
     },
     {
+      "id": "PER243-1hnf712",
       "type": "fact",
       "importance": 2,
       "title": "Krikoid basının kanıtı",
@@ -23,6 +26,7 @@
       "source": "BJA Education 2022: hızlı seri indüksiyon"
     },
     {
+      "id": "PER243-004ohp8",
       "type": "fact",
       "importance": 3,
       "title": "Açlık: berrak sıvı",
@@ -30,6 +34,7 @@
       "source": "ASA 2017: preoperatif açlık"
     },
     {
+      "id": "PER243-02irfc9",
       "type": "fact",
       "importance": 3,
       "title": "Açlık: anne sütü",
@@ -37,6 +42,7 @@
       "source": "ASA 2017: preoperatif açlık"
     },
     {
+      "id": "PER243-1r1je8r",
       "type": "fact",
       "importance": 3,
       "title": "Açlık: hafif öğün",
@@ -44,6 +50,7 @@
       "source": "ASA 2017: preoperatif açlık"
     },
     {
+      "id": "PER243-0undffg",
       "type": "fact",
       "importance": 3,
       "title": "Açlık: yağlı yemek",
@@ -51,6 +58,7 @@
       "source": "ASA 2017: preoperatif açlık"
     },
     {
+      "id": "PER243-0w27bu9",
       "type": "flip",
       "importance": 2,
       "question": "Aort darlığında premedikasyonun taşikardi açısından amacı nedir?",
@@ -58,6 +66,7 @@
       "source": "Indian J Anaesth 2017: kapak hastalıkları"
     },
     {
+      "id": "PER243-1f7m205",
       "type": "flip",
       "importance": 2,
       "question": "Mitral darlıkta aşırı sedasyon pulmoner dolaşımı nasıl etkileyebilir?",
@@ -65,6 +74,7 @@
       "source": "Indian J Anaesth 2017: kapak hastalıkları"
     },
     {
+      "id": "PER243-0mcodvd",
       "type": "flip",
       "importance": 2,
       "question": "Kardiyak indüksiyonda opioidin güçlü uyaranlara karşı işlevi nedir?",
@@ -72,6 +82,7 @@
       "source": "Front Surg 2022: OPCAB"
     },
     {
+      "id": "PER243-1f1vora",
       "type": "remember",
       "importance": 3,
       "title": "Tüpü dalga formuyla doğrula",

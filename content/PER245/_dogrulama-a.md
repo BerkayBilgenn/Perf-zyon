@@ -1,6 +1,6 @@
 # PER245 doğrulama izi — a
 
-2026-10-08. Yazar kontrolü; bağımsız inceleme henüz yapılmadı. Dosya sıra numaraları aşağıdaki son JSON metnine aittir. Kaynak açımı V1–V19 için `work/per245/kaynak-izleri.md`; kapsam ve kaynak sınırlamaları orada ve araştırma §8’de açıklanır.
+2026-10-08. Yazar kontrolü kaydı. 2026-10-08 tarihli bağımsız inceleme ve düzeltmeler: [_bagimsiz-inceleme.md](_bagimsiz-inceleme.md). Dosya sıra numaraları aşağıdaki son JSON metnine aittir. Kaynak açımı V1–V19 için `work/per245/kaynak-izleri.md`; kapsam ve kaynak sınırlamaları orada ve araştırma §8’de açıklanır.
 
 ## 01-mediasten-a.json
 
@@ -203,7 +203,7 @@ Konu: Erişkin konjenital kalp hastalıkları; 10 kart.
 | #1 | term: PAPVR | §2.11; §3 sözlük #93 [K11] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
 | #2 | term: ASD | §2.11; §3 sözlük #110 [K37] | K37: ASD, Biomedicines 2025; Araştırma §7 özgün K kaynağı; ilgili nitel tanım K3/K6/K10/K11 ile de karşılaştırıldı |
 | #3 | term: PFO | §2.11; §3 sözlük #111 [K11] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
-| #4 | term: Unroofed koroner sinüs (Raghib) | §2.11; §3 sözlük #113 [K11,K37] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
+| #4 | term: Unroofed koroner sinüs | §2.11; §3 sözlük #113 [K11,K37] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
 | #5 | term: VSD | §2.11; §3 sözlük #114 [K11] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
 | #6 | term: AVSD | §2.11; §3 sözlük #115 [K11,K40] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
 | #7 | term: PDA | §2.11; §3 sözlük #116 [K11] | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
@@ -329,7 +329,7 @@ Konu: Hipotermi, kan gazı ve kardiyopleji; 22 kart.
 | #10 | term: del Nido solüsyonu | §2.17; §3 sözlük #190 [K25,K9] | K25: Boston Children’s, del Nido 2012; V16, Composition |
 | #11 | term: Buckberg kardiyoplejisi | §2.17; §3 sözlük #191 [K3] | K3: EACTS/EACTAIC/EBCP 2024; V1, §7/§9.3 |
 | #12 | term: Hot shot | §2.17; §3 sözlük #192 [K10] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
-| #13 | term: Antegrad kardiyopleji | §2.17; §3 sözlük #193 [K10] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
+| #13 | term: Antegrad kardiyopleji | §2.17; §3 sözlük #193 [K10]; ostial yol | K3: EACTS/EACTAIC/EBCP 2024; bağımsız inceleme §7.5.1 |
 | #14 | term: Retrograd kardiyopleji | §2.17; §3 sözlük #194 [K10] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
 | #15 | term: Ostial kardiyopleji | §2.17; §3 sözlük #195 [K10] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
 | #16 | term: Aort kros-klempi | §2.17; §3 sözlük #196 [K10,K7] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
@@ -357,8 +357,8 @@ Konu: KPB'den çıkış ve komplikasyonlar; 16 kart.
 | #9 | term: İskemi-reperfüzyon hasarı | §2.18; §3 sözlük #208 [K35,K33] | K35: İnflamasyon, Front Surg 2024; Araştırma §7 K bağlantısına iz; nitel hedef araştırma metniyle karşılaştırıldı (tüm K tam metinlerine yeniden erişim iddiası yok) |
 | #10 | term: Masif hava embolisi | §2.18; §3 sözlük #209 [K10,K3] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
 | #11 | term: Ters kanülasyon | §2.18; §3 sözlük #210 [K10] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
-| #12 | term: Oksijenatör yetmezliği | §2.18; §3 sözlük #211 [K9] | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
-| #13 | term: Su–kan kaçağı | §2.18; §3 sözlük #212 [K9] | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
+| #12 | term: Oksijenatör yetmezliği | §2.18; §3 sözlük #211 [K9] | K9: National Heart Center 2026; bağımsız inceleme, kaynak sayfadan arama aracının döndürdüğü Oxygenator failure / Water-to-blood leak pasajları |
+| #13 | term: Su–kan kaçağı | §2.18; §3 sözlük #212 [K9] | K9: National Heart Center 2026; bağımsız inceleme, kaynak sayfadan arama aracının döndürdüğü Oxygenator failure / Water-to-blood leak pasajları |
 | #14 | term: El krankı | §2.18; §3 sözlük #213 [K7,K9] | K7: AmSECT 2013; V6, Standard3/4/6 |
 | #15 | term: Mycobacterium chimaera | §2.18; §3 sözlük #214 [K3] | K3: EACTS/EACTAIC/EBCP 2024; V1, §11–12 |
 | #16 | term: Pump lung | §2.18; §3 sözlük #215 [K10] | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |

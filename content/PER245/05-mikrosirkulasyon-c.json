@@ -2,6 +2,7 @@
   "topic": "Mikrosirkülasyon ve KPB",
   "cards": [
     {
+      "id": "PER245-04rq33p",
       "type": "mcq",
       "importance": 3,
       "question": "Doku alışverişinin başlıca ince duvarlı damarı hangisidir?",
@@ -16,6 +17,7 @@
       "source": "Mikrosirkülasyon, Front CVM 2026"
     },
     {
+      "id": "PER245-0lp5ve2",
       "type": "mcq",
       "importance": 2,
       "question": "Revize Starling modelinde onkotik gradyanın doku tarafındaki referans bölge hangisidir?",
@@ -30,6 +32,7 @@
       "source": "Glikokaliks, Indian J Anaesth 2019"
     },
     {
+      "id": "PER245-17841lt",
       "type": "mcq",
       "importance": 2,
       "question": "Bölgesel doku oksijenlenmesi için kızılötesine yakın ışık kullanan yöntem hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0jwf02t",
       "type": "mcq",
       "importance": 2,
       "question": "Kapiller hidrostatik basınç artışı diğer etkenler sabitken hangi yönde etki eder?",
@@ -58,6 +62,7 @@
       "source": "Glikokaliks, Indian J Anaesth 2019"
     },
     {
+      "id": "PER245-0jt8vzq",
       "type": "tf",
       "importance": 2,
       "statement": "KPB sırasında kanın yabancı yüzeylerle teması inflamatuvar yanıtı tetikleyebilir.",
@@ -66,6 +71,7 @@
       "source": "İnflamasyon, Front Surg 2024"
     },
     {
+      "id": "PER245-01x1u0g",
       "type": "tf",
       "importance": 2,
       "statement": "Revize Starling ilkesi, glikokaliksin sıvı bariyerindeki rolünü dışlar.",

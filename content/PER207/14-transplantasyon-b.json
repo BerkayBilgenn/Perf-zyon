@@ -2,6 +2,7 @@
   "topic": "Transplantasyon ve yeni teknolojiler",
   "cards": [
     {
+      "id": "PER207-1pm1shj",
       "type": "fact",
       "importance": 2,
       "title": "EVLP’de işlevin birlikte değerlendirilmesi",
@@ -9,6 +10,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-085phvv",
       "type": "fact",
       "importance": 2,
       "title": "Steen solüsyonunun onkotik bileşeni",
@@ -16,6 +18,7 @@
       "source": "EVLP protokolleri 2021"
     },
     {
+      "id": "PER207-0ih7d04",
       "type": "fact",
       "importance": 2,
       "title": "PROCEED II: sonlanım türü",
@@ -23,6 +26,7 @@
       "source": "PROCEED II, Lancet 2015"
     },
     {
+      "id": "PER207-1gt0jy4",
       "type": "fact",
       "importance": 2,
       "title": "NRP’de ölüm tespiti önce gelir",
@@ -30,6 +34,7 @@
       "source": "Dhital, Sydney DCD deneyimi 2020"
     },
     {
+      "id": "PER207-043n974",
       "type": "fact",
       "importance": 2,
       "title": "Nakil sonrası solunum desteği",
@@ -37,6 +42,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1iq415m",
       "type": "flip",
       "importance": 2,
       "question": "Cypel 2011 EVLP çalışmasında radyografi ve bronkoskopi neyi tamamlar?",
@@ -44,6 +50,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-1yiykve",
       "type": "flip",
       "importance": 2,
       "question": "Cypel 2011 EVLP çalışmasında karşılaştırma grubuna hangi akciğerler alındı?",
@@ -51,6 +58,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-09jf9pm",
       "type": "remember",
       "importance": 3,
       "title": "EVLP’den sonra her organ kullanılmaz",
@@ -58,6 +66,7 @@
       "source": "Cypel, NEJM EVLP 2011"
     },
     {
+      "id": "PER207-073srze",
       "type": "fact",
       "importance": 1,
       "title": "Barnard ve ilk insan kalp nakli",
@@ -65,6 +74,7 @@
       "source": "Transplant merkezlerinin tarihçeleri"
     },
     {
+      "id": "PER207-0on6c0j",
       "type": "fact",
       "importance": 1,
       "title": "Reitz–Shumway ve kalp-akciğer nakli",
@@ -72,6 +82,7 @@
       "source": "Transplant merkezlerinin tarihçeleri"
     },
     {
+      "id": "PER207-0qyr0u2",
       "type": "fact",
       "importance": 1,
       "title": "Cooper ve başarılı akciğer nakli",

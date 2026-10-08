@@ -2,6 +2,7 @@
   "topic": "Yıkama, temizlik ve dekontaminasyon",
   "cards": [
     {
+      "id": "PER247-07ott3f",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +17,7 @@
       "explanation": "Akustik dalgaların oluşturduğu **kavitasyon**, partikülleri yüzeye bağlayan bağları koparır."
     },
     {
+      "id": "PER247-0r04r60",
       "type": "mcq",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +32,7 @@
       "explanation": "**Proteaz** proteinleri parçalar; enzimatik temizleyici kullanımı dezenfeksiyonun yerine geçmez."
     },
     {
+      "id": "PER247-1d1dc03",
       "type": "mcq",
       "importance": 3,
       "source": "WHO 2018",
@@ -44,6 +47,7 @@
       "explanation": "İnceleme sonunda kalıntı varsa alet **yeniden temizlenir**; kirli alet pakete alınmaz."
     },
     {
+      "id": "PER247-0fam8r4",
       "type": "mcq",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +62,7 @@
       "explanation": "CDC **fluidics**, yani basınçlı sıvıyla kanal temizliğini, uygun kanallar için tanımlar."
     },
     {
+      "id": "PER247-1tk6ikf",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +71,7 @@
       "explanation": "Açık ve uygun yerleşim, su/deterjanın yüzeylere ulaşmasını sağlar."
     },
     {
+      "id": "PER247-06141i9",
       "type": "tf",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",

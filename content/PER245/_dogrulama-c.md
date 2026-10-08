@@ -1,6 +1,6 @@
 # PER245 doğrulama izi — c
 
-2026-10-08. Yazar kontrolü; bağımsız inceleme henüz yapılmadı. Dosya sıra numaraları aşağıdaki son JSON metnine aittir. Kaynak açımı V1–V19 için `work/per245/kaynak-izleri.md`; kapsam ve kaynak sınırlamaları orada ve araştırma §8’de açıklanır.
+2026-10-08. Yazar kontrolü kaydı. 2026-10-08 tarihli bağımsız inceleme ve düzeltmeler: [_bagimsiz-inceleme.md](_bagimsiz-inceleme.md). Dosya sıra numaraları aşağıdaki son JSON metnine aittir. Kaynak açımı V1–V19 için `work/per245/kaynak-izleri.md`; kapsam ve kaynak sınırlamaları orada ve araştırma §8’de açıklanır.
 
 ## 01-mediasten-c.json
 
@@ -138,7 +138,7 @@ Konu: Erişkin konjenital kalp hastalıkları; 6 kart.
 
 | Sıra | Tür / öğrenme hedefi | Araştırma izi | Kaynak / doğrulama izi |
 |---|---|---|---|
-| #1 | mcq: Sinüs venozus ASD ile hangi venöz anomali birlikte olabilir? | §2.11 | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
+| #1 | mcq: Üst sinüs venozus ASD'de sağ pulmoner venlerin bir bölümünün VCS/sağ atriyuma açılması hangi anomalidir? | §2.11 | K56: ESC Erişkin KKH 2020; bağımsız inceleme §4.1.1 |
 | #2 | mcq: Aort kapağı prolapsusuyla ilişkili VSD grubu hangisidir? | §2.11 | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
 | #3 | mcq: Primum ASD ile sol AV kapak kleftı hangi spektrumun parsiyel formudur? | §2.11 | K11: UMN Kalp Anatomisi Atlası; V12/V13, septal/venöz lezyon |
 | #4 | mcq: Fontan dolaşımında uzun dönem kardiyak dışı hangi organ tutulumu izlenir? | §2.11 | K56: ESC Erişkin KKH 2020; V17, ilgili lezyon bölümündeki açık metin |
@@ -221,7 +221,7 @@ Konu: Hipotermi, kan gazı ve kardiyopleji; 8 kart.
 |---|---|---|---|
 | #1 | mcq: del Nido'daki lidokainin başlıca kanal etkisi hangisidir? | §2.17 | K25: Boston Children’s, del Nido 2012; V16, Composition |
 | #2 | mcq: Aort kökü yerine koroner ağızlara doğrudan solüsyon verilmesi hangi yoldur? | §2.17 | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
-| #3 | mcq: Isıtma sırasında oksijenatör çıkış sıcaklığı beynin gerçek sıcaklığını nasıl yansıtabilir? | §2.17 | K5: STS/SCA/AmSECT 2015; V4, sıcaklık öneri tablosu |
+| #3 | mcq: Isıtma sırasında oksijenatör çıkış sıcaklığı serebral perfüzat sıcaklığını nasıl yansıtabilir? | §2.17 | K5: STS/SCA/AmSECT 2015; V4, sıcaklık öneri tablosu |
 | #4 | mcq: Venting hangi mekanik sorunu önlemeyi amaçlar? | §2.17 | K10: Kumar, J Thorac Dis 2020; V8, ilgili uygulama başlığı |
 | #5 | mcq: Aort klemp süresi kaydı hangi temel süreyi izlemede kullanılır? | §2.17 | K7: AmSECT 2013; V6, Standard3/4/6 |
 | #6 | tf: Hipotermi, pıhtılaşma ve trombosit işlevlerini olumsuz etkileyebilir. | §2.17 | K3: EACTS/EACTAIC/EBCP 2024; V1, §7/§9.3 |

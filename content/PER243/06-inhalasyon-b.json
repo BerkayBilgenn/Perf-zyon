@@ -2,6 +2,7 @@
   "topic": "İnhalasyon anestezikleri",
   "cards": [
     {
+      "id": "PER243-147163n",
       "type": "fact",
       "importance": 2,
       "title": "Yaş ve volatil gereksinimi",
@@ -9,6 +10,7 @@
       "source": "Barash Clinical Anesthesia"
     },
     {
+      "id": "PER243-1bb5i5r",
       "type": "fact",
       "importance": 2,
       "title": "Hipotermi ve çözünürlük",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1oy37bx",
       "type": "fact",
       "importance": 2,
       "title": "Isınmada derinlik değişimi",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-16nhfvu",
       "type": "fact",
       "importance": 2,
       "title": "Volatil anestezinin klinik kanıtı",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-13t0kwh",
       "type": "fact",
       "importance": 1,
       "title": "Compound A oluşum koşulları",
@@ -37,6 +42,7 @@
       "source": "Indian J Anaesth 2013: anestezi cihazı"
     },
     {
+      "id": "PER243-1wyxa73",
       "type": "fact",
       "importance": 2,
       "title": "Malign hiperterminin sistemi",
@@ -44,6 +50,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-12j525l",
       "type": "flip",
       "importance": 2,
       "question": "Volatil ajanlar KPB'de hangi gaz hattından verilebilir?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-19n34hr",
       "type": "flip",
       "importance": 3,
       "question": "Nitröz oksit KPB çevresinde neden sorun oluşturur?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1ow0i6v",
       "type": "flip",
       "importance": 3,
       "question": "Dantrolen hangi anestezi acilinin özgül ilacıdır?",
@@ -65,6 +74,7 @@
       "source": "DailyMed: dantrolen"
     },
     {
+      "id": "PER243-0qy90a9",
       "type": "remember",
       "importance": 3,
       "title": "Tetikleyiciler ve MH",

@@ -2,6 +2,7 @@
   "topic": "Pediatrik KPB'nin temelleri",
   "cards": [
     {
+      "id": "PER241-0wbrt07",
       "type": "mcq",
       "importance": 3,
       "source": "Hendrix ve ark. 2021",
@@ -16,6 +17,7 @@
       "explanation": "Prime devreyi dolaşıma hazır ve havasız hale getiren dolgu ve işlemdir."
     },
     {
+      "id": "PER241-1swtlb9",
       "type": "mcq",
       "importance": 3,
       "source": "Groom ve ark. 2005",
@@ -30,6 +32,7 @@
       "explanation": "Vakum yardımlı venöz drenaj rezervuara negatif basınç uygulanmasına dayanır."
     },
     {
+      "id": "PER241-1rmp3aq",
       "type": "mcq",
       "importance": 3,
       "source": "Ramakrishnan ve ark. 2023",
@@ -44,6 +47,7 @@
       "explanation": "Kardiyak indeks debinin vücut yüzey alanına göre normalize edilmesidir."
     },
     {
+      "id": "PER241-1xmmkbc",
       "type": "tf",
       "importance": 3,
       "source": "Hendrix ve ark. 2021",
@@ -52,6 +56,7 @@
       "explanation": "Kan ürünleri hemodilüsyon ve koagülasyon gereksinimleri göz önüne alınarak kullanılır."
     },
     {
+      "id": "PER241-12m51de",
       "type": "tf",
       "importance": 3,
       "source": "Draaisma 2009",

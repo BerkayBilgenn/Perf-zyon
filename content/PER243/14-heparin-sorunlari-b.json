@@ -2,6 +2,7 @@
   "topic": "Heparin direnci, HİT ve protamin",
   "cards": [
     {
+      "id": "PER243-0eofds2",
       "type": "fact",
       "importance": 3,
       "title": "Heparin direncinin başka nedenleri",
@@ -9,6 +10,7 @@
       "source": "BJA Education 2023: heparin"
     },
     {
+      "id": "PER243-04v4q60",
       "type": "fact",
       "importance": 2,
       "title": "HİT testinin sınırı",
@@ -16,6 +18,7 @@
       "source": "BJA Education 2023: alternatifler"
     },
     {
+      "id": "PER243-1mo2h78",
       "type": "fact",
       "importance": 2,
       "title": "Bivalirudin ve durgun kan",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-123e64n",
       "type": "fact",
       "importance": 2,
       "title": "Uzamış ACT ve protamin",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0ttb973",
       "type": "fact",
       "importance": 1,
       "title": "Desmopressinin tekrar yanıtı",
@@ -37,6 +42,7 @@
       "source": "DailyMed: desmopressin"
     },
     {
+      "id": "PER243-1k8c5oo",
       "type": "flip",
       "importance": 1,
       "question": "Böbrek yetmezliği olan HİT hastasında argatrobanın tercih gerekçesi nedir?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1pj8lpm",
       "type": "flip",
       "importance": 2,
       "question": "Heparin direncinde AT desteğinin temel amacı nedir?",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-01x9zmt",
       "type": "flip",
       "importance": 2,
       "question": "Protamin heparini hangi bağlanma biçimiyle etkisizleştirir?",
@@ -58,6 +66,7 @@
       "source": "DailyMed: protamin"
     },
     {
+      "id": "PER243-1wb6gcg",
       "type": "remember",
       "importance": 3,
       "title": "HİT'te tromboz",
@@ -65,6 +74,7 @@
       "source": "BJA Education 2023: alternatifler"
     },
     {
+      "id": "PER243-1b7760i",
       "type": "remember",
       "importance": 3,
       "title": "Protamin ve aspiratör",
@@ -72,6 +82,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1qvu3kv",
       "type": "remember",
       "importance": 3,
       "title": "Traneksamik asitte yol hatası",
@@ -79,6 +90,7 @@
       "source": "DailyMed: traneksamik asit"
     },
     {
+      "id": "PER243-143pug9",
       "type": "fact",
       "importance": 3,
       "title": "Protamin ürün bilgisindeki sınır",
@@ -86,6 +98,7 @@
       "source": "DailyMed: protamin"
     },
     {
+      "id": "PER243-1gcawf6",
       "type": "fact",
       "importance": 1,
       "title": "Desmopressin ve özgül endikasyon",
@@ -93,6 +106,7 @@
       "source": "DailyMed: desmopressin"
     },
     {
+      "id": "PER243-0ousuaa",
       "type": "fact",
       "importance": 2,
       "title": "Kılavuzda protamin oranı",
@@ -100,6 +114,7 @@
       "source": "EACTS/EACTAIC PBM 2024"
     },
     {
+      "id": "PER243-1ldw9o5",
       "type": "fact",
       "importance": 2,
       "title": "Önceki protamin maruziyeti",

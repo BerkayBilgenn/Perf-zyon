@@ -2,6 +2,7 @@
   "topic": "Güvenlik, monitörizasyon ve acil durumlar",
   "cards": [
     {
+      "id": "PER141-0odtqgw",
       "type": "fact",
       "importance": 3,
       "title": "İki taraflı basınç izlemi",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0rn45f1",
       "type": "fact",
       "importance": 2,
       "title": "Alarm ile pompa arasındaki ilişki",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0kugm12",
       "type": "fact",
       "importance": 2,
       "title": "Akım ölçümünün yeri",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0578klb",
       "type": "fact",
       "importance": 2,
       "title": "NIRS uyarı örneği",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0roj8nj",
       "type": "fact",
       "importance": 2,
       "title": "Kalıcı perfüzyon kaydı",
@@ -37,6 +42,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0tor6de",
       "type": "flip",
       "importance": 3,
       "question": "KPB checklist'inin tamamlandığı ekip içinde ne zaman teyit edilir?",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1j91i7j",
       "type": "flip",
       "importance": 3,
       "question": "Elektrik kesintisinde pompa desteğinin yedek zinciri nasıldır?",
@@ -51,6 +58,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0s4vvog",
       "type": "flip",
       "importance": 2,
       "question": "İyatrojenik aort diseksiyonunda erken tanıya hangi görüntüleme yöntemi yardım eder?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0cz5foy",
       "type": "remember",
       "importance": 3,
       "title": "Ayrılınca acil devreyi kaldırma",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1bciotv",
       "type": "remember",
       "importance": 3,
       "title": "Hastaya giden hatlarda hava güvenliği",

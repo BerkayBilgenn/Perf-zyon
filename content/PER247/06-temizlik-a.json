@@ -2,6 +2,7 @@
   "topic": "Yıkama, temizlik ve dekontaminasyon",
   "cards": [
     {
+      "id": "PER247-06ua176",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -10,6 +11,7 @@
       "en": "Detergent"
     },
     {
+      "id": "PER247-08uybg7",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -18,6 +20,7 @@
       "en": "Enzyme cleaner"
     },
     {
+      "id": "PER247-14zqvxm",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -26,6 +29,7 @@
       "en": "Surfactant"
     },
     {
+      "id": "PER247-1j79hzn",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -34,6 +38,7 @@
       "en": "Ultrasonic cleaner"
     },
     {
+      "id": "PER247-1b37vbm",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -42,6 +47,7 @@
       "en": "Cavitation"
     },
     {
+      "id": "PER247-1y70y6m",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -50,6 +56,7 @@
       "en": "Washer-disinfector"
     },
     {
+      "id": "PER247-0ac6l7a",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -58,6 +65,7 @@
       "en": "Thermal disinfection"
     },
     {
+      "id": "PER247-1gnklvo",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -66,6 +74,7 @@
       "en": "Precleaning / prerinse"
     },
     {
+      "id": "PER247-1vguyb7",
       "type": "term",
       "importance": 2,
       "source": "WHO 2018",
@@ -74,6 +83,7 @@
       "en": "Protein residue test"
     },
     {
+      "id": "PER247-0he9r4l",
       "type": "term",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -82,6 +92,7 @@
       "en": "Fluidics"
     },
     {
+      "id": "PER247-10qfakh",
       "type": "term",
       "importance": 1,
       "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
@@ -90,6 +101,7 @@
       "en": "Instrument lubrication"
     },
     {
+      "id": "PER247-1urertu",
       "type": "term",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -98,6 +110,7 @@
       "en": "Reprocessing"
     },
     {
+      "id": "PER247-0fsyx0x",
       "type": "compare",
       "importance": 2,
       "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",

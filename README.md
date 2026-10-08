@@ -28,4 +28,18 @@ Kartların nasıl yazılacağı, hedef sayılar (ders başına ~500, toplam 3.00
 
 Altı derste **3.144 kart** bulunur: PER141 510, PER207 517, PER241 524, PER243 562, PER245 513, PER247 518. Kart üretimi ders başına en az 450, konu başına en az 15 ve tür dağılımı hedeflerine ulaştı. Kaynak izleri `content/<DERS>/_dogrulama-*.md` kayıtlarında; güncel kontrol kapsamı ve kalan geliştirmeler spec §13’te bulunur.
 
-Bu ara yayında kart üretimi ve yazar kontrolleri tamamlanmıştır. PER207 ve PER245 için bağımsız içerik incelemesi sürmektedir; PER247 için son bağımsız inceleme kaydı henüz tamamlanmamıştır.
+Kart üretimi ve yazar kontrolleri tamamlandı. PER207, PER245 ve PER247’nin bağımsız içerik taraması da tamamlandı: 28 kartın ifadesi, test adaleti veya kaynak atfı düzeltildi; toplam kart sayısı korundu. Her dersin `_bagimsiz-inceleme.md` dosyası dış kaynak doğrulamasının kapsamını ve erişim sınırlarını kaydeder.
+
+## Devam turu doğrulaması
+
+Belgelenen dokuz uygulama sorunu giderildi. Kaldığın kart yeniden puan vermez, cevaplar küçük ekranlarda görünür, ders yüklemeleri zaman aşımı ve şema kontrolüyle korunur. Mevcut 3.144 kimlik kaynak kartlara sabitlendi; içerik düzeltmeleri kaydedilenleri kaybettirmez. Başarısız derleme eski veriyi bırakmaz.
+
+`npm test` 69 testi çalıştırır. Tarayıcı kontrolü için önizleme açıkken Playwright 1.62.1 ve Chromium/WebKit gerekir:
+
+```bash
+npm install --no-save --package-lock=false playwright@1.62.1
+npx playwright install chromium webkit
+npm run test:browser
+```
+
+Önizleme yalnızca bu bilgisayarda `127.0.0.1` üzerinden dinler. `PLAYWRIGHT_MODULE` mevcut bir Playwright modülünün yoluna, `PREVIEW_URL` başka bir yerel önizleme adresine ayarlanabilir. GitHub Actions aynı kontrolleri otomatik çalıştırır.

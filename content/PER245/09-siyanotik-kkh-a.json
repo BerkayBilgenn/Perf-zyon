@@ -2,6 +2,7 @@
   "topic": "Siyanotik konjenital kalp hastalıkları",
   "cards": [
     {
+      "id": "PER245-0wmimuh",
       "type": "term",
       "importance": 3,
       "term": "Konjenital kalp hastalığı (KKH)",
@@ -10,6 +11,7 @@
       "source": "PLSVC, Life 2026"
     },
     {
+      "id": "PER245-1ckufrm",
       "type": "term",
       "importance": 2,
       "term": "Siyanoz",
@@ -18,6 +20,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0yrkhkf",
       "type": "term",
       "importance": 2,
       "term": "Fallot tetralojisi (TOF)",
@@ -26,6 +29,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0xwrtdw",
       "type": "term",
       "importance": 2,
       "term": "Tet nöbeti",
@@ -34,14 +38,16 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-05b25xb",
       "type": "term",
       "importance": 3,
       "term": "Blalock-Taussig(-Thomas) şantı",
       "en": "(Modified) Blalock-Taussig shunt",
-      "definition": "Subklavyen arter ile pulmoner arter arasına konan greftle pulmoner akım sağlayan palyatif şant.",
+      "definition": "Modifiye biçiminde subklavyen arter ile pulmoner arter arasına greft yerleştirilerek pulmoner akım sağlayan palyatif şant.",
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-06cq8xy",
       "type": "term",
       "importance": 1,
       "term": "d-TGA",
@@ -50,6 +56,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-14b0y7c",
       "type": "term",
       "importance": 2,
       "term": "Arteriyel switch (Jatene)",
@@ -58,6 +65,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0sc0j4w",
       "type": "term",
       "importance": 2,
       "term": "LeCompte manevrası",
@@ -66,6 +74,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-121ftoc",
       "type": "term",
       "importance": 3,
       "term": "Balon atriyal septostomi",
@@ -74,6 +83,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0mkwoyl",
       "type": "term",
       "importance": 2,
       "term": "ccTGA (L-TGA)",
@@ -82,6 +92,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0j3amdv",
       "type": "term",
       "importance": 1,
       "term": "Persistan trunkus arteriyozus",
@@ -90,6 +101,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0jd7iwu",
       "type": "term",
       "importance": 2,
       "term": "TAPVR",
@@ -98,6 +110,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-016z4q4",
       "type": "term",
       "importance": 2,
       "term": "Triküspit atrezisi",
@@ -106,6 +119,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-13wgdxq",
       "type": "term",
       "importance": 2,
       "term": "Ebstein anomalisi",
@@ -114,6 +128,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ost02g",
       "type": "term",
       "importance": 1,
       "term": "Pulmoner atrezi",
@@ -122,6 +137,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ix6c7l",
       "type": "term",
       "importance": 3,
       "term": "MAPCA",
@@ -130,6 +146,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1uhtwv0",
       "type": "term",
       "importance": 2,
       "term": "HLHS",
@@ -138,6 +155,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0sq3igm",
       "type": "term",
       "importance": 2,
       "term": "Norwood ameliyatı",
@@ -146,6 +164,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0d152tk",
       "type": "term",
       "importance": 2,
       "term": "Glenn anastomozu",
@@ -154,6 +173,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1avydq8",
       "type": "term",
       "importance": 3,
       "term": "Fontan ameliyatı",
@@ -162,6 +182,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1q77080",
       "type": "term",
       "importance": 2,
       "term": "DORV",
@@ -170,6 +191,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1pbdb4q",
       "type": "term",
       "importance": 2,
       "term": "Rastelli ameliyatı",
@@ -178,6 +200,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-184ehrf",
       "type": "term",
       "importance": 2,
       "term": "Pulmoner arter bandı",
@@ -186,6 +209,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1s1xic9",
       "type": "term",
       "importance": 1,
       "term": "Eritrositoz",
@@ -194,6 +218,7 @@
       "source": "Konjenital ilişkiler, Europe PMC"
     },
     {
+      "id": "PER245-0jkx0rx",
       "type": "term",
       "importance": 2,
       "term": "Kollateral dönüş",
@@ -202,6 +227,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1sxzos3",
       "type": "compare",
       "importance": 2,
       "title": "Transpozisyonda bağlantılar",

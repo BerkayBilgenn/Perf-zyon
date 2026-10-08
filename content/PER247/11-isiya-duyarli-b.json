@@ -2,6 +2,7 @@
   "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
   "cards": [
     {
+      "id": "PER247-1olzr7g",
       "type": "fact",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "Isıya dayanıklı kritik cihazda buhar tercih edilir. **Isı/nem duyarlılığında** üreticiyle uyumlu düşük sıcaklık yöntemi seçilir; her plastik için aynı yöntem uygun değildir."
     },
     {
+      "id": "PER247-14cfxyw",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "H2O2 gaz plazmada uzun ve dar lümenlerin işlenmesi **üreticinin çap-uzunluk sınırlarına** bağlıdır. Dış yüzeyin işlenmesi kanal içine yeterli sterilan ulaştığını kanıtlamaz."
     },
     {
+      "id": "PER247-0gqro6w",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "CDC, buharlaştırılmış hidrojen peroksitin **naylonu kırılganlaştırabileceğini** belirtir. Düşük sıcaklıkta işlem, otomatik olarak tam materyal uyumu demek değildir."
     },
     {
+      "id": "PER247-1f615yr",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -30,6 +34,7 @@
       "body": "İyonize radyasyon **polietilende oksidasyon** oluşturabilir. CDC’de polietilen protez yataklarında delaminasyon ve çatlama gibi materyal etkileri anlatılır."
     },
     {
+      "id": "PER247-0kwamm4",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -37,6 +42,7 @@
       "body": "CDC, **silikon kateterlerde iyodofor kullanımından kaçınılmasını** belirtir. Dezenfektan seçimi, mikrobiyal spektrum kadar materyal uyumunu da gerektirir."
     },
     {
+      "id": "PER247-1v6qym8",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "Isı/nem toleransı yanında **sterilan, ambalaj, lümen ve işlem sonrası kalıntı** uyumu. Yalnız \"plastik\" adıyla bütün ürünlere ortak döngü seçilmez."
     },
     {
+      "id": "PER247-06zz5cg",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -51,6 +58,7 @@
       "answer": "Gerekli vakumun sağlanmasını engelleyerek **döngünün iptaline** yol açabilir. Düşük sıcaklık yöntemi öncesinde uygun kurutma gerekir."
     },
     {
+      "id": "PER247-0rpl4sg",
       "type": "flip",
       "importance": 2,
       "source": "FDA Tıbbi cihaz sterilizasyonu",
@@ -58,6 +66,7 @@
       "answer": "Bazı polimerlerde, çok katlı ambalajlarda ve erişilmesi güç bölgelerde, **cihaza zarar vermeden penetrasyon** sağlayabilir. Belirli ürünün yöntemi etiket/talimattan öğrenilir."
     },
     {
+      "id": "PER247-1nawfvq",
       "type": "remember",
       "importance": 3,
       "source": "WHO 2018",

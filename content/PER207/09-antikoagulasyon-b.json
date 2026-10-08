@@ -2,6 +2,7 @@
   "topic": "Koagülasyon ve antikoagülasyon",
   "cards": [
     {
+      "id": "PER207-1vtd5es",
       "type": "fact",
       "importance": 3,
       "title": "Anti-Xa için kılavuz aralığı",
@@ -9,6 +10,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-0bseppx",
       "type": "fact",
       "importance": 3,
       "title": "Kromojenik anti-Xa etkileşimleri",
@@ -16,6 +18,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-0dff0ua",
       "type": "fact",
       "importance": 3,
       "title": "aPTT hedefinin kanıt sınırı",
@@ -23,6 +26,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-03i4qx3",
       "type": "fact",
       "importance": 3,
       "title": "ACT cihazları ve sonuçlar",
@@ -30,6 +34,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-0uvnxxe",
       "type": "fact",
       "importance": 3,
       "title": "AT replasmanında kanıt sınırı",
@@ -37,6 +42,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-0ilho01",
       "type": "fact",
       "importance": 3,
       "title": "Trombosit hedefi kanamaya göre",
@@ -44,6 +50,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-16y2sbj",
       "type": "fact",
       "importance": 3,
       "title": "Fibrinojen hedefinin kaynak yılı",
@@ -51,6 +58,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-15yzvur",
       "type": "fact",
       "importance": 3,
       "title": "Laboratuvar izlemi birlikte yorumlanır",
@@ -58,6 +66,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-0ccxfni",
       "type": "fact",
       "importance": 3,
       "title": "HIT’te olasılık ve test seçimi",
@@ -65,6 +74,7 @@
       "source": "ASH HIT Kılavuzu 2018"
     },
     {
+      "id": "PER207-1kd8ynp",
       "type": "flip",
       "importance": 3,
       "question": "Yüksek faktör VIII ve fibrinojen UFH izlemini nasıl yanıltabilir?",
@@ -72,6 +82,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-00pod6k",
       "type": "flip",
       "importance": 3,
       "question": "Heparinazlı ve heparinazsız viskoelastik testler neden karşılaştırılır?",
@@ -79,6 +90,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-1hz9tea",
       "type": "flip",
       "importance": 3,
       "question": "Pozitif PF4–heparin antikor testi neden tek başına klinik HIT tanısı değildir?",
@@ -86,6 +98,7 @@
       "source": "ASH HIT Kılavuzu 2018"
     },
     {
+      "id": "PER207-07w5qkd",
       "type": "flip",
       "importance": 3,
       "question": "Devre tromboz yükü için hangi dolaylı bulgular birlikte izlenebilir?",
@@ -93,6 +106,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-1maeyte",
       "type": "remember",
       "importance": 3,
       "title": "Kaplama sistemik izlemi kaldırmaz",
@@ -100,6 +114,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-08szfoe",
       "type": "remember",
       "importance": 3,
       "title": "HIT kanama hastalığına indirgenmez",
@@ -107,6 +122,7 @@
       "source": "ASH HIT Kılavuzu 2018"
     },
     {
+      "id": "PER207-0q47ju7",
       "type": "remember",
       "importance": 3,
       "title": "Anti-Xa DTİ düzeyini göstermez",
@@ -114,6 +130,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-04hlpfh",
       "type": "fact",
       "importance": 3,
       "title": "HIT şüphesinde heparin maruziyeti",

@@ -2,6 +2,7 @@
   "topic": "KPB'de anestezi, ayrılma ve aciller",
   "cards": [
     {
+      "id": "PER243-1idpjqn",
       "type": "mcq",
       "importance": 3,
       "question": "KPB'de kanülasyon yerinde aort diseksiyonunun tanısına hangi araç katkı sağlar?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1hefjgz",
       "type": "mcq",
       "importance": 2,
       "question": "KPB devresinde rezervuar boşalmasını algılayan güvenlik aracı hangisidir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-12pvdmq",
       "type": "mcq",
       "importance": 2,
       "question": "KPB devresinde hava varlığını algılayan güvenlik aracı hangisidir?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1h8qluv",
       "type": "tf",
       "importance": 2,
       "statement": "Zor KPB ayrılması yalnız anestezi ilaçlarını keserek değerlendirilir.",

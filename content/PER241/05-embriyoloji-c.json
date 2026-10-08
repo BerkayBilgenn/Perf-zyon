@@ -2,6 +2,7 @@
   "topic": "Kardiyovasküler embriyoloji",
   "cards": [
     {
+      "id": "PER241-1gglllj",
       "type": "mcq",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -16,6 +17,7 @@
       "explanation": "Endokardiyal yastıklar atriyoventriküler kanal septasyonuna katılır."
     },
     {
+      "id": "PER241-1b87fz1",
       "type": "mcq",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -30,6 +32,7 @@
       "explanation": "İlk atriyal açıklık, büyüyen septum primumun alt kenarıyla yastıklar arasındadır."
     },
     {
+      "id": "PER241-13c6f2z",
       "type": "mcq",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -44,6 +47,7 @@
       "explanation": "Nöral krista hücreleri konotrunkal septasyonla ilişkilidir."
     },
     {
+      "id": "PER241-0xu8wr1",
       "type": "mcq",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -58,6 +62,7 @@
       "explanation": "Spiral septum embriyonik çıkış yolunu aort ve pulmoner trunkusa ayırır."
     },
     {
+      "id": "PER241-0hy6pz4",
       "type": "mcq",
       "importance": 2,
       "source": "OpenStax A&P 2e",
@@ -72,6 +77,7 @@
       "explanation": "Sinüs venozus kalp tüpünün kaudal giriş segmentidir."
     },
     {
+      "id": "PER241-0oaq5ht",
       "type": "tf",
       "importance": 2,
       "source": "Kenhub embriyoloji",
@@ -80,6 +86,7 @@
       "explanation": "İlk ince septum, foramen ovale kapakçığının anatomik temelidir."
     },
     {
+      "id": "PER241-1adc292",
       "type": "tf",
       "importance": 2,
       "source": "Kenhub embriyoloji",

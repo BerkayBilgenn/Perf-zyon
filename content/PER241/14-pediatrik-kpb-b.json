@@ -2,6 +2,7 @@
   "topic": "Pediatrik KPB'nin temelleri",
   "cards": [
     {
+      "id": "PER241-1vglb97",
       "type": "remember",
       "importance": 3,
       "source": "Draaisma 2009",
@@ -9,6 +10,7 @@
       "body": "Devre prime hacmi hastanın kan hacmine yaklaşabilir; **prime/hasta kan hacmi oranı** erişkindekinden çok daha büyüktür."
     },
     {
+      "id": "PER241-0afh78l",
       "type": "fact",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -16,6 +18,7 @@
       "body": "Kısa hatlar ve küçük devre bileşenleri **prime hacmini ve hemodilüsyonu azaltmayı** hedefler; donör kan gereksinimi de azalabilir."
     },
     {
+      "id": "PER241-0w6a1i9",
       "type": "fact",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -23,6 +26,7 @@
       "body": "**Kan-devre yüzeyi ve kan-hava teması**, cerrahi travma ve iskemi-reperfüzyonla birlikte inflamatuvar yanıtı tetikleyebilir."
     },
     {
+      "id": "PER241-18s5ve6",
       "type": "fact",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -30,6 +34,7 @@
       "body": "Büyük prime hacmi ve hemodilüsyon derecesi, **inflamatuvar mediatör artışıyla** ilişkilidir."
     },
     {
+      "id": "PER241-1uan8uc",
       "type": "fact",
       "importance": 2,
       "source": "Hendrix ve ark. 2021",
@@ -37,6 +42,7 @@
       "body": "Oksijenatör, pompa başlığı ve hat çapı **gereken maksimum akıma göre** seçilir; bu akımı düşük prime ile sağlamak amaçlanır."
     },
     {
+      "id": "PER241-0l0i57n",
       "type": "flip",
       "importance": 2,
       "source": "Hagedorn ve ark. 2019",
@@ -44,6 +50,7 @@
       "answer": "Heparinizasyon ve aortik kanülasyondan sonra **hastanın kendi kanıyla prime geriye doğru itilerek** uzaklaştırılır."
     },
     {
+      "id": "PER241-166un9c",
       "type": "remember",
       "importance": 3,
       "source": "Draaisma 2009",
@@ -51,6 +58,7 @@
       "body": "Bankada saklanmış kanın **potasyum, glukoz ve laktat yükü** ile düşük pH'sı neonatal prime için önem taşır."
     },
     {
+      "id": "PER241-18kntai",
       "type": "flip",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -58,6 +66,7 @@
       "answer": "Saklanmış eritrositlerin yıkanması **potasyum ve laktat yükünü azaltmak** için kullanılabilir."
     },
     {
+      "id": "PER241-1vgtfj3",
       "type": "flip",
       "importance": 2,
       "source": "Hendrix ve ark. 2021",
@@ -65,6 +74,7 @@
       "answer": "Kanlı neonatal prime'ın **elektrolit ve asit-baz bileşimi**, bypass başlamadan değerlendirilir; kullanılan ürünler sonucu etkiler."
     },
     {
+      "id": "PER241-148zamg",
       "type": "fact",
       "importance": 2,
       "source": "Egro ve ark. 2020",
@@ -72,6 +82,7 @@
       "body": "Beklenen hematokrit, **toplam eritrosit hacminin toplam dolaşan hacme oranıdır**. Prime'daki eritrosit hacmi de paya eklenir."
     },
     {
+      "id": "PER241-1cvnlfh",
       "type": "fact",
       "importance": 2,
       "source": "Ramakrishnan ve ark. 2023",
@@ -79,6 +90,7 @@
       "body": "Ramakrishnan ve ark. protokolünde yenidoğan akımı **175–200 mL/kg/dk** olarak verilir; bu kurumsal yüksek akım stratejisidir."
     },
     {
+      "id": "PER241-1rh3olv",
       "type": "fact",
       "importance": 2,
       "source": "Ramakrishnan ve ark. 2023",

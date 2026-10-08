@@ -2,6 +2,7 @@
   "topic": "Kriz yönetimi",
   "cards": [
     {
+      "id": "PER207-06gw4gm",
       "type": "mcq",
       "importance": 3,
       "question": "Matte 2024’te oksijenatör değişimi yerine venöz piggyback önerisinin temel klinik amacı nedir?",
@@ -16,6 +17,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-0ymcas9",
       "type": "mcq",
       "importance": 3,
       "question": "Venöz piggyback kurtarma yönteminde ikinci oksijenatörün kanı nereden alınır?",
@@ -30,6 +32,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-12cyisz",
       "type": "mcq",
       "importance": 3,
       "question": "KPB sırasında oksijenasyon bozulmasında cihaz değişiminden önce hangi kontrol doğrudur?",
@@ -44,6 +47,7 @@
       "source": "Matte, JECT 2024"
     },
     {
+      "id": "PER207-0b5wv6j",
       "type": "tf",
       "importance": 2,
       "statement": "Matte 2024’te venöz piggyback yöntemi, venöz hattan kan alarak ek oksijenatörden rezervuara döndürür.",

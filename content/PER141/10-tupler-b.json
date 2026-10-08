@@ -2,6 +2,7 @@
   "topic": "Tüpler, konnektörler ve prime hacmi",
   "cards": [
     {
+      "id": "PER141-0v3294v",
       "type": "fact",
       "importance": 2,
       "title": "Erişkin tüp kullanım eşleşmesi",
@@ -9,6 +10,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0q94s9a",
       "type": "fact",
       "importance": 1,
       "title": "İç çapın metrik karşılığı",
@@ -16,6 +18,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0wb7x20",
       "type": "fact",
       "importance": 2,
       "title": "Tüp hacmi hesabı",
@@ -23,6 +26,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-185als2",
       "type": "fact",
       "importance": 2,
       "title": "DEHP yerine TOTM",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1gegwww",
       "type": "fact",
       "importance": 1,
       "title": "Soğuk PVC'nin davranışı",
@@ -37,6 +42,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1omosvm",
       "type": "flip",
       "importance": 2,
       "question": "Tüpün etiketindeki çap ile duvar ölçüsü nasıl okunur?",
@@ -44,6 +50,7 @@
       "source": "LivaNova tüp seti"
     },
     {
+      "id": "PER141-12ibv8s",
       "type": "flip",
       "importance": 3,
       "question": "Tüp çapını küçültmek prime'ı azaltırken hangi bedeli doğurabilir?",
@@ -51,6 +58,7 @@
       "source": "Klabunde: CV Physiology"
     },
     {
+      "id": "PER141-1brp9yq",
       "type": "flip",
       "importance": 2,
       "question": "Tüpleri kısaltmak devrenin hangi üç yükünü azaltmayı amaçlar?",
@@ -58,6 +66,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0gp7ml5",
       "type": "remember",
       "importance": 3,
       "title": "Prime tasarımını girişten önce değerlendir",

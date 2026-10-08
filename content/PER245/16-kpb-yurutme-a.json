@@ -2,6 +2,7 @@
   "topic": "Kanülasyon ve KPB'nin yürütülmesi",
   "cards": [
     {
+      "id": "PER245-0gfv6hh",
       "type": "term",
       "importance": 3,
       "term": "Aortik (arteriyel) kanül",
@@ -10,6 +11,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-12anqbl",
       "type": "term",
       "importance": 1,
       "term": "İki kademeli venöz kanül",
@@ -18,14 +20,16 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-03i4d32",
       "type": "term",
       "importance": 2,
       "term": "Total KPB",
       "en": "Total bypass",
-      "definition": "Kaval snare'lerle tüm sistemik venöz dönüşün pompaya alınması.",
+      "definition": "Tüm sistemik venöz dönüşün pompaya yönlendirildiği KPB; bikaval kanülasyonda snare'lerle sağ atriyum izole edilebilir.",
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-18psipl",
       "type": "term",
       "importance": 3,
       "term": "Parsiyel KPB",
@@ -34,6 +38,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0orzyo0",
       "type": "term",
       "importance": 2,
       "term": "Suction bypass",
@@ -42,6 +47,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0lbsv3q",
       "type": "term",
       "importance": 1,
       "term": "Gravite (sifon) drenajı",
@@ -50,6 +56,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1b1sttq",
       "type": "term",
       "importance": 2,
       "term": "VAVD",
@@ -58,6 +65,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0r66ydw",
       "type": "term",
       "importance": 3,
       "term": "Venöz hava kilidi",
@@ -66,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-19bm2bv",
       "type": "term",
       "importance": 2,
       "term": "Vazopleji",
@@ -74,6 +83,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0lwnsx9",
       "type": "term",
       "importance": 1,
       "term": "SvO2",
@@ -82,6 +92,7 @@
       "source": "EACTS/EACTA/EBCP 2019"
     },
     {
+      "id": "PER245-1cl44a5",
       "type": "term",
       "importance": 3,
       "term": "CUF",
@@ -90,6 +101,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0p8tfkm",
       "type": "term",
       "importance": 2,
       "term": "ZBUF",
@@ -98,6 +110,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1puaadr",
       "type": "term",
       "importance": 2,
       "term": "MUF",
@@ -106,6 +119,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1dlm3ec",
       "type": "term",
       "importance": 2,
       "term": "Kinetik destekli venöz drenaj",
@@ -113,6 +127,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-04dt2sz",
       "type": "compare",
       "importance": 2,
       "title": "Venöz dönüşün paylaşımı",
@@ -133,6 +148,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-1795n8f",
       "type": "compare",
       "importance": 2,
       "title": "Venöz kanül düzeni",
@@ -153,6 +169,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-11phmez",
       "type": "compare",
       "importance": 2,
       "title": "Venöz drenajın desteklenmesi",
@@ -173,6 +190,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-08vrjqx",
       "type": "compare",
       "importance": 2,
       "title": "Ultrafiltrasyonda denge",

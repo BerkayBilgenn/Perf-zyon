@@ -2,6 +2,7 @@
   "topic": "Siyanotik lezyonlar",
   "cards": [
     {
+      "id": "PER241-0cyxpyv",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -10,6 +11,7 @@
       "definition": "Fallot tetralojisinde ani ve belirgin siyanoz artışıyla gelişen atak."
     },
     {
+      "id": "PER241-02d7mz4",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -18,6 +20,7 @@
       "definition": "TOF'lu çocuğun sistemik vasküler direnç'yi artırarak sağdan sola şantı azaltmak için çömelmesi."
     },
     {
+      "id": "PER241-1gygsev",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -27,6 +30,7 @@
       "origin": "Fr. sabot = takunya"
     },
     {
+      "id": "PER241-0utso18",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -35,6 +39,7 @@
       "definition": "D-TGA'da dar üst mediastenle oluşan grafi görünümü."
     },
     {
+      "id": "PER241-0jxlb2p",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -43,6 +48,7 @@
       "definition": "Suprakardiyak TAPVR'de genişlemiş vertikal ven, innominat ven ve vena kava superior'nin oluşturduğu grafi görünümü."
     },
     {
+      "id": "PER241-13q0idz",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -52,6 +58,7 @@
       "origin": "É. Fallot + Yun. tetra = dört"
     },
     {
+      "id": "PER241-1q0t0i2",
       "type": "term",
       "importance": 3,
       "source": "Radiopaedia",
@@ -60,6 +67,7 @@
       "definition": "Sağ ventrikül çıkış yolu darlığının hafif olduğu, siyanozu belirgin olmayan Fallot tetralojisi görünümü."
     },
     {
+      "id": "PER241-06cq8xy",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -69,6 +77,7 @@
       "origin": "Lat. trans + positio"
     },
     {
+      "id": "PER241-0jrfhzd",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -77,6 +86,7 @@
       "definition": "atriyoventriküler ve ventrikülo-arteriyel çift diskordans; sistemik ventrikül morfolojik sağ ventrikül."
     },
     {
+      "id": "PER241-0j3amdv",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -86,6 +96,7 @@
       "origin": "Lat. truncus = gövde"
     },
     {
+      "id": "PER241-0jd7iwu",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -94,6 +105,7 @@
       "definition": "Tüm pulmoner venlerin sol atriyum yerine sistemik venöz dolaşıma açılması."
     },
     {
+      "id": "PER241-016z4q4",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -103,6 +115,7 @@
       "origin": "Yun. a- + tresis = deliksizlik"
     },
     {
+      "id": "PER241-0nlqb3v",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -111,6 +124,7 @@
       "definition": "Pulmoner kapağın oluşmaması, septumun sağlam olması; sağ ventrikül hipoplazisi, koroner fistüller."
     },
     {
+      "id": "PER241-13wgdxq",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -120,6 +134,7 @@
       "origin": "W. Ebstein (eponim)"
     },
     {
+      "id": "PER241-0ufo1s3",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -128,6 +143,7 @@
       "definition": "Ebstein'da yer değiştiren kapağın üstünde kalıp atriyum gibi davranan sağ ventrikül bölümü."
     },
     {
+      "id": "PER241-1q77080",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -136,6 +152,7 @@
       "definition": "Her iki büyük arterin tamamen/çoğunlukla sağ ventrikülden çıkması."
     },
     {
+      "id": "PER241-019qa4d",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -145,6 +162,7 @@
       "origin": "H. Taussig, R. Bing (eponim)"
     },
     {
+      "id": "PER241-1uhtwv0",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -154,6 +172,7 @@
       "origin": "Yun. hypo + plasis = az biçimlenme"
     },
     {
+      "id": "PER241-1nvcuhi",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -163,6 +182,7 @@
       "origin": "Yun. heteros = farklı + taxis = düzen"
     },
     {
+      "id": "PER241-1sxzos3",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",
@@ -183,6 +203,7 @@
       }
     },
     {
+      "id": "PER241-1bnnxh7",
       "type": "compare",
       "importance": 2,
       "source": "Merck Manual",

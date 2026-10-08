@@ -2,6 +2,7 @@
   "topic": "Asepsi, antisepsi ve antiseptikler",
   "cards": [
     {
+      "id": "PER247-150b8nv",
       "type": "fact",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -9,6 +10,7 @@
       "body": "CDC, alkolün optimum bakterisid aralığını hacim/hacim **%60–90** olarak verir. Konsantrasyon **%50’nin altına** indiğinde öldürücü etkinlik belirgin düşer."
     },
     {
+      "id": "PER247-0xbyi08",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -16,6 +18,7 @@
       "body": "Mutlak alkol, su-alkol karışımından daha güçlü bakterisid sayılmaz. **Proteinler su varlığında daha hızlı denatüre olur.**"
     },
     {
+      "id": "PER247-0suvsws",
       "type": "fact",
       "importance": 1,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -23,6 +26,7 @@
       "body": "İyot ve taşıyıcı kompleksi, **serbest iyotu yavaş salan** bir rezervuar oluşturur. Ürünün antiseptik veya yüzey kullanımına uygunluğu kendi formülasyonuna bağlıdır."
     },
     {
+      "id": "PER247-01gy3t4",
       "type": "fact",
       "importance": 3,
       "source": "WHO 2018",
@@ -30,6 +34,7 @@
       "body": "Cerrahi cilt hazırlığı ürünleri seçilirken klorheksidinin **beyin, meninks, göz ve orta kulakla** temas riski gözetilir; bu alanlara temas ettirilmez."
     },
     {
+      "id": "PER247-1nshbae",
       "type": "fact",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -37,6 +42,7 @@
       "body": "Alkolün **hızlı buharlaşması**, uzun ve kesintisiz yüzey temasını güçleştirir. Ürün etiketindeki temas koşulları sağlanmalıdır."
     },
     {
+      "id": "PER247-1myx7zq",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -44,6 +50,7 @@
       "answer": "**Sporisidal değildir** ve proteinden zengin materyale yeterince nüfuz edemez. Küçük yüzeylerde dezenfeksiyon kullanımı, kritik alet sterilizasyonu anlamına gelmez."
     },
     {
+      "id": "PER247-18lhugy",
       "type": "flip",
       "importance": 2,
       "source": "WHO 2018",
@@ -51,6 +58,7 @@
       "answer": "Antiseptik **tamamen kurumuş** olmalıdır. Örtüler ıslatılmamalı ve hastanın altında alkol göllenmesi önlenmelidir; amaç yangın riskini azaltmaktır."
     },
     {
+      "id": "PER247-1krq87x",
       "type": "flip",
       "importance": 2,
       "source": "CDC 2008 (2019 güncellemesi)",
@@ -58,6 +66,7 @@
       "answer": "Formülasyon ve serbest iyot düzeyleri kullanım amacına göre farklı olabilir. **Antiseptik ve dezenfektan ürünün etiketi** kendi kullanım yerini belirler."
     },
     {
+      "id": "PER247-07wlls1",
       "type": "remember",
       "importance": 3,
       "source": "CDC 2008 (2019 güncellemesi)",

@@ -2,6 +2,7 @@
   "topic": "Kapak hastalıklarının cerrahisi",
   "cards": [
     {
+      "id": "PER245-13udo0p",
       "type": "fact",
       "importance": 2,
       "title": "Aort yetersizliğinde kaçış",
@@ -9,6 +10,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0ejo5ui",
       "type": "fact",
       "importance": 2,
       "title": "Onarım seçiminin gerekçesi",
@@ -16,6 +18,7 @@
       "source": "ESC/EACTS kapak kılavuzları"
     },
     {
+      "id": "PER245-01ayj0a",
       "type": "fact",
       "importance": 2,
       "title": "Mekanik kapak ve izlem",
@@ -23,6 +26,7 @@
       "source": "ESC/EACTS kapak kılavuzları"
     },
     {
+      "id": "PER245-0ap835m",
       "type": "fact",
       "importance": 2,
       "title": "Minimal erişim ve devre",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-05o7ujh",
       "type": "fact",
       "importance": 2,
       "title": "Ross'ta pulmoner pozisyon",
@@ -37,6 +42,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1j4mfar",
       "type": "flip",
       "importance": 2,
       "question": "Sağ üst pulmoner venden yerleştirilen vent sol ventriküle hangi yoldan ulaşır?",
@@ -44,6 +50,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0qz17td",
       "type": "flip",
       "importance": 2,
       "question": "Konno ameliyatı kapak replasmanına hangi işlemi ekler?",
@@ -51,6 +58,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-13gdq5h",
       "type": "flip",
       "importance": 2,
       "question": "İzole mitral cerrahide venöz kanülasyon seçimi neden tek kalıba indirgenmez?",
@@ -58,6 +66,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-0uokb0h",
       "type": "remember",
       "importance": 3,
       "title": "AY ve kök kardiyoplejisi",

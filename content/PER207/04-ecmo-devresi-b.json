@@ -2,6 +2,7 @@
   "topic": "ECMO devresi ve basınçlar",
   "cards": [
     {
+      "id": "PER207-10toke0",
       "type": "fact",
       "importance": 2,
       "title": "Devre kapasitesi tam desteğe göre seçilir",
@@ -9,6 +10,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-1sc0z9r",
       "type": "fact",
       "importance": 1,
       "title": "Tüp çapı akımı belirler",
@@ -16,6 +18,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0wba35b",
       "type": "fact",
       "importance": 1,
       "title": "Isı değiştiricide kaçak şüphesi",
@@ -23,6 +26,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-07s7pd0",
       "type": "fact",
       "importance": 2,
       "title": "ECMO devresinin primingi",
@@ -30,6 +34,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0dsm8lp",
       "type": "fact",
       "importance": 2,
       "title": "Prime'a kan eklenince",
@@ -37,13 +42,15 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-1bvwelh",
       "type": "fact",
       "importance": 1,
-      "title": "Drenaj basıncı pratikte nerede tutulur?",
-      "body": "Pratikte birçok merkez drenaj (P1) basıncını yaklaşık **−100 mmHg'den** daha negatif olmayacak şekilde tutar; kılavuzdaki −300 mmHg değeri pompa spesifikasyonudur. Uygulama merkeze göre değişebilir.",
-      "source": "ELSO 2017"
+      "title": "Drenaj basıncı nasıl değerlendirilir?",
+      "body": "P1, hastadan pompaya kan çekilirken oluşan negatif basınçtır. **Aşırı negatif basınç** drenaj sorunu, kavitasyon ve hava emilmesi açısından değerlendirilir. ELSO 2017’deki −300 mmHg değeri pompa özelliğidir; hasta hedefi değildir. Güvenlik sınırı cihaz ve merkez protokolüne göre belirlenir.",
+      "source": "ELSO 2017; ELSO devre kılavuzu 2022"
     },
     {
+      "id": "PER207-10ji1h7",
       "type": "mcq",
       "importance": 3,
       "question": "ECMO devresinde transmembran basınç farkının (ΔP = pre-oksijenatör − post-oksijenatör basınç) giderek artması en çok neyi düşündürür?",
@@ -58,6 +65,7 @@
       "source": "ELSO 2017; Pediatr Crit Care Med 2013"
     },
     {
+      "id": "PER207-0brke2x",
       "type": "mcq",
       "importance": 2,
       "question": "Membran oksijenatörden hastaya hava embolisini önlemeye yönelik doğru uygulama hangisidir?",
@@ -72,9 +80,10 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-1bmwv8s",
       "type": "mcq",
       "importance": 2,
-      "question": "ECMO'da plazma serbest hemoglobin hangi değeri aşınca hemoliz kabul edilir ve nedeni araştırılır?",
+      "question": "ELSO 2017’ye göre ECMO’da plazma serbest hemoglobin hangi değeri aşınca nedeninin araştırılması gerekir?",
       "options": [
         "20 mg/dL",
         "50 mg/dL",
@@ -82,10 +91,11 @@
         "150 mg/dL"
       ],
       "correct": 1,
-      "explanation": "Plazma serbest Hb normalde 10 mg/dL'nin altındadır; 50 mg/dL'yi aşması hemoliz demektir ve aşırı emme, pompa pıhtısı gibi nedenler aranır.",
+      "explanation": "ELSO 2017’de plazma serbest Hb çoğu koşulda < 10 mg/dL olmalıdır; > 50 mg/dL olduğunda neden araştırılır. Bu eşik hemolizin tüm dereceleri için tek tanı sınırı değildir.",
       "source": "ELSO 2017; ELSO VA 2021"
     },
     {
+      "id": "PER207-1c8f9xq",
       "type": "mcq",
       "importance": 3,
       "question": "Aşağıdakilerden hangisi santrifüj pompanın özelliğidir?",
@@ -100,6 +110,7 @@
       "source": "Pediatr Crit Care Med 2013"
     },
     {
+      "id": "PER207-01lfofd",
       "type": "flip",
       "importance": 2,
       "question": "İstenen akımda post-pompa basıncı 300 mmHg'nin üzerindeyse ne düşünülmelidir?",
@@ -107,6 +118,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0kcrbe3",
       "type": "flip",
       "importance": 2,
       "question": "ECMO devresinde rutin olarak neler izlenir?",
@@ -114,6 +126,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0n0rtz3",
       "type": "flip",
       "importance": 1,
       "question": "ELSO 2017’nin verilen örneğinde rated flow’u 2 L/dk olan oksijenatör neden 4 L/dk tam destek gereksinimine uygun değildir?",
@@ -121,6 +134,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-115ssqx",
       "type": "fact",
       "importance": 1,
       "title": "Önceden prime edilmiş devre: kaynak yılı önemli",
@@ -128,6 +142,7 @@
       "source": "ELSO 2017; ELSO devre kılavuzu 2022"
     },
     {
+      "id": "PER207-1c4k8wn",
       "type": "tf",
       "importance": 1,
       "statement": "Sweep gaz olarak karbojen (%5 CO2 + %95 O2) kullanmak, oksijenatör çıkışındaki PCO2'yi belirgin biçimde düşürür.",
@@ -136,6 +151,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-06otecu",
       "type": "remember",
       "importance": 3,
       "title": "Pompa basınç kapasitesi hasta hedefi değildir",
@@ -143,20 +159,23 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0ib0ksa",
       "type": "remember",
       "importance": 3,
       "title": "Pompa girişinden önce musluk olmaz",
-      "body": "Hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** erişim noktası veya musluk bulunmamalıdır; buradan devreye hava emilebilir. Erişim noktaları en aza indirilir (en az pre- ve post-oksijenatör iki nokta).",
+      "body": "ELSO 2017, hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** hava emilmesi riski nedeniyle erişim noktası veya musluk bulunmamasını önerir. Erişim noktaları en aza indirilir; uygulama devre tasarımı ve güvenlik protokolüyle değerlendirilir.",
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-103272b",
       "type": "flip",
       "importance": 2,
-      "question": "ECMO pompasında RPM göstergesi ile akım göstergesi aynı büyüklüğü mü ölçer?",
-      "answer": "Hayır. **RPM rotorun dakikadaki devrini**, akım probu ise hattan geçen kan hacmini ölçer. Hız göstergesi gerçek kan akımı ölçümünün yerine geçmez.",
+      "question": "ECMO pompasında RPM göstergesi ile akım göstergesi hangi farklı büyüklükleri ölçer?",
+      "answer": "**RPM rotorun dakikadaki devrini**, akım probu ise hattan birim zamanda geçen kan hacmini ölçer. Hız göstergesi gerçek kan akımı ölçümünün yerine geçmez.",
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-16bpvem",
       "type": "flip",
       "importance": 2,
       "question": "Gaz fazında yoğuşan su, oksijenatörün hangi işlevini bozabilir?",
@@ -164,6 +183,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-0jc2ld2",
       "type": "remember",
       "importance": 3,
       "title": "Kan ve gaz basıncını karıştırma",

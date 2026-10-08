@@ -2,6 +2,7 @@
   "topic": "Cerrahi türlerine göre anestezi",
   "cards": [
     {
+      "id": "PER243-1ntanfy",
       "type": "fact",
       "importance": 2,
       "title": "OPCAB'da bozulma nedenleri",
@@ -9,6 +10,7 @@
       "source": "Front Surg 2022: OPCAB"
     },
     {
+      "id": "PER243-1xssciz",
       "type": "fact",
       "importance": 2,
       "title": "Aort yetmezliğinde diyastol",
@@ -16,6 +18,7 @@
       "source": "Indian J Anaesth 2017: kapak hastalıkları"
     },
     {
+      "id": "PER243-1b2y6qk",
       "type": "fact",
       "importance": 2,
       "title": "Mitral darlıkta sıvı",
@@ -23,6 +26,7 @@
       "source": "Indian J Anaesth 2017: kapak hastalıkları"
     },
     {
+      "id": "PER243-0jvuudl",
       "type": "fact",
       "importance": 2,
       "title": "HOKM'de dinamik obstrüksiyon",
@@ -30,6 +34,7 @@
       "source": "Saudi J Anaesth 2021: HOKM"
     },
     {
+      "id": "PER243-132utlq",
       "type": "fact",
       "importance": 1,
       "title": "Tamponadda pozitif basınç",
@@ -37,6 +42,7 @@
       "source": "Vasc Specialist Int 2023: tamponad"
     },
     {
+      "id": "PER243-0hc7yj9",
       "type": "flip",
       "importance": 1,
       "question": "Hipoksi, hiperkarbi ve asidoz sağ ventrikül yükünü neden artırabilir?",
@@ -44,6 +50,7 @@
       "source": "Indian J Anaesth 2017: kapak hastalıkları"
     },
     {
+      "id": "PER243-09rvtbw",
       "type": "flip",
       "importance": 2,
       "question": "HOKM'de inotropla kötüleşen hipotansiyon hangi mekanizmayı düşündürür?",
@@ -51,6 +58,7 @@
       "source": "Saudi J Anaesth 2021: HOKM"
     },
     {
+      "id": "PER243-1v1ieg7",
       "type": "flip",
       "importance": 2,
       "question": "Beck triadının bileşenleri nelerdir?",
@@ -58,6 +66,7 @@
       "source": "Vasc Specialist Int 2023: tamponad"
     },
     {
+      "id": "PER243-0gwvk7r",
       "type": "flip",
       "importance": 3,
       "question": "OPCAB'da kalbin yer değiştirmesi neden yakın izlem gerektirir?",
@@ -65,6 +74,7 @@
       "source": "Front Surg 2022: OPCAB"
     },
     {
+      "id": "PER243-1f42mu9",
       "type": "remember",
       "importance": 3,
       "title": "HOKM'de inotrop tuzağı",

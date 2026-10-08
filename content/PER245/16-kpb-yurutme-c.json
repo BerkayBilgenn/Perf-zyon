@@ -2,6 +2,7 @@
   "topic": "Kanülasyon ve KPB'nin yürütülmesi",
   "cards": [
     {
+      "id": "PER245-1npzgje",
       "type": "mcq",
       "importance": 3,
       "question": "MUF diğer yöntemlerden zamanlama bakımından nasıl ayrılır?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0ijx8su",
       "type": "mcq",
       "importance": 2,
       "question": "Cell saver sonrası geri verilen ana kan bileşeni hangisidir?",
@@ -30,6 +32,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-0pavaue",
       "type": "mcq",
       "importance": 2,
       "question": "Difüzyon uçlu arter kanülünün yan delikleri neyi azaltmayı amaçlar?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1l0qv4u",
       "type": "mcq",
       "importance": 2,
       "question": "VAVD uygulanırken hangi basınç özellikle izlenir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1o7c0xu",
       "type": "mcq",
       "importance": 3,
       "question": "Yeterli akıma rağmen derin vazodilatasyon ve hipotansiyon hangi tablodur?",
@@ -72,6 +77,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-1x7mfvc",
       "type": "tf",
       "importance": 2,
       "statement": "Tel takviyeli venöz kanül, kıvrılıp tıkanma riskini sınırlamaya yöneliktir.",
@@ -80,6 +86,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER245-17k69ar",
       "type": "tf",
       "importance": 2,
       "statement": "Arteriyel akım sabitken venöz dönüş azaltılırsa rezervuar seviyesi yükselir.",
@@ -88,6 +95,7 @@
       "source": "Kumar, J Thorac Dis 2020"
     },
     {
+      "id": "PER245-01ywtm7",
       "type": "tf",
       "importance": 2,
       "statement": "Konvansiyonel ultrafiltre, plazma suyunu uzaklaştırırken kan hücrelerini tutar.",

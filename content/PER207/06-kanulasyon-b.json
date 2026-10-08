@@ -2,6 +2,7 @@
   "topic": "Kanülasyon stratejileri",
   "cards": [
     {
+      "id": "PER207-15m49z0",
       "type": "fact",
       "importance": 2,
       "title": "Kanül direnci ve Poiseuille yasası",
@@ -9,6 +10,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0794th4",
       "type": "fact",
       "importance": 2,
       "title": "Femoral VA kanülasyonunda yerleşim",
@@ -16,6 +18,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-185pnpt",
       "type": "fact",
       "importance": 2,
       "title": "Distal perfüzyon kanülünün izlenmesi",
@@ -23,6 +26,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0q99zmy",
       "type": "fact",
       "importance": 2,
       "title": "Bikaval çift lümenli kanülün artı ve eksileri",
@@ -30,6 +34,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0v2djth",
       "type": "fact",
       "importance": 1,
       "title": "Yenidoğanda boyun kanülasyonu",
@@ -37,6 +42,7 @@
       "source": "ELSO neonatal 2013; ELSO 2017"
     },
     {
+      "id": "PER207-0xdxzzr",
       "type": "mcq",
       "importance": 3,
       "question": "Femoral arteriyel kanülasyonla VA ECMO'da aynı taraf bacak iskemisini önlemek için önerilen uygulama hangisidir?",
@@ -51,6 +57,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1yg27rf",
       "type": "mcq",
       "importance": 2,
       "question": "ELSO VA 2021’de erişkin femoral dönüş için çoğu zaman yeterli olabileceği belirtilen arteriyel kanül boyutu hangisidir?",
@@ -65,6 +72,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1j4layn",
       "type": "mcq",
       "importance": 2,
       "question": "Bikaval çift lümenli VV kanülü yerleştirilirken hangi görüntüleme yöntemi gerekir?",
@@ -79,6 +87,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-0m2iclq",
       "type": "mcq",
       "importance": 2,
       "question": "Santral VA ECMO kanülasyonunun (aort + sağ atriyum) periferik kanülasyona göre dezavantajı hangisidir?",
@@ -93,6 +102,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1h7zdpt",
       "type": "mcq",
       "importance": 2,
       "question": "ELSO VV 2021’in yaklaşık 180 cm boyundaki erişkin örneğinde çoğu zaman uygun görülen drenaj kanülü boyutu hangisidir?",
@@ -107,6 +117,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1z0u05q",
       "type": "flip",
       "importance": 3,
       "question": "Femoral VA ECMO'da distal perfüzyon kanülü nereye, hangi boyutta ve ne zaman takılır?",
@@ -114,6 +125,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0bpmspw",
       "type": "flip",
       "importance": 2,
       "question": "VV ECMO'da üç ana kanülasyon stratejisi nedir?",
@@ -121,6 +133,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-019fk1o",
       "type": "flip",
       "importance": 1,
       "question": "ECMO'da kullanılan dört kanülasyon yöntemi nedir?",
@@ -128,6 +141,7 @@
       "source": "ELSO 2017"
     },
     {
+      "id": "PER207-0dlropi",
       "type": "tf",
       "importance": 2,
       "statement": "Erişkinde karotis arter kanülasyonu beyin hasarı riski nedeniyle son çare kabul edilir; çocuklarda daha sık kullanılır.",
@@ -136,6 +150,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1k9s4sb",
       "type": "tf",
       "importance": 3,
       "statement": "ECMO'da antikoagülasyon planı, hastanın kanama ve devrenin tromboz riskleri birlikte değerlendirilerek oluşturulur.",
@@ -144,6 +159,7 @@
       "source": "ELSO antikoagülasyon 2021"
     },
     {
+      "id": "PER207-10fk2q7",
       "type": "remember",
       "importance": 2,
       "title": "Kanülasyonda spontan solunum riski",
@@ -151,6 +167,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-19anewq",
       "type": "flip",
       "importance": 2,
       "question": "Çift lümenli kanülün dönüş jetini ekokardiyografide izlemek neyi doğrular?",

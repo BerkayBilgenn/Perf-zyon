@@ -2,6 +2,7 @@
   "topic": "Kardiyopleji ve miyokard koruma",
   "cards": [
     {
+      "id": "PER141-1oudko7",
       "type": "mcq",
       "importance": 2,
       "question": "Kan içermeyen intrasellüler tip kardiyopleji hangisidir?",
@@ -16,6 +17,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0tegkdl",
       "type": "mcq",
       "importance": 2,
       "question": "Hücre dışı potasyumun yüksek tutulması hangi arrest mekanizmasını oluşturur?",
@@ -30,6 +32,7 @@
       "source": "Francica ve ark. 2021"
     },
     {
+      "id": "PER141-062oh2e",
       "type": "mcq",
       "importance": 2,
       "question": "Hot shot hangi evrede uygulanır?",
@@ -44,6 +47,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1af8m4k",
       "type": "mcq",
       "importance": 3,
       "question": "Retrograd kardiyoplejinin önemli anatomik sınırlaması hangisidir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-194qo32",
       "type": "mcq",
       "importance": 2,
       "question": "Microplegia hangi bileşim özelliğiyle tanımlanır?",
@@ -72,6 +77,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1b96qyb",
       "type": "tf",
       "importance": 2,
       "statement": "Kardiyopleji stratejisi hastaya ve işleme göre seçilmelidir.",
@@ -80,6 +86,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0fmm2gn",
       "type": "tf",
       "importance": 2,
       "statement": "Kristaloid kardiyopleji kan kardiyoplejisine göre daha az hemodilüsyon yapar.",

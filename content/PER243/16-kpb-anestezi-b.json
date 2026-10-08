@@ -2,6 +2,7 @@
   "topic": "KPB'de anestezi, ayrılma ve aciller",
   "cards": [
     {
+      "id": "PER243-0pu57zm",
       "type": "fact",
       "importance": 2,
       "title": "Ayrılmada ekip iletişimi",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1xa3ux8",
       "type": "fact",
       "importance": 2,
       "title": "Zor ayrılmayı öngören etkenler",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0yu6pgc",
       "type": "fact",
       "importance": 2,
       "title": "Acil yeniden bypass hazırlığı",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-06el3wo",
       "type": "fact",
       "importance": 2,
       "title": "İnsan faktörü ve güvenlik",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-06w46bi",
       "type": "flip",
       "importance": 3,
       "question": "KPB'den ayrılmada TÖE'nin temel katkısı nedir?",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-069bjo0",
       "type": "remember",
       "importance": 3,
       "title": "Ventilasyonu yeniden başlat",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1in0hxu",
       "type": "remember",
       "importance": 3,
       "title": "Zor ayrılmada mekanik destek",
@@ -51,6 +58,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0qjkv8h",
       "type": "fact",
       "importance": 2,
       "title": "KPB akım aralığının bağlamı",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1mznpk0",
       "type": "fact",
       "importance": 2,
       "title": "Bekleyen devre için kurum politikası",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1m61y9d",
       "type": "fact",
       "importance": 2,
       "title": "Masif hava embolisinde yaklaşımlar",

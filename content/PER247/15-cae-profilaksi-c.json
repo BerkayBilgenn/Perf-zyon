@@ -2,6 +2,7 @@
   "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
   "cards": [
     {
+      "id": "PER247-0gng8bh",
       "type": "mcq",
       "importance": 3,
       "source": "CDC NHSN 2026",
@@ -16,6 +17,7 @@
       "explanation": "**Yüzeysel** CAE deri/deri altıyla sınırlıdır; fasya-kas tutulumu derin sınıftadır."
     },
     {
+      "id": "PER247-0s6ylzq",
       "type": "mcq",
       "importance": 3,
       "source": "WHO 2018",
@@ -30,6 +32,7 @@
       "explanation": "Sistemlere kontrollü giriş **Sınıf II temiz-kontamine** yarayı tanımlar; belirgin döküntü varsa sınıf değişir."
     },
     {
+      "id": "PER247-1fkywy9",
       "type": "mcq",
       "importance": 3,
       "source": "WHO 2018",
@@ -44,6 +47,7 @@
       "explanation": "**Sınıf IV kirli-enfekte** yarada etkenler ameliyattan önce alanda bulunur."
     },
     {
+      "id": "PER247-115lf5n",
       "type": "mcq",
       "importance": 3,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -58,6 +62,7 @@
       "explanation": "**Sign In**, anestezi indüksiyonundan öncedir; Time Out insizyon, Sign Out çıkış öncesindedir."
     },
     {
+      "id": "PER247-0q99zfd",
       "type": "tf",
       "importance": 2,
       "source": "WHO Güvenli Cerrahi 2009",
@@ -66,6 +71,7 @@
       "explanation": "Kontrol listesi insizyon öncesi aşamada **gerekli görüntülemenin gösterimini** sorar."
     },
     {
+      "id": "PER247-03jcg26",
       "type": "tf",
       "importance": 2,
       "source": "CDC NHSN 2026",

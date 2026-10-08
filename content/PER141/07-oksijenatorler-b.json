@@ -2,6 +2,7 @@
   "topic": "Oksijenatörler ve gaz transferi",
   "cards": [
     {
+      "id": "PER141-13dfg3k",
       "type": "fact",
       "importance": 2,
       "title": "Hollow-fiber akış düzeni",
@@ -9,6 +10,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1hacbb3",
       "type": "fact",
       "importance": 1,
       "title": "PP gözenekleri",
@@ -16,6 +18,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1uvu4go",
       "type": "fact",
       "importance": 2,
       "title": "PMP'nin dış tabakası",
@@ -23,6 +26,7 @@
       "source": "Membranes 2024"
     },
     {
+      "id": "PER141-0kgjdk1",
       "type": "fact",
       "importance": 1,
       "title": "Terumo FX25 örneği",
@@ -30,6 +34,7 @@
       "source": "Terumo CAPIOX FX"
     },
     {
+      "id": "PER141-1i72pos",
       "type": "fact",
       "importance": 1,
       "title": "Terumo FX15 örneği",
@@ -37,6 +42,7 @@
       "source": "Terumo CAPIOX FX"
     },
     {
+      "id": "PER141-16u0mlq",
       "type": "fact",
       "importance": 3,
       "title": "Volatil ajan ve membran seçimi",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0tylg0z",
       "type": "fact",
       "importance": 2,
       "title": "Gaz transferinin itici gücü",
@@ -51,6 +58,7 @@
       "source": "Membranes 2024"
     },
     {
+      "id": "PER141-1bgy8t0",
       "type": "flip",
       "importance": 2,
       "question": "Oksijenatörün gaz çıkışında sarı köpük görülmesi hangi sorunu düşündürür?",
@@ -58,6 +66,7 @@
       "source": "Membranes 2021"
     },
     {
+      "id": "PER141-18do7lg",
       "type": "flip",
       "importance": 3,
       "question": "Oksijenatör yetmezliği düşünülmeden önce gaz beslemesinde neler kontrol edilir?",
@@ -65,6 +74,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-05uk4n9",
       "type": "flip",
       "importance": 2,
       "question": "Oksijenatör ΔP artışı neyi gösterebilir ve nasıl yorumlanmalıdır?",
@@ -72,6 +82,7 @@
       "source": "JECT: Oksijenatör yetmezliği"
     },
     {
+      "id": "PER141-1k9olcp",
       "type": "remember",
       "importance": 3,
       "title": "Yetersiz gaz değişimini erken tanı",
@@ -79,6 +90,7 @@
       "source": "JECT: Oksijenatör yetmezliği"
     },
     {
+      "id": "PER141-0e9a7eq",
       "type": "remember",
       "importance": 3,
       "title": "Su kaçağını gözden kaçırma",

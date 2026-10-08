@@ -2,6 +2,7 @@
   "topic": "Kan koruma, biyouyumluluk ve MiECC",
   "cards": [
     {
+      "id": "PER141-1qirh7g",
       "type": "fact",
       "importance": 3,
       "title": "Konvansiyonel ve modifiye ultrafiltrasyon",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-19a7anp",
       "type": "fact",
       "importance": 2,
       "title": "ZBUF'ta sıvı dengesi",
@@ -16,6 +18,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0kuzk65",
       "type": "fact",
       "importance": 3,
       "title": "MiECC temel düzeni",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0drvsza",
       "type": "fact",
       "importance": 2,
       "title": "MiECC'de ACT örnekleri",
@@ -30,6 +34,7 @@
       "source": "MiECC derlemesi 2021"
     },
     {
+      "id": "PER141-1hfg3fj",
       "type": "flip",
       "importance": 2,
       "question": "Kanın yabancı devre yüzeyiyle teması hangi aktivasyon zincirini başlatabilir?",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-08znxsw",
       "type": "flip",
       "importance": 2,
       "question": "Biyomimetik ve biyopasif yüzeylere birer örnek veriniz.",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-020gbis",
       "type": "remember",
       "importance": 3,
       "title": "Cell saver ürünü tam kan değildir",

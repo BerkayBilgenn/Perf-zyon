@@ -2,6 +2,7 @@
   "topic": "Embriyoloji ve fetal dolaşım",
   "cards": [
     {
+      "id": "PER245-0zid8g1",
       "type": "mcq",
       "importance": 3,
       "question": "Septum primumun üst kısmındaki açıklık hangi adla anılır?",
@@ -16,6 +17,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-1epwyus",
       "type": "mcq",
       "importance": 2,
       "question": "Fetüste sağ atriyumdan sol atriyuma geçişi hangi bağlantı sağlar?",
@@ -30,6 +32,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ahjply",
       "type": "mcq",
       "importance": 2,
       "question": "Embriyolojik truncus arteriosus hangi yapılara ayrılır?",
@@ -44,6 +47,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0q829iz",
       "type": "mcq",
       "importance": 2,
       "question": "AV endokardiyal yastıkların birleşme kusuru hangi lezyon spektrumuyla ilişkilidir?",
@@ -58,6 +62,7 @@
       "source": "UMN Kalp Anatomisi Atlası"
     },
     {
+      "id": "PER245-0ez3pd0",
       "type": "tf",
       "importance": 2,
       "statement": "Fetal dolaşımda oksijenlenmiş kan plasentadan umbilikal venle gelir.",
@@ -66,6 +71,7 @@
       "source": "OpenStax ve UMN Embriyoloji"
     },
     {
+      "id": "PER245-06reuiv",
       "type": "tf",
       "importance": 2,
       "statement": "Ligamentum arteriosum, duktus venozusun kapanmasıyla oluşur.",

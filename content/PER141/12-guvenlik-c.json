@@ -2,6 +2,7 @@
   "topic": "Güvenlik, monitörizasyon ve acil durumlar",
   "cards": [
     {
+      "id": "PER141-0i4st77",
       "type": "mcq",
       "importance": 2,
       "question": "AmSECT'in oku-doğrula checklist yöntemi nasıl uygulanır?",
@@ -16,6 +17,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-058g98z",
       "type": "mcq",
       "importance": 3,
       "question": "Masif hava embolisi fark edildiğinde devreye yönelik ilk temel yaklaşım hangisidir?",
@@ -30,6 +32,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0biczym",
       "type": "mcq",
       "importance": 2,
       "question": "AmSECT'e göre yardımlı drenajda hangi ek basınç izlenir?",
@@ -44,6 +47,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-16tfqxj",
       "type": "mcq",
       "importance": 2,
       "question": "Basınç transdüseri ölçümü hangi biçime dönüştürür?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0bsvnnr",
       "type": "mcq",
       "importance": 2,
       "question": "Perfüzyonun kalite güvencesinde hangi uygulama anlamlıdır?",
@@ -72,6 +77,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-176bx4c",
       "type": "tf",
       "importance": 2,
       "statement": "Gaz egzozunun açık olduğu KPB öncesi kontrol edilmelidir.",
@@ -80,6 +86,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-121e70h",
       "type": "tf",
       "importance": 2,
       "statement": "KPB sırasında radyal arter basıncı gerçek sistemik basıncı düşük gösterebilir.",
@@ -88,6 +95,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0za44at",
       "type": "tf",
       "importance": 2,
       "statement": "Sesli ve görsel alarmlar KPB sırasında devre dışı tutulmalıdır.",

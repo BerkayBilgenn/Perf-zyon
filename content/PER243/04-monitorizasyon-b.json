@@ -2,6 +2,7 @@
   "topic": "Kardiyak cerrahide monitörizasyon",
   "cards": [
     {
+      "id": "PER243-0hqh063",
       "type": "fact",
       "importance": 2,
       "title": "KPB'de düşük radial ölçüm",
@@ -9,6 +10,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0oqkkxm",
       "type": "fact",
       "importance": 2,
       "title": "PAK ilerletme sırası",
@@ -16,6 +18,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-0wfu7yv",
       "type": "fact",
       "importance": 3,
       "title": "TÖE ve hava boşaltma",
@@ -23,6 +26,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0e7dr4u",
       "type": "fact",
       "importance": 2,
       "title": "Hipotermi ve BİS",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0b16dl6",
       "type": "fact",
       "importance": 1,
       "title": "NIRS düşüşünün değerlendirilmesi",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-15t42zp",
       "type": "fact",
       "importance": 2,
       "title": "Isı ölçüm bölgesi",
@@ -44,6 +50,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0gq8ust",
       "type": "flip",
       "importance": 2,
       "question": "Pulmoner arter kateteriyle debi hangi yöntemle ölçülebilir?",
@@ -51,6 +58,7 @@
       "source": "Klabunde: kardiyovasküler fizyoloji"
     },
     {
+      "id": "PER243-12xjq1t",
       "type": "flip",
       "importance": 2,
       "question": "Arter kateterinin başlıca yerel komplikasyonları nelerdir?",
@@ -58,6 +66,7 @@
       "source": "StatPearls"
     },
     {
+      "id": "PER243-0lilki5",
       "type": "flip",
       "importance": 2,
       "question": "TÖE kanülasyon sırasında hangi anatomik sorunu gösterebilir?",
@@ -65,6 +74,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0zpqkxy",
       "type": "flip",
       "importance": 2,
       "question": "NIRS bulgularının klinik sonuç kanıtında hangi sınır vardır?",
@@ -72,6 +82,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-0vf2gp8",
       "type": "remember",
       "importance": 3,
       "title": "TÖE'de özofagus güvenliği",
@@ -79,6 +90,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER243-1y3a2u2",
       "type": "fact",
       "importance": 2,
       "title": "Edwards: sağ ve sol doluş basıncı",
@@ -86,6 +98,7 @@
       "source": "Edwards hemodinamik değerler 2022"
     },
     {
+      "id": "PER243-1memyrr",
       "type": "fact",
       "importance": 2,
       "title": "Edwards: pulmoner arter basıncı",
@@ -93,6 +106,7 @@
       "source": "Edwards hemodinamik değerler 2022"
     },
     {
+      "id": "PER243-1ddiymo",
       "type": "fact",
       "importance": 2,
       "title": "Edwards: oksijen sunumu",

@@ -2,6 +2,7 @@
   "topic": "KPB devresi ve kan akış yolu",
   "cards": [
     {
+      "id": "PER141-0aa6wh2",
       "type": "mcq",
       "importance": 3,
       "question": "Açık KPB devresinde arteriyel pompanın girişini hangi bileşen besler?",
@@ -16,6 +17,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-0h0tnxe",
       "type": "mcq",
       "importance": 2,
       "question": "Hastaya dönüşten hemen önce filtrelenen kan hangi kanüle yönelir?",
@@ -30,6 +32,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-1lim4vx",
       "type": "mcq",
       "importance": 2,
       "question": "Devredeki örnekleme manifoldu hangi işlem için kullanılır?",
@@ -44,6 +47,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1f718x8",
       "type": "mcq",
       "importance": 2,
       "question": "Konvansiyonel KPB'yi optimize etmek için hangisi anlamlı bir hedeftir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-00sqws0",
       "type": "tf",
       "importance": 2,
       "statement": "Modern membran devresinde oksijenatör ana arteriyel pompanın önündedir.",
@@ -66,6 +71,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0koz7gn",
       "type": "tf",
       "importance": 2,
       "statement": "Isı değiştirici oksijenatöre entegre olabilir.",

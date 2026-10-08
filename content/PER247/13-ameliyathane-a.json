@@ -2,6 +2,7 @@
   "topic": "Ameliyathane ortamı",
   "cards": [
     {
+      "id": "PER247-01j446a",
       "type": "term",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -10,6 +11,7 @@
       "en": "Positive pressure"
     },
     {
+      "id": "PER247-0s8gzvf",
       "type": "term",
       "importance": 1,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -18,6 +20,7 @@
       "en": "Air changes per hour (ACH)"
     },
     {
+      "id": "PER247-06o27jm",
       "type": "term",
       "importance": 2,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -26,6 +29,7 @@
       "en": "Surgical attire"
     },
     {
+      "id": "PER247-0nnpjnb",
       "type": "term",
       "importance": 1,
       "source": "Children’s Wisconsin steril alan politikası",
@@ -34,6 +38,7 @@
       "en": "Transition area"
     },
     {
+      "id": "PER247-0dn4slt",
       "type": "term",
       "importance": 2,
       "source": "ISID Ameliyathane 2018",
@@ -42,6 +47,7 @@
       "en": "Semi-restricted area"
     },
     {
+      "id": "PER247-1w3s26u",
       "type": "term",
       "importance": 2,
       "source": "ISID Ameliyathane 2018",
@@ -50,6 +56,7 @@
       "en": "Restricted area"
     },
     {
+      "id": "PER247-16bve8r",
       "type": "term",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -58,6 +65,7 @@
       "en": "High-efficiency particulate air filter"
     },
     {
+      "id": "PER247-1h28p3g",
       "type": "term",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -66,6 +74,7 @@
       "en": "Laminar airflow"
     },
     {
+      "id": "PER247-0uaa3pu",
       "type": "term",
       "importance": 1,
       "source": "CDC Çevresel Enfeksiyon 2003",
@@ -74,6 +83,7 @@
       "en": "Ultraclean air"
     },
     {
+      "id": "PER247-1seekvc",
       "type": "term",
       "importance": 2,
       "source": "CDC İzolasyon 2007/2024",
@@ -82,6 +92,7 @@
       "en": "Surgical mask"
     },
     {
+      "id": "PER247-1f14i53",
       "type": "compare",
       "importance": 2,
       "source": "CDC Çevresel Enfeksiyon 2003",

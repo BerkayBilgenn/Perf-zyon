@@ -2,6 +2,7 @@
   "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
   "cards": [
     {
+      "id": "PER241-19gxw9d",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -10,6 +11,7 @@
       "definition": "Aort koarktasyonunda aort konturunun göğüs grafisinde oluşturduğu karakteristik görünüm."
     },
     {
+      "id": "PER241-0chhtq2",
       "type": "term",
       "importance": 3,
       "source": "Merck Manual",
@@ -19,6 +21,7 @@
       "origin": "Lat. coarctare = sıkıştırmak"
     },
     {
+      "id": "PER241-1pxj4mh",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -27,6 +30,7 @@
       "definition": "Çıkan ve inen aorta arasında anatomik devamlılığın bulunmadığı doğumsal lezyon."
     },
     {
+      "id": "PER241-0mzdcbs",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",
@@ -35,6 +39,7 @@
       "definition": "İki kusptan oluşan aort kapağı. Darlık, yetersizlik ve çıkan aorta genişlemesiyle ilişkili olabilir."
     },
     {
+      "id": "PER241-0zxvl00",
       "type": "term",
       "importance": 1,
       "source": "Merck Manual",
@@ -44,6 +49,7 @@
       "origin": "Yun. stenos = dar"
     },
     {
+      "id": "PER241-0s70icz",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -53,6 +59,7 @@
       "origin": "J. D. Shone (eponim)"
     },
     {
+      "id": "PER241-09f92d9",
       "type": "term",
       "importance": 2,
       "source": "Radiopaedia",
@@ -61,6 +68,7 @@
       "definition": "Tüm kordaların tek papiller kasa toplandığı mitral kapak."
     },
     {
+      "id": "PER241-1p4fny5",
       "type": "term",
       "importance": 2,
       "source": "Merck Manual",

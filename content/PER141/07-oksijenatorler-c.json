@@ -2,6 +2,7 @@
   "topic": "Oksijenatörler ve gaz transferi",
   "cards": [
     {
+      "id": "PER141-1vh23lu",
       "type": "mcq",
       "importance": 2,
       "question": "Gaz blenderi hangi iki gazı karıştırarak oksijen fraksiyonunu ayarlar?",
@@ -16,6 +17,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-0hbl45c",
       "type": "mcq",
       "importance": 3,
       "question": "Gaz beslemesinin yedeklenmesi hangi arıza riskine karşıdır?",
@@ -30,6 +32,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-1qf6636",
       "type": "mcq",
       "importance": 2,
       "question": "Oksijenatör çıkışındaki scavenging hangi amaçla kullanılır?",
@@ -44,6 +47,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0ldshhg",
       "type": "mcq",
       "importance": 2,
       "question": "Scavenger'ın aşırı negatif basıncı hangi komplikasyona yol açabilir?",
@@ -58,6 +62,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0ufbbo8",
       "type": "mcq",
       "importance": 2,
       "question": "Gazdaki oksijen oranını doğrudan doğrulayan cihaz hangisidir?",
@@ -72,6 +77,7 @@
       "source": "AmSECT 2017"
     },
     {
+      "id": "PER141-0hhi27u",
       "type": "tf",
       "importance": 2,
       "statement": "Silikon membran mikroporöz bir PP membranıdır.",
@@ -80,6 +86,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1iwzen9",
       "type": "tf",
       "importance": 2,
       "statement": "PP ve PMP oksijenatörlerde yoğuşma işlevi azaltabilir.",
@@ -88,6 +95,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-17vdv1l",
       "type": "tf",
       "importance": 2,
       "statement": "Radyal ve aksiyal akımlı oksijenatörler için mortalite üstünlüğü gösterilmiştir.",

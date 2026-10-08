@@ -2,6 +2,7 @@
   "topic": "Minimal invaziv cerrahide KPB ve MiECC",
   "cards": [
     {
+      "id": "PER207-0tut9et",
       "type": "term",
       "importance": 2,
       "term": "Minimal invaziv kalp cerrahisi",
@@ -10,6 +11,7 @@
       "source": "Modi, retrograd perfüzyon 2013"
     },
     {
+      "id": "PER207-1b1sttq",
       "type": "term",
       "importance": 3,
       "term": "VAVD",
@@ -18,6 +20,7 @@
       "source": "Endoaortik balon serisi 2021"
     },
     {
+      "id": "PER207-17qkduf",
       "type": "term",
       "importance": 2,
       "term": "Retrograd arteriyel perfüzyon",
@@ -26,6 +29,7 @@
       "source": "Modi, retrograd perfüzyon 2013"
     },
     {
+      "id": "PER207-0g6gsji",
       "type": "term",
       "importance": 3,
       "term": "Endoaortik balon oklüzyonu",
@@ -34,6 +38,7 @@
       "source": "Endoaortik balon serisi 2021"
     },
     {
+      "id": "PER207-0a9wkie",
       "type": "term",
       "importance": 1,
       "term": "Transtorasik aort klempi",
@@ -42,6 +47,7 @@
       "source": "Endoaortik balon serisi 2021"
     },
     {
+      "id": "PER207-1x9srbo",
       "type": "term",
       "importance": 3,
       "term": "MiECC",
@@ -50,6 +56,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-1i0ylum",
       "type": "term",
       "importance": 2,
       "term": "Venöz kabarcık tuzağı",
@@ -58,6 +65,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-033zyea",
       "type": "compare",
       "importance": 2,
       "title": "Aortun tıkanma yöntemi",

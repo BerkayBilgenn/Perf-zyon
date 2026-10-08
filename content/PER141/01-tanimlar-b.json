@@ -2,6 +2,7 @@
   "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
   "cards": [
     {
+      "id": "PER141-1ryxnsk",
       "type": "fact",
       "importance": 3,
       "title": "KPB'nin cerrahiye katkısı",
@@ -9,6 +10,7 @@
       "source": "Basics of CPB 2017"
     },
     {
+      "id": "PER141-17q9z78",
       "type": "fact",
       "importance": 3,
       "title": "Operasyonel sorumluluk",
@@ -16,6 +18,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-1p37gqm",
       "type": "fact",
       "importance": 2,
       "title": "Tekniklerin kapsamı",
@@ -23,6 +26,7 @@
       "source": "National Heart Center 2026"
     },
     {
+      "id": "PER141-1mt722y",
       "type": "fact",
       "importance": 2,
       "title": "Mesleki yeterlilik",
@@ -30,6 +34,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0vqboto",
       "type": "fact",
       "importance": 2,
       "title": "Simülasyonun amacı",
@@ -37,6 +42,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-0f9zn34",
       "type": "flip",
       "importance": 3,
       "question": "Arteriyel pompa akımı azalırken venöz drenaj aynı kalırsa hangi tehlike doğar?",
@@ -44,6 +50,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-1tlrvcx",
       "type": "flip",
       "importance": 3,
       "question": "Venöz dönüş azalınca arteriyel pompa akımı neden azaltılır?",
@@ -51,6 +58,7 @@
       "source": "Konjenital cerrahi derlemesi 2020"
     },
     {
+      "id": "PER141-1y91bde",
       "type": "flip",
       "importance": 2,
       "question": "Perfüzyonda olay raporlamasının eğitim açısından amacı nedir?",
@@ -58,6 +66,7 @@
       "source": "EACTS/EACTAIC/EBCP 2024"
     },
     {
+      "id": "PER141-00fqx1g",
       "type": "remember",
       "importance": 3,
       "title": "Dolaşımın iki yönünü birlikte yönet",

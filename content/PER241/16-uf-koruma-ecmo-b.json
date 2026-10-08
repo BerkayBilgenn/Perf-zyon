@@ -2,6 +2,7 @@
   "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
   "cards": [
     {
+      "id": "PER241-0jo1r5n",
       "type": "fact",
       "importance": 2,
       "source": "Draaisma 2009",
@@ -9,6 +10,7 @@
       "body": "KPB sonundaki hasta ve devre kanını konsantre ederek **hemodilüsyonu donör kan olmadan azaltmayı** hedefler."
     },
     {
+      "id": "PER241-0aa3nt0",
       "type": "fact",
       "importance": 2,
       "source": "Milovanovic ve ark. 2018",
@@ -16,6 +18,7 @@
       "body": "Milovanovic ve ark. çalışmasında agresif CUF sonrasında MUF'un **ek klinik yararı gösterilememiştir**; her uygulamada aynı faydayı varsayma."
     },
     {
+      "id": "PER241-0p1fkg3",
       "type": "fact",
       "importance": 2,
       "source": "Milovanovic ve ark. 2018",
@@ -23,6 +26,7 @@
       "body": "Çalışmanın atriyoventriküler yönteminde kan **aort kanülünden hemofiltreye**, ardından sağ atriyumdaki venöz kanüle yönlendirilir; devre düzeni kurumsaldır."
     },
     {
+      "id": "PER241-1lhlwcw",
       "type": "remember",
       "importance": 3,
       "source": "Matte ve del Nido 2012",
@@ -30,6 +34,7 @@
       "body": "**Matte ve del Nido 2012**: kan:kristaloid oranı 1:4'tür; kristaloid ağırlıklı karışımı klasik kan kardiyoplejisiyle karıştırma."
     },
     {
+      "id": "PER241-1emi3pe",
       "type": "fact",
       "importance": 2,
       "source": "Matte ve del Nido 2012",
@@ -37,6 +42,7 @@
       "body": "Boston protokolünde genellikle **20 mL/kg tek doz** kullanılır; 50 kg üzerindeki hastada başlangıç arrest dozu en çok 1 L ile sınırlandırılır."
     },
     {
+      "id": "PER241-1k1xfan",
       "type": "flip",
       "importance": 2,
       "source": "Matte ve del Nido 2012",
@@ -44,6 +50,7 @@
       "answer": "**Sodyum kanalını bloke ederek** refrakter dönemi uzatır; sodyum ve kalsiyum birikimini sınırlamaya katkıda bulunur."
     },
     {
+      "id": "PER241-07hroi5",
       "type": "fact",
       "importance": 2,
       "source": "Matte ve del Nido 2012",
@@ -51,6 +58,7 @@
       "body": "del Nido formülündeki mannitol **serbest radikal temizleme ve hücre şişmesini azaltma** amaçlarına katkıda bulunur."
     },
     {
+      "id": "PER241-0x9j9by",
       "type": "fact",
       "importance": 2,
       "source": "Matte ve del Nido 2012",
@@ -58,6 +66,7 @@
       "body": "Kardiyoplejide bikarbonat **hidrojen iyonlarını tamponlayarak** hücre içi pH'nın korunmasına katkıda bulunur."
     },
     {
+      "id": "PER241-1o6pj1c",
       "type": "flip",
       "importance": 2,
       "source": "Ghiragosian ve ark. 2022",
@@ -65,6 +74,7 @@
       "answer": "**Histidin**, histidin-triptofan-ketoglutarat solüsyonunun temel tamponudur."
     },
     {
+      "id": "PER241-15sh0e5",
       "type": "remember",
       "importance": 3,
       "source": "Wikipedia",
@@ -72,6 +82,7 @@
       "body": "Heparin etkisini **antitrombin üzerinden** gösterir; doğrudan tek başına trombini nötralize eden bir madde olarak düşünme."
     },
     {
+      "id": "PER241-19z8ab9",
       "type": "flip",
       "importance": 2,
       "source": "Wikipedia",
@@ -79,6 +90,7 @@
       "answer": "**Hipotermi ve hemodilüsyon** ACT sonucunu etkileyebilir; ölçüm yalnız heparin miktarını yansıtmaz."
     },
     {
+      "id": "PER241-1vr6n2r",
       "type": "fact",
       "importance": 2,
       "source": "Wikipedia",
@@ -86,6 +98,7 @@
       "body": "Santral venoarteriyel ECMO'da örnek kanülasyon, **sağ atriyumdan drenaj ve çıkan aortaya dönüş** şeklindedir."
     },
     {
+      "id": "PER241-16bh0p3",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",
@@ -93,6 +106,7 @@
       "body": "Merck PPHN bölümünde inhale nitrik oksidin başlangıç dozu **20 ppm** olarak verilir; etkiye göre azaltılır."
     },
     {
+      "id": "PER241-1aoyobd",
       "type": "fact",
       "importance": 2,
       "source": "Merck Manual",

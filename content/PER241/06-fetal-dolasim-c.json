@@ -2,6 +2,7 @@
   "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
   "cards": [
     {
+      "id": "PER241-171zgyx",
       "type": "mcq",
       "importance": 3,
       "source": "LITFL fetal dolaşım",
@@ -16,6 +17,7 @@
       "explanation": "Östaki valvi inferior vena kava ağzında fetal akımı yönlendirir."
     },
     {
+      "id": "PER241-0zz6xg9",
       "type": "mcq",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -30,6 +32,7 @@
       "explanation": "Duktus arteriyozus, yüksek dirençli fetal akciğer yatağını atlayan bağlantıdır."
     },
     {
+      "id": "PER241-1i8j2sw",
       "type": "mcq",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -44,6 +47,7 @@
       "explanation": "Karaciğerin yuvarlak bağı umbilikal venin kalıntısıdır."
     },
     {
+      "id": "PER241-0zpvuzh",
       "type": "mcq",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -58,6 +62,7 @@
       "explanation": "Duktus venozus kapandıktan sonra ligamentum venozum kalır."
     },
     {
+      "id": "PER241-18of54r",
       "type": "mcq",
       "importance": 3,
       "source": "Merck Manual",
@@ -72,6 +77,7 @@
       "explanation": "İnhale nitrik oksit pulmoner vasküler direnci azaltmak için kullanılır."
     },
     {
+      "id": "PER241-085kbk2",
       "type": "tf",
       "importance": 3,
       "source": "OpenStax A&P 2e",
@@ -80,6 +86,7 @@
       "explanation": "Kanal kanı inferior vena kavaya yönlendirir."
     },
     {
+      "id": "PER241-0goxjt0",
       "type": "tf",
       "importance": 3,
       "source": "LITFL doğum fizyolojisi",

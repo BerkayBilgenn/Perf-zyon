@@ -2,6 +2,7 @@
   "topic": "ECMO komplikasyonları ve LV venting",
   "cards": [
     {
+      "id": "PER207-11t5az7",
       "type": "fact",
       "importance": 2,
       "title": "Kanama ve tromboz aynı hastada",
@@ -9,6 +10,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0epkdqw",
       "type": "fact",
       "importance": 2,
       "title": "Femoral dönüşün ekstremite etkisi",
@@ -16,6 +18,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-024jiyz",
       "type": "fact",
       "importance": 2,
       "title": "Hemolizin biyolojik etkisi",
@@ -23,6 +26,7 @@
       "source": "ELSO Antikoagülasyon 2021"
     },
     {
+      "id": "PER207-0he7dcu",
       "type": "fact",
       "importance": 2,
       "title": "Drenaj kollapsı ve yüksek devir",
@@ -30,6 +34,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-08genqi",
       "type": "fact",
       "importance": 2,
       "title": "Aort kapağı ve staz",
@@ -37,6 +42,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0z8b2ad",
       "type": "fact",
       "importance": 2,
       "title": "Pulmoner ödem ve LV boşalması",
@@ -44,6 +50,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0bjc80v",
       "type": "flip",
       "importance": 3,
       "question": "Sol ventrikülde spontan eko kontrast görülmesi hangi mekanizmayı düşündürür?",
@@ -51,6 +58,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-0maplzi",
       "type": "flip",
       "importance": 3,
       "question": "Atriyal septostomi sol kalp basıncını nasıl azaltabilir?",
@@ -58,6 +66,7 @@
       "source": "ELSO VA 2021"
     },
     {
+      "id": "PER207-1lv6wg5",
       "type": "flip",
       "importance": 3,
       "question": "Drenaj hattı titremesine neden yalnız sıvı eksikliği denmez?",
@@ -65,6 +74,7 @@
       "source": "ELSO VV 2021"
     },
     {
+      "id": "PER207-1qade8t",
       "type": "remember",
       "importance": 3,
       "title": "Kazara dekanülasyon acildir",
@@ -72,6 +82,7 @@
       "source": "ELSO Genel 2017"
     },
     {
+      "id": "PER207-1xldkxg",
       "type": "remember",
       "importance": 3,
       "title": "Kapalı aort kapağını izle",

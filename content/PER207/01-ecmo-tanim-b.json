@@ -2,6 +2,7 @@
   "topic": "ECMO: tanım, tarihçe ve ELSO",
   "cards": [
     {
+      "id": "PER207-0hpgytp",
       "type": "fact",
       "importance": 2,
       "title": "İlk başarılı uzun süreli erişkin ECMO",
@@ -9,6 +10,7 @@
       "source": "NEJM 1972 (Hill)"
     },
     {
+      "id": "PER207-1bdgqk4",
       "type": "fact",
       "importance": 1,
       "title": "Bartlett'in 1985 yenidoğan çalışması",
@@ -16,6 +18,7 @@
       "source": "Pediatrics 1985 (Bartlett)"
     },
     {
+      "id": "PER207-109oygn",
       "type": "fact",
       "importance": 2,
       "title": "ELSO kılavuzları ve kayıt sistemi",
@@ -23,6 +26,7 @@
       "source": "ELSO 2017; ELSO VA 2021"
     },
     {
+      "id": "PER207-1xi8duq",
       "type": "fact",
       "importance": 1,
       "title": "2009: erişkin ECMO'nun yeniden yükselişi",
@@ -30,6 +34,7 @@
       "source": "ECMO tarihçesi derlemesi, PMC"
     },
     {
+      "id": "PER207-1k2whhh",
       "type": "fact",
       "importance": 1,
       "title": "KPB'nin ilk başarılı kullanımı",
@@ -37,6 +42,7 @@
       "source": "ECMO tarihçesi derlemesi, PMC"
     },
     {
+      "id": "PER207-05vw3pu",
       "type": "mcq",
       "importance": 3,
       "question": "1971'de politravma sonrası ARDS gelişen bir hastayı VA ECMO ile 75 saat destekleyerek ilk başarılı uzun süreli erişkin ECMO olgusunu bildiren ekip hangisidir?",
@@ -51,6 +57,7 @@
       "source": "NEJM 1972 (Hill)"
     },
     {
+      "id": "PER207-0gl15jo",
       "type": "mcq",
       "importance": 2,
       "question": "1975'te Bartlett'in VA ECMO ile desteklediği ve hemşirelerin \"Esperanza\" adını verdiği yenidoğanın tanısı neydi?",
@@ -65,6 +72,7 @@
       "source": "Neonatology on the Web"
     },
     {
+      "id": "PER207-0hi8cyj",
       "type": "tf",
       "importance": 2,
       "statement": "ELSO (Extracorporeal Life Support Organization), 1989'da Michigan'da Bartlett ve arkadaşlarınca kuruldu.",
@@ -73,6 +81,7 @@
       "source": "ECMO tarihçesi derlemesi, PMC"
     },
     {
+      "id": "PER207-17s8nqf",
       "type": "tf",
       "importance": 2,
       "statement": "1979'da yayımlanan Zapol çalışması, erişkin akut solunum yetmezliğinde VA ECMO'nun sağkalımı belirgin biçimde artırdığını gösterdi.",
@@ -81,6 +90,7 @@
       "source": "Cochrane derlemesi"
     },
     {
+      "id": "PER207-0y41lbd",
       "type": "flip",
       "importance": 3,
       "question": "ECLS (ekstrakorporeal yaşam desteği) ile ECMO arasındaki ilişki nedir? Cerrahi amaçlı KPB bu tanıma girer mi?",

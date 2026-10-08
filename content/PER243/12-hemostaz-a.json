@@ -2,6 +2,7 @@
   "topic": "Hemostaz ve pıhtılaşma testleri",
   "cards": [
     {
+      "id": "PER243-0yp5i92",
       "type": "term",
       "importance": 3,
       "term": "Hemostaz",
@@ -10,6 +11,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1g7k15t",
       "type": "term",
       "importance": 3,
       "term": "Primer hemostaz",
@@ -18,6 +20,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-12bwyfd",
       "type": "term",
       "importance": 3,
       "term": "Sekonder hemostaz",
@@ -26,6 +29,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-017juok",
       "type": "term",
       "importance": 2,
       "term": "Trombosit",
@@ -34,6 +38,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1jrhb8q",
       "type": "term",
       "importance": 1,
       "term": "von Willebrand faktörü",
@@ -42,6 +47,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1fnudqf",
       "type": "term",
       "importance": 1,
       "term": "GP IIb/IIIa",
@@ -50,6 +56,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0b2azsq",
       "type": "term",
       "importance": 3,
       "term": "Doku faktörü",
@@ -58,6 +65,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1o75sno",
       "type": "term",
       "importance": 3,
       "term": "Ekstrinsik yol",
@@ -66,6 +74,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-06pirjo",
       "type": "term",
       "importance": 3,
       "term": "İntrinsik yol",
@@ -74,6 +83,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0y87zws",
       "type": "term",
       "importance": 2,
       "term": "Ortak yol",
@@ -82,6 +92,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0k0sw67",
       "type": "term",
       "importance": 2,
       "term": "Hücre temelli pıhtılaşma modeli",
@@ -90,6 +101,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1ythmh8",
       "type": "term",
       "importance": 3,
       "term": "Trombin",
@@ -98,6 +110,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1skulz1",
       "type": "term",
       "importance": 3,
       "term": "Fibrinojen",
@@ -106,6 +119,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1k3p3ko",
       "type": "term",
       "importance": 2,
       "term": "Faktör XIII",
@@ -114,6 +128,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1lctts8",
       "type": "term",
       "importance": 1,
       "term": "Labil faktörler",
@@ -122,6 +137,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-07c6hx0",
       "type": "term",
       "importance": 1,
       "term": "K vitaminine bağımlı faktörler",
@@ -130,6 +146,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0sm8wre",
       "type": "term",
       "importance": 3,
       "term": "Protein C / Protein S",
@@ -138,6 +155,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1h5awf4",
       "type": "term",
       "importance": 3,
       "term": "TFPI",
@@ -146,6 +164,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1nwlf7b",
       "type": "term",
       "importance": 2,
       "term": "Fibrinoliz",
@@ -154,6 +173,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0r5qn6z",
       "type": "term",
       "importance": 2,
       "term": "PAI-1",
@@ -162,6 +182,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-1nnjhl3",
       "type": "term",
       "importance": 2,
       "term": "D-dimer",
@@ -170,6 +191,7 @@
       "source": "Indian J Anaesth 2014: hemostaz"
     },
     {
+      "id": "PER243-0l5kpcf",
       "type": "term",
       "importance": 3,
       "term": "PT / INR",
@@ -178,6 +200,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-1a890hk",
       "type": "term",
       "importance": 3,
       "term": "aPTT",
@@ -186,6 +209,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-0b8yhjd",
       "type": "term",
       "importance": 3,
       "term": "TEG / ROTEM",
@@ -194,6 +218,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-0iyr0xg",
       "type": "term",
       "importance": 1,
       "term": "MA / MCF",
@@ -202,6 +227,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-1c2rizk",
       "type": "term",
       "importance": 3,
       "term": "FIBTEM",
@@ -210,6 +236,7 @@
       "source": "Asian J Transfus Sci 2025: ROTEM"
     },
     {
+      "id": "PER243-0y3aj1g",
       "type": "term",
       "importance": 3,
       "term": "HEPTEM",
@@ -218,6 +245,7 @@
       "source": "Asian J Transfus Sci 2025: ROTEM"
     },
     {
+      "id": "PER243-0j8xbgl",
       "type": "compare",
       "importance": 2,
       "title": "Antikoagülasyon izlem testleri",
@@ -238,6 +266,7 @@
       "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
     },
     {
+      "id": "PER243-11e237e",
       "type": "compare",
       "importance": 2,
       "title": "Pıhtılaşma yolları",

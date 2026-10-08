@@ -2,6 +2,7 @@
   "topic": "Minimal invaziv cerrahide KPB ve MiECC",
   "cards": [
     {
+      "id": "PER207-1foyg76",
       "type": "fact",
       "importance": 2,
       "title": "MiECC’de hava yönetimi zorunludur",
@@ -9,6 +10,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-1ij42yy",
       "type": "fact",
       "importance": 2,
       "title": "MiECC’nin Tip III hacim yönetimi",
@@ -16,6 +18,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-0ses3yy",
       "type": "fact",
       "importance": 2,
       "title": "MiECC’nin Tip IV modülerliği",
@@ -23,6 +26,7 @@
       "source": "MiECTiS Uzlaşısı 2016"
     },
     {
+      "id": "PER207-1fr55sp",
       "type": "fact",
       "importance": 2,
       "title": "Retrograd perfüzyonda damar taraması",
@@ -30,6 +34,7 @@
       "source": "Modi, retrograd perfüzyon 2013"
     },
     {
+      "id": "PER207-06h45e9",
       "type": "flip",
       "importance": 2,
       "question": "VAVD’de aşırı negatif basınç hangi sorunları artırabilir?",
@@ -37,6 +42,7 @@
       "source": "VAVD kaynakları"
     },
     {
+      "id": "PER207-0ez1lgq",
       "type": "flip",
       "importance": 2,
       "question": "Endoaortik balon innominat artere doğru kayarsa hangi izlem değişiklikleri beklenir?",
@@ -44,6 +50,7 @@
       "source": "Endoaortik balon serisi 2021"
     },
     {
+      "id": "PER207-15uwkoh",
       "type": "remember",
       "importance": 3,
       "title": "MiECC ekip yaklaşımıdır",
