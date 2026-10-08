@@ -1,6 +1,7 @@
 // Kaydırmalı akış: her slayt bir kart. Görünen slaytı izler, önden kart ekler, uzaktaki kartları boşaltır
 // (DOM'da en fazla ~25 dolu kart), 2 saniye kuralını ve tamamlanmayı yönetir.
 import { completesByDwell, createRecord, markCompleted } from './cardstate.js';
+import { POINTS } from './progress.js';
 import { renderCard } from './render.js';
 
 export const DWELL_MS = 2000;
@@ -13,18 +14,19 @@ export function createViewer({ root, feed, handlers, onActive, onComplete, dwell
   let active = -1;
   let timer = 0;
 
-  function complete(record) {
-    if (markCompleted(record)) onComplete?.(record);
+  // Puan: okunan kart +1, doğru cevap +2, yanlış cevap −1. Akıştaki bir kart yalnızca bir kez puan verir.
+  function complete(record, points = POINTS.view) {
+    if (markCompleted(record)) onComplete?.(record, points);
   }
 
   const wrapped = {
     ...handlers,
     onReveal(record) {
-      complete(record);
+      complete(record, POINTS.view);
       handlers.onReveal?.(record);
     },
     onAnswer(record, isCorrect) {
-      complete(record);
+      complete(record, isCorrect ? POINTS.correct : POINTS.wrong);
       handlers.onAnswer?.(record, isCorrect, records.length - 1 - records.indexOf(record));
     },
   };

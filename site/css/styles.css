@@ -179,7 +179,7 @@ button { font: inherit; color: inherit; }
 }
 .chip__label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .chip svg { width: 18px; height: 18px; flex: none; }
-.latte { flex: 1; min-width: 0; display: flex; align-items: center; gap: 6px; }
+.latte { position: relative; flex: 1; min-width: 0; display: flex; align-items: center; gap: 6px; }
 .latte__cup { width: 30px; height: 33px; flex: none; overflow: visible; }
 .latte__level { transform: translateY(29px); transition: transform 0.45s cubic-bezier(0.2, 0.9, 0.3, 1.2); }
 .latte__track {
@@ -209,6 +209,24 @@ button { font: inherit; color: inherit; }
   font-variant-numeric: tabular-nums;
 }
 .latte.is-bump .latte__cup { animation: bump 0.5s ease; }
+.latte__delta {
+  position: absolute;
+  right: 2px;
+  top: -16px;
+  font-size: 15px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: var(--good);
+  opacity: 0;
+  pointer-events: none;
+}
+.latte__delta.is-minus { color: var(--bad); }
+.latte__delta.is-show { animation: delta-up 1.1s ease forwards; }
+@keyframes delta-up {
+  0% { opacity: 0; transform: translateY(6px) scale(0.8); }
+  20% { opacity: 1; transform: translateY(0) scale(1.15); }
+  100% { opacity: 0; transform: translateY(-12px); }
+}
 @keyframes bump { 40% { transform: scale(1.18) rotate(-6deg); } }
 
 /* Akış */
@@ -509,6 +527,7 @@ button { font: inherit; color: inherit; }
 .sheet__section { display: grid; gap: 10px; margin-top: 16px; padding-top: 16px; border-top: 2px dashed var(--line); }
 .sheet__sub { margin: 0; font-size: 15px; font-weight: 800; }
 .sheet__note { margin: 0; font-size: 14px; color: var(--ink-2); }
+.rules { margin-top: 10px; padding: 10px 12px; border-radius: 14px; background: var(--accent-soft); color: var(--accent-ink); }
 .stats { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
 .stat { padding: 12px; border: 2px solid var(--line); border-radius: 18px; background: var(--surface-2); }
 .stat__n { display: block; font-family: var(--font-display); font-weight: 800; font-size: 26px; line-height: 1.1; font-variant-numeric: tabular-nums; color: var(--accent-ink); }

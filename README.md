@@ -16,6 +16,10 @@ npm run build:data  # content/ → site/data/
 npm run serve       # http://localhost:5173
 ```
 
+## Kart yazımı
+
+Kartların nasıl yazılacağı, hedef sayılar (ders başına ~500, toplam 3.000+), doğrulama turu ve güncel durum: **[docs/KART-YAZIM-SPEC.md](docs/KART-YAZIM-SPEC.md)**
+
 ## Durum
 
-Site çalışıyor; kartların yazımı ve kaynaklarla doğrulanması sürüyor.
+Site kodu tamam ve test edildi. Altı dersin kaynaklı araştırma dosyaları hazır; kart yazımı sürüyor (ayrıntı spec §13'te).

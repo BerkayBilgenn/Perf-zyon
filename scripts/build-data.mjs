@@ -61,7 +61,7 @@ export function computeStats(cards) {
   return { total: cards.length, byType, byImportance, topics: [...topics].map(([name, count]) => ({ name, count })) };
 }
 
-export function distributionWarnings(stats, minTotal = 300) {
+export function distributionWarnings(stats, minTotal = 450) {
   const warnings = [];
   if (stats.total < minTotal) warnings.push(`toplam ${stats.total} kart (en az ${minTotal} olmalı)`);
   if (!stats.total) return warnings;

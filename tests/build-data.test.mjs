@@ -72,3 +72,9 @@ test('main çıktı dosyası yazar ve hata varsa 1 döner', async () => {
   const written = JSON.parse(await readFile(path.join(out, 'PER245.json'), 'utf8'));
   assert.equal(written.length, 1);
 });
+
+test('varsayılan alt sınır ders başına 450 kart', () => {
+  const make = (n) => computeStats(Array.from({ length: n }, (_, i) => ({ type: 'fact', importance: 1, topic: `T${i}` })));
+  assert.ok(distributionWarnings(make(449)).some((w) => w.startsWith('toplam 449 kart (en az 450')));
+  assert.ok(!distributionWarnings(make(450)).some((w) => w.startsWith('toplam')));
+});

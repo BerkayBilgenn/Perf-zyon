@@ -76,11 +76,11 @@ function onActive(record) {
   persistSeen();
 }
 
-function onComplete() {
-  const result = completeCard(progress);
+function onComplete(record, points) {
+  const result = completeCard(progress, { points });
   progress = result.state;
   saveProgress();
-  ui.setProgress(progress, { bump: true });
+  ui.setProgress(progress, { bump: true, delta: points });
   if (result.earnedLatte) ui.celebrate(progress.lattes);
 }
 
@@ -198,6 +198,7 @@ async function load() {
   startFeed();
   if (!store.get('hintSeen', false)) {
     ui.showHint();
+    ui.toast('Her kart +1, doğru cevap +2, yanlış −1 puan. 50 puanda bir Gofrikli latte! ☕');
     store.set('hintSeen', true);
   }
 }

@@ -9,7 +9,7 @@ const make = (tag, className, text) => Object.assign(document.createElement(tag)
 
 export function createUI() {
   const els = {
-    feed: $('#feed'), latte: $('#latte'), bar: $('#latte-bar'), level: $('#latte-level'), count: $('#latte-count'), won: $('#latte-won-n'),
+    feed: $('#feed'), latte: $('#latte'), bar: $('#latte-bar'), level: $('#latte-level'), count: $('#latte-count'), won: $('#latte-won-n'), delta: $('#latte-delta'),
     filterBtn: $('#filter-btn'), filterLabel: $('#filter-label'), filterSheet: $('#filter-sheet'), filterList: $('#filter-list'),
     menuBtn: $('#menu-btn'), menuSheet: $('#menu-sheet'), stats: $('#stats'),
     flagsNote: $('#flags-note'), flagsList: $('#flags-list'), flagsText: $('#flags-text'), copyFlags: $('#copy-flags'), reset: $('#reset-btn'),
@@ -46,18 +46,25 @@ export function createUI() {
   return {
     feedEl: els.feed,
 
-    setProgress(p, { bump = false } = {}) {
+    setProgress(p, { bump = false, delta = 0 } = {}) {
       const ratio = p.filled / GOAL;
       els.bar.style.width = `${ratio * 100}%`;
       els.level.style.transform = `translateY(${(29 * (1 - ratio)).toFixed(2)}px)`;
       els.count.textContent = `${p.filled}/${GOAL}`;
       els.won.textContent = fmt(p.lattes);
       els.latte.setAttribute('aria-valuenow', String(p.filled));
-      els.latte.setAttribute('aria-valuetext', `${GOAL} karttan ${p.filled} tanesi tamamlandı`);
+      els.latte.setAttribute('aria-valuetext', `${GOAL} puandan ${p.filled} puan toplandı`);
       if (bump) {
         els.latte.classList.remove('is-bump');
         void els.latte.offsetWidth;
         els.latte.classList.add('is-bump');
+      }
+      if (delta) {
+        els.delta.textContent = delta > 0 ? `+${delta}` : `−${Math.abs(delta)}`;
+        els.delta.classList.toggle('is-minus', delta < 0);
+        els.delta.classList.remove('is-show');
+        void els.delta.offsetWidth;
+        els.delta.classList.add('is-show');
       }
     },
 
@@ -94,7 +101,7 @@ export function createUI() {
       els.stats.replaceChildren(
         stat(fmt(progress.doneToday), 'bugün tamamlanan kart'),
         stat(`${fmt(progress.lattes)} ☕`, 'kazanılan latte'),
-        stat(fmt(progress.totalDone), 'toplam kart'),
+        stat(fmt(progress.points), 'toplam puan'),
         stat(`${fmt(progress.correct)} / ${fmt(progress.wrong)}`, 'doğru / yanlış'),
       );
       const choices = [...els.menuSheet.querySelectorAll('[data-theme-choice]')];

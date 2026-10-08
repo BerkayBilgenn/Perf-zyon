@@ -69,7 +69,7 @@
       <span class="chip__label" id="filter-label">Tümü</span>
       <svg aria-hidden="true"><use href="#i-chevron"/></svg>
     </button>
-    <div class="latte" id="latte" role="progressbar" aria-label="Gofrikli latte barı" aria-valuemin="0" aria-valuemax="50" aria-valuenow="0" aria-valuetext="50 karttan 0 tanesi tamamlandı">
+    <div class="latte" id="latte" role="progressbar" aria-label="Gofrikli latte barı" aria-valuemin="0" aria-valuemax="50" aria-valuenow="0" aria-valuetext="50 puandan 0 puan toplandı">
       <svg class="latte__cup" viewBox="0 0 40 44" aria-hidden="true">
         <defs><clipPath id="cup-clip"><path d="M6 13h24l-2.4 25.2a4 4 0 0 1-4 3.6H12.4a4 4 0 0 1-4-3.6z"/></clipPath></defs>
         <g transform="rotate(16 27 10)">
@@ -89,6 +89,7 @@
       </svg>
       <div class="latte__track"><div class="latte__bar" id="latte-bar"></div></div>
       <span class="latte__count" id="latte-count">0/50</span>
+      <span class="latte__delta" id="latte-delta" aria-hidden="true"></span>
     </div>
     <span class="latte__won" title="Kazanılan latte">☕ <b id="latte-won-n">0</b></span>
   </div>
@@ -130,6 +131,7 @@
     <button class="icon-btn" type="button" data-close aria-label="Kapat"><svg aria-hidden="true"><use href="#i-close"/></svg></button>
   </div>
   <div class="stats" id="stats"></div>
+  <p class="sheet__note rules">Puanlar: okunan her kart <b>+1</b> · doğru cevap <b>+2</b> · yanlış cevap <b>−1</b>. 50 puanda bir Gofrikli latte ☕</p>
   <section class="sheet__section">
     <h3 class="sheet__sub">Görünüm</h3>
     <div class="segmented" role="radiogroup" aria-label="Görünüm">
@@ -154,7 +156,7 @@
   <div class="confetti" id="confetti" aria-hidden="true"></div>
   <div class="celebrate__card">
     <svg class="celebrate__unicorn" aria-hidden="true"><use href="#i-unicorn"/></svg>
-    <p class="celebrate__kicker">50 kart tamam!</p>
+    <p class="celebrate__kicker">50 puan tamam!</p>
     <h2 class="celebrate__title" id="celebrate-title">Gofrikli latteyi kazandın! ☕</h2>
     <p class="celebrate__text" id="celebrate-text">Şimdiye kadar 1 latte kazandın.</p>
     <button class="btn" id="celebrate-btn" type="button">Devam et 💖</button>

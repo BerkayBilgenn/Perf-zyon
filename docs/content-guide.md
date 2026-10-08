@@ -1,5 +1,7 @@
 # Kart Yazım ve Doğrulama Rehberi
 
+> Bu belge kısa özettir. Ayrıntılı ve güncel kurallar `docs/KART-YAZIM-SPEC.md` dosyasındadır; çelişki olursa spec geçerlidir.
+
 ## 1. Okuyucu
 İstanbul Gelişim Üniversitesi Perfüzyon (lisans) 2. sınıf öğrencisi. Kartlar sınav hazırlığı içindir ve telefonda Reels gibi tek tek okunur. Hocalar sınavda sık sık "X terimi ne demektir?" diye soruyor; terim kartları bu yüzden en kalabalık grup. Her kart kendi başına anlaşılır ve tek bir fikir taşır.
 
@@ -13,7 +15,7 @@
 7. `source` alanı: sayı, doz, eşik, sınıflama ya da kılavuz önerisi içeren her kartta kısa kaynak adı yazılır (örn. "EACTS/EACTA/EBCP 2024", "ELSO 2021", "CDC 2008", "WHO 2016", "StatPearls", "Gravlee"). En fazla 80 karakter, URL yok.
 
 ## 3. Biçim
-Dosya: `content/<DERS>/NN-konu-slug-a.json` (terim ve karşılaştırma yazarı) veya `…-b.json` (diğer türlerin yazarı). `NN` ve slug sana verilen konu listesinden alınır.
+Dosya: `content/<DERS>/NN-konu-slug-<harf>.json` — `a`: terim ve karşılaştırma, `b`: hap bilgi, soru, bunu unutma, `c`: test ve doğru/yanlış. `NN` ve slug sana verilen konu listesinden alınır.
 
 ```json
 {
@@ -79,16 +81,16 @@ Dosya: `content/<DERS>/NN-konu-slug-a.json` (terim ve karşılaştırma yazarı)
 - Sık karıştırılan iki kavram (araştırma dosyasındaki "Sık karıştırılan kavramlar" bölümü).
 - İki taraftaki maddeler aynı sırada aynı özelliği karşılaştırır (1. madde mekanizma, 2. madde kullanım alanı …).
 
-## 6. Kapsam ve dağılım (ders başına ~350 kart)
+## 6. Kapsam ve dağılım (ders başına ~500 kart, en az 450)
 | tür | hedef |
 |---|---|
-| term | ~140 |
-| fact | ~63 |
-| mcq | ~52 |
-| flip | ~35 |
-| tf | ~28 |
-| remember | ~18 |
-| compare | ~14 |
+| term | ~200 |
+| fact | ~90 |
+| mcq | ~75 |
+| flip | ~50 |
+| tf | ~40 |
+| remember | ~25 |
+| compare | ~20 |
 
 - Araştırma dosyasındaki her konu kapsanır; konu başına kart sayısı konunun ağırlığıyla orantılıdır.
 - "Kritik / sınavda çıkabilecek bilgiler" listesindeki her madde en az bir kartta yer alır (tercihen bir bilgi ve bir soru kartında).

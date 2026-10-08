@@ -42,7 +42,7 @@ Ders programının ekran görüntüsü 10:00'dan başlıyor. Daha erken saatte d
 
 Terim kartlarının yarısı açık gösterilir (terim ve anlamı birlikte). Diğer yarısı "Bu terim ne demek?" şeklinde gelir; anlam dokununca açılır, böylece öğrenci önce kendisi hatırlamaya çalışır.
 
-**Hedef dağılım** (her ders için yaklaşık 350 kart): terim %40, hap bilgi %18, test %15, soru %10, doğru/yanlış %8, bunu unutma %5, karıştırma %4.
+**Hedef dağılım** (her ders için yaklaşık 500 kart; 2026-10-08'de kullanıcı isteğiyle 350'den yükseltildi): terim %40, hap bilgi %18, test %15, soru %10, doğru/yanlış %8, bunu unutma %5, karıştırma %4.
 
 Her kartta ders kodu, ders adı ve konu yazar. Her kartın ayrıca 1-3 arası bir önem derecesi vardır (3 = sınavda çok çıkar ya da hayati).
 
@@ -62,8 +62,9 @@ Her kartta ders kodu, ders adı ve konu yazar. Her kartın ayrıca 1-3 arası bi
 ## 5. Gofrikli latte barı
 
 - Ekranın en üstünde dolan bir latte bardağı simgesi, ilerleme çubuğu, "27/50" gibi bir sayaç ve kazanılan latte sayısı durur.
-- Her tamamlanan kart barı 1 artırır. Akıştaki bir kart yalnızca bir kez sayılır, geri kaydırıp tekrar bakmak saymaz.
-- Bar 50 olunca tam ekran kutlama çıkar: "Gofrikli latteyi kazandın! ☕". Latte sayısı 1 artar, bar sıfırlanır.
+- **Puanlar (2026-10-08 kullanıcı değişikliği):** okunan her kart **+1**, doğru cevap **+2**, yanlış cevap **−1** puan. Akıştaki bir kart yalnızca bir kez puan verir; geri kaydırıp tekrar bakmak saymaz. Bar 0'ın altına inmez.
+- Bar 50 puan olunca tam ekran kutlama çıkar: "Gofrikli latteyi kazandın! ☕". Latte sayısı 1 artar, artan puan yeni bara aktarılır (49 + 2 → latte ve 1 puan).
+- Her puan değişiminde latte barının yanında kısa bir "+1 / +2 / −1" göstergesi belirir. Menüde toplam puan ve puan kuralları yazar.
 - Küçük istatistikler gösterilir: bugün tamamlanan kart sayısı, toplam doğru ve yanlış sayısı.
 - Bütün ilerleme cihazda (localStorage) saklanır. Kayıt yapılamazsa uygulama yine çalışır, yalnızca ilerleme saklanmaz.
 
@@ -135,8 +136,8 @@ Otomatik kontrol `scripts/validate.mjs` dosyasıyla Node üzerinde çalışır.
 
 ## 10. Başarı ölçütleri
 
-- 6 dersin her birinde en az 300, toplamda yaklaşık 2.000 kart var.
+- 6 dersin her birinde en az 450, toplamda yaklaşık 3.000 kart var.
 - Her kart doğrulama turundan geçmiş, otomatik kontrol hatasız.
 - 7 kart türünün hepsi çalışıyor.
-- Latte barı 50'de kutlama yapıyor ve uygulama kapatılıp açılınca ilerleme korunuyor.
+- Latte barı 50 puanda kutlama yapıyor ve uygulama kapatılıp açılınca ilerleme korunuyor.
 - Telefonda kaydırırken takılma olmuyor ve her kartta ders ile konu görünüyor.
